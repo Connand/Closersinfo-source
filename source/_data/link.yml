@@ -1,0 +1,51 @@
+- class_name: 友站鏈接
+  class_desc: 一些跟遊戲相關有用的連結
+  link_list:
+    - name: 封印者巴哈姆特
+      link: https://forum.gamer.com.tw/A.php?bsn=23655
+      avatar: https://www.oneup.com.tw/img/logo.gif
+      descr: 查看一些玩家分享的趣事
+    - name: 台版封印者官網
+      link: https://cls.mangot5.com/cls/index
+      avatar: /img/Blacklambslogo.png
+      descr: 查看官方公告
+    - name: 韓版封印者官網
+      link: https://closers.nexon.com/
+      avatar: /img/Blacklambslogo.png
+      descr: 就是韓版
+    - name: 陸版封印者官網
+      link: https://cls.tiancity.com/
+      avatar: /img/Blacklambslogo.png
+      descr: 就是陸版
+    - name: 日版封印者官網
+      link: https://closers.naddicjapan.com/
+      avatar: /img/Blacklambslogo.png
+      descr: 就是日版
+    - name: 國際版封印者官網
+      link: https://www.closersonline.com/
+      avatar: /img/Blacklambslogo.png
+      descr: 就是國際版
+    - name: Code Closers官網
+      link: https://www.codeclosers.to/
+      avatar: https://www.codeclosers.to/images/logo.png
+      descr: 就是個...私...私...服
+    - name: 讀取框生成器
+      link: https://lagnea.github.io/closers-loading-image-creator/
+      avatar: /img/Blacklambslogo.png
+      descr: 韓國人製作的，可搭配Google翻譯使用
+
+- class_name: 網站
+  class_desc: 預設建立的，懶得改(x)
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 影片網站
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平台
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 本站使用此工具建立

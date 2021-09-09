@@ -1,0 +1,7 @@
+top:
+  - class_name: dungeons-today
+    id_name: dungeons-today
+    name: '今天（台版）開放副本'
+    icon: fas fa-flag-checkered
+    order: 1
+    html: '<div id="schedule"></div>'
