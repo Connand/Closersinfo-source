@@ -7,15 +7,19 @@
 #   name: link || icon
 
 menu:
-   首頁: / || fas fa-home
-   保存: /archives/ || fas fa-archive
-   標籤: /tags/ || fas fa-tags
-   分類: /categories/ || fas fa-folder-open
-   選單||fas fa-list:
-     音樂: /music/ || fas fa-music
-     電影: /movies/ || fas fa-video
-   友站連結: /link/ || fas fa-link
-   關於: /about/ || fas fa-heart
+  首頁: / || fas fa-home
+  # 封存: /archives/ || fas fa-archive
+  標籤: /tags/ || fas fa-tags
+  分類: /categories/ || fas fa-folder-open
+  遊戲攻略/資料: /categories/遊戲資料/ || fas fa-book-open
+  時裝 || fas fa-tshirt:
+    高階時裝: /categories/時裝/高階時裝/ || fas fa-tshirt
+    全角色有立繪: /categories/時裝/有立繪/全角色/ || fas fa-tshirt
+  # 選單||fas fa-list:
+  #   音樂: /music/ || fas fa-music
+  #   電影: /movies/ || fas fa-video
+  友站連結: /link/ || fas fa-link
+  關於: /about/ || fas fa-heart
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
@@ -42,6 +46,8 @@ copy:
 # formal:
 #   icon: link || the description
 social:
+   fab fa-facebook: https://www.facebook.com/Closersinfo || Facebook
+   fab fa-discord: https://discord.gg/ACBYdf5TNd || Discord群組
    fab fa-github: https://github.com/Connand || Github
    fas fa-envelope: mailto:babbab0114@gmail.com || Email
 
@@ -142,7 +148,7 @@ error_404:
 
 post_meta:
   page: # Home Page
-    date_type: created # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
+    date_type: updated # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
     date_format: date # date/relative 顯示日期還是相對日期
     categories: true # true or false 主頁是否顯示分類
     tags: false # true or false 主頁是否顯示標籤
@@ -409,7 +415,7 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2020
+    since: 2019
   custom_text:
   copyright: true # Copyright of theme and framework
 
@@ -568,7 +574,7 @@ ClickShowText:
     # - I
     # - LOVE
     # - YOU
-  fontSize: 15px
+  fontSize: 20px
   random: false
   mobile: false
 
@@ -586,7 +592,7 @@ beautify:
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
 font:
-  global-font-size:
+  global-font-size: 15px
   code-font-size:
   font-family:
   code-font-family:
@@ -646,14 +652,14 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/Connand
   card_announcement:
     enable: true
-    content: 封印者攻略網(Github Pages版)，目前正在測試中，有相關問題歡迎回報。<div class="announcement-button"> <a class="button--animated" href="https://www.facebook.com/Closersinfo" rel="external nofollow noreferrer" target="_blank">FB粉絲專頁</a> <a class="button--animated" href="https://closersinfo.xyz/" rel="external nofollow noreferrer" target="_blank">運行中的正式版</a> <a class="button--animated" href="https://discord.gg/ACBYdf5TNd" rel="external nofollow noreferrer" target="_blank">Discord群組</a></div>
+    content: 開學了，站主要認真上課了(?)，更新頻率應該變很低。網站使用上有相關問題的話歡迎回報。<div class="announcement-button"> <a class="button--animated" href="https://www.facebook.com/Closersinfo" rel="external nofollow noreferrer" target="_blank">FB粉絲專頁</a> <a class="button--animated" href="https://closersinfo.xyz/" rel="external nofollow noreferrer" target="_blank">運行中的正式版</a> <a class="button--animated" href="https://discord.gg/ACBYdf5TNd" rel="external nofollow noreferrer" target="_blank">Discord群組</a></div>
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
-    sort: date # date or updated
+    sort: updated # date or updated
     sort_order: # Don't modify the setting unless you know how it works
   card_categories:
     enable: true
@@ -720,7 +726,7 @@ translate:
   msgToSimplifiedChinese: '簡'
 
 # Read Mode (閲讀模式)
-readmode: false
+readmode: true
 
 # dark mode
 darkmode:
@@ -798,7 +804,7 @@ snackbar:
 
 # https://instant.page/
 # prefetch (預加載)
-instantpage: false
+instantpage: true
 
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之間添加空格)

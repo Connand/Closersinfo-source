@@ -22,7 +22,7 @@ tags:
     - 徹斯
     - 銀河
     - 露西
-category: 時裝
+category: [時裝, 有立繪, 全角色]
 cover: https://i0.wp.com/s.nx.com/s2/game/closers/2015/pds/033/1920x1080.jpg?w=1170
 description: "Half and Half, 台版翻譯為極限滑板"
 ---
@@ -35,6 +35,9 @@ description: "Half and Half, 台版翻譯為極限滑板"
 
 **注意**：李世河、薇歐莉特、白的立繪都有兩個，差別為後方裝飾物
 部位：髮型、上衣、下衣、手套、鞋子、{% label 腰部 green %} 
+
+[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_halfAndhalf_957axn.zip)
 
 ---
 
