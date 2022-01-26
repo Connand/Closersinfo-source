@@ -1,20 +1,45 @@
 ---
-title: 封印者：主題歌曲
+title: 封印者：主題歌曲(0122新增第三季結尾曲)
 date: 2021-10-16 16:40:00
 tags: 資料紀錄
-category: 遊戲資料
-cover: https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=5629543523268168676
+category: [遊戲資料,其他]
+cover: http://img.youtube.com/vi/VSyNr7H7hCM/maxresdefault.jpg
 description: "官方發布的各式主題曲"
 ---
-![](https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=5629543523268168676)
 
 當時從緹娜以後的角色開放時，均有配上專屬主題曲，唯獨前面8角色沒有主題曲。
-直到AMAZING Closers(2020年冬季更新)之前鋪陳的廣播劇中，陸續補上前面8位角色的主題曲，填補前面角色玩家空缺的一塊熱愛的心。
+直到AMAZING Closers(2020年冬季更新)之前鋪陳的廣播劇中，陸續補上前面8位角色的主題曲。
 
 [巴哈上的角色主題曲中文翻譯](https://forum.gamer.com.tw/C.php?bsn=23655&snA=6423)
 之後補上的角色主題曲可以至官方更新公告下面下載(這邊下面也行)
 [李世河~J](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=478&n4ArticleCategorySN=3)
 [米斯特汀~哈比](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=479&n4ArticleCategorySN=3)
+
+# 快速點播
+~~排版還很醜，之後處理~~
+### 黑羊小隊
+| 李世河 | 李雪菲 | 徐維莉 |  J  | 米斯特汀 |
+| :--------: | :--------: | :--------: | :--------: | :--------: |
+| {% btn 'https://youtu.be/MTwZ-QME26U',My World,fas fa-music,outline blue %} | {% btn 'https://youtu.be/OLjANcDyFeQ',Once Again,fas fa-music,outline pink %} | {% btn 'https://youtu.be/wJiSZ0wiCm4',Sunlight,fas fa-music,outline %} | {% btn 'https://youtu.be/rTIuf_DNUBQ',J歌,fas fa-music,outline orange %} | {% btn 'https://youtu.be/L2Gi5Oi9XNQ',約定,fas fa-music,outline green %} |
+### 紅狼小隊
+| 納塔 | 蕾比亞 | 哈比 |  緹娜  | 薇歐莉特 | 
+| :--------: | :--------: | :--------: | :--------: | :--------: |
+| {% btn 'https://youtu.be/oQGBdk-WJuU',你死我活,fas fa-music,outline blue %} | {% btn 'https://youtu.be/Q2LLluDF7Ok',Ruin,fas fa-music,outline pink %} | {% btn 'https://youtu.be/0MDtYNMZAQw',Catch me,fas fa-music,outline %} | {% btn 'https://youtu.be/dBT71GseOn0',Lucid Dream,fas fa-music,outline orange %} | {% btn 'https://youtu.be/JJjIFbzk_jM',Adieu,fas fa-music,outline green %} |
+### 夜梟小隊
+| 沃爾夫姜 | 露娜 | 索瑪 | 白 | 賽特 | 
+| :--------: | :--------: | :--------: | :--------: | :--------: |
+| {% btn 'https://youtu.be/EARCqs1rGJM',Inferno,fas fa-music,outline blue %} | {% btn 'https://youtu.be/2NWi2ian9x0',Another Me,fas fa-music,outline pink %} | {% btn 'https://youtu.be/v0R9VmkDjjQ',SOMANUS,fas fa-music,outline %} | {% btn 'https://youtu.be/behVkZOo36g',The Last Spring,fas fa-music,outline orange %} | {% btn 'https://youtu.be/8UMicrpHmeI',Hate You,fas fa-music,outline green %} |
+### 嚙鼠小隊
+| 未來 | 徹斯 | 銀河 | 露西 | ?? | 
+| :--------: | :--------: | :--------: | :--------: | :--------: |
+| {% btn 'https://youtu.be/J3BqQKb2aQg',天堂,fas fa-music,outline blue %} | {% btn 'https://youtu.be/A2_RyCKUUx8',Running out,fas fa-music,outline pink %} | {% btn 'https://youtu.be/0KU3LmvCc1A',Shadow,fas fa-music,outline %} | {% btn 'https://youtu.be/RJ9k-1Z8q60',我小小的救贖祈禱,fas fa-music,outline orange %} |  |
+| {% btn 'https://youtu.be/5CXr51F741A',楽園,fas fa-music,outline blue %} | {% btn 'https://youtu.be/_pUkoqaZasA',日語版,fas fa-music,outline pink %} | {% btn 'https://youtu.be/yKvxNTV2Eos',日語版,fas fa-music,outline %} | {% btn 'https://youtu.be/Dwijmjdkm-w',小さな救いへの祈り,fas fa-music,outline orange %} |  |
+### 主題曲
+| 2019 | 2020 | 2021 | 2022 |
+| :--------: | :--------: | :--------: | :--------: | 
+| {% btn 'https://youtu.be/GGCbVSETqk0',Untouchable,fas fa-music,outline blue %} | {% btn 'https://youtu.be/yAW-k7eNDuQ',We summer,fas fa-music,outline blue %} | {% btn 'https://youtu.be/lxwhsF334eg',ICE CREAM,fas fa-music,outline blue %} | {% btn 'https://youtu.be/VSyNr7H7hCM',Rest in White,fas fa-music,outline blue %} |
+|| {% btn 'https://youtu.be/Xv_Q_dQDypI',日語版,fas fa-music,outline blue %} | {% btn 'https://youtu.be/IYI2xBhZJHk',We Winter,fas fa-music,outline blue %} |
+|||{% btn 'https://youtu.be/0MDtYNMZAQw',Rushing In,fas fa-music,outline blue %}|
 
 # 發布時間紀錄
 [官方播放清單](https://youtube.com/playlist?list=PLhSX9RskYYvKPKjQwSwEaiYoRKaWAuUHP)
@@ -33,9 +58,12 @@ description: "官方發布的各式主題曲"
 
 2018/08/20：[賽特(賽赫麥特)主題曲 - Hate You](https://youtu.be/8UMicrpHmeI)
 
+2019/07/12：[釜山主題曲 - Untouchable](https://youtu.be/GGCbVSETqk0)
+- [角色聲優演唱版](https://forum.gamer.com.tw/C.php?bsn=23655&snA=8574&tnum=2)
+
 2019/12/05：[未來主題曲 - 낙원 (天堂)](https://youtu.be/J3BqQKb2aQg)
 
-2020/01/09：[徹斯主題曲 - Running out](https://youtu.be/A2_RyCKUUx8)
+2020/01/09：[金徹斯主題曲 - Running out](https://youtu.be/A2_RyCKUUx8)
 
 2020/07/01：[銀河主題曲 - Shadow](https://youtu.be/0KU3LmvCc1A)
 
@@ -72,4 +100,23 @@ description: "官方發布的各式主題曲"
 
 2020/12/02：[露西．普拉蒂尼主題曲 - 내 작은 구원의 기도 (我小小的救贖祈禱)](https://youtu.be/RJ9k-1Z8q60)
 
+2020/12/09：[日語版：未來主題曲 - 楽園](https://youtu.be/5CXr51F741A)
+
+2021/01/19：[日語版：金徹斯主題曲 - Running out](https://youtu.be/_pUkoqaZasA)
+
+2021/07/07：[日語版：銀河主題曲 - Shadow](https://youtu.be/yKvxNTV2Eos)
+
 2021/07/14：[Aqua Blue Wave(2021年泳裝)主題曲 - ICE CREAM](https://youtu.be/lxwhsF334eg)
+
+2021/07/30：[日語版：夏日旋律(2020泳裝)主題曲 - We summer](https://youtu.be/Xv_Q_dQDypI)
+
+2021/11/23：[日語版：露西．普拉蒂尼主題曲 - 小さな救いへの祈り](https://youtu.be/Dwijmjdkm-w)
+
+2021/12/09：[五轉主題曲 - Rushing In](https://youtu.be/qQNknb64_Z8)
+
+2021/12/16：[2021冬季更新主題曲 - We Winter](https://youtu.be/IYI2xBhZJHk)
+
+2022/01/21：[第三季結尾曲 - Rest in White](https://youtu.be/VSyNr7H7hCM)
+![](http://img.youtube.com/vi/VSyNr7H7hCM/maxresdefault.jpg)
+
+---

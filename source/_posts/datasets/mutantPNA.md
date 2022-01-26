@@ -26,9 +26,9 @@ PNA LV：80
 
 | 順序 |  | 種族 |  |
 | :--------: | :--------: | :--------: | :--------: |
-|1|海底型 ARIDUS<br>**會面/決戰深海**|食蟲型 MODESTUS<br>**軍團計畫**|魔龍型 PLACIDUS<br>**古龍系列(含龍之刑場)，模擬戰**|
-|2|前腦型<br>**格莫瑞系列，模擬戰，機械王**|人類型<br>**釜山與Centum City決戰項目**|使徒型<br>**模擬戰**|
-|3|野生型<br>|業火型<br>|特異型<br>**部分類似舊版超越型**|
+|1|{%inlineImg https://i.imgur.com/I6BPtrp.png 64px%}<br>海底型 ARIDUS<br>**會面/決戰深海，模擬戰**|{%inlineImg https://i.imgur.com/HoxQxvb.png 64px%}<br>食蟲型 MODESTUS<br>**軍團計畫，模擬戰**|{%inlineImg https://i.imgur.com/FWfg4L0.png 64px%}<br>魔龍型 PLACIDUS<br>**古龍系列(含龍之刑場)，模擬戰**|
+|2|{%inlineImg https://i.imgur.com/acS6rsI.png 64px%}<br>前腦型 SORDIDUS<br>**格莫瑞系列，模擬戰，機械王**|{%inlineImg https://i.imgur.com/KOAPxLX.png 64px%}<br>人類型 INHUMANUS<br>**釜山與Centum City決戰項目**|{%inlineImg https://i.imgur.com/t8j9844.png 64px%}<br>使徒型 LAPSUS<br>**模擬戰**|
+|3|{%inlineImg https://i.imgur.com/8ONbMJo.png 64px%}<br>野生型<br>**打點什麼**|{%inlineImg https://i.imgur.com/3FV9pDB.png 64px%}<br>業火型<br>**看起來比較整齊**|{%inlineImg https://i.imgur.com/gdXdckN.png 64px%}<br>特異型<br>**部分類似舊版超越型**|
 
 * 目前韓服尚未開放(3類)**野獸型、業火型、特異型**
 * 目前台服只有開放(1類)**深海型、食蟲型、魔龍型**
@@ -304,7 +304,7 @@ MP +505，3秒回復MP 15.30
 |汙染超能水源|**370,000**|汙染超能之海|**415,000**|
 |**<font color=#ff0000 size=4>格莫瑞系列</font>**
 |小關|**508,493**|
-|中級|**<font color=#ff0000 size=4>812,150</font>**|高級|**<font color=#ff0000>1,015,188</font>**|
+|中級|**<font color=#ff0000>812,150</font>**|高級|**<font color=#ff0000>1,015,188</font>**|
 |樂園|**<font color=#ff0000>1,319,744</font>**|科學設施<br>溫和|**<font color=#ff0000>1,498,261</font><br>713,457**|
 |**<font color=#ff0000 size=4>古龍系列</font>**
 |小關|**410,000**|

@@ -2,7 +2,7 @@
 title: 玩家座談會紀錄翻譯(慢速製作)
 date: 2021-09-10 15:57:59
 tags: 資料紀錄
-category: 遊戲資料
+category: [遊戲資料,其他]
 cover: 
 description: "韓版2021年座談會的紀錄翻譯"
 ---

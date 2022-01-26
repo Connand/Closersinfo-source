@@ -11,10 +11,18 @@ menu:
   # 封存: /archives/ || fas fa-archive
   標籤: /tags/ || fas fa-tags
   分類: /categories/ || fas fa-folder-open
-  遊戲攻略/資料: /categories/遊戲資料/ || fas fa-book-open
+  遊戲攻略/資料 || fas fa-book-open || hide:
+    PNA資料: /categories/遊戲資料/PNA || fas fa-book-open
+    繪圖圖庫: /categories/遊戲資料/繪圖 || fas fa-book-open
+    裝備資訊: /categories/遊戲資料/裝備 || fas fa-book-open
+    轉職介紹: /categories/遊戲資料/轉職 || fas fa-book-open
+    機率資料: /categories/遊戲資料/機率資料 || fas fa-book-open
+    其他資料: /categories/遊戲資料/其他 || fas fa-book-open
   時裝 || fas fa-tshirt:
+    輝煌時裝: /categories/時裝/輝煌時裝/ || fas fa-tshirt
     高階時裝: /categories/時裝/高階時裝/ || fas fa-tshirt
     全角色有立繪: /categories/時裝/有立繪/全角色/ || fas fa-tshirt
+    部分角色有立繪: /categories/時裝/有立繪/限定角色/ || fas fa-tshirt
   # 選單||fas fa-list:
   #   音樂: /music/ || fas fa-music
   #   電影: /movies/ || fas fa-video
