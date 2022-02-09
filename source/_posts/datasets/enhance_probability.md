@@ -133,7 +133,7 @@ description: ""
     +11 以下強化嘗試時，100% 成功
     +13 以下強化嘗試時，失敗機率 0%，成功機率對比現有機率增加50%
     +14 以上強化嘗試時，成功機率對比現有機率增加10%
-**<font color=#ff0000 size=5>推測值，並非正確</font>**
+**<font color=#ff0000 size=5>[參考來源](https://closers.nexon.com/News/Notice/View?n4ArticleSN=136641)</font>**
 
 | 強化前等級 | 成功(+1) | 大成功(+2) | 大成功(+3) | 大成功(+4) | 無變化 | 失敗(-1) |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
@@ -149,8 +149,8 @@ description: ""
 |9|	96%|	3%|	    1%| 	0|  	0|  	0|
 |10|**<font color=#ff0000>97%</font>**|	2%| 	1%| 	0|  	0|  	0|
 |11|**<font color=#ff0000>98%</font>**|**<font color=#ff0000>2%</font>**| 	0|  	0|  	**<font color=#ff0000>0%</font>**|	0|
-|12|**<font color=#ff0000>43.5%</font>**|**<font color=#ff0000>1.5%</font>**| 	0|  	0|  	**<font color=#ff0000>55%</font>**|	0|
-|13|**<font color=#ff0000>4.35%</font>**|**<font color=#ff0000>0.15%</font>**|	0|  	0|  	**<font color=#ff0000>95.5%</font>**|	0|
+|12|**<font color=#ff0000>44%</font>**|**<font color=#ff0000>1%</font>**| 	0|  	0|  	**<font color=#ff0000>55%</font>**|	0|
+|13|**<font color=#ff0000>4.4%</font>**|**<font color=#ff0000>0.1%</font>**|	0|  	0|  	**<font color=#ff0000>95.5%</font>**|	0|
 |14|**<font color=#ff0000>1.1%</font>**|	0|  0|  	0|  	**<font color=#ff0000>96.9%</font>**|	2%|
 |15|**<font color=#ff0000>0.55%</font>**|	0| 	0| 	0|  	**<font color=#ff0000>97.95%</font>**|	1.5%|
 |16|**<font color=#ff0000>0.495%</font>**|	0| 	0| 	0|  	**<font color=#ff0000>98.005%</font>**|	1.5%|
