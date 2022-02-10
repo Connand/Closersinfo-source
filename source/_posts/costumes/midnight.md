@@ -62,7 +62,7 @@ description: ""
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/X9nbfAyh.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/EiDeGDQh.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
@@ -124,7 +124,7 @@ description: ""
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/d7tIXNjh.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/kF3Ilrch.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
@@ -186,7 +186,7 @@ description: ""
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/DL26ZvQh.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/VQfyPBrh.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
@@ -248,7 +248,7 @@ description: ""
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/1vGS2B8h.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/25Ue53ph.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->

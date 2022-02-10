@@ -63,7 +63,7 @@ description: "Half and Half, 台版翻譯為極限滑板"
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/0yL75jJ.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/zUb8hdc.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
@@ -128,7 +128,7 @@ description: "Half and Half, 台版翻譯為極限滑板"
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/etNkr8m.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/Iehz4HE.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
@@ -193,7 +193,7 @@ description: "Half and Half, 台版翻譯為極限滑板"
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/x2zYnm4.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/2xiULMJ.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->

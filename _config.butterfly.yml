@@ -663,7 +663,7 @@ aside:
       link: https://github.com/Connand
   card_announcement:
     enable: true
-    content: 開學了，站主要認真上課了(?)，更新頻率應該變很低。網站使用上有相關問題的話歡迎回報。<div class="announcement-button"> <a class="button--animated" href="https://www.facebook.com/Closersinfo" rel="external nofollow noreferrer" target="_blank">FB粉絲專頁</a> <a class="button--animated" href="https://closersinfo.xyz/" rel="external nofollow noreferrer" target="_blank">運行中的正式版</a> <a class="button--animated" href="https://discord.gg/ACBYdf5TNd" rel="external nofollow noreferrer" target="_blank">Discord群組</a></div>
+    content: 2022/02/10更新，修正全站角色名字翻譯：<br>蕾比<b>亞</b>(Levia)->蕾比<b>雅</b>(Levia)<br>---<br>繪師：<a target="_blank" rel="noopener" href="https://www.facebook.com/profile.php?id=100024698682237">煉銅術士</a><img src="/img/ProfilePic_56.png"><div class="announcement-button"> <a class="button--animated" href="https://www.facebook.com/Closersinfo" rel="external nofollow noreferrer" target="_blank">FB粉絲專頁</a> <a class="button--animated" href="https://closersinfo.xyz/" rel="external nofollow noreferrer" target="_blank">運行中的正式版</a> <a class="button--animated" href="https://discord.gg/ACBYdf5TNd" rel="external nofollow noreferrer" target="_blank">Discord群組</a></div>
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

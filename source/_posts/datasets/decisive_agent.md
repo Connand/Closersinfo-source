@@ -48,15 +48,26 @@ description: "五轉介紹與資訊"
 
 ## 2021/12/16: 白、未來
 [宣傳頁面(可下載png立繪檔)](https://closers.nexon.com/events2021/1216/advancement)
+{% hideToggle 登入畫面 %}
 {%youtube LVTvF9yDDho %}
+{% endhideToggle %}
 
 ## 2021/12/30: 李世河、緹娜
 [宣傳頁面(這次變jpg檔了睡睡)](https://closers.nexon.com/events2021/1230/advancement)
+{% hideToggle 登入畫面 %}
 {%youtube DkVmNwmeYV4 %}
+{% endhideToggle %}
 
 ## 2022/01/13: 李雪菲、蕾比亞
 [宣傳頁面(徹斯無情被插第二次隊)](https://closers.nexon.com/Events2022/0113/advancement)
+{% hideToggle 登入畫面 %}
 {%youtube 1kjXmhNTyc0 %}
+{% endhideToggle %}
+
+## 2022/02/10: 露娜、徹斯
+[宣傳頁面(徹斯總算出來了)](https://closers.nexon.com/events2022/0210/advancement)
+{% hideToggle 登入畫面(尚無) %}
+{% endhideToggle %}
 
 ---
 
@@ -116,7 +127,7 @@ description: "五轉介紹與資訊"
 <!-- tab 納塔(Nata)-->
 
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](/img/decisive_illust/Levia.jpg)
 {%youtube IsjC-UWtrmY %}
 <!-- endtab -->
@@ -134,7 +145,8 @@ description: "五轉介紹與資訊"
 
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-
+![](/img/decisive_illust/Luna.jpg)
+{%youtube ryPfTcbsL0c %}
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
 
@@ -151,7 +163,8 @@ description: "五轉介紹與資訊"
 {%youtube lHFJoAbQNi0 %}
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-
+![](/img/decisive_illust/Chulsoo.jpg)
+{%youtube TrP-gh8nBfc %}
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
 

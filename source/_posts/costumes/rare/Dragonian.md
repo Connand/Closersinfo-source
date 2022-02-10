@@ -71,7 +71,7 @@ description: "第四套高階時裝"
 ![](https://i.imgur.com/doGG3ot.jpg)
 {%youtube S7jpULeAEwU %}
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/dNPoBuo.jpg)
 {%youtube 0nA_dc-AyHk %}
 <!-- endtab -->
@@ -138,7 +138,7 @@ description: "第四套高階時裝"
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/u4cON9v.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/FEcZw7S.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->

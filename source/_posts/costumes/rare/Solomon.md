@@ -74,7 +74,7 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/1YsLFKy.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/As6AQVH.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->

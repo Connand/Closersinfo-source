@@ -70,7 +70,7 @@ description: "第二套高階時裝"
 	「很好！這麼一來，就能更徹底地將敵人解體。哈哈哈 ~」
 ![](https://i.imgur.com/nc7tMmL.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 	「因為變得太過強大，有點嚇到…強到我無法控制的程度…」
 ![](https://i.imgur.com/xX4B8pp.jpg)
 <!-- endtab -->

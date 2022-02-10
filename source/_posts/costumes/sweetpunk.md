@@ -60,7 +60,7 @@ description: "Sweety Punk"
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/5Vs2OVh.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/99tPUIw.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
@@ -122,7 +122,7 @@ description: "Sweety Punk"
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/nsIRHfK.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/bYDLjom.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->

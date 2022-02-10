@@ -76,7 +76,7 @@ description: "第一套高階時裝"
     「成為我力量的祭品吧！」
 ![](https://i.imgur.com/zH0Www3.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
     「燃燒吧！然後在地獄中安眠~」
 ![](https://i.imgur.com/feJABYp.jpg)
 <!-- endtab -->

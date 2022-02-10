@@ -133,7 +133,7 @@ description: "閃耀之星(Shining Star)"
 	爵士就是自由，為了成為自由的聲音而創造的。
 ![](https://imgur.com/JVj8HT1.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 	竟然能在人們面前唱歌…這該不會，是夢吧？
 ![](https://imgur.com/F1OLnZ3.jpg)
 <!-- endtab -->

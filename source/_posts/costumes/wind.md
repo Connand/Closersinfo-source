@@ -45,7 +45,7 @@ description: ""
 ![](https://imgur.com/QXLnxK4.jpg)
 ![](https://imgur.com/WKD7698.png)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://imgur.com/GbqNu6d.jpg)
 ![](https://imgur.com/RxFV25n.png)
 <!-- endtab -->
@@ -74,7 +74,7 @@ description: ""
 ![](https://imgur.com/EfS7MuT.jpg)
 ![](https://imgur.com/33egL1L.png)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://imgur.com/7K5ac3T.jpg)
 ![](https://imgur.com/zZgDNKr.png)
 <!-- endtab -->
@@ -103,7 +103,7 @@ description: ""
 ![](https://imgur.com/yo3E81J.jpg)
 ![](https://imgur.com/aidv9NA.png)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://imgur.com/goktGUI.jpg)
 ![](https://imgur.com/MfIcIUx.png)
 <!-- endtab -->

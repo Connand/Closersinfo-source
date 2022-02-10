@@ -61,7 +61,7 @@ description: "第三套高階時裝"
 <!-- tab 納塔(Nata)-->
 ![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Nata.jpg?alt=media)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Levia.jpg?alt=media)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->

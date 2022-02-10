@@ -59,7 +59,7 @@ description: "Serving Master"
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/rbu7Aj8.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/15YbtMA.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
@@ -115,7 +115,7 @@ description: "Serving Master"
 ![](https://i.imgur.com/c5fyBoU.jpg)
 ![](https://i.imgur.com/2yxZvS7.png)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/sxBBvZM.jpg)
 ![](https://i.imgur.com/UExhF2N.png)
 <!-- endtab -->
@@ -180,7 +180,7 @@ description: "Serving Master"
 ![](https://i.imgur.com/zmVNXP0.jpg)
 ![](https://i.imgur.com/XxCN0Iu.png)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/9RClg9g.jpg)
 ![](https://i.imgur.com/hutIvJF.png)
 <!-- endtab -->
@@ -245,7 +245,7 @@ description: "Serving Master"
 ![](https://i.imgur.com/ME62iYR.jpg)
 ![](https://i.imgur.com/TXboKeG.png)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/ga2TYdO.jpg)
 ![](https://i.imgur.com/qQWUR3Y.png)
 <!-- endtab -->

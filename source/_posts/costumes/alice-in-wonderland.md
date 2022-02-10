@@ -61,7 +61,7 @@ description: "Alice in Wonderland"
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/uiraQP3.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/Mf5GNjB.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
@@ -123,7 +123,7 @@ description: "Alice in Wonderland"
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/gs0UKla.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/H4O1BYc.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
@@ -185,7 +185,7 @@ description: "Alice in Wonderland"
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/47FRI79.png)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/iAjIKyw.png)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->

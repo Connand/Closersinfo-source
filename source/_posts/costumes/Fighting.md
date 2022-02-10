@@ -68,7 +68,7 @@ description: ""
 <!-- tab 納塔(Nata)-->
 ![](https://i.imgur.com/7q0l4Tz.jpg)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/QHTlik6.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
@@ -136,7 +136,7 @@ description: ""
 ![](https://i.imgur.com/7Lgsha9.jpg)
 ![](https://i.imgur.com/JLxosXP.png)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/A1leW4C.jpg)
 ![](https://i.imgur.com/2udtPVs.png)
 <!-- endtab -->
@@ -217,7 +217,7 @@ description: ""
 ![](https://i.imgur.com/Yc9eSxo.jpg)
 ![](https://i.imgur.com/1LpdX15.png)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/5lu2vkh.jpg)
 ![](https://i.imgur.com/Z3D2LCc.png)
 <!-- endtab -->
@@ -298,7 +298,7 @@ description: ""
 ![](https://i.imgur.com/WJ9vRXR.jpg)
 ![](https://i.imgur.com/JY2C2ZD.png)
 <!-- endtab -->
-<!-- tab 蕾比亞(Levia)-->
+<!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/TauSJmL.jpg)
 ![](https://i.imgur.com/DJ4ajxt.png)
 <!-- endtab -->
