@@ -1,5 +1,5 @@
 ---
-title: 史詩裝備掉落紀錄(220131更新)
+title: 史詩裝備掉落紀錄(220212更新)
 date: 2021-09-07 13:45:59
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
@@ -7,12 +7,12 @@ cover: https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=476485
 description: "紀錄那些超級歐洲人"
 ---
 
-# 目前記錄已掉落數量：22件
-**<font size=5 color=#ff0000>2022/01/31 01:52 第4顆雙傷魔方！</font>**
+# 目前記錄已掉落數量：23件
+**<font size=5 color=#ff0000>2022/02/12 17:42 第1把物理武器！！</font>**
 
 |種類|核心|模組1|模組2|
 |:-:|:-:|:-:|:-:|
-|物理|長劍<br>**<font color=#ff0000>0</font>**|引擎<br>**4**|推進器<br>**<font color=#ff0000>0</font>**|
+|物理|長劍<br>**<font color=#ff0000>1</font>**|引擎<br>**4**|推進器<br>**<font color=#ff0000>0</font>**|
 |魔法|權杖<br>**2**|調節器<br>**5**|發生器<br>**2**|
 |雙傷|鐮刀<br>**3**|保險絲<br>**2**|魔方<br>**4**|
 
@@ -29,6 +29,13 @@ description: "紀錄那些超級歐洲人"
 武器+19：62
 
 {% timeline <strong>掉落時間</strong> %}
+
+{% timenode <font size=4>2022/02/12 17:42</font> %}
+
+**<font color=#ff0000>第1把物理武器！！</font>**
+![](/img/epicgears/epicgear23.png)
+
+{% endtimenode %}
 
 {% timenode <font size=4>2022/01/31 01:52</font> %}
 

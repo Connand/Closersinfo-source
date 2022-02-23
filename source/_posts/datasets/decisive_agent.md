@@ -58,7 +58,7 @@ description: "五轉介紹與資訊"
 {%youtube DkVmNwmeYV4 %}
 {% endhideToggle %}
 
-## 2022/01/13: 李雪菲、蕾比亞
+## 2022/01/13: 李雪菲、蕾比雅
 [宣傳頁面(徹斯無情被插第二次隊)](https://closers.nexon.com/Events2022/0113/advancement)
 {% hideToggle 登入畫面 %}
 {%youtube 1kjXmhNTyc0 %}
@@ -66,7 +66,8 @@ description: "五轉介紹與資訊"
 
 ## 2022/02/10: 露娜、徹斯
 [宣傳頁面(徹斯總算出來了)](https://closers.nexon.com/events2022/0210/advancement)
-{% hideToggle 登入畫面(尚無) %}
+{% hideToggle 登入畫面 %}
+{%youtube SDw7sVY0MrI %}
 {% endhideToggle %}
 
 ---
