@@ -9,9 +9,15 @@ description: "白夜要塞裝備資訊"
 ![](https://ssl.nexon.com/s2/game/closers/2022/events/220127_area_n2wa7/visual/bg_visual.png)
 
 # 前言
-
-
-
+[宣傳頁面](https://closers.nexon.com/events2022/0127/nightfortress)
+{% hideToggle <font color=#ff0000><b>注意：可能包含劇透內容</b></font> %}
+維羅妮卡和休格前往調查白牙號的黑盒子。
+他們在南極的據點白夜堡壘失去了聯繫。
+據說這裡是過去次元戰爭的決戰之地，也是群狼小隊的根據地……
+特工們前往將再次開始的決戰地點。
+追擊總長的行動，已經到達的最尾聲。
+所有的一切，都將在此結束...
+{% endhideToggle %}
 
 15村(Night fortress)中新增的裝備，為獨立模組以及防具三件套(不朽套裝)，替換掉14村裝備。
 **擁有新材料**

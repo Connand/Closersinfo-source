@@ -27,8 +27,9 @@ category: [時裝, 高階時裝]
 cover: https://landing.mangot5.com/template/closers/event/180709_update/images/bg.jpg
 description: "第三套高階時裝"
 ---
-
+{% hideToggle 背景圖(很長) %}
 ![](https://landing.mangot5.com/template/closers/event/180709_update/images/bg.jpg)
+{% endhideToggle %}
 
 ---
 ## 至高之翼(Zenith Wings)
