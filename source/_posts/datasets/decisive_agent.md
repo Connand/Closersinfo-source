@@ -70,6 +70,12 @@ description: "五轉介紹與資訊"
 {%youtube SDw7sVY0MrI %}
 {% endhideToggle %}
 
+## 2022/03/10: 賽特
+[宣傳頁面(要出多久)](https://closers.nexon.com/events2022/0310/advancement)
+{% hideToggle 登入畫面 %}
+{%youtube GbDNLIdLlbc %}
+{% endhideToggle %}
+
 ---
 
 # 轉職條件
@@ -157,7 +163,8 @@ description: "五轉介紹與資訊"
 {%youtube Fv2P33L1zm8 %}
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-
+![](/img/decisive_illust/Seth.jpg)
+{%youtube 1pIy3g5jTFI %}
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
 ![](/img/decisive_illust/Mirae.png)

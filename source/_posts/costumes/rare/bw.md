@@ -24,7 +24,7 @@ tags:
     - 銀河
     - 露西
 category: [時裝, 高階時裝]
-cover: 
+cover: https://i.imgur.com/w5A5xI5.jpg
 description: "第三套高階時裝改色版"
 ---
 

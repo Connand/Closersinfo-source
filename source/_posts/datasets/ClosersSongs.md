@@ -1,5 +1,5 @@
 ---
-title: 封印者：主題歌曲(0122新增第三季結尾曲)
+title: 封印者：主題歌曲(0314補上動畫OP與ED)
 date: 2021-10-16 16:40:00
 tags: 資料紀錄
 category: [遊戲資料,其他]
@@ -35,11 +35,11 @@ description: "官方發布的各式主題曲"
 | {% btn 'https://youtu.be/J3BqQKb2aQg',天堂,fas fa-music,outline blue %} | {% btn 'https://youtu.be/A2_RyCKUUx8',Running out,fas fa-music,outline pink %} | {% btn 'https://youtu.be/0KU3LmvCc1A',Shadow,fas fa-music,outline %} | {% btn 'https://youtu.be/RJ9k-1Z8q60',我小小的救贖祈禱,fas fa-music,outline orange %} |  |
 | {% btn 'https://youtu.be/5CXr51F741A',楽園,fas fa-music,outline blue %} | {% btn 'https://youtu.be/_pUkoqaZasA',日語版,fas fa-music,outline pink %} | {% btn 'https://youtu.be/yKvxNTV2Eos',日語版,fas fa-music,outline %} | {% btn 'https://youtu.be/Dwijmjdkm-w',小さな救いへの祈り,fas fa-music,outline orange %} |  |
 ### 主題曲
-| 2019 | 2020 | 2021 | 2022 |
-| :--------: | :--------: | :--------: | :--------: | 
-| {% btn 'https://youtu.be/GGCbVSETqk0',Untouchable,fas fa-music,outline blue %} | {% btn 'https://youtu.be/yAW-k7eNDuQ',We summer,fas fa-music,outline blue %} | {% btn 'https://youtu.be/lxwhsF334eg',ICE CREAM,fas fa-music,outline blue %} | {% btn 'https://youtu.be/VSyNr7H7hCM',Rest in White,fas fa-music,outline blue %} |
-|| {% btn 'https://youtu.be/Xv_Q_dQDypI',日語版,fas fa-music,outline blue %} | {% btn 'https://youtu.be/IYI2xBhZJHk',We Winter,fas fa-music,outline blue %} |
-|||{% btn 'https://youtu.be/0MDtYNMZAQw',Rushing In,fas fa-music,outline blue %}|
+| 2017 | 2019 | 2020 | 2021 | 2022 |
+| :--------: | :--------: | :--------: | :--------: | :--------: | 
+| {% btn 'https://youtu.be/jj9pgIUzitw',Close the World,fas fa-music,outline blue %} | {% btn 'https://youtu.be/GGCbVSETqk0',Untouchable,fas fa-music,outline blue %} | {% btn 'https://youtu.be/yAW-k7eNDuQ',We summer,fas fa-music,outline blue %} | {% btn 'https://youtu.be/lxwhsF334eg',ICE CREAM,fas fa-music,outline blue %} | {% btn 'https://youtu.be/VSyNr7H7hCM',Rest in White,fas fa-music,outline blue %} |
+| {% btn 'https://youtu.be/W5P1cWIniUA',Closer To Your Side,fas fa-music,outline blue %} || {% btn 'https://youtu.be/Xv_Q_dQDypI',日語版,fas fa-music,outline blue %} | {% btn 'https://youtu.be/IYI2xBhZJHk',We Winter,fas fa-music,outline blue %} | {% btn 'https://youtu.be/K01FcoQ6NMU',Be yourself,fas fa-music,outline blue %} |
+||||{% btn 'https://youtu.be/0MDtYNMZAQw',Rushing In,fas fa-music,outline blue %}|
 
 # 發布時間紀錄
 [官方播放清單](https://youtube.com/playlist?list=PLhSX9RskYYvKPKjQwSwEaiYoRKaWAuUHP)
@@ -47,6 +47,9 @@ description: "官方發布的各式主題曲"
 2016/08/02：[緹娜主題曲 - 자각몽 (Lucid Dream)](https://youtu.be/dBT71GseOn0)
 
 2016/12/27：[薇歐莉特主題曲 - Adieu](https://youtu.be/JJjIFbzk_jM)
+
+2017/02/28：[Closers動畫開頭曲 - Close the World](https://youtu.be/jj9pgIUzitw)
+2017/02/28：[Closers動畫結尾曲 - 네게 닿기를(Closer To Your Side)](https://youtu.be/W5P1cWIniUA)
 
 2017/07/25：[沃爾夫姜．施奈伊德主題曲 - Inferno](https://youtu.be/EARCqs1rGJM)
 
@@ -118,5 +121,7 @@ description: "官方發布的各式主題曲"
 
 2022/01/21：[第三季結尾曲 - Rest in White](https://youtu.be/VSyNr7H7hCM)
 ![](http://img.youtube.com/vi/VSyNr7H7hCM/maxresdefault.jpg)
+
+2022/03/10：[日版主題曲 - Be yourself](https://youtu.be/K01FcoQ6NMU)
 
 ---

@@ -3,7 +3,7 @@ title: 融合威嚴介紹
 date: 2022-02-01 11:25:00
 tags: 資料紀錄
 category: [遊戲資料,裝備]
-cover: 
+cover: https://i.imgur.com/Rbagilg.png
 description: "融合威嚴詳細內容說明"
 ---
 ![](https://i.imgur.com/Rbagilg.png)

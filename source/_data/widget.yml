@@ -4,4 +4,4 @@ top:
     name: '今天開放副本（台版）'
     icon: fas fa-flag-checkered
     order: 1
-    html: '【2021/10/14縱慾王<a href="https://cls.mangot5.com/game/cls/news/detail?contentNo=46736" rel="external nofollow noreferrer" target="_blank">更新時程</a>】<div id="schedule"></div><br><b>第 2 季</b><a href="https://cls.mangot5.com/game/cls/news/detail?contentNo=46589" rel="external nofollow noreferrer" target="_blank">模擬戰</a>結算日期：<br><div id="mockBattleEnd"></div><div id="mockBattle"></div>'
+    html: '【2021/10/14縱慾王<a href="https://cls.mangot5.com/game/cls/news/detail?contentNo=46736" rel="external nofollow noreferrer" target="_blank">更新時程</a>】<div id="schedule"></div><br><div id="mockBattleInfo"><b>第 2 季</b><a href="https://cls.mangot5.com/game/cls/news/detail?contentNo=46589" rel="external nofollow noreferrer" target="_blank">模擬戰</a></div><b>結算日期</b>：<br><div id="mockBattleEnd"></div><div id="mockBattle"></div>'
