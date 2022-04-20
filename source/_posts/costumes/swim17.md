@@ -1,6 +1,7 @@
 ---
-title: 海邊狂想曲
-date: 2022-02-22 11:01:31
+title: 海邊狂想曲(2017泳裝)
+date: 2017-02-22 11:01:31
+updated: 2022-02-22 11:01:31
 tags:
     - 立繪時裝
     - 李世河
@@ -16,7 +17,7 @@ tags:
     - 沃爾夫姜
     - 泳裝
 category: [時裝, 有立繪, 全角色]
-cover: 
+cover: https://i.imgur.com/xIHvPup.jpg
 description: "2017泳裝系列"
 ---
 

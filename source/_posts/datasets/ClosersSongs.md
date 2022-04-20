@@ -49,7 +49,7 @@ description: "官方發布的各式主題曲"
 2016/12/27：[薇歐莉特主題曲 - Adieu](https://youtu.be/JJjIFbzk_jM)
 
 2017/02/28：[Closers動畫開頭曲 - Close the World](https://youtu.be/jj9pgIUzitw)
-2017/02/28：[Closers動畫結尾曲 - 네게 닿기를(Closer To Your Side)](https://youtu.be/W5P1cWIniUA)
+2017/02/28：[Closers動畫結尾曲 - 네게 닿기를 (Closer To Your Side)](https://youtu.be/W5P1cWIniUA)
 
 2017/07/25：[沃爾夫姜．施奈伊德主題曲 - Inferno](https://youtu.be/EARCqs1rGJM)
 

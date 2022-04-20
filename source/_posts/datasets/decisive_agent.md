@@ -76,6 +76,13 @@ description: "五轉介紹與資訊"
 {%youtube GbDNLIdLlbc %}
 {% endhideToggle %}
 
+## 2022/04/07: 薇歐莉特
+[宣傳頁面(說暑假前會出完)](https://closers.nexon.com/events2022/0407/advancement)
+{% hideToggle 登入畫面 %}
+非官方錄製
+{%youtube kvGWNJ6nwp0 %}
+{% endhideToggle %}
+
 ---
 
 # 轉職條件
@@ -146,7 +153,11 @@ description: "五轉介紹與資訊"
 {%youtube ymxMwcvCpc4 %}
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
+![](/img/decisive_illust/Violet.jpg)
+{%youtube JT_mzilP7uk %}
+舊立繪：聽說因為左手手勢與韓國女權議題相關，因此馬上被修改了  
 
+![](/img/decisive_illust/Violet_old.jpg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
 

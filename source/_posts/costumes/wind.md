@@ -7,7 +7,7 @@ tags:
     - 李雪菲
     - 徐維莉
     - 米斯特汀
-    - 蕾比亞
+    - 蕾比雅
     - 白
 category: [時裝, 有立繪, 限定角色]
 cover: https://imgur.com/YlmR7oO.jpg

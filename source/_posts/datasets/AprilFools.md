@@ -38,7 +38,7 @@ description: "愚人節立繪"
 ---
 
 {% tabs 類型 %}
-<!-- tab 愚人節立繪1 -->
+<!-- tab 愚人節立繪1(含舊版立繪) -->
 {% tabs 愚人節立繪1 %}
 <!-- tab 李世河(Seha)-->
 ![](https://i.imgur.com/fXwfGZk.jpg)
@@ -74,7 +74,9 @@ description: "愚人節立繪"
 ![](https://i.imgur.com/AMEjsxH.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
+含舊版立繪
 ![](https://i.imgur.com/d19Vusu.jpg)
+![](https://i.imgur.com/Bxbb8W1.jpeg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
 ![](https://i.imgur.com/9670qVH.jpg)
@@ -86,10 +88,14 @@ description: "愚人節立繪"
 ![](https://i.imgur.com/51Soe7K.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
+含舊版立繪
 ![](https://i.imgur.com/ejOEyRR.jpg)
+![](https://i.imgur.com/CSg2EWx.jpeg)
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
+含舊版立繪
 ![](https://i.imgur.com/ZNo6rY3.jpg)
+![](https://i.imgur.com/opziccV.jpeg)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
 ![](https://i.imgur.com/CDEYcww.jpg)
