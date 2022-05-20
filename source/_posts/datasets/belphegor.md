@@ -75,6 +75,11 @@ BOSS類型：前腦型 {% inlineImg https://i.imgur.com/acS6rsI.png 64px %}
 ## 防具超越
 防具超越100%成功{% inlineImg https://i.imgur.com/GbTRBWF.png 64px %}
 **<font color=#ff0000>韓版開放機械王時有限時活動(2021/07/27 ~ 2021/12/30)：<br>可以將深海防具直接超越為機械防具(使用同樣超越石，深海超越->機械超越)</font>**
+**<font color=#ff0000>台版：2022/04/21 ~ 2022/10/27</font>**
+**<font color=#ff0000>日版：2022/04/21 ~ 2022/11/03</font>**
+**<font color=#ff0000>國際版：2022/04/06 ~ 2022/10 (尚未確定)</font>**
+
+
 
 |{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/Dl6aRb1.png 48px %}|{% inlineImg https://i.imgur.com/7fvcv9r.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|
 |:-:|:-:|:-:|:-:|:-:|
@@ -109,7 +114,7 @@ BOSS類型：前腦型 {% inlineImg https://i.imgur.com/acS6rsI.png 64px %}
 ## 取得方式
 + 打王掉落
 + 成就10階完成(250場)
-+ 製作選擇箱(製作限制：角色3次)：{% inlineImg https://i.imgur.com/irvNg4U.png 48px %}可從戰略研究室(3000萬本)取得， **1場5個，此副本箱子也可高機率開到5個 ~~所以其實1場10個~~**
++ 製作選擇箱(製作限制：角色3次)：{% inlineImg https://i.imgur.com/irvNg4U.png 48px %}可從戰略研究室(3000萬本)取得， **1場4~5個，此副本箱子也可高機率開到5個 ~~所以其實1場10個~~**
 
 |{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/irvNg4U.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|
 |:-:|:-:|:-:|:-:|
@@ -141,4 +146,20 @@ BOSS類型：前腦型 {% inlineImg https://i.imgur.com/acS6rsI.png 64px %}
 
 ---
 
+# 成就
+|場數|幹部|機械王|
+|:-:|:-:|:-:|
+|1| 榮譽500 | 立繪飾品體驗箱(3日) |
+|10| {% inlineImg https://i.imgur.com/Ncq4b4z.png 64px %}可變性齒輪x3 | {% inlineImg https://i.imgur.com/xr8svxG.png 64px %}裝備隨機箱x1 |
+|30| {% inlineImg https://i.imgur.com/xr8svxG.png 64px %}裝備隨機箱x1 | 護盾套選擇箱x1 |
+|50| {% inlineImg https://i.imgur.com/vmKTcS0.png 64px %}軍團長的渴望x5 | {% inlineImg https://i.imgur.com/Uki6Ngd.png 64px %}分析室鑰匙卡x1 |
+|100| {% inlineImg https://i.imgur.com/J9xSUPy.png 64px %}鑰匙卡破片x5| 模組選擇箱x1 |
+|110| {% inlineImg https://i.imgur.com/vmKTcS0.png 64px %}軍團長的渴望x10 | {% inlineImg https://i.imgur.com/Uki6Ngd.png 64px %}分析室鑰匙卡x3 |
+|130| {% inlineImg https://i.imgur.com/Dl6aRb1.png 64px %}機械王遺產x10 | 武器選擇箱x1 |
+|160| {% inlineImg https://i.imgur.com/J9xSUPy.png 64px %}鑰匙卡破片x10 | {% inlineImg https://i.imgur.com/Uki6Ngd.png 64px %}分析室鑰匙卡x10 |
+|120| 馬列克水晶箱x10 | 馬列克水晶箱x15 |
+|250| **對應幹部戰力飾品箱** | **戰力飾品隨機箱** |
+
+
+---
 **其餘資料之後補上**

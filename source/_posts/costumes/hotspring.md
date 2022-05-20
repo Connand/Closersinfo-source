@@ -21,7 +21,7 @@ tags:
     - 徹斯
     - 銀河
     - 露西
-category: [時裝, 無立繪]
+category: [時裝, 無立繪, 全角色]
 cover: https://i.imgur.com/xCwJMdd.jpg
 description: ""
 ---

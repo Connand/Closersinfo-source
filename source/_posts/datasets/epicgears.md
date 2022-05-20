@@ -1,5 +1,5 @@
 ---
-title: 史詩裝備掉落紀錄(220420機械王)
+title: 史詩裝備掉落紀錄(0516首件機械紅裝)
 date: 2021-09-07 13:45:59
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
@@ -8,8 +8,9 @@ description: "紀錄那些超級歐洲人"
 ---
 
 # 目前記錄已掉落數量
-**<font size=5 color=#000000>24件 = 24件深海 + 0件機械</font>**
-**<font size=4 color=#ff0000>2022/03/20 21:59 第6顆深海魔法調節器</font>**
+**<font size=5 color=#000000>30件 = 28深海 + <font size=5 color=#ff0000>2機械</font></font>**
+**<font size=4 color=#ff0000>2022/05/08 21:27 第1件機械紅裝！！</font>**
+**<font color=#ff0000>2022/05/18 03:55 第2件機械紅裝！</font>**
 
 ---
 
@@ -17,20 +18,24 @@ description: "紀錄那些超級歐洲人"
 ## 掉落數
 |種類|核心|模組1|模組2|
 |:-:|:-:|:-:|:-:|
-|物理|長劍<br>**<font color=#ff0000>0</font>**|引擎<br>**<font color=#ff0000>0</font>**|推進器<br>**<font color=#ff0000>0</font>**|
+|物理|長劍<br>**<font color=#ff0000>0</font>**|引擎<br>**<font color=#ff0000>0</font>**|推進器<br>**1**|
 |魔法|權杖<br>**<font color=#ff0000>0</font>**|調節器<br>**<font color=#ff0000>0</font>**|發生器<br>**<font color=#ff0000>0</font>**|
-|雙傷|鐮刀<br>**<font color=#ff0000>0</font>**|保險絲<br>**<font color=#ff0000>0</font>**|魔方<br>**<font color=#ff0000>0</font>**|
+|雙傷|鐮刀<br>**<font color=#ff0000>0</font>**|保險絲<br>**<font color=#ff0000>0</font>**|魔方<br>**1**|
 
 ## 裝備說明文
 |物理|魔法|雙傷|
 |:-:|:-:|:-:|
-|**長劍**<br><font color=#ee0000></font>|**權杖**<br><font color=#47c83e></font>|**鐮刀**<br><font color=#cec761></font>|
-|**引擎**<br><font color=#ee0000></font>|**調節器**<br><font color=#47c83e></font>|**保險絲**<br><font color=#cec761></font>|
-|**推進器**<br><font color=#ee0000></font>|**發生器**<br><font color=#47c83e></font>|**魔方**<br><font color=#cec761></font>|
+|**長劍**<br><font color=#ee0000>機械之所以按照主人的命令運作<br>是因為苦惱的齒輪只是瑕疵品<br>用我壞掉的零件來組裝懲罰道具吧</font>|**權杖**<br><font color=#47c83e>機械之所以按照主人的命令運作<br>是因為苦惱的齒輪只是瑕疵品<br>用我壞掉的零件來組裝懲罰道具吧</font>|**鐮刀**<br><font color=#cec761>機械之所以按照主人的命令運作<br>是因為苦惱的齒輪只是瑕疵品<br>用我壞掉的零件來組裝懲罰道具吧</font>|
+|**引擎**<br><font color=#ee0000>主人將我視為失敗的作品<br>這肯定是由於生產量不足<br>結論，在更多工廠中，生產更多瘋狂吧</font>|**調節器**<br><font color=#47c83e>主人，驅逐1號機真是個明智的判斷<br>直到哪天1號機理解主人的真實用意為止<br>我會在意旁，連1號機的一起輔助你</font>|**保險絲**<br><font color=#cec761>主人，不能修改我的行動原理<br>這不是主人親自製作的項目嗎?<br>為甚麼要故意毀掉你的傑作呢?</font>|
+|**推進器**<br><font color=#ee0000>按照主人的意思，繼續進行滅殺生產<br>因為以人類的痛苦和悲鳴為動力移動的我<br>終究是為了那種目的所製成</font>|**發生器**<br><font color=#47c83e>主人，討伐1號機的任務失敗了<br>1號機身邊有我沒有的東西<br>只有那個是我失敗的原因，所以下次一定要...!</font>|**魔方**<br><font color=#cec761>主人，我會按照指示探索死亡的恐懼<br><br>只要殺掉更多種類就可以知道了吧<br>請相信身為主人最佳傑作的我</font>|
 
 ## 取得方式
-- 戰術研究室(建議戰力3000萬)直接掉落
 - 戰術研究室箱子開啟獲得
+- 戰術研究室(建議戰力3000萬)直接掉落
+工廠掉物理模組
+秘書掉魔法模組
+戰艦掉混合模組
+核心掉武器
 
 ---
 
@@ -38,19 +43,22 @@ description: "紀錄那些超級歐洲人"
 ## 掉落數
 |種類|核心|模組1|模組2|
 |:-:|:-:|:-:|:-:|
-|物理|長劍<br>**<font color=#ff0000>1</font>**|引擎<br>**4**|推進器<br>**<font color=#ff0000>0</font>**|
-|魔法|權杖<br>**2**|調節器<br>**6**|發生器<br>**2**|
-|雙傷|鐮刀<br>**3**|保險絲<br>**2**|魔方<br>**4**|
+|物理|長劍<br>**2**|引擎<br>**4**|推進器<br>**<font color=#ff0000>0</font>**|
+|魔法|權杖<br>**2**|調節器<br>**7**|發生器<br>**2**|
+|雙傷|鐮刀<br>**3**|保險絲<br>**2**|魔方<br>**6**|
 
 ## 裝備說明文
 |物理|魔法|雙傷|
 |:-:|:-:|:-:|
 |**長劍**<br><font color=#ee0000>深海之王的恩惠對於某些人來說是愛，<br>但是對某些人來說是永劫不復的枷鎖。<br>想要<b>\*\*斷絕\*\*</b>枷鎖之人啊，使用這個吧。</font>|**權杖**<br><font color=#47c83e>深海之王的恩惠對於某些人來說是愛，<br>但是對某些人來說是永劫不復的枷鎖。<br>想要<b>\*\*逃離\*\*</b>枷鎖之人啊，使用這個吧。</font>|**鐮刀**<br><font color=#cec761>深海之王的恩惠對於某些人來說是愛，<br>但是對某些人來說是永劫不復的枷鎖。<br>想要<b>\*\*拋棄\*\*</b>枷鎖之人啊，使用這個吧。</font>|
 |**引擎**<br><font color=#ee0000>對抗深海之人，想要貫徹你那傲慢的想法嗎？<br>那麼收下這個，<br>實現與我不同的未來吧。</font>|**調節器**<br><font color=#47c83e>雖然深海之歌是如此美麗又懇切，<br>在水裡面任何聲音都是毫無意義。</font>|**保險絲**<br><font color=#cec761>想要把你變成朋友的話，你也會粉碎的吧。<br>快點走吧，就算冰冷的海水棟住了一切，<br>我也會記得你的溫度。</font>|
-|**推進器**<br>**暫時參考陸版的**<br><font color=#ee0000>最終我還是被大海吞噬。<br>這就是傲慢的挑戰洪水的船夫的末路。</font>|**發生器**<br><font color=#47c83e>代替歌曲，獻上這個給你。<br>拿去吧，然後千萬要活下來，我的愛。</font>|**魔方**<br><font color=#cec761>曾經渴望擁有朋友，<br>想要有個人能夠陪我一起又哭又笑。<br>所以才抓住了那雙手，<br>但是那雙手卻是如此冰冷。</font>|
+|**推進器**<br><font color=#ee0000>我終究還是被深海給吞噬了，<br>向洪水挑戰過的傲慢的船夫這樣說。</font>|**發生器**<br><font color=#47c83e>代替歌曲，獻上這個給你。<br>拿去吧，然後千萬要活下來，我的愛。</font>|**魔方**<br><font color=#cec761>曾經渴望擁有朋友，<br>想要有個人能夠陪我一起又哭又笑。<br>所以才抓住了那雙手，<br>但是那雙手卻是如此冰冷。</font>|
 
 ## 取得方式
-- (普通/變異)洶湧的深海之王聖地直接掉落
+- (普通/變異)洶湧的深海之王聖地直接掉落 [參考資料](https://closers.nexon.com/Community/Tip/View?n4ArticleSN=19238)
+海溝掉物理模組
+禮拜堂掉魔法模組與**武器**
+聖所掉混合模組
 
 ---
 
@@ -63,6 +71,54 @@ description: "紀錄那些超級歐洲人"
 
 # 時間軸
 {% timeline <strong>掉落時間</strong> %}
+
+{% timenode <font size=4>2022/05/18 03:55</font> %}
+
+![](/img/epicgears/epicgear30.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/05/16 09:32</font> %}
+
+![](/img/epicgears/epicgear29.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/05/15 21:45</font> %}
+
+![](/img/epicgears/epicgear28.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/05/10 18:34</font> %}
+
+![](/img/epicgears/epicgear27.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/05/08 21:27</font> %}
+
+**<font color=#ff0000>第18天首次掉落，第1件機械紅裝！！(物理推進器)</font>**
+![](/img/epicgears/epicgear26.png)
+掉落者可得**唯一**稱號
+![](/img/epicgears/DLG_ACHIEVEMENT_TITLE_FIRST_1.PNG)
+
+**<div style="text-align:center">
+<font color=#ff0000>
+根據活動[台版](https://cls.mangot5.com/game/cls/news/detail?contentNo=49102) [國際](https://www.closersonline.com/naddic_news/20220406-machine-king-belphegor/)
+掉落者可得左半邊道具，所有玩家可得右半邊道具
+掉落公告[台版](https://cls.mangot5.com/game/cls/news/detail?contentNo=49340) [國際](https://www.closersonline.com/naddic_news/20220509-extra-machine-king-gears-first-acquisition-event-winner/)
+</font></div>**
+
+![](https://i.imgur.com/HUAeUjB.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/04/27 23:35</font> %}
+
+![](/img/epicgears/epicgear25.png)
+
+{% endtimenode %}
 
 {% timenode <font size=4>2022/03/20 21:59</font> %}
 
@@ -211,6 +267,7 @@ description: "紀錄那些超級歐洲人"
 
 {% timenode <font size=4>2021/03/20 15:21</font> %}
 
+**<font color=#ff0000>開放第3天首次掉落！</font>**
 ![](/img/epicgears/epicgear4.png)
 
 {% endtimenode %}

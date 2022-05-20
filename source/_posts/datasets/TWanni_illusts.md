@@ -6,7 +6,7 @@ tags:
     - 周年
     - 繪圖
 category: [遊戲資料,繪圖]
-cover: /img/anniversary/TW_22NY_Seth.png
+cover: /img/anniversary/TW5th_J.jpg
 description: "紀錄台版周年紀念使用過的官方/非官方立繪與登入圖等等"
 ---
 
@@ -14,11 +14,17 @@ description: "紀錄台版周年紀念使用過的官方/非官方立繪與登�
 
 ---
 
-# 2022新年台版限定立繪：賽特
+# 五周年官方紀念立繪：黑色風雲 - J
+[活動網址](https://cls.mangot5.com/game/cls/news/detail?contentNo=48862)
+![](/img/anniversary/TW5th_J.jpg)
+
+---
+
+# 2022新年台版限定立繪：萌虎雙子星 - 賽特x安娜
 [神秘商店活動](https://cls.mangot5.com/game/cls/news/detail?contentNo=48047)
 ![](/img/anniversary/TW_22NY_Seth.png)
 
-# 2021聖誕節台版限定立繪：露西
+# 2021聖誕節台版限定立繪：聖夜的獄棺姬 - 露西
 [此連結中](https://cls.mangot5.com/game/cls/event/detail/?contentNo=47692)第3個活動禮包購買(999元)
 ![](/img/anniversary/TW_Xmax_Lucy.png)
 

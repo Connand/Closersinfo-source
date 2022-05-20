@@ -12,6 +12,7 @@ menu:
   標籤: /tags/ || fas fa-tags
   分類: /categories/ || fas fa-folder-open
   遊戲攻略/資料 || fas fa-book-open || hide:
+    總覽: /categories/遊戲資料 || fas fa-book-open
     PNA資料: /categories/遊戲資料/PNA || fas fa-book-open
     繪圖圖庫: /categories/遊戲資料/繪圖 || fas fa-book-open
     裝備資訊: /categories/遊戲資料/裝備 || fas fa-book-open
@@ -19,11 +20,14 @@ menu:
     機率資料: /categories/遊戲資料/機率資料 || fas fa-book-open
     其他資料: /categories/遊戲資料/其他 || fas fa-book-open
   時裝 || fas fa-tshirt:
+    總覽: /categories/時裝 || fas fa-tshirt
     輝煌時裝: /categories/時裝/輝煌時裝/ || fas fa-tshirt
     高階時裝: /categories/時裝/高階時裝/ || fas fa-tshirt
     泳裝系列: /tags/泳裝/ || fas fa-sun
     全角色有立繪: /categories/時裝/有立繪/全角色/ || fas fa-tshirt
     部分角色有立繪: /categories/時裝/有立繪/限定角色/ || fas fa-tshirt
+    全角色無立繪: /categories/時裝/無立繪/全角色/ || fas fa-tshirt
+    部分角色無立繪: /categories/時裝/無立繪/限定角色/ || fas fa-tshirt
     瞳孔資料: https://drive.google.com/drive/u/0/folders/13jMkHLxNadtJ4f0AHYQlanXvrvkS651_ || fas fa-eye
   # 選單||fas fa-list:
   #   音樂: /music/ || fas fa-music
@@ -132,6 +136,8 @@ category_img:
 # format:
 #  - category name: xxxxx
 category_per_img:
+  時裝: https://i.imgur.com/ExxqHn9.jpg
+  遊戲資料: https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=4620737202442219771
 
 cover:
   # display the cover or not (是否顯示文章封面)
@@ -641,6 +647,7 @@ subtitle:
   sub:
     - 測試站建置中，預計未來取代主站
     - 有使用上的問題或建議歡迎回報！
+    - 建議使用電腦瀏覽此網站
     - 次元戰爭永不停歇
 
 # Loading Animation (加載動畫)

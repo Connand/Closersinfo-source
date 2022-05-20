@@ -1,7 +1,7 @@
 top:
   - class_name: dungeons-today
     id_name: dungeons-today
-    name: '今天開放副本（台版）'
+    name: '今天開放調查本（台版）'
     icon: fas fa-flag-checkered
     order: 1
-    html: '【2021/10/14縱慾王<a href="https://cls.mangot5.com/game/cls/news/detail?contentNo=46736" rel="external nofollow noreferrer" target="_blank">更新時程</a>】<div id="schedule"></div><br><div id="mockBattleInfo"><b>第 2 季</b><a href="https://cls.mangot5.com/game/cls/news/detail?contentNo=46589" rel="external nofollow noreferrer" target="_blank">模擬戰</a></div><b>結算日期</b>：<br><div id="mockBattleEnd"></div><div id="mockBattle"></div>'
+    html: '【2022/04/21機械王<a href="https://cls.mangot5.com/game/cls/news/detail?contentNo=49121" rel="external nofollow noreferrer" target="_blank">更新時程</a>】<br><b>除調查本，其他特殊副本已改為每周入場</b><div id="schedule"></div><br><div id="mockBattleInfo"><b>第 2 季</b><a href="https://cls.mangot5.com/game/cls/news/detail?contentNo=46589" rel="external nofollow noreferrer" target="_blank">模擬戰</a></div><b>結算日期</b>：<br><div id="mockBattleEnd"></div><div id="mockBattle"></div>'

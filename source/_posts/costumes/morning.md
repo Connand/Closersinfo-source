@@ -31,7 +31,7 @@ description: ""
 
 ---
 ## 懶洋洋襯衫
-混搭立繪：B
+混搭立繪：C
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉下部 green %} 
 
@@ -122,7 +122,7 @@ description: ""
 {% endtabs %}
 <!-- endtab -->
 
-<!-- tab B型(混搭)-->
+<!-- tab B型-->
 {% tabs B型角色立繪 %}
 <!-- tab 李世河(Seha)-->
 ![](https://i.imgur.com/OQJIl90.jpg)
@@ -203,7 +203,7 @@ description: ""
 {% endtabs %}
 <!-- endtab -->
 
-<!-- tab C型-->
+<!-- tab C型(混搭)-->
 {% tabs C型角色立繪 %}
 <!-- tab 李世河(Seha)-->
 ![](https://i.imgur.com/JVBAlmc.jpg)

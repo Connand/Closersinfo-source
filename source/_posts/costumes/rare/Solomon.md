@@ -37,7 +37,7 @@ description: "第二套輝煌時裝(Unique costume)"
 
 
 
-台版介紹網頁(台版尚未推出)
+[台版介紹網頁](https://landing.mangot5.com/template/cls/event/211223_solomon/index.html)
 [韓版官網立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_210128.zip)
 
 所需十件套才可啟動立繪、語音、特效；動作擁有六件套即可
@@ -54,7 +54,9 @@ description: "第二套輝煌時裝(Unique costume)"
 ![](https://i.imgur.com/0UIwMpa.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
+立繪已修改，但是圖包尚未更新(下方**수정 후**為新立繪)
 ![](https://i.imgur.com/JVbZzNN.jpg)
+![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4981004208896475145)
 <!-- endtab -->
 <!-- tab J-->
 ![](https://i.imgur.com/Lkhom1H.jpg)
@@ -72,7 +74,9 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- tab 紅狼小隊-->
 {% tabs 紅狼小隊立繪 %}
 <!-- tab 納塔(Nata)-->
+立繪已修改，但是圖包尚未更新(下方**수정 후**為新立繪)
 ![](https://i.imgur.com/1YsLFKy.jpg)
+![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4836888969281011727)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
 ![](https://i.imgur.com/As6AQVH.jpg)

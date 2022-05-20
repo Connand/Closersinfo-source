@@ -29,13 +29,12 @@ https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/
 
 ## 核心合成
 
-**使用3個相同等級(例如傳說或覺醒等)的技能核心可以進行合成**
+**使用3個相同等級(例如傳說或覺醒等)的技能核心可以進行合成，10%機率可以合成到高一階的核心**
 
 ![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4764902053224907063)
 
 ### 目前取得技能核心的管道
 此系統開放後，取得技能核心箱子的管道將會受約束(尤其是製作機與販賣機)
-**<font color=#ff0000>建議台版尚未開放前，先多準備一些，越多越好</font>**
 1. PVP商店
 1. 貢獻度(榮譽)商店
 1. 平原之門製作機->特殊作戰區域
@@ -50,17 +49,17 @@ https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/
 {%youtube N8BPDRTKyg8 %}
 
 ### 取得來源
-新舊覺醒技能核心取得方式如下
-- 舊覺醒技能核心(雷本覺醒)
+新舊覺醒技能核心取得方式如下 **<font color=#ff0000>請注意新舊覺醒道具圖外框四角的差別</font>**
+- 舊覺醒技能核心(雷本覺醒) {% inlineImg https://i.imgur.com/1GGW1T1.png 64px %}
 	1. 平原之門深層製作機：可製作各一個自身角色的覺醒技能。 **<font color=#ff0000>製作限制：每個角色1次</font>**
 	![](https://i.imgur.com/gSpLPD7.png)
 	![](https://i.imgur.com/LYV6G59.png)
 	2. 使用覺醒技能核心合成(90%機率)
 	3. 使用傳說或菁英核心合成(10%機率)
-	4. 未鑑定覺醒技能核心(90%機率 **<font color=#ff0000>通關軍團程式WAVE 10</font>** )
-- 新覺醒技能核心
+	4. 未鑑定覺醒技能核心(不可交易，90%機率 **<font color=#ff0000>通關軍團程式WAVE 10</font>** )
+- 新覺醒技能核心 {% inlineImg https://i.imgur.com/LrllCYr.png 64px %}
 	1. 使用覺醒技能核心合成(10%機率)
-	2. 未鑑定覺醒技能核心(10%機率)
+	2. 未鑑定覺醒技能核心(可交易，10%機率 **<font color=#ff0000>通關軍團程式WAVE 10</font>** )
 	![](https://i.imgur.com/TqehvR7.png)
 
 
@@ -77,10 +76,15 @@ https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/
 ## 入場
 
 入場建議戰力為1000萬，當然基本上無法通關WAVE 10
-依據經驗得出，若想通關食蟲型的WAVE 10，所需戰力大約如下
+依據經驗得出，若想通關食蟲型的WAVE 10，所需戰力大約如下 **<font color=#ff0000>(撇除使用BUG的情況)</font>**
 **<font color=#ff0000>需要食蟲型增傷260%以上(突變20因素滿重組)</font>**
 - 李世河：3000~3200萬
 - 米斯特汀、露西：2000~2200萬
 - 其他角色：2500~2800萬
+
+## 樓層獎勵
+|無追加獎勵|有追加獎勵|
+|:-:|:-:|
+|![](https://i.imgur.com/Ot9RMCc.png)|![](https://i.imgur.com/6HNLzbf.png)|
 
 (未完工)
