@@ -1,6 +1,6 @@
 ---
 title: 史詩裝備掉落紀錄(0615單日3掉落)
-date: 2021-09-07 13:45:59
+date: 2021-09-07 14:45:59
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
 cover: https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=4764852390518072813
