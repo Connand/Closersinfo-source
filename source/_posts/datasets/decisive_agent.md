@@ -100,7 +100,8 @@ description: "五轉介紹與資訊"
 
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
-
+![](/img/decisive_illust/Nata.jpg)
+{%youtube jFQNIt_E5o4 %}
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
 ![](/img/decisive_illust/Levia.jpg)
@@ -198,6 +199,12 @@ description: "五轉介紹與資訊"
 [宣傳頁面(超一線！)](https://closers.nexon.com/Events2022/0503/advancement)
 {% hideToggle 登入畫面 %}
 {%youtube VvA0hW-paJc %}
+{% endhideToggle %}
+
+## 2022/06/02: 納塔
+[宣傳頁面](https://closers.nexon.com/Events2022/0602/advancement)
+{% hideToggle 登入畫面 %}
+{%youtube 94zP6qT3rOY %}
 {% endhideToggle %}
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 史詩裝備掉落紀錄(0516首件機械紅裝)
+title: 史詩裝備掉落紀錄(0615單日3掉落)
 date: 2021-09-07 13:45:59
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
@@ -8,9 +8,8 @@ description: "紀錄那些超級歐洲人"
 ---
 
 # 目前記錄已掉落數量
-**<font size=5 color=#000000>30件 = 28深海 + <font size=5 color=#ff0000>2機械</font></font>**
-**<font size=4 color=#ff0000>2022/05/08 21:27 第1件機械紅裝！！</font>**
-**<font color=#ff0000>2022/05/18 03:55 第2件機械紅裝！</font>**
+**<font size=5 color=#000000>41件 = 36深海 + 5機械</font>**
+**<font size=5 color=#ff0000>第1把機械魔法權杖、第1顆深海物理推進器！！</font>**
 
 ---
 
@@ -19,8 +18,8 @@ description: "紀錄那些超級歐洲人"
 |種類|核心|模組1|模組2|
 |:-:|:-:|:-:|:-:|
 |物理|長劍<br>**<font color=#ff0000>0</font>**|引擎<br>**<font color=#ff0000>0</font>**|推進器<br>**1**|
-|魔法|權杖<br>**<font color=#ff0000>0</font>**|調節器<br>**<font color=#ff0000>0</font>**|發生器<br>**<font color=#ff0000>0</font>**|
-|雙傷|鐮刀<br>**<font color=#ff0000>0</font>**|保險絲<br>**<font color=#ff0000>0</font>**|魔方<br>**1**|
+|魔法|權杖<br>**1**|調節器<br>**<font color=#ff0000>0</font>**|發生器<br>**<font color=#ff0000>0</font>**|
+|雙傷|鐮刀<br>**<font color=#ff0000>0</font>**|保險絲<br>**1**|魔方<br>**2**|
 
 ## 裝備說明文
 |物理|魔法|雙傷|
@@ -32,10 +31,10 @@ description: "紀錄那些超級歐洲人"
 ## 取得方式
 - 戰術研究室箱子開啟獲得
 - 戰術研究室(建議戰力3000萬)直接掉落
-工廠掉物理模組
+~~工廠掉物理模組
 秘書掉魔法模組
 戰艦掉混合模組
-核心掉武器
+核心掉武器~~
 
 ---
 
@@ -43,9 +42,9 @@ description: "紀錄那些超級歐洲人"
 ## 掉落數
 |種類|核心|模組1|模組2|
 |:-:|:-:|:-:|:-:|
-|物理|長劍<br>**2**|引擎<br>**4**|推進器<br>**<font color=#ff0000>0</font>**|
-|魔法|權杖<br>**2**|調節器<br>**7**|發生器<br>**2**|
-|雙傷|鐮刀<br>**3**|保險絲<br>**2**|魔方<br>**6**|
+|物理|長劍<br>**3**|引擎<br>**4**|推進器<br>**1**|
+|魔法|權杖<br>**5**|調節器<br>**7**|發生器<br>**3**|
+|雙傷|鐮刀<br>**4**|保險絲<br>**2**|魔方<br>**7**|
 
 ## 裝備說明文
 |物理|魔法|雙傷|
@@ -72,26 +71,107 @@ description: "紀錄那些超級歐洲人"
 # 時間軸
 {% timeline <strong>掉落時間</strong> %}
 
+{% timenode <font size=4>2022/06/19 00:24</font> %}
+
+**第1顆機械保險絲**
+![](/img/epicgears/epicgear41.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/06/18 14:47</font> %}
+
+**第5把深海權杖**
+![](/img/epicgears/epicgear40.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/06/15 23:08</font> %}
+
+**第4把深海權杖**
+![](/img/epicgears/epicgear39.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/06/15 20:45</font> %}
+
+**第2顆機械魔方**
+![](/img/epicgears/epicgear38.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/06/15 00:55</font> %}
+
+**第4把深海鐮刀**
+![](/img/epicgears/epicgear37.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/06/10 23:09</font> %}
+
+**第7顆深海魔方**
+![](/img/epicgears/epicgear36.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/06/05 21:05</font> %}
+
+**第1把機械權杖**
+![](/img/epicgears/epicgear35.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/06/05 02:22</font> %}
+
+**第1顆深海推進器**
+![](/img/epicgears/epicgear34.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/05/28 00:06</font> %}
+
+**第3把深海權杖**
+![](/img/epicgears/epicgear33.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/05/21 23:56</font> %}
+
+**第3顆深海發生器**
+![](/img/epicgears/epicgear32.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/05/21 23:13</font> %}
+
+**第3把深海長劍**
+![](/img/epicgears/epicgear31.png)
+
+{% endtimenode %}
+
 {% timenode <font size=4>2022/05/18 03:55</font> %}
 
+**第1顆機械魔方**
 ![](/img/epicgears/epicgear30.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2022/05/16 09:32</font> %}
 
+**第7顆深海調節器**
 ![](/img/epicgears/epicgear29.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2022/05/15 21:45</font> %}
 
+**第6顆深海魔方**
 ![](/img/epicgears/epicgear28.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2022/05/10 18:34</font> %}
 
+**第5顆深海魔方**
 ![](/img/epicgears/epicgear27.png)
 
 {% endtimenode %}
@@ -116,12 +196,14 @@ description: "紀錄那些超級歐洲人"
 
 {% timenode <font size=4>2022/04/27 23:35</font> %}
 
+**第2把深海長劍**
 ![](/img/epicgears/epicgear25.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2022/03/20 21:59</font> %}
 
+**第6顆深海調節器**
 ![](/img/epicgears/epicgear24.png)
 
 {% endtimenode %}

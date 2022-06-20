@@ -164,4 +164,68 @@ description: "Vow of Love"
 {% endtabs %}
 <!-- endtab -->
 
+<!-- tab 模組-->
+**<font size=5>左中右分別為ABC型</font>**
+~~若覺得太模糊，可以到神奇的[這邊](https://union.codeclosers.to/index.php?/topic/928-gacha-vow-of-love/)來看~~
+{% tabs 模組圖 %}
+<!-- tab 李世河(Seha)-->
+![](https://i.imgur.com/p601CsW.png)
+<!-- endtab -->
+<!-- tab 李雪菲(Seulbi)-->
+![](https://i.imgur.com/73gRSaY.png)
+<!-- endtab -->
+<!-- tab 徐維莉(Yuri)-->
+![](https://i.imgur.com/zpEc1ng.png)
+<!-- endtab -->
+<!-- tab J-->
+![](https://i.imgur.com/AUbxyMQ.png)
+<!-- endtab -->
+<!-- tab 米斯特汀(Tein)-->
+![](https://i.imgur.com/WufWA6K.png)
+<!-- endtab -->
+<!-- tab 納塔(Nata)-->
+![](https://i.imgur.com/Ia7QSmY.png)
+<!-- endtab -->
+<!-- tab 蕾比雅(Levia)-->
+![](https://i.imgur.com/ZRhtSsA.png)
+<!-- endtab -->
+<!-- tab 哈比(Harpy)-->
+![](https://i.imgur.com/deSrpb1.png)
+<!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+![](https://i.imgur.com/bp3zmkL.png)
+<!-- endtab -->
+<!-- tab 薇歐莉特(Violet)-->
+![](https://i.imgur.com/h829i5w.png)
+<!-- endtab -->
+<!-- tab 沃爾夫姜(Wolfgang)-->
+![](https://i.imgur.com/EO9X4TV.png)
+<!-- endtab -->
+<!-- tab 露娜(Luna)-->
+![](https://i.imgur.com/2BWt2WY.png)
+<!-- endtab -->
+<!-- tab 索瑪(Soma)-->
+![](https://i.imgur.com/A7rcbpp.png)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+![](https://i.imgur.com/fEpaEzs.png)
+<!-- endtab -->
+<!-- tab 賽特(Seth)-->
+![](https://i.imgur.com/AFrK9uJ.png)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+![](https://i.imgur.com/aNfWk5L.png)
+<!-- endtab -->
+<!-- tab 徹斯(Chulsoo)-->
+![](https://i.imgur.com/RwbeMZO.png)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+![](https://i.imgur.com/oAG7x5f.png)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+![](https://i.imgur.com/D4IkQbO.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
 {% endtabs %}

@@ -3,25 +3,12 @@ title: 奇蹟校園少女(暫譯)
 date: 2022-05-01 12:09:15
 tags:
     - 立繪時裝
-    - 李世河
     - 李雪菲
     - 徐維莉
-    - J
-    - 米斯特汀
-    - 納塔
-    - 蕾比雅
-    - 哈比
-    - 緹娜
-    - 薇歐莉特
-    - 沃爾夫姜
     - 露娜
     - 索瑪
-    - 白
-    - 賽特
     - 未來
-    - 金徹斯
     - 銀河
-    - 露西
 category: [時裝, 有立繪, 限定角色]
 cover: https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=4908967578593929082
 description: "Miracle School Girls"
