@@ -103,5 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Connand/Connand.github.io.git
+  repo: https://github.com/Connand/Connand.github.io.git
   branch: main
