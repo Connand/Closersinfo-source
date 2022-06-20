@@ -211,44 +211,49 @@ description: "紀錄那些超級歐洲人"
 {% timenode <font size=4>2022/02/12 17:42</font> %}
 
 **<font color=#ff0000>第1把物理武器！！</font>**
+**第1把深海長劍**
 ![](/img/epicgears/epicgear23.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2022/01/31 01:52</font> %}
 
+**第4顆深海魔方**
 ![](/img/epicgears/epicgear22.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2022/01/23 23:52</font> %}
 
+**第5顆深海調節器**
 ![](/img/epicgears/epicgear21.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2022/01/02 00:52</font> %}
 
+**第4顆深海調節器**
 ![](/img/epicgears/epicgear20.png)
 
 {% endtimenode %}
 
 {% timenode **<font size=4 color=#ff0000>2022/01/01 21:30</font>** %}
 
-**第3把雙修武器(鐮刀)**
+**第3把深海鐮刀**
 ![](/img/epicgears/epicgear19.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/11/27 21:38</font> %}
 
-**第2把魔法武器(權杖)**
+**第2把深海權杖**
 ![](/img/epicgears/epicgear18.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/11/21 22:49</font> %}
 
+**第3顆深海調節器**
 ![](/img/epicgears/epicgear17.png)
 ![](/img/epicgears/epicgear17_1.png)
 
@@ -256,93 +261,105 @@ description: "紀錄那些超級歐洲人"
 
 {% timenode <font size=4>2021/11/14 17:26</font> %}
 
+**第4顆深海引擎**
 ![](/img/epicgears/epicgear16.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/11/08 01:19</font> %}
 
+**第2顆深海發生器**
 ![](/img/epicgears/epicgear15.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/11/07 14:43</font> %}
 
-**第1把魔法武器(權杖)**
+**第1把深海權杖**
 ![](/img/epicgears/epicgear14.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/11/03 00:01</font> %}
 
+**第2顆深海調節器**
 ![](/img/epicgears/epicgear13.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/10/21 17:14</font> %}
 
-**第2把鐮刀**
+**第2把深海鐮刀**
 ![](/img/epicgears/epicgear12.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/10/16 00:17</font> %}
 
-**第1把雙傷武器(鐮刀)**
+**第1把深海鐮刀**
 ![](/img/epicgears/epicgear11.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/10/15 23:13</font> %}
 
+**第3顆深海魔方**
 ![](/img/epicgears/epicgear10.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/09/25 16:56</font> %}
 
+**第2顆深海保險絲**
 ![](/img/epicgears/epicgear9.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/09/21 21:08</font> %}
 
+**第3顆深海引擎**
 ![](/img/epicgears/epicgear8.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/09/19 22:00</font> %}
 
+**第2顆深海引擎**
 ![](/img/epicgears/epicgear7.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/09/11 5:31</font> %}
 
+**第2顆深海魔方**
 ![](/img/epicgears/epicgear6.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/09/05 1:45</font> %}
 
+**第1顆深海引擎**
 ![](/img/epicgears/epicgear2.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/08/21 8:17</font> %}
 
+**第1顆深海調節器**
 ![](/img/epicgears/epicgear1.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/08/07 18:21</font> %}
 
+**第1顆深海發生器**
 ![](/img/epicgears/epicgear3.png)
 
 {% endtimenode %}
 
 {% timenode <font size=4>2021/03/21 18:33</font> %}
 
+**第1顆深海保險絲**
 ![](/img/epicgears/epicgear5.png)
 
 {% endtimenode %}
@@ -350,6 +367,7 @@ description: "紀錄那些超級歐洲人"
 {% timenode <font size=4>2021/03/20 15:21</font> %}
 
 **<font color=#ff0000>開放第3天首次掉落！</font>**
+**第1顆深海魔方**
 ![](/img/epicgears/epicgear4.png)
 
 {% endtimenode %}
