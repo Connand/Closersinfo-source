@@ -27,10 +27,11 @@ PNA LV：80
 | 順序 |  | 種族 |  |
 | :--------: | :--------: | :--------: | :--------: |
 |1|{%inlineImg https://i.imgur.com/I6BPtrp.png 64px%}<br>海底型 ARIDUS<br>**會面/決戰深海，模擬戰**|{%inlineImg https://i.imgur.com/HoxQxvb.png 64px%}<br>食蟲型 MODESTUS<br>**軍團計畫，模擬戰**|{%inlineImg https://i.imgur.com/FWfg4L0.png 64px%}<br>魔龍型 PLACIDUS<br>**古龍系列(含龍之刑場)，模擬戰**|
-|2|{%inlineImg https://i.imgur.com/acS6rsI.png 64px%}<br>前腦型 SORDIDUS<br>**格莫瑞系列，模擬戰，機械王**|{%inlineImg https://i.imgur.com/KOAPxLX.png 64px%}<br>人類型 INHUMANUS<br>**釜山與Centum City決戰項目**|{%inlineImg https://i.imgur.com/t8j9844.png 64px%}<br>使徒型 LAPSUS<br>**模擬戰**|
-|3|{%inlineImg https://i.imgur.com/8ONbMJo.png 64px%}<br>野生型<br>**打點什麼**|{%inlineImg https://i.imgur.com/3FV9pDB.png 64px%}<br>業火型<br>**看起來比較整齊**|{%inlineImg https://i.imgur.com/gdXdckN.png 64px%}<br>特異型<br>**部分類似舊版超越型**|
+|2|{%inlineImg https://i.imgur.com/acS6rsI.png 64px%}<br>前腦型 SORDIDUS<br>**格莫瑞系列，模擬戰，機械王**|{%inlineImg https://i.imgur.com/KOAPxLX.png 64px%}<br>人類型 INHUMANUS<br>**釜山與Centum City決戰項目**|{%inlineImg https://i.imgur.com/t8j9844.png 64px%}<br>使徒型 LAPSUS<br>**模擬戰，白夜要塞**|
+|3|{%inlineImg https://i.imgur.com/8ONbMJo.png 64px%}<br>野生型 DOMITUS<br>**野獸王**|{%inlineImg https://i.imgur.com/3FV9pDB.png 64px%}<br>業火型<br>**打點什麼**|{%inlineImg https://i.imgur.com/gdXdckN.png 64px%}<br>特異型<br>**看起來比較整齊**|
 
-* 目前尚未開放(3類) **野獸型、業火型、特異型**
+* 韓版於2022/06/30 更新開放**野生型**
+* 目前尚未開放 **業火型、特異型**
 
 ---
 
@@ -130,7 +131,7 @@ PNA工具箱可將材料需求減半
 
 各種族 **<font color=#ff0000>突變基因(每階段只能選擇一個)</font>** 屬性所提供的效果及副作用皆不相同，在此稍微整理
 
-由於都可進行強化且BONUS效果都不同，因此只列出原始的效果
+由於都可進行 **<font color=#ff0000>重組</font>** 且BONUS效果都不同~~整理起來比較複雜~~，因此只列出原始的效果
 
 會影響站街戰力，~~戰力榜請注意~~
 
@@ -139,7 +140,7 @@ PNA工具箱可將材料需求減半
 ## 各種族相似效果
 
 * LV5：對該種族增加10.10%傷害
-* LV20：物理&魔法攻擊力+101、 **<font color=#ff0000>對該種族增加50.50%傷害(重組100%時增傷為100%+50%)</font>**
+* LV20：<br>1. 物理&魔法攻擊力+101<br>2. **<font color=#ff0000>對該種族增加50.50%傷害(重組100%時增傷為100%+50%)</font>**
 
 ---
 
@@ -204,8 +205,17 @@ PNA工具箱可將材料需求減半
 物理/魔法爆擊傷害 +12.24%，物理爆擊機率 -40%
 <!-- endtab -->
 
+<!-- tab 野生型-->
+* **野生型：**
+
+物理攻擊力 +102
+
+魔法攻擊力 +102
+
+物理&魔法攻擊力 +81.6
+<!-- endtab -->
+
 <!-- tab 未開放-->
-* **野獸型：**未開放
 * **業火型：**未開放
 * **特異型：**未開放
 <!-- endtab -->
@@ -268,8 +278,15 @@ HP +1010，3秒回復HP 30.60
 MP +505，3秒回復MP 15.30
 <!-- endtab -->
 
+<!-- tab 野生型-->
+* **野生型：**
+
+移動速度5.05 ~ 10%
+
+移動速度50.5 ~ 100
+<!-- endtab -->
+
 <!-- tab 未開放-->
-* **野獸型：**未開放
 * **業火型：**未開放
 * **特異型：**未開放
 <!-- endtab -->
@@ -343,3 +360,4 @@ MP +505，3秒回復MP 15.30
 |博士的完美PNA教室(帳號稱號)|成就->作戰區域->高級作戰區域<br>->**通關格莫瑞科學設施成就6階段：<br>通關100場(普通/溫和都算入)**|獲得經驗值+30%<br>**<font color=#ff0000>獲得PNA經驗+30%</font>**|
 |團隊增益|配置最後一條|**滿180時**：<br>獲得金幣+15%<br>獲得道具+30%<br>獲得經驗值+15%<br>**<font color=#ff0000>獲得PNA經驗+15%</font>**|
 
+---

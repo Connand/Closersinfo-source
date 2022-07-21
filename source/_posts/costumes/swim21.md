@@ -35,11 +35,13 @@ description: "2021泳裝系列"
 ## 主題曲：ICE CREAM
 {%youtube lxwhsF334eg %}
 
+---
 
-部位：髮型、 **上衣、下衣(2種)** 、手套、鞋子、{% label 臉下 green %}
+部位：髮型、 **上衣(2種)、下衣(2種)** 、手套、鞋子、{% label 臉下 green %}
 
-**每個角色都有另類時裝(均為上衣)，可解鎖額外立繪**
-**綁定型號(模組分ABC三型)，此次泳裝沒有混搭類型**
+
+**單一立繪，模組分ABC三型(混搭即可得普通立繪)**
+**每個角色都有另類時裝(上衣跟下衣)，可解鎖特殊立繪**
 [台版公告](https://cls.mangot5.com/game/cls/notice/detail/?contentNo=45426)
 [韓版頁面](https://closers.nexon.com/Events2021/0715/Costume)
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)

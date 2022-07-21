@@ -23,11 +23,11 @@ tags:
     - 銀河
     - 露西
 category: [時裝, 有立繪, 全角色]
-cover: https://ssl.nx.com/s2/game/closers/2015/pds/044/1920x1080.jpg
+cover: https://ssl.nexon.com/s2/game/closers/2015/pds/044/1920x1080.jpg
 description: "Alice in Wonderland"
 ---
 
-![](https://ssl.nx.com/s2/game/closers/2015/pds/044/1920x1080.jpg)
+![](https://ssl.nexon.com/s2/game/closers/2015/pds/044/1920x1080.jpg)
 
 ---
 ## Alice in Wonderland

@@ -6,6 +6,8 @@ tags:
     - 徐維莉
     - 白
     - 賽特
+    - 緹娜
+    - 露西
 category: [時裝, 有立繪, 限定角色]
 cover: https://i.imgur.com/lFp8nNv.jpg
 description: ""
@@ -16,11 +18,13 @@ description: ""
 ---
 ## 甜心棒棒糖
 
+第一次限定：徐維莉、白、賽特
+第二次限定：緹娜、露西
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉下部 green %}
 
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_lollipop_d1bx.zip)
+[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_lollipop_220310.zip)
 ---
 
 {% tabs 類型 %}
@@ -34,6 +38,12 @@ description: ""
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
 ![](https://i.imgur.com/va2H33T.jpg)
+<!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+![](https://i.imgur.com/MrtNZtq.jpg)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+![](https://i.imgur.com/wDbSjAU.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -52,6 +62,12 @@ description: ""
 ![](https://i.imgur.com/wivjVgv.jpg)
 ![](https://i.imgur.com/IKKSJOO.png)
 <!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+![](https://i.imgur.com/Wx4qDDH.jpg)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+![](https://i.imgur.com/Hl6y5pQ.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -69,6 +85,12 @@ description: ""
 ![](https://i.imgur.com/qMJTP75.jpg)
 ![](https://i.imgur.com/cosmNAD.png)
 <!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+![](https://i.imgur.com/YJAC0SY.jpg)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+![](https://i.imgur.com/8CMEo6w.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -85,6 +107,12 @@ description: ""
 <!-- tab 賽特(Seth)-->
 ![](https://i.imgur.com/kmimBOl.jpg)
 ![](https://i.imgur.com/9gd0nS0.png)
+<!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+![](https://i.imgur.com/cnq1XLb.jpg)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+![](https://i.imgur.com/Cco8aFr.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

@@ -23,11 +23,11 @@ tags:
     - 銀河
     - 露西
 category: [時裝, 有立繪, 全角色]
-cover: https://i1.wp.com/s.nx.com/s2/game/closers/2015/pds/040/1920x1080.jpg?w=1170
+cover: https://ssl.nexon.com/s2/game/closers/2015/pds/040/1920x1080.jpg
 description: ""
 ---
 
-![](https://i1.wp.com/s.nx.com/s2/game/closers/2015/pds/040/1920x1080.jpg?w=1170)
+![](https://ssl.nexon.com/s2/game/closers/2015/pds/040/1920x1080.jpg)
 
 ---
 - 2019/09/26初發布：**李世河、李雪菲、納塔、哈比、露娜、賽特、未來**

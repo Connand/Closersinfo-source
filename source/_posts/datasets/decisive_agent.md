@@ -33,9 +33,9 @@ description: "五轉介紹與資訊"
 五轉為韓版七周年大更新 - **The Character: 7 Years in New-Seoul** - 的重點更新
 似乎在為之後新地圖：白夜要塞(15村)進行鋪陳
 
-黑羊、夜梟的職位名稱為 **Prime Agent**
-紅狼的職位名稱為 **Fatal Crew**
-嚙鼠的職位名稱為 **Shadow Agent**
+黑羊、夜梟的職位名稱為 **Prime Agent** (決戰特工)
+紅狼的職位名稱為 **Fatal Crew** (誓死隊員)
+嚙鼠的職位名稱為 **Shadow Agent** (暗影特工)
 
 ## 職業卡片
 |黑羊|紅狼|夜梟|嚙鼠|
@@ -63,19 +63,19 @@ description: "五轉介紹與資訊"
 
 # 技能點數
 - 被動技能：每等消耗2 SP，滿等10等 (共需20 SP，下列10等數值)
-白：總物理/魔法攻擊力+4.25%
-未來：總物理攻擊力+6%
+雙傷：總物理/魔法攻擊力+4.25%
+單傷：總攻擊力+6%
 - 主動技能1：**被動3等時解鎖**，每等消耗5 SP，滿等3等 (共需15 SP，CD 30秒)
 - 主動技能2：**被動5等時解鎖**，每等消耗5 SP，滿等3等 (共需15 SP，CD 50秒)
-- **<font color=#FF0000>終結技</font>**：**被動10等時解鎖**，每等消耗20 SP，滿等1等 
+- **<font color=#FF0000>終結技</font>**：**被動10等時解鎖**，每等消耗20 SP，滿等1等 (**<font color=#FF0000>武器的SS重鑄可洗+1等</font>**)
 
 **<font color=#FF0000>終結技施放後獲得一狀態，此狀態導致無法再施放終結技，無法透過死亡重置，因此每場戰鬥只能施放一次</font>**
 **倍率參考值：216000%(白) 216666%(未來) 182001%真傷(李世河) 285998%(緹娜)**
-**施放期間無法使用其他技能(無敵狀態)，並獲得永久BUFF：攻擊速度+5%、造成的傷害+5%、物理/魔法攻擊力+100**
+**施放期間無法使用其他技能(一般無敵狀態)，並獲得永久BUFF：攻擊速度+5%、造成的傷害+5%、物理/魔法攻擊力+100**
 
 **<font color=#FF0000>因此所有技能點滿需要70 SP</font>**
 **[2021/12/30更新](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=520)：黑羊、紅狼、夜梟小隊的三轉EX技能限制放寬**
-**前置從需要10等改為1等就開放EX技能，因此會多出54 SP來緩解5轉SP不夠的問題**
+**前置從需要10等改為1等就開放EX技能，因此會多出54 SP來緩解5轉SP不夠的問題(台版於2022/06/30跟上此更新)**
 ---
 
 # 立繪與宣傳影片
@@ -90,7 +90,8 @@ description: "五轉介紹與資訊"
 {%youtube bXBLoeXEeP4 %}
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-
+![](/img/decisive_illust/Yuri.png)
+{%youtube HvRQzkK-v9w %}
 <!-- endtab -->
 <!-- tab J-->
 ![](/img/decisive_illust/J.jpg)
@@ -129,7 +130,8 @@ description: "五轉介紹與資訊"
 {%youtube ryPfTcbsL0c %}
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-
+![](/img/decisive_illust/Soma.png)
+{%youtube jxTxZULWKf8 %}
 <!-- endtab -->
 <!-- tab 白(Bai)-->
 ![](/img/decisive_illust/Bai.png)
@@ -151,7 +153,8 @@ description: "五轉介紹與資訊"
 
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-
+![](/img/decisive_illust/Lucy.png)
+{%youtube IXbq2wTtCI4 %}
 <!-- endtab -->
 {% endtabs %}
 
@@ -206,5 +209,19 @@ description: "五轉介紹與資訊"
 {% hideToggle 登入畫面 %}
 {%youtube 94zP6qT3rOY %}
 {% endhideToggle %}
+
+## 2022/06/30: 索瑪
+[宣傳頁面(居然又變PNG圖檔了)](https://closers.nexon.com/Events2022/0630/Advancement)
+{% hideToggle 登入畫面 %}
+{%youtube kfQeV9BO-4I %}
+{% endhideToggle %}
+
+## 2022/07/14: 徐維莉、露西
+[宣傳頁面(竟然又一次兩隻了)](https://closers.nexon.com/Events2022/0714/Advancement)
+{% hideToggle 登入畫面 %}
+{%youtube TvYu-63sH2E %}
+{% endhideToggle %}
+
+**<font size=5 color=#FF0000>尚未開放：小米、哈比、VR、銀河</font>**
 
 ---

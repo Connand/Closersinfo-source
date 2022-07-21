@@ -44,7 +44,7 @@ description: "Holy Night"
 {%youtube IYI2xBhZJHk %}
 **湊齊左五以及帽子、腰部可解鎖特殊動作**
 男生動作
-
+![](https://i.imgur.com/70L7nbR.gif)
 女生動作
 ![](https://i.imgur.com/lSZekXn.gif)
 
