@@ -31,4 +31,5 @@ jobs:
         npm install -g hexo-cli
     - name: C) hexo d -g
       run: |
+        git clone https://github.com/Connand/Connand.github.io public
         hexo d -g
