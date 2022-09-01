@@ -70,7 +70,29 @@ description: "五轉介紹與資訊"
 - **<font color=#FF0000>終結技</font>**：**被動10等時解鎖**，每等消耗20 SP，滿等1等 (**<font color=#FF0000>武器的SS重鑄可洗+1等</font>**)
 
 **<font color=#FF0000>終結技施放後獲得一狀態，此狀態導致無法再施放終結技，無法透過死亡重置，因此每場戰鬥只能施放一次</font>**
-**倍率參考值：216000%(白) 216666%(未來) 182001%真傷(李世河) 285998%(緹娜)**
+{% hideToggle 終極技倍率參考值 %}
+| 角色 | 倍率(Lv. 1) | 成長值 | 倍率(Lv. 2) |
+| :--------: | :--------: | :--------: | :--------: |
+| PSP | 182001% **真傷** | 27300% | 209301% **真傷** |
+| 雪菲 | 195000% + 65000%**真傷** | 29250.4% + 9750% | 224250.4% + 74750%**真傷** |
+| 維莉 | **雙傷** 143000% | 21450% | **雙傷** 164450% |
+| J | 234000% | 35100% | 269100% |
+| 小米 | 55926% + 178074% | 8388.9% + 26711.1% | 64314.9% + 204785.1% |
+| 納塔 | 286000% | 42900% | 328900% |
+| LVA | 169000% + 118300% + 50700%**真傷** | 25350% + 17745% + 7605% | 194350% + 136045% + 58305%**真傷** |
+| 哈比 | 263952% | 39592.8% | 303544.8% |
+| TN | 57200% + 100098% + 128700% | 8580% + 15015% + 19305% | 65780% + 115113% + 148005% |
+| 大小姐 | **雙傷** 154440% | 23166% | **雙傷** 177606% |
+| VR | 280800% | 42120% | 322920% |
+| 露娜 | 52000% + 208000% | 7800% + 31200% | 59800% + 239200% |
+| 索瑪 | 187200% | 28080% | 215280% |
+| 白 | **雙傷** 121550% | 16200% | **雙傷** 137750% |
+| 賽特 | 260000% | 39000% | 299000% |
+| 未來 | 21666% + 104000% + 91000% | 2250% + 10800% + 9450% | 23916% + 114800% + 100450% |
+| 徹斯 | **雙傷** 66928% + 100386% + 18590% | 10040% + 15057.9% + 2788.5% | **雙傷** 76968% + 115443.9% + 21378.5% |
+| 銀河 | 31200% + 280800% | 4680% + 42120% | 35880% + 322920% |
+| 露西 | **雙傷** 185895% | 27885% | **雙傷** 213780% |
+{% endhideToggle %}
 **施放期間無法使用其他技能(一般無敵狀態)，並獲得永久BUFF：攻擊速度+5%、造成的傷害+5%、物理/魔法攻擊力+100**
 
 **<font color=#FF0000>因此所有技能點滿需要70 SP</font>**
@@ -84,10 +106,12 @@ description: "五轉介紹與資訊"
 <!-- tab 李世河(Seha)-->
 ![](/img/decisive_illust/Seha.jpg)
 {%youtube LMiPUBSpHjQ %}
+{%youtube HBNMWaQ8FQo %}
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
 ![](/img/decisive_illust/Seulbi.jpg)
 {%youtube bXBLoeXEeP4 %}
+{%youtube 5YV64MihnG8 %}
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
 ![](/img/decisive_illust/Yuri.png)
@@ -98,7 +122,8 @@ description: "五轉介紹與資訊"
 {%youtube XMUGlT-QJe4 %}
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-
+![](/img/decisive_illust/Tein.png)
+{%youtube KhX6zhJNT0M %}
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
 ![](/img/decisive_illust/Nata.jpg)
@@ -107,13 +132,16 @@ description: "五轉介紹與資訊"
 <!-- tab 蕾比雅(Levia)-->
 ![](/img/decisive_illust/Levia.jpg)
 {%youtube IsjC-UWtrmY %}
+{%youtube onSEex7F0h8 %}
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-
+![](/img/decisive_illust/Harpy.png)
+{%youtube fDOEcFN_XA4 %}
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
 ![](/img/decisive_illust/Tina.jpg)
 {%youtube ymxMwcvCpc4 %}
+{%youtube 9WfNnXkj9o8 %}
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
 ![](/img/decisive_illust/Violet.jpg)
@@ -123,7 +151,8 @@ description: "五轉介紹與資訊"
 ![](/img/decisive_illust/Violet_old.jpg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-
+![](/img/decisive_illust/Wolfgang.png)
+{%youtube 2VB_eB3dIh4 %}
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
 ![](/img/decisive_illust/Luna.jpg)
@@ -136,6 +165,7 @@ description: "五轉介紹與資訊"
 <!-- tab 白(Bai)-->
 ![](/img/decisive_illust/Bai.png)
 {%youtube Fv2P33L1zm8 %}
+{%youtube emugjRpn2jE %}
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
 ![](/img/decisive_illust/Seth.jpg)
@@ -144,13 +174,15 @@ description: "五轉介紹與資訊"
 <!-- tab 未來(Mirae)-->
 ![](/img/decisive_illust/Mirae.png)
 {%youtube lHFJoAbQNi0 %}
+{%youtube kJrFRewBheI %}
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
 ![](/img/decisive_illust/Chulsoo.jpg)
 {%youtube TrP-gh8nBfc %}
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-
+![](/img/decisive_illust/Eunha.png)
+{%youtube sEyPmyIb9sY %}
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 ![](/img/decisive_illust/Lucy.png)
@@ -164,14 +196,20 @@ description: "五轉介紹與資訊"
 
 ## 2021/12/16: 白、未來
 [宣傳頁面(可下載png立繪檔)](https://closers.nexon.com/events2021/1216/advancement)
-{% hideToggle 登入畫面 %}
+[台版宣傳頁面](https://landing.mangot5.com/template/cls/event/220728_five_change/index.html)
+[日版宣傳頁面](https://closers.naddicjapan.com/event_2020/20220809/01/closers/index.html)
+{% hideToggle 登入畫面與日版宣傳影片 %}
 {%youtube LVTvF9yDDho %}
+{%youtube nxU165jr7Nk %}
 {% endhideToggle %}
 
 ## 2021/12/30: 李世河、緹娜
 [宣傳頁面(這次變jpg檔了睡睡)](https://closers.nexon.com/events2021/1230/advancement)
-{% hideToggle 登入畫面 %}
+[台版宣傳頁面](https://landing.mangot5.com/template/cls/event/220811_five_change/index.html)
+[日版宣傳頁面](https://closers.naddicjapan.com/event_2020/20220825_odqa/01/closers/index.html)
+{% hideToggle 登入畫面與日版宣傳影片 %}
 {%youtube DkVmNwmeYV4 %}
+{%youtube A53Z1607_aw %}
 {% endhideToggle %}
 
 ## 2022/01/13: 李雪菲、蕾比雅
@@ -222,6 +260,16 @@ description: "五轉介紹與資訊"
 {%youtube TvYu-63sH2E %}
 {% endhideToggle %}
 
-**<font size=5 color=#FF0000>尚未開放：小米、哈比、VR、銀河</font>**
+## 2022/08/11: 米斯特汀、銀河
+[宣傳頁面(倒數第二波)](https://closers.nexon.com/Events2022/0811/Advancement)
+{% hideToggle 登入畫面 %}
+{%youtube 2xzK5Kn0sMw %}
+{% endhideToggle %}
+
+## 2022/08/25: 哈比、沃爾夫姜
+[宣傳頁面(超人氣角色)](https://closers.nexon.com/Events2022/0825/Advancement)
+{% hideToggle 登入畫面(尚無) %}
+{%youtube 2xzK5Kn0sMw %}
+{% endhideToggle %}
 
 ---

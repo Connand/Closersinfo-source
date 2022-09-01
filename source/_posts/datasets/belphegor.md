@@ -74,7 +74,7 @@ BOSS類型：前腦型 {% inlineImg https://i.imgur.com/acS6rsI.png 64px %}
 ## 防具超越
 防具超越100%成功{% inlineImg https://i.imgur.com/GbTRBWF.png 64px %}
 **<font color=#ff0000>韓版開放機械王時有限時活動(2021/07/27 ~ 2021/12/30)：<br>可以將深海防具直接超越為機械防具(使用同樣超越石，深海超越->機械超越)</font>**
-**<font color=#ff0000>台版：2022/04/21 ~ 2022/10/27</font>**
+**<font color=#ff0000>台版：2022/04/21 ~ 2022/10/27</font> (最晚大約09/03前開始打好打滿可以完整超越3顆)**
 **<font color=#ff0000>日版：2022/04/21 ~ 2022/11/03</font>**
 **<font color=#ff0000>國際版：2022/04/06 ~ 2022/10 (尚未確定)</font>**
 

@@ -1,5 +1,5 @@
 ---
-title: Aqua Blue Wave(2021泳裝)
+title: 湛藍波浪(2021泳裝)
 date: 2021-06-20 10:10:31
 tags:
     - 立繪時裝
@@ -42,7 +42,7 @@ description: "2021泳裝系列"
 
 **單一立繪，模組分ABC三型(混搭即可得普通立繪)**
 **每個角色都有另類時裝(上衣跟下衣)，可解鎖特殊立繪**
-[台版公告](https://cls.mangot5.com/game/cls/notice/detail/?contentNo=45426)
+[台版公告](http://cls.mangot5.com/game/cls/news/detail?contentNo=50484)
 [韓版頁面](https://closers.nexon.com/Events2021/0715/Costume)
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Aquablue_Wave_nc15a.zip)
@@ -171,6 +171,130 @@ description: "2021泳裝系列"
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 ![](https://i.imgur.com/5wsJlRk.jpg)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+<!-- tab 普通時裝模組 -->
+{% tabs 角色模組 %}
+<!-- tab 李世河(Seha)-->
+![](https://i.imgur.com/mpDc2DA.png)
+<!-- endtab -->
+<!-- tab 李雪菲(Seulbi)-->
+![](https://i.imgur.com/7DZQIAA.png)
+<!-- endtab -->
+<!-- tab 徐維莉(Yuri)-->
+![](https://i.imgur.com/zM6CCiQ.png)
+<!-- endtab -->
+<!-- tab J-->
+![](https://i.imgur.com/eNLpbw4.png)
+<!-- endtab -->
+<!-- tab 米斯特汀(Tein)-->
+![](https://i.imgur.com/FaxMXxz.png)
+<!-- endtab -->
+<!-- tab 納塔(Nata)-->
+![](https://i.imgur.com/AHPbLrO.png)
+<!-- endtab -->
+<!-- tab 蕾比雅(Levia)-->
+![](https://i.imgur.com/T2gpwKA.png)
+<!-- endtab -->
+<!-- tab 哈比(Harpy)-->
+![](https://i.imgur.com/GWyubnl.png)
+<!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+![](https://i.imgur.com/gvTmKjW.png)
+<!-- endtab -->
+<!-- tab 薇歐莉特(Violet)-->
+![](https://i.imgur.com/Ch35PHx.png)
+<!-- endtab -->
+<!-- tab 沃爾夫姜(Wolfgang)-->
+![](https://i.imgur.com/TnWLaF9.png)
+<!-- endtab -->
+<!-- tab 露娜(Luna)-->
+![](https://i.imgur.com/15k211X.png)
+<!-- endtab -->
+<!-- tab 索瑪(Soma)-->
+![](https://i.imgur.com/gkJZDSK.png)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+![](https://i.imgur.com/l3ihp4W.png)
+<!-- endtab -->
+<!-- tab 賽特(Seth)-->
+![](https://i.imgur.com/yGr1cqJ.png)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+![](https://i.imgur.com/cy5Ga7H.png)
+<!-- endtab -->
+<!-- tab 徹斯(Chulsoo)-->
+![](https://i.imgur.com/Z2ucs8t.png)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+![](https://i.imgur.com/EGTf2jk.png)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+![](https://i.imgur.com/JNLcdTs.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+<!-- tab 珍藏時裝模組 -->
+{% tabs 珍藏時裝模組 %}
+<!-- tab 李世河(Seha)-->
+![](https://i.imgur.com/WtLQKsB.png)
+<!-- endtab -->
+<!-- tab 李雪菲(Seulbi)-->
+![](https://i.imgur.com/K71bb07.png)
+<!-- endtab -->
+<!-- tab 徐維莉(Yuri)-->
+![](https://i.imgur.com/Xqvzebr.png)
+<!-- endtab -->
+<!-- tab J-->
+![](https://i.imgur.com/VXuC1AW.png)
+<!-- endtab -->
+<!-- tab 米斯特汀(Tein)-->
+![](https://i.imgur.com/92We4W2.png)
+<!-- endtab -->
+<!-- tab 納塔(Nata)-->
+![](https://i.imgur.com/nssuASU.png)
+<!-- endtab -->
+<!-- tab 蕾比雅(Levia)-->
+![](https://i.imgur.com/ynKG4vb.png)
+<!-- endtab -->
+<!-- tab 哈比(Harpy)-->
+![](https://i.imgur.com/dQorPWw.png)
+<!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+![](https://i.imgur.com/oN1QGU7.png)
+<!-- endtab -->
+<!-- tab 薇歐莉特(Violet)-->
+![](https://i.imgur.com/uKL58xS.png)
+<!-- endtab -->
+<!-- tab 沃爾夫姜(Wolfgang)-->
+![](https://i.imgur.com/e1Smp2T.png)
+<!-- endtab -->
+<!-- tab 露娜(Luna)-->
+![](https://i.imgur.com/NgjtzVS.png)
+<!-- endtab -->
+<!-- tab 索瑪(Soma)-->
+![](https://i.imgur.com/ZHC3ABb.png)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+![](https://i.imgur.com/wpithkK.png)
+<!-- endtab -->
+<!-- tab 賽特(Seth)-->
+![](https://i.imgur.com/TUVMF6V.png)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+![](https://i.imgur.com/y54TgY4.png)
+<!-- endtab -->
+<!-- tab 徹斯(Chulsoo)-->
+![](https://i.imgur.com/gipmZ9I.png)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+![](https://i.imgur.com/DoFYll1.png)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+![](https://i.imgur.com/PPzlcoG.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

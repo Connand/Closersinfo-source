@@ -48,11 +48,11 @@ description: "2016泳裝"
 ![](https://i.imgur.com/e1d59WY.png)
 <!-- endtab -->
 <!-- tab J-->
-![](https://i.imgur.com/UzzBOqX.png)
+![](https://i.imgur.com/delNwMg.png)
 ![](https://i.imgur.com/INtxkBy.png)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-![](https://i.imgur.com/delNwMg.png)
+![](https://i.imgur.com/UzzBOqX.png)
 ![](https://i.imgur.com/J2JfNJW.png)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->

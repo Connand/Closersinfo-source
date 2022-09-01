@@ -16,6 +16,7 @@ menu:
     PNA資料: /categories/遊戲資料/PNA || fas fa-dna
     繪圖圖庫: /categories/遊戲資料/繪圖 || fas fa-image
     裝備資訊: /categories/遊戲資料/裝備 || fas fa-book-open
+    裝備懶人包: https://cdn.discordapp.com/attachments/884269427644850256/986936100465569802/gearflow2.png || fas fa-book-open
     轉職介紹: /categories/遊戲資料/轉職 || fas fa-book-open
     機率資料: /categories/遊戲資料/機率資料 || fas fa-book-open
     其他資料: /categories/遊戲資料/其他 || fas fa-book-open
@@ -24,6 +25,7 @@ menu:
     輝煌時裝: /categories/時裝/輝煌時裝/ || fas fa-tshirt
     高階時裝: /categories/時裝/高階時裝/ || fas fa-tshirt
     泳裝系列: /tags/泳裝/ || fas fa-sun
+    單立繪: /categories/時裝/單立繪/ || fas fa-image
     全角色有立繪: /categories/時裝/有立繪/全角色/ || fas fa-image
     部分角色有立繪: /categories/時裝/有立繪/限定角色/ || fas fa-image
     全角色無立繪: /categories/時裝/無立繪/全角色/ || fas fa-tshirt
@@ -111,7 +113,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: /img/Cover_Clsinfo.png
+index_img: /img/anniversary/TW4th_illust_login_Mint.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: /img/Cover_Clsinfo.png
@@ -646,7 +648,7 @@ subtitle:
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
     - 測試站建置中，預計未來取代主站
-    - 有使用上的問題或建議歡迎回報！
+    - 歡迎加入Discord群組！
     - 建議使用電腦瀏覽此網站
     - 次元戰爭永不停歇
 

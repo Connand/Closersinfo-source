@@ -3,11 +3,14 @@ title: 野餐小兔兔(野餐路上的白兔子)
 date: 2022-01-20 09:55:23
 tags:
     - 立繪時裝
+    - 李雪菲
     - 米斯特汀
     - 納塔
     - 緹娜
     - 露娜
+    - 白
     - 賽特
+    - 未來
     - 銀河
     - 露西
 category: [時裝, 有立繪, 限定角色]
@@ -20,6 +23,8 @@ description: "White Rabbit on Picnicking"
 ---
 ## White Rabbit on Picnicking
 
+2022/08/25新增：李雪菲、白、未來
+
 **注意**：立繪僅分一般和特殊
 部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 威嚴 green %} 
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
@@ -31,6 +36,9 @@ description: "White Rabbit on Picnicking"
 {% tabs 類型 %}
 <!-- tab 一般立繪-->
 {% tabs 一般角色立繪 %}
+<!-- tab 李雪菲(Seulbi)-->
+![](https://i.imgur.com/4kghAbR.png)
+<!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
 ![](https://i.imgur.com/tRhQ1Hs.jpg)
 ![](https://i.imgur.com/0PqyTYm.png)
@@ -47,9 +55,15 @@ description: "White Rabbit on Picnicking"
 ![](https://i.imgur.com/e96hQJC.jpg)
 ![](https://i.imgur.com/bkjcxH6.png)
 <!-- endtab -->
+<!-- tab 白(Bai)-->
+![](https://i.imgur.com/iT2SZux.png)
+<!-- endtab -->
 <!-- tab 賽特(Seth)-->
 ![](https://i.imgur.com/3Ct5kP0.jpg)
 ![](https://i.imgur.com/qysiO23.png)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+![](https://i.imgur.com/EUzQHye.png)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
 ![](https://i.imgur.com/7jkOvpF.jpg)
@@ -64,6 +78,9 @@ description: "White Rabbit on Picnicking"
 
 <!-- tab 特殊立繪-->
 {% tabs 特殊角色立繪 %}
+<!-- tab 李雪菲(Seulbi)-->
+![](https://i.imgur.com/0DRRkGI.png)
+<!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
 ![](https://i.imgur.com/xgsCDVo.jpg)
 <!-- endtab -->
@@ -76,8 +93,14 @@ description: "White Rabbit on Picnicking"
 <!-- tab 露娜(Luna)-->
 ![](https://i.imgur.com/v7QJAER.jpg)
 <!-- endtab -->
+<!-- tab 白(Bai)-->
+![](https://i.imgur.com/yd3Jog1.png)
+<!-- endtab -->
 <!-- tab 賽特(Seth)-->
 ![](https://i.imgur.com/7mJTS9N.jpg)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+![](https://i.imgur.com/zstQx0A.png)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
 ![](https://i.imgur.com/Zd68q7c.jpg)

@@ -16,15 +16,16 @@ description: "龍刑接收器製作相關資訊"
 浮空{% inlineImg https://i.imgur.com/bq01T2b.png 64px %} →{% inlineImg https://i.imgur.com/vNd8GuD.png 64px %}**
 ---
 # 副本難度/掉落物
-|副本難度|困難|噩夢|
-|---|---|---|
-|戰力推薦|10,000,000|99,999,999|
-|主要掉落物|{% inlineImg https://i.imgur.com/mZ8i4uG.png 64px %}60顆|{% inlineImg https://i.imgur.com/mZ8i4uG.png 64px %}120顆|
-|進場次數(共用)|一周一次|一周一次|
-|復活次數|限制一次|**<font color=#ff0000>不可復活</font>**|
+|副本難度|困難|噩夢|**<font color=#ff0000>極刑</font>**|
+|---|---|---|---|
+|戰力推薦|10,000,000|25,000,000|40,000,000|
+|主要掉落物|{% inlineImg https://i.imgur.com/mZ8i4uG.png 48px %}x60|{% inlineImg https://i.imgur.com/mZ8i4uG.png 48px %}x120|列在下方|
+|進場次數(困難與惡夢共用)|一周一次|一周一次|一周一次|
+|復活次數|限制 1 次|**<font color=#ff0000>不可復活</font>**|限制 2 次|
 
-**副本PNA類型：魔龍型**{% inlineImg https://i.imgur.com/FWfg4L0.png 96px %}
-**<font color=#ff0000>建議戰力1500萬以上+突變PNA的魔龍練20等再挑戰噩夢難度</font>**
+**副本PNA類型：魔龍型**{% inlineImg https://i.imgur.com/FWfg4L0.png 64px %}
+**<font color=#ff0000>建議戰力1500萬以上+突變PNA魔龍20等再挑戰**噩夢**難度</font>**
+**<font color=#ff0000>建議戰力3000萬以上+突變PNA魔龍20等再挑戰**極刑**難度</font>**
 
 # 共通素質
 * PLV 145
@@ -52,3 +53,23 @@ description: "龍刑接收器製作相關資訊"
 **前期每周可製作21顆，後期會再增加4次(這4次製作金幣1,000,000)**
 
 **<font size=5>若每周都有打龍之刑場，裝備所需製作時間為78天(11周~12周左右)</font>**
+
+---
+# 超越材料
+
+{% btn 'https://forum.gamer.com.tw/C.php?bsn=23655&snA=9196&tnum=2', 極刑攻略,far fa-hand-point-right,outline blue larger %}{% btn 'https://forum.gamer.com.tw/C.php?bsn=23655&snA=9186&tnum=1', 極刑攻略2,far fa-hand-point-right,outline blue larger %}
+
+超越材料需要打之後會出的極刑才有，完整通關的材料如下
+{% inlineImg https://i.imgur.com/KxkISd3.png 64px %}x21 
+{% inlineImg https://i.imgur.com/WVZkgZT.png 64px %}x28 (王每階段血量 1 個) 
+{% inlineImg https://i.imgur.com/Y1GQEwg.png 64px %}x7 (打死王 1 個) 
+
+**保底約13周可超完**
+
+{% inlineImg https://i.imgur.com/YvNzcRS.png 48px %}(可利用帳號倉庫轉移，打開可得{% inlineImg https://i.imgur.com/Y1GQEwg.png 48px %}x1) 製作材料：{% inlineImg https://i.imgur.com/Y1GQEwg.png 48px %}x3
+
+|階段|![金幣](https://i.imgur.com/bRFx7v6.png)|![大光](https://i.imgur.com/uUaELFR.png)|![珠子](https://i.imgur.com/KxkISd3.png)|![腳鐐](https://i.imgur.com/WVZkgZT.png)|![](https://i.imgur.com/UUm30FC.png)|![手銬](https://i.imgur.com/Y1GQEwg.png)|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|超1(L4框)|2,000,000|20 顆|4 顆|8 個|50 個|-|
+|超1 **<font color=#ff0000>100%</font>**|10,000,000|500 顆|28 顆|48 個|200 個|-|
+|超2(L5框) **<font color=#ff0000>100%</font>**|-|1000 顆|56 顆|300 個|400 個|48 個|
