@@ -68,7 +68,7 @@ CPU: i7-12700
 
 **<font color=#ff0000>設定前先把所有相關垂直同步設定關閉(遊戲裡的、NVIDIA 控制面板等)</font>**
 下載後解壓縮，點裡面的"RTSSSetupOOO.exe"(OOO是版本)安裝完打開
-**<font color=#ff0000>可能會在左下角工作列(要再去點開)</font>**
+**<font color=#ff0000>可能會在右下角工作列(要再去點開)</font>**
 ## 設定方式
 1. 如圖：左下角"Add"點開(1)，找到遊戲資料夾，點選"CW.EXE"(2)
 ![](https://i.imgur.com/5ySxFjG.jpg)

@@ -8,18 +8,18 @@ description: "紀錄那些超級歐洲人"
 ---
 
 # 目前記錄已掉落數量
-**<font size=5 color=#000000>68件 = 44深海 + 24機械</font>**
+**<font size=5 color=#000000>73件 = 46深海 + 27機械</font>**
 **<font size=4 color=#FF0000>22/08/11~12第2次4小時4機械</font>**
 **<font size=4 color=#FF0000>22/08/21 30分鐘3機械</font>**
 
 ---
 
 # <font color=#ff0000>機械</font>史詩裝備相關
-## 掉落數：24
+## 掉落數：27
 |種類|核心|模組1|模組2|
 |:-:|:-:|:-:|:-:|
-|物理|長劍<br>**1**|引擎<br>**2**|推進器<br>**3**|
-|魔法|權杖<br>**2**|調節器<br>**1**|發生器<br>**3**|
+|物理|長劍<br>**2**|引擎<br>**2**|推進器<br>**4**|
+|魔法|權杖<br>**3**|調節器<br>**1**|發生器<br>**3**|
 |雙傷|鐮刀<br>**4**|保險絲<br>**3**|魔方<br>**5**|
 
 ## 裝備說明文
@@ -40,10 +40,10 @@ description: "紀錄那些超級歐洲人"
 ---
 
 # <font color=#ff0000>深海</font>史詩裝備相關
-## 掉落數：44
+## 掉落數：46
 |種類|核心|模組1|模組2|
 |:-:|:-:|:-:|:-:|
-|物理|長劍<br>**6**|引擎<br>**5**|推進器<br>**1**|
+|物理|長劍<br>**7**|引擎<br>**5**|推進器<br>**2**|
 |魔法|權杖<br>**5**|調節器<br>**7**|發生器<br>**4**|
 |雙傷|鐮刀<br>**5**|保險絲<br>**2**|魔方<br>**9**|
 
@@ -71,6 +71,41 @@ description: "紀錄那些超級歐洲人"
 
 # 時間軸
 {% timeline <strong>掉落時間</strong> %}
+
+{% timenode <font size=4>2022/08/29 21:31</font> %}
+
+**第2把機械長劍**
+![](/img/epicgears/epicgear73.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/08/29 21:11</font> %}
+
+**第3把機械權杖**
+![](/img/epicgears/epicgear72.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/08/25 23:42</font> %}
+
+**第7把深海長劍**
+![](/img/epicgears/epicgear71.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/08/23 23:58</font> %}
+
+**第4顆機械推進器**
+![](/img/epicgears/epicgear70.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/08/22 23:46</font> %}
+
+**第2顆深海推進器**
+![](/img/epicgears/epicgear69.png)
+
+{% endtimenode %}
 
 {% timenode <font size=4>2022/08/21 22:45</font> %}
 

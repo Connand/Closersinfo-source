@@ -53,6 +53,7 @@ let mock_boss_number = Math.floor(elaped / (7 * 24 * 60 * 60 * 1000) % 5); // �
 let mockEnd = new Date(mockStart.getTime() + number_of_week * (7 * 24 * 60 * 60 * 1000)); // 算結束日
 document.getElementById('mockBattleInfo').innerHTML = "<font size=4><b>第 " + number_of_week + " 周</b><a href=\"https://cls.mangot5.com/game/cls/news/detail?contentNo=46589\" rel=\"external nofollow noreferrer\" target=\"_blank\">模擬戰</a>（<a href=\"/datasets/mockbattle_rank/\" rel=\"external nofollow noreferrer\" target=\"_blank\">分數表</a>）</font><br>";
 document.getElementById('mockBattleInfo').innerHTML += "<b>本周BOSS</b>：<br>- " + boss_names[mock_boss_number];
+document.getElementById('mockBattleInfo').innerHTML += "<br><b>下周BOSS</b>：<br>- " + boss_names[(mock_boss_number + 1) % 5];
 
 document.getElementById('mockBattleEnd').innerHTML = '<b>' + mockEnd.getFullYear() + '/';
 document.getElementById('mockBattleEnd').innerHTML += '<b>' + (mockEnd.getMonth() + 1) + '/';

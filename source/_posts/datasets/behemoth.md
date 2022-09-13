@@ -160,7 +160,6 @@ BOSS類型：野生型 {% inlineImg https://i.imgur.com/8ONbMJo.png 64px %}
 
 ## 取得方式
 + 打王掉落
-+ 成就
 + 製作(下列單件材料)
 
 |{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/0de4o3s.png 48px %}|{% inlineImg https://i.imgur.com/F1JHDgZ.png 48px %}{% inlineImg https://i.imgur.com/Ub0Xfvj.png 48px %}{% inlineImg https://i.imgur.com/E5YHXsq.png 48px %}{% inlineImg https://i.imgur.com/POJfRBz.png 48px %}|

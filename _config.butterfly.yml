@@ -434,7 +434,7 @@ footer:
   owner:
     enable: true
     since: 2019
-  custom_text:
+  custom_text: 'Email: babbab0114@gmail.com'
   copyright: true # Copyright of theme and framework
 
 # Analysis

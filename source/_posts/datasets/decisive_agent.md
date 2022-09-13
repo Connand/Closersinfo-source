@@ -67,9 +67,9 @@ description: "五轉介紹與資訊"
 單傷：總攻擊力+6%
 - 主動技能1：**被動3等時解鎖**，每等消耗5 SP，滿等3等 (共需15 SP，CD 30秒)
 - 主動技能2：**被動5等時解鎖**，每等消耗5 SP，滿等3等 (共需15 SP，CD 50秒)
-- **<font color=#FF0000>終結技</font>**：**被動10等時解鎖**，每等消耗20 SP，滿等1等 (**<font color=#FF0000>武器的SS重鑄可洗+1等</font>**)
+- **<font color=#FF0000>終極技</font>**：**被動10等時解鎖**，每等消耗20 SP，滿等1等 (**<font color=#FF0000>武器的SS重鑄可洗+1等</font>**)
 
-**<font color=#FF0000>終結技施放後獲得一狀態，此狀態導致無法再施放終結技，無法透過死亡重置，因此每場戰鬥只能施放一次</font>**
+**<font color=#FF0000>終極技施放後獲得一狀態，此狀態導致無法再施放終極技，無法透過死亡重置，因此每場戰鬥只能施放一次</font>**
 {% hideToggle 終極技倍率參考值 %}
 | 角色 | 倍率(Lv. 1) | 成長值 | 倍率(Lv. 2) |
 | :--------: | :--------: | :--------: | :--------: |
@@ -157,6 +157,7 @@ description: "五轉介紹與資訊"
 <!-- tab 露娜(Luna)-->
 ![](/img/decisive_illust/Luna.jpg)
 {%youtube ryPfTcbsL0c %}
+{%youtube kGU2Fvt3nXE %}
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
 ![](/img/decisive_illust/Soma.png)
@@ -179,6 +180,7 @@ description: "五轉介紹與資訊"
 <!-- tab 徹斯(Chulsoo)-->
 ![](/img/decisive_illust/Chulsoo.jpg)
 {%youtube TrP-gh8nBfc %}
+{%youtube VVU_WVDu080 %}
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
 ![](/img/decisive_illust/Eunha.png)
@@ -214,12 +216,15 @@ description: "五轉介紹與資訊"
 
 ## 2022/01/13: 李雪菲、蕾比雅
 [宣傳頁面(徹斯無情被插第二次隊)](https://closers.nexon.com/Events2022/0113/advancement)
-{% hideToggle 登入畫面 %}
+[台版宣傳頁面](https://landing.mangot5.com/template/cls/event/220818_five_change/index.html)
+{% hideToggle 登入畫面與日版宣傳影片 %}
 {%youtube 1kjXmhNTyc0 %}
+{%youtube pSQb5pqVXSU %}
 {% endhideToggle %}
 
 ## 2022/02/10: 露娜、徹斯
 [宣傳頁面(徹斯總算出來了)](https://closers.nexon.com/events2022/0210/advancement)
+[台版宣傳頁面](https://landing.mangot5.com/template/cls/event/220907_five_change_test-02/index.html)
 {% hideToggle 登入畫面 %}
 {%youtube SDw7sVY0MrI %}
 {% endhideToggle %}
@@ -268,8 +273,8 @@ description: "五轉介紹與資訊"
 
 ## 2022/08/25: 哈比、沃爾夫姜
 [宣傳頁面(超人氣角色)](https://closers.nexon.com/Events2022/0825/Advancement)
-{% hideToggle 登入畫面(尚無) %}
-{%youtube 2xzK5Kn0sMw %}
+{% hideToggle 登入畫面 %}
+{%youtube TWip-pQBrL4 %}
 {% endhideToggle %}
 
 ---
