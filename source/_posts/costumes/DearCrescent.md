@@ -23,11 +23,11 @@ tags:
     - 銀河
     - 露西
 category: [時裝, 有立繪, 全角色]
-cover: https://i.imgur.com/ExxqHn9.jpg
+cover: https://i.imgur.com/ExxqHn9h.jpg
 description: "Dear Crescent"
 ---
 
-![](https://i.imgur.com/ExxqHn9.jpg)
+[![](https://i.imgur.com/ExxqHn9h.jpg)](https://i.imgur.com/ExxqHn9.jpg)
 
 ---
 ## Dear Crescent
@@ -45,61 +45,61 @@ description: "Dear Crescent"
 <!-- tab 普通立繪-->
 {% tabs 混合角色立繪 %}
 <!-- tab 李世河(Seha)-->
-![](https://i.imgur.com/HUOcLgz.jpg)
+[![](https://i.imgur.com/HUOcLgzh.jpg)](https://i.imgur.com/HUOcLgz.jpg)
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
-![](https://i.imgur.com/1ndmRds.jpg)
+[![](https://i.imgur.com/1ndmRdsh.jpg)](https://i.imgur.com/1ndmRds.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-![](https://i.imgur.com/OhjDIp5.jpg)
+[![](https://i.imgur.com/OhjDIp5h.jpg)](https://i.imgur.com/OhjDIp5.jpg)
 <!-- endtab -->
 <!-- tab J-->
-![](https://i.imgur.com/9LiYtbc.jpg)
+[![](https://i.imgur.com/9LiYtbch.jpg)](https://i.imgur.com/9LiYtbc.jpg)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-![](https://i.imgur.com/tNAd7tT.jpg)
+[![](https://i.imgur.com/tNAd7tTh.jpg)](https://i.imgur.com/tNAd7tT.jpg)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
-![](https://i.imgur.com/f1n16PL.jpg)
+[![](https://i.imgur.com/f1n16PLh.jpg)](https://i.imgur.com/f1n16PL.jpg)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-![](https://i.imgur.com/4CfcVfF.jpg)
+[![](https://i.imgur.com/4CfcVfFh.jpg)](https://i.imgur.com/4CfcVfF.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/N2huGjn.jpg)
+[![](https://i.imgur.com/N2huGjnh.jpg)](https://i.imgur.com/N2huGjn.jpg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-![](https://i.imgur.com/8wTFjJ9.jpg)
+[![](https://i.imgur.com/8wTFjJ9h.jpg)](https://i.imgur.com/8wTFjJ9.jpg)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-![](https://i.imgur.com/YlqvBL2.jpg)
+[![](https://i.imgur.com/YlqvBL2h.jpg)](https://i.imgur.com/YlqvBL2.jpg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-![](https://i.imgur.com/c8cANLr.jpg)
+[![](https://i.imgur.com/c8cANLrh.jpg)](https://i.imgur.com/c8cANLr.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/8NWo7EL.jpg)
+[![](https://i.imgur.com/8NWo7ELh.jpg)](https://i.imgur.com/8NWo7EL.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/NJN10hB.jpg)
+[![](https://i.imgur.com/NJN10hBh.jpg)](https://i.imgur.com/NJN10hB.jpg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-![](https://i.imgur.com/EhfmkNu.jpg)
+[![](https://i.imgur.com/EhfmkNuh.jpg)](https://i.imgur.com/EhfmkNu.jpg)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-![](https://i.imgur.com/QvtI2he.jpg)
+[![](https://i.imgur.com/QvtI2heh.jpg)](https://i.imgur.com/QvtI2he.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-![](https://i.imgur.com/YYpZbwe.jpg)
+[![](https://i.imgur.com/YYpZbweh.jpg)](https://i.imgur.com/YYpZbwe.jpg)
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-![](https://i.imgur.com/BFt8Ves.jpg)
+[![](https://i.imgur.com/BFt8Vesh.jpg)](https://i.imgur.com/BFt8Ves.jpg)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-![](https://i.imgur.com/R2piyJ4.jpg)
+[![](https://i.imgur.com/R2piyJ4h.jpg)](https://i.imgur.com/R2piyJ4.jpg)
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-![](https://i.imgur.com/9vpePlU.jpg)
+[![](https://i.imgur.com/9vpePlUh.jpg)](https://i.imgur.com/9vpePlU.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -107,61 +107,61 @@ description: "Dear Crescent"
 <!-- tab 特殊立繪 -->
 {% tabs A型角色立繪 %}
 <!-- tab 李世河(Seha)-->
-![](https://i.imgur.com/m7BmHkV.jpg)
+[![](https://i.imgur.com/m7BmHkVh.jpg)](https://i.imgur.com/m7BmHkV.jpg)
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
-![](https://i.imgur.com/HN6vzXV.jpg)
+[![](https://i.imgur.com/HN6vzXVh.jpg)](https://i.imgur.com/HN6vzXV.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-![](https://i.imgur.com/bYPVA0T.jpg)
+[![](https://i.imgur.com/bYPVA0Th.jpg)](https://i.imgur.com/bYPVA0T.jpg)
 <!-- endtab -->
 <!-- tab J-->
-![](https://i.imgur.com/LkaQel9.jpg)
+[![](https://i.imgur.com/LkaQel9h.jpg)](https://i.imgur.com/LkaQel9.jpg)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-![](https://i.imgur.com/qJreV23.jpg)
+[![](https://i.imgur.com/qJreV23h.jpg)](https://i.imgur.com/qJreV23.jpg)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
-![](https://i.imgur.com/gpWgVgj.jpg)
+[![](https://i.imgur.com/gpWgVgjh.jpg)](https://i.imgur.com/gpWgVgj.jpg)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-![](https://i.imgur.com/0qz8e70.jpg)
+[![](https://i.imgur.com/0qz8e70h.jpg)](https://i.imgur.com/0qz8e70.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/hgsfuhd.jpg)
+[![](https://i.imgur.com/hgsfuhdh.jpg)](https://i.imgur.com/hgsfuhd.jpg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-![](https://i.imgur.com/iJJ79aG.jpg)
+[![](https://i.imgur.com/iJJ79aGh.jpg)](https://i.imgur.com/iJJ79aG.jpg)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-![](https://i.imgur.com/iIh19YF.jpg)
+[![](https://i.imgur.com/iIh19YFh.jpg)](https://i.imgur.com/iIh19YF.jpg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-![](https://i.imgur.com/812vFfe.jpg)
+[![](https://i.imgur.com/812vFfeh.jpg)](https://i.imgur.com/812vFfe.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/Y7EqrRa.jpg)
+[![](https://i.imgur.com/Y7EqrRah.jpg)](https://i.imgur.com/Y7EqrRa.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/SN5U46W.jpg)
+[![](https://i.imgur.com/SN5U46Wh.jpg)](https://i.imgur.com/SN5U46W.jpg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-![](https://i.imgur.com/1eIJKiz.jpg)
+[![](https://i.imgur.com/1eIJKizh.jpg)](https://i.imgur.com/1eIJKiz.jpg)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-![](https://i.imgur.com/u0eda7S.jpg)
+[![](https://i.imgur.com/u0eda7Sh.jpg)](https://i.imgur.com/u0eda7S.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-![](https://i.imgur.com/R1N9n0k.jpg)
+[![](https://i.imgur.com/R1N9n0kh.jpg)](https://i.imgur.com/R1N9n0k.jpg)
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-![](https://i.imgur.com/ja8DxtS.jpg)
+[![](https://i.imgur.com/ja8DxtSh.jpg)](https://i.imgur.com/ja8DxtS.jpg)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-![](https://i.imgur.com/goH2zn5.jpg)
+[![](https://i.imgur.com/goH2zn5h.jpg)](https://i.imgur.com/goH2zn5.jpg)
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-![](https://i.imgur.com/YkboCbI.jpg)
+[![](https://i.imgur.com/YkboCbIh.jpg)](https://i.imgur.com/YkboCbI.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

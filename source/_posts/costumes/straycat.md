@@ -20,7 +20,7 @@ cover: https://i.imgur.com/dg2EWo3.jpg
 description: "Stray Cat"
 ---
 
-![](https://i.imgur.com/dg2EWo3.jpg)
+[![](https://i.imgur.com/dg2EWo3h.jpg)](https://i.imgur.com/dg2EWo3.jpg)
 
 ---
 ## 毛線喵喵
@@ -32,43 +32,43 @@ description: "Stray Cat"
 
 {% tabs 角色模組(A~D型) %}
 <!-- tab 李雪菲(Seulbi)-->
-![](https://i.imgur.com/fxtwTAo.png)
+[![](https://i.imgur.com/fxtwTAoh.png)](https://i.imgur.com/fxtwTAo.png)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-![](https://i.imgur.com/vTOdlst.png)
+[![](https://i.imgur.com/vTOdlsth.png)](https://i.imgur.com/vTOdlst.png)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-![](https://i.imgur.com/PPjclh8.png)
+[![](https://i.imgur.com/PPjclh8h.png)](https://i.imgur.com/PPjclh8.png)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/3Qz7GQd.png)
+[![](https://i.imgur.com/3Qz7GQdh.png)](https://i.imgur.com/3Qz7GQd.png)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-![](https://i.imgur.com/82wPXop.png)
+[![](https://i.imgur.com/82wPXoph.png)](https://i.imgur.com/82wPXop.png)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-![](https://i.imgur.com/yXpfN9D.png)
+[![](https://i.imgur.com/yXpfN9Dh.png)](https://i.imgur.com/yXpfN9D.png)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/REVKsjY.png)
+[![](https://i.imgur.com/REVKsjYh.png)](https://i.imgur.com/REVKsjY.png)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/SVb1PPF.png)
+[![](https://i.imgur.com/SVb1PPFh.png)](https://i.imgur.com/SVb1PPF.png)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-![](https://i.imgur.com/gfbbPQf.png)
+[![](https://i.imgur.com/gfbbPQfh.png)](https://i.imgur.com/gfbbPQf.png)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-![](https://i.imgur.com/MZI6ebb.png)
+[![](https://i.imgur.com/MZI6ebbh.png)](https://i.imgur.com/MZI6ebb.png)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-![](https://i.imgur.com/SneFviD.png)
+[![](https://i.imgur.com/SneFviDh.png)](https://i.imgur.com/SneFviD.png)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-![](https://i.imgur.com/buShNKy.png)
+[![](https://i.imgur.com/buShNKyh.png)](https://i.imgur.com/buShNKy.png)
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-![](https://i.imgur.com/dSYoFHg.png)
+[![](https://i.imgur.com/dSYoFHgh.png)](https://i.imgur.com/dSYoFHg.png)
 <!-- endtab -->
 {% endtabs %}
 

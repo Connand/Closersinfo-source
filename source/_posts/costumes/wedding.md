@@ -23,7 +23,7 @@ tags:
     - 銀河
     - 露西
 category: [時裝, 有立繪, 全角色]
-cover: https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=4908967578593928733
+cover: https://i.imgur.com/xYfWmVuh.jpg
 description: "Vow of Love"
 ---
 
@@ -40,126 +40,126 @@ description: "Vow of Love"
 ---
 
 {% tabs 類型 %}
-<!-- tab 普通-->
+<!-- tab 混合角色立繪-->
 {% tabs 普通立繪 %}
 <!-- tab 李世河(Seha)-->
-![](https://i.imgur.com/B0D3q6T.jpg)
+[![](https://i.imgur.com/B0D3q6Th.jpg)](https://i.imgur.com/B0D3q6T.jpg)
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
-![](https://i.imgur.com/Ll7yl76.jpg)
+[![](https://i.imgur.com/Ll7yl76h.jpg)](https://i.imgur.com/Ll7yl76.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-![](https://i.imgur.com/rEFZU18.jpg)
+[![](https://i.imgur.com/rEFZU18h.jpg)](https://i.imgur.com/rEFZU18.jpg)
 <!-- endtab -->
 <!-- tab J-->
-![](https://i.imgur.com/PWce2VH.jpg)
+[![](https://i.imgur.com/PWce2VHh.jpg)](https://i.imgur.com/PWce2VH.jpg)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-![](https://i.imgur.com/WDkD8Gt.jpg)
+[![](https://i.imgur.com/WDkD8Gth.jpg)](https://i.imgur.com/WDkD8Gt.jpg)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
-![](https://i.imgur.com/HJkOY5a.jpg)
+[![](https://i.imgur.com/HJkOY5ah.jpg)](https://i.imgur.com/HJkOY5a.jpg)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-![](https://i.imgur.com/BKrPwE3.jpg)
+[![](https://i.imgur.com/BKrPwE3h.jpg)](https://i.imgur.com/BKrPwE3.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/bXNMm2j.jpg)
+[![](https://i.imgur.com/bXNMm2jh.jpg)](https://i.imgur.com/bXNMm2j.jpg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-![](https://i.imgur.com/S1uS0yZ.jpg)
+[![](https://i.imgur.com/S1uS0yZh.jpg)](https://i.imgur.com/S1uS0yZ.jpg)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-![](https://i.imgur.com/yMsw0gm.jpg)
+[![](https://i.imgur.com/yMsw0gmh.jpg)](https://i.imgur.com/yMsw0gm.jpg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-![](https://i.imgur.com/YJ1bXeW.jpg)
+[![](https://i.imgur.com/YJ1bXeWh.jpg)](https://i.imgur.com/YJ1bXeW.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/EvglrIP.jpg)
+[![](https://i.imgur.com/EvglrIPh.jpg)](https://i.imgur.com/EvglrIP.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/yfV1JGq.jpg)
+[![](https://i.imgur.com/yfV1JGqh.jpg)](https://i.imgur.com/yfV1JGq.jpg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-![](https://i.imgur.com/ER6iMzz.jpg)
+[![](https://i.imgur.com/ER6iMzzh.jpg)](https://i.imgur.com/ER6iMzz.jpg)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-![](https://i.imgur.com/1EoBecK.jpg)
+[![](https://i.imgur.com/1EoBecKh.jpg)](https://i.imgur.com/1EoBecK.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-![](https://i.imgur.com/biGpGJb.jpg)
+[![](https://i.imgur.com/biGpGJbh.jpg)](https://i.imgur.com/biGpGJb.jpg)
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-![](https://i.imgur.com/Z3MVfp9.jpg)
+[![](https://i.imgur.com/Z3MVfp9h.jpg)](https://i.imgur.com/Z3MVfp9.jpg)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-![](https://i.imgur.com/JvVrZ9L.jpg)
+[![](https://i.imgur.com/JvVrZ9Lh.jpg)](https://i.imgur.com/JvVrZ9L.jpg)
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-![](https://i.imgur.com/EQGYXyL.jpg)
+[![](https://i.imgur.com/EQGYXyLh.jpg)](https://i.imgur.com/EQGYXyL.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
-<!-- tab 特殊-->
+<!-- tab 特殊角色立繪-->
 {% tabs 特殊立繪 %}
 <!-- tab 李世河(Seha)-->
-![](https://i.imgur.com/RO1hRDn.jpg)
+[![](https://i.imgur.com/RO1hRDnh.jpg)](https://i.imgur.com/RO1hRDn.jpg)
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
-![](https://i.imgur.com/wo9bduP.jpg)
+[![](https://i.imgur.com/wo9bduPh.jpg)](https://i.imgur.com/wo9bduP.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-![](https://i.imgur.com/uytMi27.jpg)
+[![](https://i.imgur.com/uytMi27h.jpg)](https://i.imgur.com/uytMi27.jpg)
 <!-- endtab -->
 <!-- tab J-->
-![](https://i.imgur.com/vU7qeHp.jpg)
+[![](https://i.imgur.com/vU7qeHph.jpg)](https://i.imgur.com/vU7qeHp.jpg)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-![](https://i.imgur.com/e454yk8.jpg)
+[![](https://i.imgur.com/e454yk8h.jpg)](https://i.imgur.com/e454yk8.jpg)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
-![](https://i.imgur.com/wyP5PqW.jpg)
+[![](https://i.imgur.com/wyP5PqWh.jpg)](https://i.imgur.com/wyP5PqW.jpg)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-![](https://i.imgur.com/Vmc6AF0.jpg)
+[![](https://i.imgur.com/Vmc6AF0h.jpg)](https://i.imgur.com/Vmc6AF0.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/1HdYT9K.jpg)
+[![](https://i.imgur.com/1HdYT9Kh.jpg)](https://i.imgur.com/1HdYT9K.jpg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-![](https://i.imgur.com/UEkJ2R0.jpg)
+[![](https://i.imgur.com/UEkJ2R0h.jpg)](https://i.imgur.com/UEkJ2R0.jpg)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-![](https://i.imgur.com/xUer4kh.jpg)
+[![](https://i.imgur.com/xUer4khh.jpg)](https://i.imgur.com/xUer4kh.jpg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-![](https://i.imgur.com/UWgi8uV.jpg)
+[![](https://i.imgur.com/UWgi8uVh.jpg)](https://i.imgur.com/UWgi8uV.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/SoAxEuF.jpg)
+[![](https://i.imgur.com/SoAxEuFh.jpg)](https://i.imgur.com/SoAxEuF.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/2wPp0cS.jpg)
+[![](https://i.imgur.com/2wPp0cSh.jpg)](https://i.imgur.com/2wPp0cS.jpg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-![](https://i.imgur.com/Zo94wjL.jpg)
+[![](https://i.imgur.com/Zo94wjLh.jpg)](https://i.imgur.com/Zo94wjL.jpg)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-![](https://i.imgur.com/V85llbF.jpg)
+[![](https://i.imgur.com/V85llbFh.jpg)](https://i.imgur.com/V85llbF.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-![](https://i.imgur.com/SaU6v7z.jpg)
+[![](https://i.imgur.com/SaU6v7zh.jpg)](https://i.imgur.com/SaU6v7z.jpg)
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-![](https://i.imgur.com/YCCy8vH.jpg)
+[![](https://i.imgur.com/YCCy8vHh.jpg)](https://i.imgur.com/YCCy8vH.jpg)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-![](https://i.imgur.com/p8zCwm3.jpg)
+[![](https://i.imgur.com/p8zCwm3h.jpg)](https://i.imgur.com/p8zCwm3.jpg)
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-![](https://i.imgur.com/HoZtCQM.jpg)
+[![](https://i.imgur.com/HoZtCQMh.jpg)](https://i.imgur.com/HoZtCQM.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

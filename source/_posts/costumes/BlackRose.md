@@ -23,7 +23,7 @@ tags:
     - 銀河
     - 露西
 category: [時裝, 有立繪, 全角色]
-cover: https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=5197197585378443303
+cover: https://i.imgur.com/J3b5en6h.jpg
 description: "Eternal Black Rose<br>加速讀圖速度功能測試"
 ---
 

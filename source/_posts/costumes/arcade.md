@@ -9,7 +9,7 @@ tags:
     - 白
     - 未來
 category: [時裝, 有立繪, 限定角色]
-cover: https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=4692794796480144649
+cover: https://i.imgur.com/hAVGi7mh.jpg
 description: "Arcade Girls"
 ---
 
@@ -29,42 +29,42 @@ description: "Arcade Girls"
 ---
 
 {% tabs 類型 %}
-<!-- tab 普通-->
+<!-- tab 普通角色立繪-->
 {% tabs 普通立繪 %}
 <!-- tab 李雪菲(Seulbi)-->
-![](https://i.imgur.com/MsdiuYw.jpg)
+[![](https://i.imgur.com/MsdiuYwh.jpg)](https://i.imgur.com/MsdiuYw.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-![](https://i.imgur.com/iEyE7Sw.jpg)
+[![](https://i.imgur.com/iEyE7Swh.jpg)](https://i.imgur.com/iEyE7Sw.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/hImiqqM.jpg)
+[![](https://i.imgur.com/hImiqqMh.jpg)](https://i.imgur.com/hImiqqM.jpg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-![](https://i.imgur.com/Y5f6q26.jpg)
+[![](https://i.imgur.com/Y5f6q26h.jpg)](https://i.imgur.com/Y5f6q26.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-![](https://i.imgur.com/cSPBZXH.jpg)
+[![](https://i.imgur.com/cSPBZXHh.jpg)](https://i.imgur.com/cSPBZXH.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
-<!-- tab 特殊-->
+<!-- tab 特殊角色立繪-->
 {% tabs 特殊立繪 %}
 <!-- tab 李雪菲(Seulbi)-->
-![](https://i.imgur.com/pfOb8dB.jpg)
+[![](https://i.imgur.com/pfOb8dBh.jpg)](https://i.imgur.com/pfOb8dB.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-![](https://i.imgur.com/85Vw87W.jpg)
+[![](https://i.imgur.com/85Vw87Wh.jpg)](https://i.imgur.com/85Vw87W.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/LfkE1BE.jpg)
+[![](https://i.imgur.com/LfkE1BEh.jpg)](https://i.imgur.com/LfkE1BE.jpg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-![](https://i.imgur.com/vg49lGD.jpg)
+[![](https://i.imgur.com/vg49lGDh.jpg)](https://i.imgur.com/vg49lGD.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-![](https://i.imgur.com/bZlGxhw.jpg)
+[![](https://i.imgur.com/bZlGxhwh.jpg)](https://i.imgur.com/bZlGxhw.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

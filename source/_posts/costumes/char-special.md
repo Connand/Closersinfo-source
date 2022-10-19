@@ -18,7 +18,7 @@ cover: https://i.imgur.com/JIDFPVU.jpg
 description: "角色專屬時裝"
 ---
 
-![](https://i.imgur.com/JIDFPVU.jpg)
+[![](https://i.imgur.com/JIDFPVUh.jpg)](https://i.imgur.com/JIDFPVU.jpg)
 
 ---
 # 各角色專屬時裝
@@ -35,16 +35,16 @@ description: "角色專屬時裝"
 部位：武器、頭髮、上衣、下衣、手套、鞋子、帽子(不影響開啟立繪)
 {% tabs  薇歐莉特(Violet)-皇室玫瑰 %}
 <!-- tab A型(混搭立繪)-->
-![](https://i.imgur.com/NG31oqM.jpg)
-![](https://i.imgur.com/PLJy6Pj.png)
+[![](https://i.imgur.com/NG31oqMh.jpg)](https://i.imgur.com/NG31oqM.jpg)
+[![](https://i.imgur.com/PLJy6Pjh.png)](https://i.imgur.com/PLJy6Pj.png)
 <!-- endtab -->
 <!-- tab B型-->
-![](https://i.imgur.com/9reN4GF.jpg)
-![](https://i.imgur.com/lBGKwmo.png)
+[![](https://i.imgur.com/9reN4GFh.jpg)](https://i.imgur.com/9reN4GF.jpg)
+[![](https://i.imgur.com/lBGKwmoh.png)](https://i.imgur.com/lBGKwmo.png)
 <!-- endtab -->
 <!-- tab C型-->
-![](https://i.imgur.com/Nr6ZVj4.jpg)
-![](https://i.imgur.com/U8DfUK5.png)
+[![](https://i.imgur.com/Nr6ZVj4h.jpg)](https://i.imgur.com/Nr6ZVj4.jpg)
+[![](https://i.imgur.com/U8DfUK5h.png)](https://i.imgur.com/U8DfUK5.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -53,16 +53,16 @@ description: "角色專屬時裝"
 部位：武器、頭髮、上衣、下衣、手套、鞋子、臉中部(不影響開啟立繪)
 {% tabs 沃爾夫姜(Wolfgang)-皇家玫瑰 %}
 <!-- tab A型(混搭立繪)-->
-![](https://i.imgur.com/HpKR6Pi.jpg)
-![](https://i.imgur.com/x4ZH2Mc.png)
+[![](https://i.imgur.com/HpKR6Pih.jpg)](https://i.imgur.com/HpKR6Pi.jpg)
+[![](https://i.imgur.com/x4ZH2Mch.png)](https://i.imgur.com/x4ZH2Mc.png)
 <!-- endtab -->
 <!-- tab B型-->
-![](https://i.imgur.com/yvvLTvg.jpg)
-![](https://i.imgur.com/riX9cIw.png)
+[![](https://i.imgur.com/yvvLTvgh.jpg)](https://i.imgur.com/yvvLTvg.jpg)
+[![](https://i.imgur.com/riX9cIwh.png)](https://i.imgur.com/riX9cIw.png)
 <!-- endtab -->
 <!-- tab C型-->
-![](https://i.imgur.com/eWDxdFt.jpg)
-![](https://i.imgur.com/yc233tv.png)
+[![](https://i.imgur.com/eWDxdFth.jpg)](https://i.imgur.com/eWDxdFt.jpg)
+[![](https://i.imgur.com/yc233tvh.png)](https://i.imgur.com/yc233tv.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -71,16 +71,16 @@ description: "角色專屬時裝"
 部位：武器、頭髮、上衣、下衣、手套、鞋子、腰部
 {% tabs 露娜(Luna)-搖滾貓咪 %}
 <!-- tab A型(混搭立繪)-->
-![](https://i.imgur.com/9lsQ4pV.jpg)
+[![](https://i.imgur.com/9lsQ4pVh.jpg)](https://i.imgur.com/9lsQ4pV.jpg)
 <!-- endtab -->
 <!-- tab B型-->
-![](https://i.imgur.com/lZxvXiY.jpg)
+[![](https://i.imgur.com/lZxvXiYh.jpg)](https://i.imgur.com/lZxvXiY.jpg)
 <!-- endtab -->
 <!-- tab C型-->
-![](https://i.imgur.com/DncKtx8.jpg)
+[![](https://i.imgur.com/DncKtx8h.jpg)](https://i.imgur.com/DncKtx8.jpg)
 <!-- endtab -->
 <!-- tab 模組圖 -->
-![](https://i.imgur.com/tp2EfgH.png)
+[![](https://i.imgur.com/tp2EfgHh.png)](https://i.imgur.com/tp2EfgH.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -89,16 +89,16 @@ description: "角色專屬時裝"
 部位：武器、頭髮、上衣、下衣、手套、鞋子
 {% tabs 索瑪(Soma)-甜心騎士 %}
 <!-- tab A型(混搭立繪)-->
-![](https://i.imgur.com/kSRfW2T.jpg)
-![](https://i.imgur.com/J28Olyj.png)
+[![](https://i.imgur.com/kSRfW2Th.jpg)](https://i.imgur.com/kSRfW2T.jpg)
+[![](https://i.imgur.com/J28Olyjh.png)](https://i.imgur.com/J28Olyj.png)
 <!-- endtab -->
 <!-- tab B型-->
-![](https://i.imgur.com/xARdgLZ.jpg)
-![](https://i.imgur.com/zOyPqtT.png)
+[![](https://i.imgur.com/xARdgLZh.jpg)](https://i.imgur.com/xARdgLZ.jpg)
+[![](https://i.imgur.com/zOyPqtTh.png)](https://i.imgur.com/zOyPqtT.png)
 <!-- endtab -->
 <!-- tab C型-->
-![](https://i.imgur.com/ex6k44R.jpg)
-![](https://i.imgur.com/uKzDtK5.png)
+[![](https://i.imgur.com/ex6k44Rh.jpg)](https://i.imgur.com/ex6k44R.jpg)
+[![](https://i.imgur.com/uKzDtK5h.png)](https://i.imgur.com/uKzDtK5.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -107,16 +107,16 @@ description: "角色專屬時裝"
 部位：武器、頭髮、上衣、下衣、手套、鞋子、瞳孔
 {% tabs 白(Bai)-冰凜夜蝶 %}
 <!-- tab A型(混搭立繪) -->
-![](https://i.imgur.com/qVuBTnp.jpg)
-![](https://i.imgur.com/tlTEXs3.png)
+[![](https://i.imgur.com/qVuBTnph.jpg)](https://i.imgur.com/qVuBTnp.jpg)
+[![](https://i.imgur.com/tlTEXs3h.png)](https://i.imgur.com/tlTEXs3.png)
 <!-- endtab -->
 <!-- tab B型-->
-![](https://i.imgur.com/3uw5IQv.jpg)
-![](https://i.imgur.com/JqUofuf.png)
+[![](https://i.imgur.com/3uw5IQvh.jpg)](https://i.imgur.com/3uw5IQv.jpg)
+[![](https://i.imgur.com/JqUofufh.png)](https://i.imgur.com/JqUofuf.png)
 <!-- endtab -->
 <!-- tab C型-->
-![](https://i.imgur.com/8Z62T6h.jpg)
-![](https://i.imgur.com/gA2ABOn.png)
+[![](https://i.imgur.com/8Z62T6hh.jpg)](https://i.imgur.com/8Z62T6h.jpg)
+[![](https://i.imgur.com/gA2ABOnh.png)](https://i.imgur.com/gA2ABOn.png)
 <!-- endtab -->
 <!-- endtab -->
 {% endtabs %}
@@ -126,16 +126,16 @@ description: "角色專屬時裝"
 部位：武器、頭髮、上衣、下衣、手套、鞋子、帽子
 {% tabs 賽特(Seth)-黑愛麗絲 %}
 <!-- tab A型(混搭立繪)-->
-![](https://i.imgur.com/d4i87xS.jpg)
-![](https://i.imgur.com/SEy0hKC.png)
+[![](https://i.imgur.com/d4i87xSh.jpg)](https://i.imgur.com/d4i87xS.jpg)
+[![](https://i.imgur.com/SEy0hKCh.png)](https://i.imgur.com/SEy0hKC.png)
 <!-- endtab -->
 <!-- tab B型-->
-![](https://i.imgur.com/1ZQMOCN.jpg)
-![](https://i.imgur.com/A5hB9Sf.png)
+[![](https://i.imgur.com/1ZQMOCNh.jpg)](https://i.imgur.com/1ZQMOCN.jpg)
+[![](https://i.imgur.com/A5hB9Sfh.png)](https://i.imgur.com/A5hB9Sf.png)
 <!-- endtab -->
 <!-- tab C型-->
-![](https://i.imgur.com/MZnQfCi.jpg)
-![](https://i.imgur.com/HHMKEVh.png)
+[![](https://i.imgur.com/MZnQfCih.jpg)](https://i.imgur.com/MZnQfCi.jpg)
+[![](https://i.imgur.com/HHMKEVhh.png)](https://i.imgur.com/HHMKEVh.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -144,16 +144,16 @@ description: "角色專屬時裝"
 部位：武器、頭髮、上衣、下衣、手套、鞋子、臉下部
 {% tabs 賽特(Seth)-夢幻少女 %}
 <!-- tab A型(混搭立繪)-->
-![](https://i.imgur.com/3U14ZMl.jpg)
-![](https://i.imgur.com/QB40D6t.png)
+[![](https://i.imgur.com/3U14ZMlh.jpg)](https://i.imgur.com/3U14ZMl.jpg)
+[![](https://i.imgur.com/QB40D6th.png)](https://i.imgur.com/QB40D6t.png)
 <!-- endtab -->
 <!-- tab B型-->
-![](https://i.imgur.com/sHFvQ0o.jpg)
-![](https://i.imgur.com/Vm2LyFJ.png)
+[![](https://i.imgur.com/sHFvQ0oh.jpg)](https://i.imgur.com/sHFvQ0o.jpg)
+[![](https://i.imgur.com/Vm2LyFJh.png)](https://i.imgur.com/Vm2LyFJ.png)
 <!-- endtab -->
 <!-- tab C型-->
-![](https://i.imgur.com/BYPWVO0.jpg)
-![](https://i.imgur.com/dfWXWkD.png)
+[![](https://i.imgur.com/BYPWVO0h.jpg)](https://i.imgur.com/BYPWVO0.jpg)
+[![](https://i.imgur.com/dfWXWkDh.png)](https://i.imgur.com/dfWXWkD.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -162,19 +162,19 @@ description: "角色專屬時裝"
 部位：武器、頭髮、上衣、下衣、手套、鞋子、臉中部
 {% tabs 未來(Mirae)-雅克那小丑 %}
 <!-- tab A型-->
-![](https://i.imgur.com/l6sOlrq.jpg)
-![](https://i.imgur.com/HTMV24o.png)
+[![](https://i.imgur.com/l6sOlrqh.jpg)](https://i.imgur.com/l6sOlrq.jpg)
+[![](https://i.imgur.com/HTMV24oh.png)](https://i.imgur.com/HTMV24o.png)
 <!-- endtab -->
 <!-- tab B型-->
-![](https://i.imgur.com/vDWjwlq.jpg)
-![](https://i.imgur.com/0pDgs0V.png)
+[![](https://i.imgur.com/vDWjwlqh.jpg)](https://i.imgur.com/vDWjwlq.jpg)
+[![](https://i.imgur.com/0pDgs0Vh.png)](https://i.imgur.com/0pDgs0V.png)
 <!-- endtab -->
 <!-- tab C型-->
-![](https://i.imgur.com/HhJ6yhM.jpg)
-![](https://i.imgur.com/pEh6A0c.png)
+[![](https://i.imgur.com/HhJ6yhMh.jpg)](https://i.imgur.com/HhJ6yhM.jpg)
+[![](https://i.imgur.com/pEh6A0ch.png)](https://i.imgur.com/pEh6A0c.png)
 <!-- endtab -->
 <!-- tab 混搭立繪 -->
-![](https://i.imgur.com/LNf62ZK.jpg)
+[![](https://i.imgur.com/LNf62ZKh.jpg)](https://i.imgur.com/LNf62ZK.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -183,19 +183,19 @@ description: "角色專屬時裝"
 部位：武器、頭髮、上衣、下衣、手套、鞋子、臉中部(耳環)
 {% tabs 金徹斯(Chulsoo)-普羅米修斯 %}
 <!-- tab A型-->
-![](https://i.imgur.com/E6R2qvq.jpg)
-![](https://i.imgur.com/Z9rhuGw.png)
+[![](https://i.imgur.com/E6R2qvqh.jpg)](https://i.imgur.com/E6R2qvq.jpg)
+[![](https://i.imgur.com/Z9rhuGwh.png)](https://i.imgur.com/Z9rhuGw.png)
 <!-- endtab -->
 <!-- tab B型-->
-![](https://i.imgur.com/F9xjAfu.jpg)
-![](https://i.imgur.com/DPaakmV.png)
+[![](https://i.imgur.com/F9xjAfuh.jpg)](https://i.imgur.com/F9xjAfu.jpg)
+[![](https://i.imgur.com/DPaakmVh.png)](https://i.imgur.com/DPaakmV.png)
 <!-- endtab -->
 <!-- tab C型-->
-![](https://i.imgur.com/CJnhEeW.jpg)
-![](https://i.imgur.com/ifxLGWg.png)
+[![](https://i.imgur.com/CJnhEeWh.jpg)](https://i.imgur.com/CJnhEeW.jpg)
+[![](https://i.imgur.com/ifxLGWgh.png)](https://i.imgur.com/ifxLGWg.png)
 <!-- endtab -->
 <!-- tab 混搭立繪 -->
-![](https://i.imgur.com/Oiy5Yg9.jpg)
+[![](https://i.imgur.com/Oiy5Yg9h.jpg)](https://i.imgur.com/Oiy5Yg9.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -204,19 +204,19 @@ description: "角色專屬時裝"
 部位：武器、頭髮、上衣、下衣、手套、鞋子、臉下部
 {% tabs 銀河(Eunha)-刀鋒月影 %}
 <!-- tab A型-->
-![](https://i.imgur.com/1Zfde6M.jpg)
-![](https://i.imgur.com/AmK97Y4.png)
+[![](https://i.imgur.com/1Zfde6Mh.jpg)](https://i.imgur.com/1Zfde6M.jpg)
+[![](https://i.imgur.com/AmK97Y4h.png)](https://i.imgur.com/AmK97Y4.png)
 <!-- endtab -->
 <!-- tab B型-->
-![](https://i.imgur.com/J0ljfAN.jpg)
-![](https://i.imgur.com/WMtiMOa.png)
+[![](https://i.imgur.com/J0ljfANh.jpg)](https://i.imgur.com/J0ljfAN.jpg)
+[![](https://i.imgur.com/WMtiMOah.png)](https://i.imgur.com/WMtiMOa.png)
 <!-- endtab -->
 <!-- tab C型-->
-![](https://i.imgur.com/HyazfHn.jpg)
-![](https://i.imgur.com/d6fvAMI.png)
+[![](https://i.imgur.com/HyazfHnh.jpg)](https://i.imgur.com/HyazfHn.jpg)
+[![](https://i.imgur.com/d6fvAMIh.png)](https://i.imgur.com/d6fvAMI.png)
 <!-- endtab -->
 <!-- tab 混搭立繪 -->
-![](https://i.imgur.com/xictnCB.jpg)
+[![](https://i.imgur.com/xictnCBh.jpg)](https://i.imgur.com/xictnCB.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -225,19 +225,19 @@ description: "角色專屬時裝"
 部位：武器、頭髮、上衣、下衣、手套、鞋子、帽子
 {% tabs 露西(Lucy)-原初之夢 %}
 <!-- tab A型-->
-![](https://i.imgur.com/rQN9NGU.jpg)
-![](https://i.imgur.com/eAcRZRQ.png)
+[![](https://i.imgur.com/rQN9NGUh.jpg)](https://i.imgur.com/rQN9NGU.jpg)
+[![](https://i.imgur.com/eAcRZRQh.png)](https://i.imgur.com/eAcRZRQ.png)
 <!-- endtab -->
 <!-- tab B型-->
-![](https://i.imgur.com/AG9Ghhb.jpg)
-![](https://i.imgur.com/csUysCC.png)
+[![](https://i.imgur.com/AG9Ghhbh.jpg)](https://i.imgur.com/AG9Ghhb.jpg)
+[![](https://i.imgur.com/csUysCCh.png)](https://i.imgur.com/csUysCC.png)
 <!-- endtab -->
 <!-- tab C型-->
-![](https://i.imgur.com/PL54cpz.jpg)
-![](https://i.imgur.com/FodOwtz.png)
+[![](https://i.imgur.com/PL54cpzh.jpg)](https://i.imgur.com/PL54cpz.jpg)
+[![](https://i.imgur.com/FodOwtzh.png)](https://i.imgur.com/FodOwtz.png)
 <!-- endtab -->
 <!-- tab 混搭立繪 -->
-![](https://i.imgur.com/Dxm2C06.jpg)
+[![](https://i.imgur.com/Dxm2C06h.jpg)](https://i.imgur.com/Dxm2C06.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

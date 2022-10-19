@@ -24,11 +24,11 @@ tags:
     - 銀河
     - 露西
 category: [時裝, 輝煌時裝]
-cover: https://i.imgur.com/85hinXs.jpg
+cover: https://i.imgur.com/85hinXsh.jpg
 description: "第二套輝煌時裝(Unique costume)"
 ---
 
-![](https://i.imgur.com/85hinXs.jpg)
+[![](https://i.imgur.com/85hinXsh.jpg)](https://i.imgur.com/85hinXs.jpg)
 
 ---
 ## 所羅門武裝(Solomon’s Vestments)
@@ -48,21 +48,21 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- tab 黑羊小隊-->
 {% tabs 黑羊小隊立繪 %}
 <!-- tab 李世河(Seha)-->
-![](https://i.imgur.com/glGIb38.jpg)
+[![](https://i.imgur.com/glGIb38h.jpg)](https://i.imgur.com/glGIb38.jpg)
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
-![](https://i.imgur.com/0UIwMpa.jpg)
+[![](https://i.imgur.com/0UIwMpah.jpg)](https://i.imgur.com/0UIwMpa.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
 立繪已修改，但是圖包尚未更新(下方**수정 후**為新立繪)
-![](https://i.imgur.com/JVbZzNN.jpg)
+[![](https://i.imgur.com/JVbZzNNh.jpg)](https://i.imgur.com/JVbZzNN.jpg)
 ![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4981004208896475145)
 <!-- endtab -->
 <!-- tab J-->
-![](https://i.imgur.com/Lkhom1H.jpg)
+[![](https://i.imgur.com/Lkhom1Hh.jpg)](https://i.imgur.com/Lkhom1H.jpg)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-![](https://i.imgur.com/9B1FSn0.jpg)
+[![](https://i.imgur.com/9B1FSn0h.jpg)](https://i.imgur.com/9B1FSn0.jpg)
 <!-- endtab -->
 <!-- tab 動作(李世河~米斯特汀)-->
 {%youtube 7Sha1S2xXMM %}
@@ -75,20 +75,20 @@ description: "第二套輝煌時裝(Unique costume)"
 {% tabs 紅狼小隊立繪 %}
 <!-- tab 納塔(Nata)-->
 立繪已修改，但是圖包尚未更新(下方**수정 후**為新立繪)
-![](https://i.imgur.com/1YsLFKy.jpg)
+[![](https://i.imgur.com/1YsLFKyh.jpg)](https://i.imgur.com/1YsLFKy.jpg)
 ![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4836888969281011727)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-![](https://i.imgur.com/As6AQVH.jpg)
+[![](https://i.imgur.com/As6AQVHh.jpg)](https://i.imgur.com/As6AQVH.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/HpnnQMi.jpg)
+[![](https://i.imgur.com/HpnnQMih.jpg)](https://i.imgur.com/HpnnQMi.jpg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-![](https://i.imgur.com/050jYIP.jpg)
+[![](https://i.imgur.com/050jYIPh.jpg)](https://i.imgur.com/050jYIP.jpg)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-![](https://i.imgur.com/fFksfGB.jpg)
+[![](https://i.imgur.com/fFksfGBh.jpg)](https://i.imgur.com/fFksfGB.jpg)
 <!-- endtab -->
 <!-- tab 動作(納塔~薇歐莉特)-->
 {%youtube r5xZP1OonsM %}
@@ -100,19 +100,19 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- tab 夜梟小隊-->
 {% tabs 夜梟小隊立繪 %}
 <!-- tab 沃爾夫姜(Wolfgang)-->
-![](https://i.imgur.com/3dhcVor.jpg)
+[![](https://i.imgur.com/3dhcVorh.jpg)](https://i.imgur.com/3dhcVor.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/vYe7nbe.jpg)
+[![](https://i.imgur.com/vYe7nbeh.jpg)](https://i.imgur.com/vYe7nbe.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/AYaZS34.jpg)
+[![](https://i.imgur.com/AYaZS34h.jpg)](https://i.imgur.com/AYaZS34.jpg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-![](https://i.imgur.com/0cm0Sin.jpg)
+[![](https://i.imgur.com/0cm0Sinh.jpg)](https://i.imgur.com/0cm0Sin.jpg)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-![](https://i.imgur.com/wyHzAzL.jpg)
+[![](https://i.imgur.com/wyHzAzLh.jpg)](https://i.imgur.com/wyHzAzL.jpg)
 <!-- endtab -->
 <!-- tab 動作(沃爾夫姜~賽特)-->
 {%youtube xzB0tWqwvAI %}
@@ -124,16 +124,16 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- tab 嚙鼠小隊-->
 {% tabs 嚙鼠小隊立繪 %}
 <!-- tab 未來(Mirae)-->
-![](https://i.imgur.com/ItK0ccN.jpg)
+[![](https://i.imgur.com/ItK0ccNh.jpg)](https://i.imgur.com/ItK0ccN.jpg)
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-![](https://i.imgur.com/y6Rb1Sm.jpg)
+[![](https://i.imgur.com/y6Rb1Smh.jpg)](https://i.imgur.com/y6Rb1Sm.jpg)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-![](https://i.imgur.com/vQO5JRU.jpg)
+[![](https://i.imgur.com/vQO5JRUh.jpg)](https://i.imgur.com/vQO5JRU.jpg)
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-![](https://i.imgur.com/a4VdXcy.jpg)
+[![](https://i.imgur.com/a4VdXcyh.jpg)](https://i.imgur.com/a4VdXcy.jpg)
 <!-- endtab -->		
 <!-- tab 動作(未來~露西)-->
 {%youtube Je61jNZS49s %}

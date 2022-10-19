@@ -24,11 +24,11 @@ tags:
   - 銀河
   - 露西
 category: [時裝, 輝煌時裝]
-cover: https://imgur.com/DtajMDv.jpg
+cover: https://imgur.com/DtajMDvh.jpg
 description: "閃耀之星(Shining Star)"
 ---
 		
-![](https://imgur.com/DtajMDv.jpg)
+[![](https://imgur.com/DtajMDvh.jpg)](https://imgur.com/DtajMDv.jpg)
 		    
 ---
 # 閃耀之星(Shining Star)
@@ -106,23 +106,23 @@ description: "閃耀之星(Shining Star)"
 {% tabs 黑羊小隊 - 學校樂團 %}
 <!-- tab 主唱：李世河(Seha)-->
 	很好，讓你們聽聽我的拿手歌吧！
-![](https://imgur.com/ybRc3gF.jpg)
+[![](https://imgur.com/ybRc3gFh.jpg)](https://imgur.com/ybRc3gF.jpg)
 <!-- endtab -->
 <!-- tab 貝斯手：李雪菲(Seulbi)-->
 	統計上來說，很多樂團的貝斯手都是隊長。
-![](https://imgur.com/7zrSDrD.jpg)
+[![](https://imgur.com/7zrSDrDh.jpg)](https://imgur.com/7zrSDrD.jpg)
 <!-- endtab -->
 <!-- tab 吉他手：徐維莉(Yuri)-->
 	我要用滿滿的心意來演奏！
-![](https://imgur.com/V3Ndo9D.jpg)
+[![](https://imgur.com/V3Ndo9Dh.jpg)](https://imgur.com/V3Ndo9D.jpg)
 <!-- endtab -->
 <!-- tab 鼓手：J-->
 	用咚滋咑滋的節奏開始吧！
-![](https://imgur.com/sUru6bU.jpg)
+[![](https://imgur.com/sUru6bUh.jpg)](https://imgur.com/sUru6bU.jpg)
 <!-- endtab -->
 <!-- tab 鍵盤手：米斯特汀(Tein)-->
 	樂團的小可愛！米斯特汀登場！
-![](https://imgur.com/gGYAPXP.jpg)
+[![](https://imgur.com/gGYAPXPh.jpg)](https://imgur.com/gGYAPXP.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -131,23 +131,23 @@ description: "閃耀之星(Shining Star)"
 {% tabs 紅狼小隊 - 爵士樂團 %}
 <!-- tab 鍵盤手：納塔(Nata)-->
 	爵士就是自由，為了成為自由的聲音而創造的。
-![](https://imgur.com/JVj8HT1.jpg)
+[![](https://imgur.com/JVj8HT1h.jpg)](https://imgur.com/JVj8HT1.jpg)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
 	竟然能在人們面前唱歌…這該不會，是夢吧？
-![](https://imgur.com/F1OLnZ3.jpg)
+[![](https://imgur.com/F1OLnZ3h.jpg)](https://imgur.com/F1OLnZ3.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
 	接下來…可以為你演奏嗎？
-![](https://imgur.com/uHFvjbu.jpg)
+[![](https://imgur.com/uHFvjbuh.jpg)](https://imgur.com/uHFvjbu.jpg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
 	差不多就好，為甚麼是不好的話？
-![](https://imgur.com/uadHAzR.jpg)
+[![](https://imgur.com/uadHAzRh.jpg)](https://imgur.com/uadHAzR.jpg)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
 	無論是作為演奏者，還是製作人都很完美。
-![](https://imgur.com/eH9XnM2.jpg)
+[![](https://imgur.com/eH9XnM2h.jpg)](https://imgur.com/eH9XnM2.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -156,23 +156,23 @@ description: "閃耀之星(Shining Star)"
 {% tabs 夜梟小隊 - 貨車樂團 %}
 <!-- tab 沃爾夫姜(Wolfgang)-->
 	要最不起眼的樂器，結果給了我這個。
-![](https://imgur.com/FsDAGM0.jpg)
+[![](https://imgur.com/FsDAGM0h.jpg)](https://imgur.com/FsDAGM0.jpg)
 <!-- endtab -->
 <!-- tab 主唱：露娜(Luna)-->
 	介紹一下，我們是世上最完美的龐克樂團！
-![](https://imgur.com/v3N7ma6.jpg)
+[![](https://imgur.com/v3N7ma6h.jpg)](https://imgur.com/v3N7ma6.jpg)
 <!-- endtab -->
 <!-- tab 吉他手：索瑪(Soma)-->
 	吼呦，我以為是奶酪原來是吉他啊！
-![](https://imgur.com/nXFivZj.jpg)
+[![](https://imgur.com/nXFivZjh.jpg)](https://imgur.com/nXFivZj.jpg)
 <!-- endtab -->
 <!-- tab 鍵盤手：白(Bai)-->
 	另外還有一些樂器演奏家…
-![](https://imgur.com/RIBqL3m.jpg)
+[![](https://imgur.com/RIBqL3mh.jpg)](https://imgur.com/RIBqL3m.jpg)
 <!-- endtab -->
 <!-- tab 鼓手：賽特(Seth)-->
 	想到和大家一起玩就嗨起來了！
-![](https://imgur.com/ZE9BsOr.jpg)
+[![](https://imgur.com/ZE9BsOrh.jpg)](https://imgur.com/ZE9BsOr.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -181,18 +181,18 @@ description: "閃耀之星(Shining Star)"
 {% tabs 嚙鼠小隊 - 地下樂團 %}
 <!-- tab 男主唱：徹斯(Chulsoo)-->
 
-![](https://imgur.com/a6ZnzE8.jpg)
+[![](https://imgur.com/a6ZnzE8h.jpg)](https://imgur.com/a6ZnzE8.jpg)
 作者偷偷OS:有...有項圈......
 <!-- endtab -->
 <!-- tab 女主唱：未來(Mirae)-->
 	唱歌…那孩子也曾喜歡過吧
-![](https://imgur.com/tz9P3fM.jpg)
+[![](https://imgur.com/tz9P3fMh.jpg)](https://imgur.com/tz9P3fM.jpg)
 <!-- endtab -->
 <!-- tab 大提琴：銀河(Eunha)-->
-![](https://imgur.com/EZM777j.jpg)
+[![](https://imgur.com/EZM777jh.jpg)](https://imgur.com/EZM777j.jpg)
 <!-- endtab -->
 <!-- tab 鍵盤手：露西(Lucy)-->
-![](https://imgur.com/CZiVXvX.jpg)
+[![](https://imgur.com/CZiVXvXh.jpg)](https://imgur.com/CZiVXvX.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

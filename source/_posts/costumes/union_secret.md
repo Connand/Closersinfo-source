@@ -10,7 +10,7 @@ tags:
     - 露娜
     - 索瑪
 category: [時裝, 有立繪, 限定角色]
-cover: https://ssl.nexon.com/s2/game/closers/2015/pds/035/1920x1080.jpg
+cover: https://i.imgur.com/Wb9Udkgh.jpg
 description: "Union Secret"
 ---
 
@@ -32,22 +32,22 @@ description: "Union Secret"
 <!-- tab <font color=#DE3163><b>立繪A型</b></font>-->
 {% tabs A型角色立繪 %}
 <!-- tab J-->
-![](https://i.imgur.com/GwF1ftu.jpg)
+[![](https://i.imgur.com/GwF1ftuh.jpg)](https://i.imgur.com/GwF1ftu.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/gbxm2oL.jpg)
+[![](https://i.imgur.com/gbxm2oLh.jpg)](https://i.imgur.com/gbxm2oL.jpg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-![](https://i.imgur.com/HehiMy3.jpg)
+[![](https://i.imgur.com/HehiMy3h.jpg)](https://i.imgur.com/HehiMy3.jpg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-![](https://i.imgur.com/gnajgqF.jpg)
+[![](https://i.imgur.com/gnajgqFh.jpg)](https://i.imgur.com/gnajgqF.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/ukbBnqG.jpg)
+[![](https://i.imgur.com/ukbBnqGh.jpg)](https://i.imgur.com/ukbBnqG.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/c1yUi0E.jpg)
+[![](https://i.imgur.com/c1yUi0Eh.jpg)](https://i.imgur.com/c1yUi0E.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -55,22 +55,22 @@ description: "Union Secret"
 <!-- tab 模組A型-->
 {% tabs A型角色模組 %}
 <!-- tab J-->
-![](https://i.imgur.com/bAmhicf.png)
+[![](https://i.imgur.com/bAmhicfh.png)](https://i.imgur.com/bAmhicf.png)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/19XdoLH.png)
+[![](https://i.imgur.com/19XdoLHh.png)](https://i.imgur.com/19XdoLH.png)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-![](https://i.imgur.com/NGYYmFc.png)
+[![](https://i.imgur.com/NGYYmFch.png)](https://i.imgur.com/NGYYmFc.png)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-![](https://i.imgur.com/tMOFl6B.png)
+[![](https://i.imgur.com/tMOFl6Bh.png)](https://i.imgur.com/tMOFl6B.png)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/5DgEMzU.png)
+[![](https://i.imgur.com/5DgEMzUh.png)](https://i.imgur.com/5DgEMzU.png)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/y0scHEF.png)
+[![](https://i.imgur.com/y0scHEFh.png)](https://i.imgur.com/y0scHEF.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -78,22 +78,22 @@ description: "Union Secret"
 <!-- tab <font color=#DE3163><b>立繪B型(混合立繪)</b></font>-->
 {% tabs B型角色立繪 %}
 <!-- tab J-->
-![](https://i.imgur.com/ORcLVAr.jpg)
+[![](https://i.imgur.com/ORcLVArh.jpg)](https://i.imgur.com/ORcLVAr.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/3byLZgP.jpg)
+[![](https://i.imgur.com/3byLZgPh.jpg)](https://i.imgur.com/3byLZgP.jpg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-![](https://i.imgur.com/5aR7NJo.jpg)
+[![](https://i.imgur.com/5aR7NJoh.jpg)](https://i.imgur.com/5aR7NJo.jpg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-![](https://i.imgur.com/1VJbdux.jpg)
+[![](https://i.imgur.com/1VJbduxh.jpg)](https://i.imgur.com/1VJbdux.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/wpxPTbE.jpg)
+[![](https://i.imgur.com/wpxPTbEh.jpg)](https://i.imgur.com/wpxPTbE.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/0rzu6rj.jpg)
+[![](https://i.imgur.com/0rzu6rjh.jpg)](https://i.imgur.com/0rzu6rj.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -101,22 +101,22 @@ description: "Union Secret"
 <!-- tab 模組B型-->
 {% tabs B型角色模組 %}
 <!-- tab J-->
-![](https://i.imgur.com/ATNL5zT.png)
+[![](https://i.imgur.com/ATNL5zTh.png)](https://i.imgur.com/ATNL5zT.png)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/mifcxcy.png)
+[![](https://i.imgur.com/mifcxcyh.png)](https://i.imgur.com/mifcxcy.png)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-![](https://i.imgur.com/6wXlfrA.png)
+[![](https://i.imgur.com/6wXlfrAh.png)](https://i.imgur.com/6wXlfrA.png)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-![](https://i.imgur.com/3kVsUjD.png)
+[![](https://i.imgur.com/3kVsUjDh.png)](https://i.imgur.com/3kVsUjD.png)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/SPmShmw.png)
+[![](https://i.imgur.com/SPmShmwh.png)](https://i.imgur.com/SPmShmw.png)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/12oCvYG.png)
+[![](https://i.imgur.com/12oCvYGh.png)](https://i.imgur.com/12oCvYG.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -124,22 +124,22 @@ description: "Union Secret"
 <!-- tab <font color=#DE3163><b>立繪C型</b></font>-->
 {% tabs C型角色立繪 %}
 <!-- tab J-->
-![](https://i.imgur.com/mBixp6r.jpg)
+[![](https://i.imgur.com/mBixp6rh.jpg)](https://i.imgur.com/mBixp6r.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/yJ4lweC.jpg)
+[![](https://i.imgur.com/yJ4lweCh.jpg)](https://i.imgur.com/yJ4lweC.jpg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-![](https://i.imgur.com/VXrT23b.jpg)
+[![](https://i.imgur.com/VXrT23bh.jpg)](https://i.imgur.com/VXrT23b.jpg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-![](https://i.imgur.com/u4brLcI.jpg)
+[![](https://i.imgur.com/u4brLcIh.jpg)](https://i.imgur.com/u4brLcI.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/x0hNg1i.jpg)
+[![](https://i.imgur.com/x0hNg1ih.jpg)](https://i.imgur.com/x0hNg1i.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/lpGCpIU.jpg)
+[![](https://i.imgur.com/lpGCpIUh.jpg)](https://i.imgur.com/lpGCpIU.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -147,22 +147,22 @@ description: "Union Secret"
 <!-- tab 模組C型-->
 {% tabs C型角色模組 %}
 <!-- tab J-->
-![](https://i.imgur.com/9XjuYpl.png)
+[![](https://i.imgur.com/9XjuYplh.png)](https://i.imgur.com/9XjuYpl.png)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://i.imgur.com/CyMUPtI.png)
+[![](https://i.imgur.com/CyMUPtIh.png)](https://i.imgur.com/CyMUPtI.png)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-![](https://i.imgur.com/f67WTI5.png)
+[![](https://i.imgur.com/f67WTI5h.png)](https://i.imgur.com/f67WTI5.png)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-![](https://i.imgur.com/SYi3qvX.png)
+[![](https://i.imgur.com/SYi3qvXh.png)](https://i.imgur.com/SYi3qvX.png)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/nriU6t4.png)
+[![](https://i.imgur.com/nriU6t4h.png)](https://i.imgur.com/nriU6t4.png)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/V44hweW.png)
+[![](https://i.imgur.com/V44hweWh.png)](https://i.imgur.com/V44hweW.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

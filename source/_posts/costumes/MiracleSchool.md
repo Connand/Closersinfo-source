@@ -10,7 +10,7 @@ tags:
     - 未來
     - 銀河
 category: [時裝, 有立繪, 限定角色]
-cover: https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=4908967578593929082
+cover: https://i.imgur.com/YtZ8yqTh.jpg
 description: "Miracle School Girls"
 ---
 
@@ -32,22 +32,22 @@ description: "Miracle School Girls"
 <!-- tab 普通-->
 {% tabs 普通立繪 %}
 <!-- tab 李雪菲(Seulbi)-->
-![](https://i.imgur.com/RacmV3l.jpg)
+[![](https://i.imgur.com/RacmV3lh.jpg)](https://i.imgur.com/RacmV3l.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-![](https://i.imgur.com/XR64Vjj.jpg)
+[![](https://i.imgur.com/XR64Vjjh.jpg)](https://i.imgur.com/XR64Vjj.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/7Ni1iPz.jpg)
+[![](https://i.imgur.com/7Ni1iPzh.jpg)](https://i.imgur.com/7Ni1iPz.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/UTTlill.jpg)
+[![](https://i.imgur.com/UTTlillh.jpg)](https://i.imgur.com/UTTlill.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-![](https://i.imgur.com/tIXEhSk.jpg)
+[![](https://i.imgur.com/tIXEhSkh.jpg)](https://i.imgur.com/tIXEhSk.jpg)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-![](https://i.imgur.com/JECKTte.jpg)
+[![](https://i.imgur.com/JECKTteh.jpg)](https://i.imgur.com/JECKTte.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -55,22 +55,22 @@ description: "Miracle School Girls"
 <!-- tab 特殊-->
 {% tabs 特殊立繪 %}
 <!-- tab 李雪菲(Seulbi)-->
-![](https://i.imgur.com/T4gVvX4.jpg)
+[![](https://i.imgur.com/T4gVvX4h.jpg)](https://i.imgur.com/T4gVvX4.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-![](https://i.imgur.com/Z1njl5T.jpg)
+[![](https://i.imgur.com/Z1njl5Th.jpg)](https://i.imgur.com/Z1njl5T.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/8zWMQaX.jpg)
+[![](https://i.imgur.com/8zWMQaXh.jpg)](https://i.imgur.com/8zWMQaX.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/108bMiH.jpg)
+[![](https://i.imgur.com/108bMiHh.jpg)](https://i.imgur.com/108bMiH.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-![](https://i.imgur.com/ASMxWNh.jpg)
+[![](https://i.imgur.com/ASMxWNhh.jpg)](https://i.imgur.com/ASMxWNh.jpg)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-![](https://i.imgur.com/btx9YBA.jpg)
+[![](https://i.imgur.com/btx9YBAh.jpg)](https://i.imgur.com/btx9YBA.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

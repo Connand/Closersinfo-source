@@ -24,11 +24,11 @@ tags:
     - 銀河
     - 露西
 category: [時裝, 高階時裝]
-cover: https://i.imgur.com/49fugI4.png
+cover: https://i.imgur.com/49fugI4h.png
 description: "第一套高階時裝"
 ---
 
-![](https://i.imgur.com/49fugI4.png)
+[![](https://i.imgur.com/49fugI4h.png)](https://i.imgur.com/49fugI4.png)
 
 ---
 ## 黑暗光輝(Splendor of Darkness)
@@ -53,87 +53,87 @@ description: "第一套高階時裝"
 <!-- endtab -->
 <!-- tab 李世河(Seha)-->
     「吾即是王！以星光之力摧毀一切吧！」
-![](https://imgur.com/MkvaUtQ.jpg)
+[![](https://imgur.com/MkvaUtQh.jpg)](https://imgur.com/MkvaUtQ.jpg)
 {%youtube VHX9bFwSZwU %}
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
     「全部給我消失吧！垃圾！」
-![](https://i.imgur.com/KiIaAgc.jpg)
+[![](https://i.imgur.com/KiIaAgch.jpg)](https://i.imgur.com/KiIaAgc.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
     「嘻嘻！用刀刃為你劃出死亡印記~」
-![](https://i.imgur.com/Uf7XD4F.jpg)
+[![](https://i.imgur.com/Uf7XD4Fh.jpg)](https://i.imgur.com/Uf7XD4F.jpg)
 <!-- endtab -->
 <!-- tab J-->
     「走入黑暗，承受痛苦的極限吧！」
-![](https://i.imgur.com/gvKYQXH.jpg)
+[![](https://i.imgur.com/gvKYQXHh.jpg)](https://i.imgur.com/gvKYQXH.jpg)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
     「哼哼！小心腦袋被貫穿呦~」
-![](https://i.imgur.com/zwwYyOU.jpg)
+[![](https://i.imgur.com/zwwYyOUh.jpg)](https://i.imgur.com/zwwYyOU.jpg)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
     「成為我力量的祭品吧！」
-![](https://i.imgur.com/zH0Www3.jpg)
+[![](https://i.imgur.com/zH0Www3h.jpg)](https://i.imgur.com/zH0Www3.jpg)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
     「燃燒吧！然後在地獄中安眠~」
-![](https://i.imgur.com/feJABYp.jpg)
+[![](https://i.imgur.com/feJABYph.jpg)](https://i.imgur.com/feJABYp.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
     「抽到的牌！是你的靈魂呦~」
-![](https://i.imgur.com/bnY4Ahd.jpg)
+[![](https://i.imgur.com/bnY4Ahdh.jpg)](https://i.imgur.com/bnY4Ahd.jpg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
     「魔法少女緹娜！閃亮登場！」
-![](https://i.imgur.com/Esdbxzq.jpg)
+[![](https://i.imgur.com/Esdbxzqh.jpg)](https://i.imgur.com/Esdbxzq.jpg)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-![](https://i.imgur.com/m9z97gF.jpg)
+[![](https://i.imgur.com/m9z97gFh.jpg)](https://i.imgur.com/m9z97gF.jpg)
 
 {%youtube H3s4R_h_gr0 %}
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-![](https://i.imgur.com/Rx9fIo3.jpg)
+[![](https://i.imgur.com/Rx9fIo3h.jpg)](https://i.imgur.com/Rx9fIo3.jpg)
 
 {%youtube HJmadn4YFOc %}
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://i.imgur.com/XmSXVpD.jpg)
+[![](https://i.imgur.com/XmSXVpDh.jpg)](https://i.imgur.com/XmSXVpD.jpg)
 
 {%youtube wzrcxBLqUDo %}
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://i.imgur.com/DNd05Fn.jpg)
+[![](https://i.imgur.com/DNd05Fnh.jpg)](https://i.imgur.com/DNd05Fn.jpg)
 
 {%youtube _6B2tGrRIBg %}
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-![](https://i.imgur.com/99vWB0m.jpg)
+[![](https://i.imgur.com/99vWB0mh.jpg)](https://i.imgur.com/99vWB0m.jpg)
 
 {%youtube MaQz4bR9VLs %}
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-![](https://i.imgur.com/RRI1yIy.jpg)
+[![](https://i.imgur.com/RRI1yIyh.jpg)](https://i.imgur.com/RRI1yIy.jpg)
 
 {%youtube vP1oA5_7ELQ %}
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-![](https://i.imgur.com/3P2BfY1.jpg)
+[![](https://i.imgur.com/3P2BfY1h.jpg)](https://i.imgur.com/3P2BfY1.jpg)
 
 {%youtube AoIwBTaq41Q %}
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-![](https://i.imgur.com/L8cszL2.jpg)
+[![](https://i.imgur.com/L8cszL2h.jpg)](https://i.imgur.com/L8cszL2.jpg)
 
 {%youtube VyLWpcEBI1A %}
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-![](https://i.imgur.com/CeNL3sa.jpg)
+[![](https://i.imgur.com/CeNL3sah.jpg)](https://i.imgur.com/CeNL3sa.jpg)
 {%youtube NiIdp8Ol4Fc %}
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-![](https://i.imgur.com/rUrhbQE.jpg)
+[![](https://i.imgur.com/rUrhbQEh.jpg)](https://i.imgur.com/rUrhbQE.jpg)
 {%youtube t92ynZL3IbM %}
 <!-- endtab -->		
 
