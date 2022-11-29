@@ -26,10 +26,11 @@ description: "Miracle School Girls"
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [宣傳頁面](https://closers.nexon.com/events2022/0324/costume)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_miracleSchoolGirls_220324.zip)
+[國際版公告](https://www.closersonline.com/naddic_news/20221123-miracle-school-girls-vow-of-love-nocturnal-x/)
 ---
 
 {% tabs 類型 %}
-<!-- tab 普通-->
+<!-- tab <font color=#6495ED><b>普通立繪</b></font>-->
 {% tabs 普通立繪 %}
 <!-- tab 李雪菲(Seulbi)-->
 [![](https://i.imgur.com/RacmV3lh.jpg)](https://i.imgur.com/RacmV3l.jpg)
@@ -52,7 +53,7 @@ description: "Miracle School Girls"
 {% endtabs %}
 <!-- endtab -->
 
-<!-- tab 特殊-->
+<!-- tab <font color=#DE3163><b>特殊立繪</b></font>-->
 {% tabs 特殊立繪 %}
 <!-- tab 李雪菲(Seulbi)-->
 [![](https://i.imgur.com/T4gVvX4h.jpg)](https://i.imgur.com/T4gVvX4.jpg)
@@ -71,6 +72,75 @@ description: "Miracle School Girls"
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
 [![](https://i.imgur.com/btx9YBAh.jpg)](https://i.imgur.com/btx9YBA.jpg)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+<!-- tab 模組A型-->
+{% tabs A型角色模組 %}
+<!-- tab 李雪菲(Seulbi)-->
+[![](https://i.imgur.com/xetdpD2h.png)](https://i.imgur.com/xetdpD2.png)
+<!-- endtab -->
+<!-- tab 徐維莉(Yuri)-->
+[![](https://i.imgur.com/80DzftVh.png)](https://i.imgur.com/80DzftV.png)
+<!-- endtab -->
+<!-- tab 露娜(Luna)-->
+[![](https://i.imgur.com/rI5VzLEh.png)](https://i.imgur.com/rI5VzLE.png)
+<!-- endtab -->
+<!-- tab 索瑪(Soma)-->
+[![](https://i.imgur.com/e2yrw3Zh.png)](https://i.imgur.com/e2yrw3Z.png)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/ockGTqgh.png)](https://i.imgur.com/ockGTqg.png)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/FsuyKGQh.png)](https://i.imgur.com/FsuyKGQ.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+<!-- tab 模組B型-->
+{% tabs B型角色模組 %}
+<!-- tab 李雪菲(Seulbi)-->
+[![](https://i.imgur.com/kbXo2rih.png)](https://i.imgur.com/kbXo2ri.png)
+<!-- endtab -->
+<!-- tab 徐維莉(Yuri)-->
+[![](https://i.imgur.com/vXgEqqhh.png)](https://i.imgur.com/vXgEqqh.png)
+<!-- endtab -->
+<!-- tab 露娜(Luna)-->
+[![](https://i.imgur.com/2RUXNnIh.png)](https://i.imgur.com/2RUXNnI.png)
+<!-- endtab -->
+<!-- tab 索瑪(Soma)-->
+[![](https://i.imgur.com/UegtoiYh.png)](https://i.imgur.com/UegtoiY.png)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/lWZiFSmh.png)](https://i.imgur.com/lWZiFSm.png)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/Y5LFwaOh.png)](https://i.imgur.com/Y5LFwaO.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+<!-- tab 模組C型-->
+{% tabs C型角色模組 %}
+<!-- tab 李雪菲(Seulbi)-->
+[![](https://i.imgur.com/8dCRfvTh.png)](https://i.imgur.com/8dCRfvT.png)
+<!-- endtab -->
+<!-- tab 徐維莉(Yuri)-->
+[![](https://i.imgur.com/S2gS9Qzh.png)](https://i.imgur.com/S2gS9Qz.png)
+<!-- endtab -->
+<!-- tab 露娜(Luna)-->
+[![](https://i.imgur.com/Lv38Q7Oh.png)](https://i.imgur.com/Lv38Q7O.png)
+<!-- endtab -->
+<!-- tab 索瑪(Soma)-->
+[![](https://i.imgur.com/fmP5CyNh.png)](https://i.imgur.com/fmP5CyN.png)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/g4iV0TNh.png)](https://i.imgur.com/g4iV0TN.png)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/99rqskAh.png)](https://i.imgur.com/99rqskA.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

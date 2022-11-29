@@ -24,7 +24,7 @@ tags:
     - 露西
     - 愚人節立繪
 category: [遊戲資料,其他]
-cover: https://i.imgur.com/3G5Z1Hg.jpg
+cover: https://i.imgur.com/3G5Z1Hgh.jpg
 description: "愚人節立繪"
 ---
 

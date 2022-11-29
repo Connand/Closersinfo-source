@@ -1,38 +1,61 @@
 ---
 title: 台版周年紀念繪圖創作記錄
-date: 2021-11-30 20:30:31
+date: 2022-11-07 20:30:31
 tags: 
     - 資料紀錄
     - 周年
     - 繪圖
 category: [遊戲資料,繪圖]
-cover: /img/anniversary/TW5th_J.jpg
+cover: https://i.imgur.com/i682h3ch.jpg
 description: "紀錄台版周年紀念使用過的官方/非官方立繪與登入圖等等"
 ---
 
 **<font color=#FF0000 size=5>注意：此區所見之玩家作品，均經過原作者同意展示，並且所有創作本站均不用於營利用途。</font>**
 
+**<font color=#FF0000 size=5>直接點圖可察看原圖</font>**
+
+---
+
+# 2022年萬聖節紀念立繪：搗蛋之夜 - 蕾比雅
+
+[活動公告](http://cls.mangot5.com/game/cls/news/detail?contentNo=51680)
+一般立繪：角色貼紙蒐集活動
+特殊立繪：商城禮包999元
+
+{% tabs lva萬聖節 %}
+<!-- tab 一般-->
+[![](https://i.imgur.com/i682h3ch.jpg)](/img/anniversary/TW_halloween_Levia.jpg)
+<!-- endtab -->
+<!-- tab 特殊-->
+[![](https://i.imgur.com/5lXgKfhh.jpg)](/img/anniversary/TW_halloween_Levia_secret.jpg)
+<!-- endtab -->
+{% endtabs %}
+
+
+
 ---
 
 # 五周年官方紀念立繪：黑色風雲 - J
 [活動網址](https://cls.mangot5.com/game/cls/news/detail?contentNo=48862)
-![](/img/anniversary/TW5th_J.jpg)
+[![](https://i.imgur.com/XEjGz48h.jpg)](/img/anniversary/TW5th_J.jpg)
 
 ---
 
 # 2022新年台版限定立繪：萌虎雙子星 - 賽特x安娜
 [神秘商店活動](https://cls.mangot5.com/game/cls/news/detail?contentNo=48047)
-![](/img/anniversary/TW_22NY_Seth.png)
+[![](https://i.imgur.com/7ynqpRBh.png)](/img/anniversary/TW_22NY_Seth.png)
+
 
 # 2021聖誕節台版限定立繪：聖夜的獄棺姬 - 露西
 [此連結中](https://cls.mangot5.com/game/cls/event/detail/?contentNo=47692)第3個活動禮包購買(999元)
-![](/img/anniversary/TW_Xmax_Lucy.png)
+[![](https://i.imgur.com/TzskJcLh.png)](/img/anniversary/TW_Xmax_Lucy.png)
 
 ---
 
 # 四周年二創入選登入圖
 繪師：Nekotsuki
-![四周年二創入選登入圖(繪師：Nekotsuki)](/img/anniversary/TW4th_illust_login_Nekotsuki.png)
+[![四周年二創入選登入圖(繪師：Nekotsuki)](https://i.imgur.com/WBo0W15h.png)](/img/anniversary/TW4th_illust_login_Nekotsuki.png)
+
 
 ---
 
@@ -41,23 +64,23 @@ description: "紀錄台版周年紀念使用過的官方/非官方立繪與登�
 {% tabs 四周年入選立繪 %}
 <!-- tab 立繪A(Alopex)-->
 繪師：Alopex
-![](/img/anniversary/TW4th_illust_Nata_Alopex.png)
+[![](https://i.imgur.com/8YRHvw1h.png)](/img/anniversary/TW4th_illust_Nata_Alopex.png)
 <!-- endtab -->
 <!-- tab 立繪B(可撥火腿)-->
 繪師：可撥火腿
-![](/img/anniversary/TW4th_illust_Tina_可撥火腿.png)
+[![](https://i.imgur.com/VQuCT9Sh.png)](/img/anniversary/TW4th_illust_Tina_可撥火腿.png)
 <!-- endtab -->
 <!-- tab 立繪C(柿子)-->
 繪師：柿子
-![](/img/anniversary/TW4th_illust_J_柿子.png)
+[![](https://i.imgur.com/piq3A6rh.png)](/img/anniversary/TW4th_illust_J_柿子.png)
 <!-- endtab -->
 <!-- tab 立繪D(sy)-->
 繪師：sy
-![](/img/anniversary/TW4th_illust_Nata_sy.png)
+[![](https://i.imgur.com/438kkNsh.png)](/img/anniversary/TW4th_illust_Nata_sy.png)
 <!-- endtab -->
 <!-- tab 立繪E(沙沙)-->
 繪師：沙沙
-![](/img/anniversary/TW4th_illust_Tina_沙沙.png)
+[![](https://i.imgur.com/wWyA7Tz.png)](/img/anniversary/TW4th_illust_Tina_沙沙.png)
 <!-- endtab -->
 {% endtabs %}
 
@@ -72,19 +95,19 @@ description: "紀錄台版周年紀念使用過的官方/非官方立繪與登�
 {% tabs 四周年參賽作品 %}
 <!-- tab 登入圖(Mint)-->
 繪師：Mint
-![](/img/anniversary/TW4th_illust_login_Mint.jpg)
+[![](https://i.imgur.com/NFubyprh.jpg)](/img/anniversary/TW4th_illust_login_Mint.jpg)
 <!-- endtab -->
 <!-- tab 登入圖(仮面ライダー)-->
 繪師：仮面ライダー
-![](/img/anniversary/TW4th_illust_login_仮面ライダー.png)
+[![](https://i.imgur.com/KmMt3xdh.png)](/img/anniversary/TW4th_illust_login_仮面ライダー.png)
 <!-- endtab -->
 <!-- tab 登入圖(Alopex)-->
 繪師：Alopex
-![](/img/anniversary/TW4th_illust_login_Alopex.png)
+[![](https://i.imgur.com/gt0VSj2h.png)](/img/anniversary/TW4th_illust_login_Alopex.png)
 <!-- endtab -->
 <!-- tab 立繪(千月)-->
 繪師：千月
-![](/img/anniversary/TW4th_illust_千月.png)
+[![](https://i.imgur.com/Rlyt3I9h.png)](/img/anniversary/TW4th_illust_千月.png)
 <!-- endtab -->
 {% endtabs %}
 
@@ -95,7 +118,8 @@ description: "紀錄台版周年紀念使用過的官方/非官方立繪與登�
 
 |徹斯|未來|
 |:-:|:-:|
-|![](/img/anniversary/TW_4th_illust_Chulsoo.png)|![](/img/anniversary/TW_4th_illust_Mirae.png)|
+|[![](https://i.imgur.com/F4lszy5h.png)](/img/anniversary/TW_4th_illust_Chulsoo.png)|[![](https://i.imgur.com/6e56Od5h.png)](/img/anniversary/TW_4th_illust_Mirae.png)|
+
 
 ---
 
@@ -103,7 +127,8 @@ description: "紀錄台版周年紀念使用過的官方/非官方立繪與登�
 
 |李世河|納塔|露娜|
 |:-:|:-:|:-:|
-|![](/img/anniversary/TW3rd_illust_Seha.png)|![](/img/anniversary/TW3rd_illust_Nata.png)|![](/img/anniversary/TW3rd_illust_Luna.png)|
+|[![](https://i.imgur.com/fR7IglI.png)](/img/anniversary/TW3rd_illust_Seha.png)|[![](https://i.imgur.com/i2ZIHSU.png)](/img/anniversary/TW3rd_illust_Nata.png)|[![](https://i.imgur.com/mR6iAYb.png)](/img/anniversary/TW3rd_illust_Luna.png)|
+
 
 ---
 

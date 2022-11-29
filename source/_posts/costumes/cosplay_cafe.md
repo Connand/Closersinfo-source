@@ -84,10 +84,10 @@ description: ""
 [![](https://i.imgur.com/QyivYnch.png)](https://i.imgur.com/QyivYnc.png)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-[![](https://i.imgur.com/G7aJuEyh.png)](https://i.imgur.com/G7aJuEy.png)
+[![](https://i.imgur.com/8slSLtbh.png)](https://i.imgur.com/8slSLtb.png)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-[![](https://i.imgur.com/7SLFFifh.png)](https://i.imgur.com/7SLFFif.png)
+[![](https://i.imgur.com/J6DR8xWh.png)](https://i.imgur.com/J6DR8xW.png)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
 [![](https://i.imgur.com/9bEH139h.png)](https://i.imgur.com/9bEH139.png)
@@ -137,7 +137,7 @@ description: ""
 [![](https://i.imgur.com/9IFlZf3h.png)](https://i.imgur.com/9IFlZf3.png)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-[![](https://i.imgur.com/VbZ4lpth.png)](https://i.imgur.com/VbZ4lpt.png)
+[![](https://i.imgur.com/5mDUZOvh.png)](https://i.imgur.com/5mDUZOv.png)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
 [![](https://i.imgur.com/RrUGFTah.png)](https://i.imgur.com/RrUGFTa.png)

@@ -3,7 +3,7 @@ title: 決戰色慾王：觸發器資訊
 date: 2021-09-11 14:40:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
-cover: https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=4764852390518072813
+cover: https://i.imgur.com/iQtB29Fh.jpg
 description: "補充說明觸發器相關資訊"
 ---
 ![](https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=4764852390518072813)

@@ -3,7 +3,7 @@ title: 15村—白夜要塞(Nightfortress)裝備資訊
 date: 2022-05-08 14:25:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
-cover: https://ssl.nexon.com/s2/game/closers/2022/events/220127_area_n2wa7/visual/bg_visual.png
+cover: https://imgur.com/IFXLeRSh.jpg
 description: "白夜要塞裝備資訊"
 ---
 ![](https://ssl.nexon.com/s2/game/closers/2022/events/220127_area_n2wa7/visual/bg_visual.png)

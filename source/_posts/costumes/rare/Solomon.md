@@ -1,6 +1,6 @@
 ---
 title: 所羅門武裝(Solomon’s Vestments)
-date: 2021-12-07 15:09:00
+date: 2020-12-07 15:09:00
 tags: 
     - 立繪時裝
     - 輝煌時裝
@@ -39,6 +39,7 @@ description: "第二套輝煌時裝(Unique costume)"
 
 [台版介紹網頁](https://landing.mangot5.com/template/cls/event/211223_solomon/index.html)
 [韓版官網立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_210128.zip)
+[修改後立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_220603.zip)(修改後的納塔立繪)
 
 所需十件套才可啟動立繪、語音、特效；動作擁有六件套即可
 十件套部位：部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 臉中 green %}、{% label 背部 green %}、{% label 瞳孔 green %}
@@ -54,7 +55,7 @@ description: "第二套輝煌時裝(Unique costume)"
 [![](https://i.imgur.com/0UIwMpah.jpg)](https://i.imgur.com/0UIwMpa.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-立繪已修改，但是圖包尚未更新(下方**수정 후**為新立繪)
+(下方**수정 후**為新立繪)
 [![](https://i.imgur.com/JVbZzNNh.jpg)](https://i.imgur.com/JVbZzNN.jpg)
 ![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4981004208896475145)
 <!-- endtab -->
@@ -74,7 +75,8 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- tab 紅狼小隊-->
 {% tabs 紅狼小隊立繪 %}
 <!-- tab 納塔(Nata)-->
-立繪已修改，但是圖包尚未更新(下方**수정 후**為新立繪)
+(下方為舊立繪與新舊對比，**수정 후**為新立繪)
+[![](https://i.imgur.com/l6NutGTh.jpg)](https://i.imgur.com/l6NutGT.jpg)
 [![](https://i.imgur.com/1YsLFKyh.jpg)](https://i.imgur.com/1YsLFKy.jpg)
 ![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4836888969281011727)
 <!-- endtab -->

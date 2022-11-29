@@ -1,6 +1,6 @@
 ---
 title: 甜心龐克
-date: 2021-09-09 11:07:23
+date: 2022-04-23 11:07:23
 tags:
     - 立繪時裝
     - 李世河
@@ -27,13 +27,15 @@ cover: https://i.imgur.com/0E4ZsBah.jpg
 description: "Sweety Punk"
 ---
 
-![](https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=4620737202442219795)
+![](https://i.imgur.com/0E4ZsBah.jpg)
+[下載banner](https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=4620737202442219795)
 
 ---
 ## Sweety Punk
 
 **注意**：立繪僅分一般和特殊
 部位：髮型、上衣、下衣、手套、鞋子、{% label 耳環 green %}、{% label 威嚴 green %} 
+[台版公告(含機率)](http://cls.mangot5.com/game/cls/news/detail?contentNo=51845)
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_spunk_210909.zip)
 
@@ -160,6 +162,68 @@ description: "Sweety Punk"
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/abuBSqZh.jpg)](https://i.imgur.com/abuBSqZ.jpg)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+<!-- tab 模組圖-->
+{% tabs 模組圖片 %}
+<!-- tab 李世河(Seha)-->
+[![](https://i.imgur.com/xHNLiWzh.jpg)](https://i.imgur.com/xHNLiWz.jpg)
+<!-- endtab -->
+<!-- tab 李雪菲(Seulbi)-->
+[![](https://i.imgur.com/ekcrf1Qh.jpg)](https://i.imgur.com/ekcrf1Q.jpg)
+<!-- endtab -->
+<!-- tab 徐維莉(Yuri)-->
+[![](https://i.imgur.com/oTWOrQsh.jpg)](https://i.imgur.com/oTWOrQs.jpg)
+<!-- endtab -->
+<!-- tab J-->
+[![](https://i.imgur.com/Ia0YwIUh.jpg)](https://i.imgur.com/Ia0YwIU.jpg)
+<!-- endtab -->
+<!-- tab 米斯特汀(Tein)-->
+[![](https://i.imgur.com/VEMuaV4h.jpg)](https://i.imgur.com/VEMuaV4.jpg)
+<!-- endtab -->
+<!-- tab 納塔(Nata)-->
+[![](https://i.imgur.com/YDk9p5Rh.jpg)](https://i.imgur.com/YDk9p5R.jpg)
+<!-- endtab -->
+<!-- tab 蕾比雅(Levia)-->
+[![](https://i.imgur.com/oF6CH59h.jpg)](https://i.imgur.com/oF6CH59.jpg)
+<!-- endtab -->
+<!-- tab 哈比(Harpy)-->
+[![](https://i.imgur.com/YyPAseHh.jpg)](https://i.imgur.com/YyPAseH.jpg)
+<!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+[![](https://i.imgur.com/BHmD84Mh.jpg)](https://i.imgur.com/BHmD84M.jpg)
+<!-- endtab -->
+<!-- tab 薇歐莉特(Violet)-->
+[![](https://i.imgur.com/ipr69jGh.jpg)](https://i.imgur.com/ipr69jG.jpg)
+<!-- endtab -->
+<!-- tab 沃爾夫姜(Wolfgang)-->
+[![](https://i.imgur.com/AARt1Nzh.jpg)](https://i.imgur.com/AARt1Nz.jpg)
+<!-- endtab -->
+<!-- tab 露娜(Luna)-->
+[![](https://i.imgur.com/5mnGpiBh.jpg)](https://i.imgur.com/5mnGpiB.jpg)
+<!-- endtab -->
+<!-- tab 索瑪(Soma)-->
+[![](https://i.imgur.com/F5hOXQEh.jpg)](https://i.imgur.com/F5hOXQE.jpg)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+[![](https://i.imgur.com/fNz0ZF3h.jpg)](https://i.imgur.com/fNz0ZF3.jpg)
+<!-- endtab -->
+<!-- tab 賽特(Seth)-->
+[![](https://i.imgur.com/wmen7mrh.jpg)](https://i.imgur.com/wmen7mr.jpg)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/Qgvo8bFh.jpg)](https://i.imgur.com/Qgvo8bF.jpg)
+<!-- endtab -->
+<!-- tab 徹斯(Chulsoo)-->
+[![](https://i.imgur.com/0UqyUqHh.jpg)](https://i.imgur.com/0UqyUqH.jpg)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/oxG3uAlh.jpg)](https://i.imgur.com/oxG3uAl.jpg)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/8CNubxnh.jpg)](https://i.imgur.com/8CNubxn.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

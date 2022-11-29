@@ -21,7 +21,7 @@ description: "龍刑接收器製作相關資訊"
 |戰力推薦|10,000,000|25,000,000|40,000,000|
 |主要掉落物|{% inlineImg https://i.imgur.com/mZ8i4uG.png 48px %}x60|{% inlineImg https://i.imgur.com/mZ8i4uG.png 48px %}x120|列在下方|
 |進場次數(困難與惡夢共用)|一周一次|一周一次|一周一次|
-|復活次數|限制 1 次|**<font color=#ff0000>不可復活</font>**|限制 2 次|
+|復活次數|限制 1 次|**<font color=#ff0000>不可復活</font>**|限制 1 次|
 
 **副本PNA類型：魔龍型**{% inlineImg https://i.imgur.com/FWfg4L0.png 64px %}
 **<font color=#ff0000>建議戰力1500萬以上+突變PNA魔龍20等再挑戰**噩夢**難度</font>**
@@ -57,7 +57,7 @@ description: "龍刑接收器製作相關資訊"
 ---
 # 超越材料
 
-{% btn 'https://forum.gamer.com.tw/C.php?bsn=23655&snA=9196&tnum=2', 極刑攻略,far fa-hand-point-right,outline blue larger %}{% btn 'https://forum.gamer.com.tw/C.php?bsn=23655&snA=9186&tnum=1', 極刑攻略2,far fa-hand-point-right,outline blue larger %}
+{% btn 'https://forum.gamer.com.tw/C.php?bsn=23655&snA=9182', 極刑攻略,far fa-hand-point-right,outline blue larger %}{% btn 'https://forum.gamer.com.tw/C.php?bsn=23655&snA=9186&tnum=1', 極刑攻略2,far fa-hand-point-right,outline blue larger %}
 
 超越材料需要打之後會出的極刑才有，完整通關的材料如下
 {% inlineImg https://i.imgur.com/KxkISd3.png 64px %}x21 

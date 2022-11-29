@@ -58,10 +58,10 @@ description: "Eternal Black Rose<br>加速讀圖速度功能測試"
 [![](https://i.imgur.com/TiE0Seoh.png)](https://i.imgur.com/TiE0Seo.png)
 <!-- endtab -->
 <!-- tab J-->
-[![](https://i.imgur.com/uxMi5RXh.png)](https://i.imgur.com/uxMi5RX.png)
+[![](https://i.imgur.com/8SJxzpqh.png)](https://i.imgur.com/8SJxzpq.png)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-[![](https://i.imgur.com/8SJxzpqh.png)](https://i.imgur.com/8SJxzpq.png)
+[![](https://i.imgur.com/uxMi5RXh.png)](https://i.imgur.com/uxMi5RX.png)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
 [![](https://i.imgur.com/2vCNTwoh.png)](https://i.imgur.com/2vCNTwo.png)

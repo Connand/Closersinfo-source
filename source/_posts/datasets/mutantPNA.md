@@ -3,7 +3,7 @@ title: 變異PNA
 date: 2021-09-07 11:54:31
 tags: 資料紀錄
 category: [遊戲資料,PNA]
-cover: https://i.imgur.com/wHiKj7q.png
+cover: https://i.imgur.com/wHiKj7qh.png
 description: "突變 變異PNA系統介紹(Mutant PNA)"
 ---
 

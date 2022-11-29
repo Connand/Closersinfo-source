@@ -3,7 +3,7 @@ title: 野獸王—貝西摩斯(Behemoth)裝備資訊(準備中)
 date: 2022-08-05 14:25:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
-cover: https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=5557485924935281634
+cover: https://i.imgur.com/iP8sRLGh.jpg
 description: "野獸王裝備資訊"
 ---
 ![](https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=5557485924935281634)
@@ -220,17 +220,25 @@ BOSS類型：野生型 {% inlineImg https://i.imgur.com/8ONbMJo.png 64px %}
 
 # 特殊能力
 超越武器在最後一階會分3種，具有不同的特殊能力，如下列
+[2022/09/22更新平衡能力](https://closers.nexon.com/News/Notice/View?n4PageNo=2&n4ArticleSN=138812)
 
 ## <font color=#fc9b03>超越武器</font>
 {% tabs 武器特殊效果 %}
-<!-- tab 上修後-->
+<!-- tab 220922上修後-->
+|武器|特殊效果|
+|:-:|:-|
+|**繼承者**<br>**<font color=$ff0000>目前理論最強</font>**|使用 **<font color=$ff0000>[緊急迴避]</font>** 時，獲得 **<font color=$ff0000>[共感]</font>** 效果：持續 **<font color=#3b79db>35</font>** 秒、CD**30**秒<br>使用 **<font color=$ff0000>[即時迴避]</font>** 時，獲得 **<font color=$ff0000>[四足行走]</font>** 效果：持續**5**秒、CD**0.5**秒<br>註： **<font color=$ff0000>[即時迴避]</font>** 指迴避成功(獲得無敵)<br> **<font color=$ff0000>[共感]</font>** ：基傷+**2000**(單傷角色) / **1800**(混合角色) <br> **<font color=$ff0000>[四足行走]</font>** ：移動速度+25%|
+|**篡位者**|打擊時給予敵人 **<font color=$ff0000>[擦傷]</font>** 效果：持續16秒、CD5秒<br>使用 **<font color=$ff0000>[強制阻斷]</font>** 時，獲得 **<font color=$ff0000>[黑幕激情]</font>** 效果：持續15秒、CD0.5秒<br>**<font color=#3b79db>使用 <font color=$ff0000>[強制阻斷]</font> 時，恢復MP 15%：CD15秒</font>**<br> **<font color=$ff0000>[擦傷]</font>** ： **<font color=#3b79db>每2秒給予 10億 傷害 (單傷10億/混合5億+5億)</font>** <br> **<font color=$ff0000>[黑幕激情]</font>** ：總物理/魔法防禦力+20%|
+|**沉思者**|打擊時給予敵人 **<font color=$ff0000>[堅韌藤蔓]</font>** 效果：CD6秒<br> **<font color=$ff0000>[特殊技]</font>** 使用時，獲得 **<font color=$ff0000>[繁茂叢林]</font>** 效果：持續30秒、CD60秒<br>註： **<font color=$ff0000>[特殊技]</font>** 指預設欄位為 V 的技能<br> **<font color=$ff0000>[堅韌藤蔓]</font>** ： **<font color=#3b79db>給予40億 + 基傷250000%(單傷角色) / 150000%(混合角色)傷害 2 次</font>** <br> **<font color=$ff0000>[繁茂叢林]</font>** ：攻擊速度+5%、打擊時有12%機率給予敵人 **<font color=$ff0000>[堅韌藤蔓]</font>** 效果|
+<!-- endtab -->
+<!-- tab 220811上修後-->
 |武器|特殊效果|
 |:-:|:-|
 |**繼承者**<br>**<font color=$ff0000>目前理論最強</font>**|使用 **<font color=$ff0000>[緊急迴避]</font>** 時，獲得 **<font color=$ff0000>[共感]</font>** 效果：持續**25**秒、CD**30**秒<br>使用 **<font color=$ff0000>[即時迴避]</font>** 時，獲得 **<font color=$ff0000>[四足行走]</font>** 效果：持續**5**秒、CD**0.5**秒<br>註： **<font color=$ff0000>[即時迴避]</font>** 指迴避成功(獲得無敵)<br> **<font color=$ff0000>[共感]</font>** ：基傷+**2000**(單傷角色) / **1800**(混合角色) <br> **<font color=$ff0000>[四足行走]</font>** ：移動速度+25%|
 |**篡位者**|打擊時給予敵人 **<font color=$ff0000>[擦傷]</font>** 效果：持續16秒、CD5秒<br>使用 **<font color=$ff0000>[強制阻斷]</font>** 時，獲得 **<font color=$ff0000>[黑幕激情]</font>** 效果：持續15秒、CD0.5秒<br> **<font color=$ff0000>[擦傷]</font>** ：每2秒給予基傷**10000%**(單傷角色) / **5400%**(混合角色)傷害 <br> **<font color=$ff0000>[黑幕激情]</font>** ：總物理/魔法防禦力+20%|
 |**沉思者**|打擊時給予敵人 **<font color=$ff0000>[堅韌藤蔓]</font>** 效果：CD6秒<br> **<font color=$ff0000>[特殊技]</font>** 使用時，獲得 **<font color=$ff0000>[繁茂叢林]</font>** 效果：持續30秒、CD60秒<br>註： **<font color=$ff0000>[特殊技]</font>** 指預設欄位為 V 的技能<br> **<font color=$ff0000>[堅韌藤蔓]</font>** ：**給予8億 + 基傷50000%(單傷角色) / 30000%(混合角色)傷害** <br> **<font color=$ff0000>[繁茂叢林]</font>** ：攻擊速度+5%、打擊時有12%機率給予敵人 **<font color=$ff0000>[堅韌藤蔓]</font>** 效果|
 <!-- endtab -->
-<!-- tab 上修前-->
+<!-- tab 初始能力-->
 |武器|特殊效果|
 |:-:|:-|
 |**繼承者**|使用 **<font color=$ff0000>[緊急迴避]</font>** 時，獲得 **<font color=$ff0000>[共感]</font>** 效果：持續10秒、CD10秒<br>使用 **<font color=$ff0000>[即時迴避]</font>** 時，獲得 **<font color=$ff0000>[四足行走]</font>** 效果：持續10秒、CD10秒<br>註： **<font color=$ff0000>[即時迴避]</font>** 指迴避成功(獲得無敵)<br> **<font color=$ff0000>[共感]</font>** ：基傷+500(單傷角色) / 450(混合角色) **(預計0811更新：攻擊力上修，且持續時間及CD增加)** <br> **<font color=$ff0000>[四足行走]</font>** ：移動速度+25% **(預計0811更新：刪除CD)**|
@@ -240,12 +248,24 @@ BOSS類型：野生型 {% inlineImg https://i.imgur.com/8ONbMJo.png 64px %}
 {% endtabs %}
 
 ## <font color=#f00>史詩武器</font>
+{% tabs 武器特殊效果 %}
+<!-- tab 220922上修後-->
+|武器|特殊效果|
+|:-:|:-|
+|**繼承者**<br>**<font color=$ff0000>目前理論第二</font>**|--- <font color=$ff0000>繼承天意之人</font><br>使用 **[緊急迴避]** 時，獲得 **<font color=$ff0000>[超感覺]</font>** 效果：持續 **<font color=#3b79db>45</font>** 秒、CD20秒<br>使用 **[即時迴避]** 時，獲得 **<font color=$ff0000>[妙足步行]</font>** 效果：持續8秒、CD0.5秒<br>註： **[即時迴避]** 指迴避成功(獲得無敵)<br> **<font color=$ff0000>[超感覺]</font>** ：基傷+2000(單傷角色) / 1800(混合角色)，總基傷+10%(單傷角色) / 9%(混合角色) <br> **<font color=$ff0000>[妙足步行]</font>** ：移動速度+30%|
+|**篡位者**|--- <font color=$ff0000>篡奪王位之人</font><br>打擊時給予敵人 **<font color=$ff0000>[過量出血]</font>** 效果：持續20秒、CD3秒<br>打擊持有 **<font color=$ff0000>[過量出血]</font>** 的敵人時獲得 **<font color=$ff0000>[虐待本性]</font>** ：CD5秒<br>使用 **[強制阻斷]** 時，獲得 **<font color=$ff0000>[虐待本性]</font>** + **<font color=$ff0000>[黑幕狂熱]</font>** ：持續15秒、CD0.5秒、並回復HP 25% **<font color=#3b79db>及MP 30%</font>** (CD15秒)<br> **<font color=#3b79db><font color=$ff0000>[過量出血]</font> ：每2秒給予25億(單傷角色) / 12.5億+12.5億(混合角色)傷害</font>** <br> **<font color=$ff0000>[黑幕狂熱]</font>** ：總物理/魔法防禦率+30% <br> **<font color=$ff0000>[篡奪者效果]</font>** ： 攻擊 **<font color=$ff0000>[過量出血]</font>** 的敵人時， **[強制阻斷]** CD-1秒 (CD5秒)<br> **<font color=$ff0000>[虐待本性]</font>** ：最大HP +1500 (最多5層)|
+|**沉思者**|--- <font color=$ff0000>思考頂點之人</font><br>打擊時給予敵人 **<font color=$ff0000>[帶刺藤蔓]</font>** 效果：CD6秒<br> **[特殊技]** 使用時，獲得 **<font color=$ff0000>[入侵叢林]</font>** 效果：持續30秒、CD60秒<br>註： **[特殊技]** 指預設欄位為 V 的技能<br> **<font color=#3b79db><font color=$ff0000>[帶刺藤蔓]</font>** ：**給予80億 + 基傷500000%(單傷角色) / 250000%(混合角色)傷害 2 次</font>** <br> **<font color=$ff0000>[帶刺花]</font>** ： 給予周圍 **<font color=#3b79db>50億</font>** 真實傷害 <br> **<font color=$ff0000>[入侵叢林]</font>** ：攻擊速度+7.5%、打擊時有12%機率給予敵人 **<font color=$ff0000>[帶刺藤蔓]</font>** 效果，極低機率發生 **<font color=$ff0000>[帶刺花]</font>**|
+|**守護者**<br>**<font color=$ff0000>目前理論最強</font>**|--- <font color=$ff0000>守護野獸之人</font><br> **<font color=#3b79db>使用 <font color=$ff0000>[超能解放]</font> 時，立即獲得 <font color=$ff0000>[野獸王的暴走]</font> 、並給予周邊敵人 <font color=$ff0000>[壓制者的咆嘯]</font> 攻擊</font>** <br> **<font color=$ff0000>[野獸王的暴走]</font>** ： 基傷+3000(單傷角色) / 2700(混合角色)、攻擊速度+5%、移動速度+10%、攻擊時10%機率吸血HP1%， **<font color=#3b79db>持續45秒，CD0秒</font>** <br> **<font color=#3b79db><font color=$ff0000>[壓制者的咆嘯]</font> ： 給予周圍100億真實傷害，冷卻40秒</font>**|
+<!-- endtab -->
+<!-- tab 初始能力-->
 |武器|特殊效果|
 |:-:|:-|
 |**繼承者**<br>**<font color=$ff0000>目前理論第二</font>**|--- <font color=$ff0000>繼承天意之人</font><br>使用 **[緊急迴避]** 時，獲得 **<font color=$ff0000>[超感覺]</font>** 效果：持續25秒、CD20秒<br>使用 **[即時迴避]** 時，獲得 **<font color=$ff0000>[妙足步行]</font>** 效果：持續8秒、CD0.5秒<br>註： **[即時迴避]** 指迴避成功(獲得無敵)<br> **<font color=$ff0000>[超感覺]</font>** ：基傷+2000(單傷角色) / 1800(混合角色)，總基傷+10%(單傷角色) / 9%(混合角色) <br> **<font color=$ff0000>[妙足步行]</font>** ：移動速度+30%|
 |**篡位者**|--- <font color=$ff0000>篡奪王位之人</font><br>打擊時給予敵人 **<font color=$ff0000>[過量出血]</font>** 效果：持續20秒、CD3秒<br>打擊持有 **<font color=$ff0000>[過量出血]</font>** 的敵人時獲得 **<font color=$ff0000>[虐待本性]</font>** ：CD5秒<br>使用 **[強制阻斷]** 時，獲得 **<font color=$ff0000>[虐待本性]</font>** + **<font color=$ff0000>[黑幕狂熱]</font>** ：持續15秒、CD0.5秒、並回復HP 25% (CD15秒)<br> **<font color=$ff0000>[過量出血]</font>** ：每2秒給予基傷30000%(單傷角色) / 17000%(混合角色)傷害 <br> **<font color=$ff0000>[黑幕狂熱]</font>** ：總物理/魔法防禦率+30% <br> **<font color=$ff0000>[篡奪者效果]</font>** ： 攻擊 **<font color=$ff0000>[過量出血]</font>** 的敵人時， **[強制阻斷]** CD-1秒 (CD5秒)<br> **<font color=$ff0000>[虐待本性]</font>** ：最大HP +1500 (最多5層)|
 |**沉思者**|--- <font color=$ff0000>思考頂點之人</font><br>打擊時給予敵人 **<font color=$ff0000>[帶刺藤蔓]</font>** 效果：CD6秒<br> **[特殊技]** 使用時，獲得 **<font color=$ff0000>[入侵叢林]</font>** 效果：持續30秒、CD60秒<br>註： **[特殊技]** 指預設欄位為 V 的技能<br> **<font color=$ff0000>[帶刺藤蔓]</font>** ：**給予8億 + 基傷50000%(單傷角色) / 30000%(混合角色)傷害3次** <br> **<font color=$ff0000>[帶刺花]</font>** ： 給予周圍10億真實傷害 <br> **<font color=$ff0000>[入侵叢林]</font>** ：攻擊速度+7.5%、打擊時有12%機率給予敵人 **<font color=$ff0000>[帶刺藤蔓]</font>** 效果，極低機率發生 **<font color=$ff0000>[帶刺花]</font>**|
 |**守護者**<br>**<font color=$ff0000>目前理論最強</font>**|--- <font color=$ff0000>守護野獸之人</font><br>使用 **<font color=$ff0000>[超能解放]</font>** 時，給予周圍敵人 **<font color=$ff0000>[守護者的咆嘯]</font>** 、並獲得 **<font color=$ff0000>[野獸王的鬥氣]</font>** ： 持續30秒、CD25秒 <br> 處於 **<font color=$ff0000>[野獸王的鬥氣]</font>** 時，使用 **[緊急迴避] [強制阻斷] [特殊技] [超能解放]** 時，獲得 **<font color=$ff0000>[強化手法]</font>** <br> **<font color=$ff0000>[強化手法]</font>** ： 給予周圍敵人 **<font color=$ff0000>[壓制者的咆嘯]</font>** 攻擊，自身獲得 **<font color=$ff0000>[野獸王的暴走]</font>** <br> **<font color=$ff0000>[野獸王的鬥氣]</font>** ： 基傷+1500(單傷角色) / 1350(混合角色)、攻擊速度+5%、攻擊時1%機率吸血HP1%，持續30秒，CD25秒 <br> **<font color=$ff0000>[野獸王的暴走]</font>** ： 基傷+3000(單傷角色) / 2700(混合角色)、攻擊速度+5%、移動速度+10%、攻擊時10%機率吸血HP1%，持續30秒，CD40秒 <br> **<font color=$ff0000>[守護者的咆嘯]</font>** ： 給予周圍2億傷害，冷卻40秒 <br> **<font color=$ff0000>[壓制者的咆嘯]</font>** ： 給予周圍3.6億真實傷害，冷卻40秒|
+<!-- endtab -->
+{% endtabs %}
 
 ---
 

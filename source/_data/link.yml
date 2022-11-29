@@ -1,6 +1,10 @@
 - class_name: 友站鏈接
   class_desc: 一些跟遊戲相關有用的連結
   link_list:
+    - name: 角色配點參考
+      link: https://docs.google.com/spreadsheets/d/1M1Qvw8TALxd2zZjTEd6Rq8p_UpCDswCcV-wf7tpDCrE/edit#gid=735145887
+      avatar: https://i.imgur.com/dQ3dyFz.png
+      descr: 整理各方玩家的技能配點
     - name: 封印者巴哈姆特
       link: https://forum.gamer.com.tw/A.php?bsn=23655
       avatar: https://www.oneup.com.tw/img/logo.gif

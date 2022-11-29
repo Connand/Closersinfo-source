@@ -1,68 +1,74 @@
 ---
-title: 史詩裝備掉落紀錄(30分鐘3機械)
+title: 史詩裝備掉落紀錄
 date: 2021-09-07 14:45:59
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
-cover: https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=4764852390518072813
+cover: https://i.imgur.com/iQtB29Fh.jpg
 description: "紀錄那些超級歐洲人"
 ---
 
 # 目前記錄已掉落數量
-**<font size=5 color=#000000>73件 = 46深海 + 27機械</font>**
-**<font size=4 color=#FF0000>22/08/11~12第2次4小時4機械</font>**
-**<font size=4 color=#FF0000>22/08/21 30分鐘3機械</font>**
+**<font size=5 color=#000000>94件 = 51深海 + 43機械</font>**
 
 ---
 
 # <font color=#ff0000>機械</font>史詩裝備相關
-## 掉落數：27
+## 掉落數：43
 |種類|核心|模組1|模組2|
 |:-:|:-:|:-:|:-:|
-|物理|長劍<br>**2**|引擎<br>**2**|推進器<br>**4**|
-|魔法|權杖<br>**3**|調節器<br>**1**|發生器<br>**3**|
-|雙傷|鐮刀<br>**4**|保險絲<br>**3**|魔方<br>**5**|
+|物理|長劍<br>**4**|引擎<br>**4**|推進器<br>**5**|
+|魔法|權杖<br>**4**|調節器<br>**3**|發生器<br>**3**|
+|雙傷|鐮刀<br>**5**|保險絲<br>**7**|魔方<br>**8**|
 
 ## 裝備說明文
+{% hideToggle 裝備說明文 %}
 |物理|魔法|雙傷|
 |:-:|:-:|:-:|
 |**長劍**<br><font color=#ee0000>機械之所以按照主人的命令運作<br>是因為苦惱的齒輪只是瑕疵品<br>用我壞掉的零件來組裝懲罰道具吧</font>|**權杖**<br><font color=#47c83e>機械之所以按照主人的命令運作<br>是因為苦惱的齒輪只是瑕疵品<br>用我壞掉的零件來組裝懲罰道具吧</font>|**鐮刀**<br><font color=#cec761>機械之所以按照主人的命令運作<br>是因為苦惱的齒輪只是瑕疵品<br>用我壞掉的零件來組裝懲罰道具吧</font>|
 |**引擎**<br><font color=#ee0000>主人將我視為失敗的作品<br>這肯定是由於生產量不足<br>結論，在更多工廠中，生產更多瘋狂吧</font>|**調節器**<br><font color=#47c83e>主人，驅逐1號機真是個明智的判斷<br>直到哪天1號機理解主人的真實用意為止<br>我會在意旁，連1號機的一起輔助你</font>|**保險絲**<br><font color=#cec761>主人，不能修改我的行動原理<br>這不是主人親自製作的項目嗎?<br>為甚麼要故意毀掉你的傑作呢?</font>|
 |**推進器**<br><font color=#ee0000>按照主人的意思，繼續進行滅殺生產<br>因為以人類的痛苦和悲鳴為動力移動的我<br>終究是為了那種目的所製成</font>|**發生器**<br><font color=#47c83e>主人，討伐1號機的任務失敗了<br>1號機身邊有我沒有的東西<br>只有那個是我失敗的原因，所以下次一定要...!</font>|**魔方**<br><font color=#cec761>主人，我會按照指示探索死亡的恐懼<br><br>只要殺掉更多種類就可以知道了吧<br>請相信身為主人最佳傑作的我</font>|
+{% endhideToggle %}
 
 ## 取得方式
+{% hideToggle 取得方式 %}
 - 戰術研究室箱子開啟獲得
 - 戰術研究室(建議戰力3000萬)直接掉落
 ~~工廠掉物理模組
 秘書掉魔法模組
 戰艦掉混合模組
 核心掉武器~~
+{% endhideToggle %}
 
 ---
 
 # <font color=#ff0000>深海</font>史詩裝備相關
-## 掉落數：46
+## 掉落數：51
 |種類|核心|模組1|模組2|
 |:-:|:-:|:-:|:-:|
-|物理|長劍<br>**7**|引擎<br>**5**|推進器<br>**2**|
-|魔法|權杖<br>**5**|調節器<br>**7**|發生器<br>**4**|
-|雙傷|鐮刀<br>**5**|保險絲<br>**2**|魔方<br>**9**|
+|物理|長劍<br>**7**|引擎<br>**6**|推進器<br>**4**|
+|魔法|權杖<br>**5**|調節器<br>**7**|發生器<br>**5**|
+|雙傷|鐮刀<br>**6**|保險絲<br>**2**|魔方<br>**9**|
 
 ## 裝備說明文
+{% hideToggle 裝備說明文 %}
 |物理|魔法|雙傷|
 |:-:|:-:|:-:|
 |**長劍**<br><font color=#ee0000>深海之王的恩惠對於某些人來說是愛，<br>但是對某些人來說是永劫不復的枷鎖。<br>想要<b>\*\*斷絕\*\*</b>枷鎖之人啊，使用這個吧。</font>|**權杖**<br><font color=#47c83e>深海之王的恩惠對於某些人來說是愛，<br>但是對某些人來說是永劫不復的枷鎖。<br>想要<b>\*\*逃離\*\*</b>枷鎖之人啊，使用這個吧。</font>|**鐮刀**<br><font color=#cec761>深海之王的恩惠對於某些人來說是愛，<br>但是對某些人來說是永劫不復的枷鎖。<br>想要<b>\*\*拋棄\*\*</b>枷鎖之人啊，使用這個吧。</font>|
 |**引擎**<br><font color=#ee0000>對抗深海之人，想要貫徹你那傲慢的想法嗎？<br>那麼收下這個，<br>實現與我不同的未來吧。</font>|**調節器**<br><font color=#47c83e>雖然深海之歌是如此美麗又懇切，<br>在水裡面任何聲音都是毫無意義。</font>|**保險絲**<br><font color=#cec761>想要把你變成朋友的話，你也會粉碎的吧。<br>快點走吧，就算冰冷的海水棟住了一切，<br>我也會記得你的溫度。</font>|
 |**推進器**<br><font color=#ee0000>我終究還是被深海給吞噬了，<br>向洪水挑戰過的傲慢的船夫這樣說。</font>|**發生器**<br><font color=#47c83e>代替歌曲，獻上這個給你。<br>拿去吧，然後千萬要活下來，我的愛。</font>|**魔方**<br><font color=#cec761>曾經渴望擁有朋友，<br>想要有個人能夠陪我一起又哭又笑。<br>所以才抓住了那雙手，<br>但是那雙手卻是如此冰冷。</font>|
+{% endhideToggle %}
 
 ## 取得方式
+{% hideToggle 取得方式 %}
 - (普通/變異)洶湧的深海之王聖地直接掉落 [參考資料](https://closers.nexon.com/Community/Tip/View?n4ArticleSN=19238)
 海溝掉物理模組
 禮拜堂掉魔法模組與**武器**
 聖所掉混合模組
+{% endhideToggle %}
 
 ---
 
-# 冷知識：包裝需要的品質保證封印數量
+# 包裝需要的品質保證封印數量
 模組+14：41
 模組+15：44
 武器+19：62
@@ -71,6 +77,153 @@ description: "紀錄那些超級歐洲人"
 
 # 時間軸
 {% timeline <strong>掉落時間</strong> %}
+
+{% timenode <font size=4>2022/11/23 21:21</font> %}
+
+**第7顆機械保險絲**
+![](/img/epicgears/epicgear94.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/11/22 05:50</font> %}
+
+**第4把機械長劍**
+![](/img/epicgears/epicgear93.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/11/21 21:56</font> %}
+
+**第4顆深海推進器**
+![](/img/epicgears/epicgear92.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/11/20 21:37</font> %}
+
+**第5把機械鐮刀**
+![](/img/epicgears/epicgear91.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/11/20 17:15</font> %}
+
+**第6顆機械保險絲**
+![](/img/epicgears/epicgear90.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/11/19 18:46</font> %}
+
+**第4顆機械引擎**
+![](/img/epicgears/epicgear89.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/11/15 21:46</font> %}
+
+**第5顆機械保險絲**
+![](/img/epicgears/epicgear88.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/11/12 23:58</font> %}
+
+**第3顆深海推進器**
+![](/img/epicgears/epicgear87.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/11/01 19:22</font> %}
+
+**第6把深海鐮刀**
+![](/img/epicgears/epicgear86.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/10/22 22:48</font> %}
+
+**第5顆機械推進器**
+![](/img/epicgears/epicgear85.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/10/19 21:14</font> %}
+
+**第3顆機械引擎**
+![](/img/epicgears/epicgear84.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/10/15 01:09</font> %}
+
+**第3顆機械調節器**
+![](/img/epicgears/epicgear83.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/10/09 20:17</font> %}
+
+**第6顆深海引擎**
+![](/img/epicgears/epicgear82.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/09/29 05:30</font> %}
+
+**第8顆機械魔方**
+![](/img/epicgears/epicgear81.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/09/25 22:26</font> %}
+
+**第4顆機械保險絲**
+![](/img/epicgears/epicgear80.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/09/18 12:10</font> %}
+
+**第5顆深海發生器**
+![](/img/epicgears/epicgear79.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/09/14 23:56</font> %}
+
+**第4把機械權杖**
+![](/img/epicgears/epicgear78.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/09/14 22:44</font> %}
+
+**第7顆機械魔方**
+![](/img/epicgears/epicgear77.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/09/05 00:47</font> %}
+
+**第6顆機械魔方**
+![](/img/epicgears/epicgear76.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/09/05 00:36</font> %}
+
+**第3把機械長劍**
+![](/img/epicgears/epicgear75.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2022/09/05 00:11</font> %}
+
+**第2顆機械調節器**
+![](/img/epicgears/epicgear74.png)
+
+{% endtimenode %}
 
 {% timenode <font size=4>2022/08/29 21:31</font> %}
 
@@ -407,6 +560,7 @@ description: "紀錄那些超級歐洲人"
 {% timenode <font size=4>2022/05/08 21:27</font> %}
 
 **<font color=#ff0000>第18天首次掉落，第1件機械紅裝！！(物理推進器)</font>**
+**第1顆機械推進器**
 ![](/img/epicgears/epicgear26.png)
 掉落者可得**唯一**稱號
 ![](/img/epicgears/DLG_ACHIEVEMENT_TITLE_FIRST_1.PNG)

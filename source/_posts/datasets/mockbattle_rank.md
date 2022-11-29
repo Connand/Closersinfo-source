@@ -7,7 +7,7 @@ cover:
 description: "第二版模擬戰分數圖表"
 ---
 
-|等級|分數|對應剩餘時間|正常所需時間|魔龍所需時間|
+|等級|分數<br>(大於)|對應剩餘時間<br>(大於)|正常所需時間<br>(小於)|魔龍所需時間<br>(小於)|
 |:-:|:-:|:-:|:-:|:-:|
 |{% inlineImg /img/mock_rank/HQ_CLOSER_RANK_01.PNG 64px %}|10,000|10秒|2分00秒|2分40秒|
 |{% inlineImg /img/mock_rank/HQ_CLOSER_RANK_02.PNG 64px %}|20,000|20秒|1分50秒|2分30秒|
