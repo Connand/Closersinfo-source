@@ -122,7 +122,7 @@ description: "五轉介紹與資訊"
 <!-- tab J-->
 ![](/img/decisive_illust/J.jpg)
 {%youtube XMUGlT-QJe4 %}
-{%youtube NG5zOTmJDss %}
+{%youtube a6M-fZ493ZA %}
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
 ![](/img/decisive_illust/Tein.png)
@@ -131,7 +131,7 @@ description: "五轉介紹與資訊"
 <!-- tab 納塔(Nata)-->
 ![](/img/decisive_illust/Nata.jpg)
 {%youtube jFQNIt_E5o4 %}
-{%youtube a6M-fZ493ZA %}
+{%youtube NG5zOTmJDss %}
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
 ![](/img/decisive_illust/Levia.jpg)
@@ -167,6 +167,7 @@ description: "五轉介紹與資訊"
 <!-- tab 索瑪(Soma)-->
 ![](/img/decisive_illust/Soma.png)
 {%youtube jxTxZULWKf8 %}
+{%youtube JIC0oGBXdcw %}
 <!-- endtab -->
 <!-- tab 白(Bai)-->
 ![](/img/decisive_illust/Bai.png)
@@ -202,7 +203,12 @@ description: "五轉介紹與資訊"
 
 # 開放紀錄
 
-## 2021/12/16: 白、未來
+{% timeline <font color=#fff><strong>時間進度</strong></font> %}
+
+以韓版開放時間紀錄
+
+{% timenode <font size=5>2021/12/16：白、未來</font> %}
+
 [宣傳頁面(可下載png立繪檔)](https://closers.nexon.com/events2021/1216/advancement)
 [台版宣傳頁面](https://landing.mangot5.com/template/cls/event/220728_five_change/index.html)
 [日版宣傳頁面](https://closers.naddicjapan.com/event_2020/20220809/01/closers/index.html)
@@ -211,7 +217,11 @@ description: "五轉介紹與資訊"
 {%youtube nxU165jr7Nk %}
 {% endhideToggle %}
 
-## 2021/12/30: 李世河、緹娜
+{% endtimenode %}
+
+
+{% timenode <font size=5>2021/12/30：李世河、緹娜</font> %}
+
 [宣傳頁面(這次變jpg檔了睡睡)](https://closers.nexon.com/events2021/1230/advancement)
 [台版宣傳頁面](https://landing.mangot5.com/template/cls/event/220811_five_change/index.html)
 [日版宣傳頁面](https://closers.naddicjapan.com/event_2020/20220825_odqa/01/closers/index.html)
@@ -220,7 +230,10 @@ description: "五轉介紹與資訊"
 {%youtube A53Z1607_aw %}
 {% endhideToggle %}
 
-## 2022/01/13: 李雪菲、蕾比雅
+{% endtimenode %}
+
+{% timenode <font size=5>2022/01/13：李雪菲、蕾比雅</font> %}
+
 [宣傳頁面(徹斯無情被插第二次隊)](https://closers.nexon.com/Events2022/0113/advancement)
 [台版宣傳頁面](https://landing.mangot5.com/template/cls/event/220818_five_change/index.html)
 [日版宣傳頁面](https://closers.naddicjapan.com/event_2020/20220922_qpla/01/closers/index.html)
@@ -229,7 +242,10 @@ description: "五轉介紹與資訊"
 {%youtube pSQb5pqVXSU %}
 {% endhideToggle %}
 
-## 2022/02/10: 露娜、徹斯
+{% endtimenode %}
+
+{% timenode <font size=5>2022/02/10：露娜、徹斯</font> %}
+
 [宣傳頁面(徹斯總算出來了)](https://closers.nexon.com/events2022/0210/advancement)
 [台版宣傳頁面](https://landing.mangot5.com/template/cls/event/220907_five_change_test-02/index.html)
 [日版宣傳頁面](https://closers.naddicjapan.com/event_2020/20221006_rtfg/01/closers/index.html)
@@ -238,58 +254,91 @@ description: "五轉介紹與資訊"
 {%youtube 5hQ2ZRJMSOk %}
 {% endhideToggle %}
 
-## 2022/03/10: 賽特
+{% endtimenode %}
+
+{% timenode <font size=5>2022/03/10：賽特</font> %}
+
 [宣傳頁面(要出多久)](https://closers.nexon.com/events2022/0310/advancement)
 [台版宣傳頁面](https://landing.mangot5.com/template/cls/event/221025_five_change/index.html)
 {% hideToggle 登入畫面 %}
 {%youtube GbDNLIdLlbc %}
 {% endhideToggle %}
 
-## 2022/04/07: 薇歐莉特
+{% endtimenode %}
+
+{% timenode <font size=5>2022/04/07：薇歐莉特</font> %}
+
 [宣傳頁面(說暑假前會出完)](https://closers.nexon.com/events2022/0407/advancement)
 [台版宣傳頁面](https://landing.mangot5.com/template/cls/event/221110_five_change/index.html)
-[日版宣傳頁面(包含賽特五轉)](https://closers.naddicjapan.com/event_2020/20221124_hjil/01/closers/index.html)
-{% hideToggle 登入畫面 %}
+[日版宣傳頁面(**<font color=#F00>包含 賽特 五轉</font>**)](https://closers.naddicjapan.com/event_2020/20221124_hjil/01/closers/index.html)
+{% hideToggle 登入畫面與日版宣傳影片 %}
 {%youtube qa5c9nirYmw %}
+{%youtube qLCdyGPn_yk %}
 {% endhideToggle %}
 
-## 2022/05/03: J
+{% endtimenode %}
+
+{% timenode <font size=5>2022/05/03：J</font> %}
+
 [宣傳頁面(超一線！)](https://closers.nexon.com/Events2022/0503/advancement)
 {% hideToggle 登入畫面 %}
 {%youtube VvA0hW-paJc %}
 {% endhideToggle %}
 
-## 2022/06/02: 納塔
-[宣傳頁面](https://closers.nexon.com/Events2022/0602/advancement)
-[台版宣傳頁面(包含 J 五轉)](https://landing.mangot5.com/template/cls/event/221124_five_change/index.html)
-[日版宣傳頁面(包含 J 五轉)](https://closers.naddicjapan.com/event_2020/20221208_vber/01/closers/index.html)
-{% hideToggle 登入畫面 %}
+{% endtimenode %}
+
+{% timenode <font size=5>2022/06/02：納塔</font> %}
+
+[宣傳頁面(C8763)](https://closers.nexon.com/Events2022/0602/advancement)
+[台版宣傳頁面(**<font color=#F00>包含 J 五轉</font>**)](https://landing.mangot5.com/template/cls/event/221124_five_change/index.html)
+[日版宣傳頁面(**<font color=#F00>包含 J 五轉</font>**)](https://closers.naddicjapan.com/event_2020/20221208_vber/01/closers/index.html)
+{% hideToggle 登入畫面與日版宣傳影片 %}
 {%youtube 94zP6qT3rOY %}
+{%youtube 3KzwsOF229Y %}
 {% endhideToggle %}
 
-## 2022/06/30: 索瑪
+{% endtimenode %}
+
+{% timenode <font size=5>2022/06/30：索瑪</font> %}
+
 [宣傳頁面(居然又變PNG圖檔了)](https://closers.nexon.com/Events2022/0630/Advancement)
+[台版宣傳頁面](https://landing.mangot5.com/template/cls/event/221206_five_change/index.html)
 {% hideToggle 登入畫面 %}
 {%youtube kfQeV9BO-4I %}
 {% endhideToggle %}
 
-## 2022/07/14: 徐維莉、露西
+{% endtimenode %}
+
+{% timenode <font size=5>2022/07/14：徐維莉、露西</font> %}
+
 [宣傳頁面(竟然又一次兩隻了)](https://closers.nexon.com/Events2022/0714/Advancement)
-{% hideToggle 登入畫面 %}
+[日版宣傳頁面(**<font color=#F00>包含 索瑪 五轉</font>**)](https://closers.naddicjapan.com/event_2020/20221222_hr/01/closers/index.html)
+{% hideToggle 登入畫面與日版宣傳影片 %}
 {%youtube TvYu-63sH2E %}
+{%youtube 1wCB3nHApZ0 %}
 {% endhideToggle %}
 
-## 2022/08/11: 米斯特汀、銀河
+{% endtimenode %}
+
+{% timenode <font size=5>2022/08/11：米斯特汀、銀河</font> %}
+
 [宣傳頁面(倒數第二波)](https://closers.nexon.com/Events2022/0811/Advancement)
 {% hideToggle 登入畫面 %}
 {%youtube 2xzK5Kn0sMw %}
 {% endhideToggle %}
 
-## 2022/08/25: 哈比、沃爾夫姜
+{% endtimenode %}
+
+{% timenode <font size=5>2022/08/25：哈比、沃爾夫姜</font> %}
+
 [宣傳頁面(超人氣角色)](https://closers.nexon.com/Events2022/0825/Advancement)
 {% hideToggle 登入畫面 %}
 {%youtube TWip-pQBrL4 %}
 {% endhideToggle %}
+
+{% endtimenode %}
+
+{% endtimeline %}
 
 ---
 

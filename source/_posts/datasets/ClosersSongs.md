@@ -30,9 +30,9 @@ description: "官方發布的各式主題曲"
 | :--------: | :--------: | :--------: | :--------: | :--------: |
 | {% btn 'https://youtu.be/EARCqs1rGJM',Inferno,fas fa-music,outline blue %} | {% btn 'https://youtu.be/2NWi2ian9x0',Another Me,fas fa-music,outline pink %} | {% btn 'https://youtu.be/v0R9VmkDjjQ',SOMANUS,fas fa-music,outline %} | {% btn 'https://youtu.be/behVkZOo36g',The Last Spring,fas fa-music,outline orange %} | {% btn 'https://youtu.be/8UMicrpHmeI',Hate You,fas fa-music,outline green %} |
 ### 嚙鼠小隊
-| 未來 | 徹斯 | 銀河 | 露西 | ?? | 
+| 未來 | 徹斯 | 銀河 | 露西 | 愛里 | 
 | :--------: | :--------: | :--------: | :--------: | :--------: |
-| {% btn 'https://youtu.be/J3BqQKb2aQg', 天堂,fas fa-music,outline blue %} | {% btn 'https://youtu.be/A2_RyCKUUx8', Running out,fas fa-music,outline pink %} | {% btn 'https://youtu.be/0KU3LmvCc1A',Shadow,fas fa-music,outline %} | {% btn 'https://youtu.be/RJ9k-1Z8q60',我小小的救贖祈禱,fas fa-music,outline orange %} |  |
+| {% btn 'https://youtu.be/J3BqQKb2aQg', 天堂,fas fa-music,outline blue %} | {% btn 'https://youtu.be/A2_RyCKUUx8', Running out,fas fa-music,outline pink %} | {% btn 'https://youtu.be/0KU3LmvCc1A',Shadow,fas fa-music,outline %} | {% btn 'https://youtu.be/RJ9k-1Z8q60',我小小的救贖祈禱,fas fa-music,outline orange %} | {% btn 'https://youtu.be/QJJbQxmFOtE', 孩子,fas fa-music,outline blue %} |
 | {% btn 'https://youtu.be/5CXr51F741A', 楽園,fas fa-music,outline blue %} | {% btn 'https://youtu.be/_pUkoqaZasA', 日語版,fas fa-music,outline pink %} | {% btn 'https://youtu.be/yKvxNTV2Eos',日語版,fas fa-music,outline %} | {% btn 'https://youtu.be/Dwijmjdkm-w',小さな救いへの祈り,fas fa-music,outline orange %} |  |
 ### 主題曲
 | 2017 | 2019 | 2020 | 2021 | 2022 |
@@ -129,5 +129,7 @@ description: "官方發布的各式主題曲"
 
 2022/07/21：[日版2021泳裝主題曲 - アイスクリーム](https://youtu.be/hAAyZAUTj0I)
 [宣傳頁面](https://closers.nexon.com/Events2022/0714/Costume) [MP3下載](https://closers.vod.nexoncdn.co.kr/event/2022/220714_costume_4DAF452CB59BE570/Closers_2022summer_Paradise_246B52A6.zip)
+
+2022/12/08：[愛里主題曲 -  i (孩子)](https://youtu.be/VGiJ-LFobog)
 
 ---

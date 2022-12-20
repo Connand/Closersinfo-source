@@ -24,11 +24,18 @@ tags:
     - 露西
     - 愛里
 category: [時裝, 有立繪, 全角色]
-cover: https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4692844875798806731
+cover: https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4836960072464597153
 description: "Snow Fox"
 ---
 
+{% tabs 封面圖 %}
+<!-- tab 黑羊小隊-->
 ![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4692844875798806731)
+<!-- endtab -->
+<!-- tab 夜梟小隊-->
+![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4836960072464597153)
+<!-- endtab -->
+{% endtabs %}
 
 ---
 ## Snow Fox
@@ -80,19 +87,19 @@ description: "Snow Fox"
 [![](https://i.imgur.com/MYKuGvwh.png)](https://i.imgur.com/MYKuGvw.png)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-[![](https://i.imgur.com/Q1pZ88Ph.png)](https://i.imgur.com/Q1pZ88P.png)
+[![](https://i.imgur.com/HR0On9fh.jpg)](https://i.imgur.com/HR0On9f.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-[![](https://i.imgur.com/Dz52opQh.png)](https://i.imgur.com/Dz52opQ.png)
+[![](https://i.imgur.com/QLBLh8Sh.jpg)](https://i.imgur.com/QLBLh8S.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-[![](https://i.imgur.com/NMpbGqYh.png)](https://i.imgur.com/NMpbGqY.png)
+[![](https://i.imgur.com/3WWZ3yLh.jpg)](https://i.imgur.com/3WWZ3yL.jpg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-[![](https://i.imgur.com/uG0aMZoh.png)](https://i.imgur.com/uG0aMZo.png)
+[![](https://i.imgur.com/7kRz5iWh.jpg)](https://i.imgur.com/7kRz5iW.jpg)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-[![](https://i.imgur.com/BI0K22Fh.png)](https://i.imgur.com/BI0K22F.png)
+[![](https://i.imgur.com/fZHKsKHh.jpg)](https://i.imgur.com/fZHKsKH.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
 [![](https://i.imgur.com/kKRslKZh.png)](https://i.imgur.com/kKRslKZ.png)
@@ -145,19 +152,19 @@ description: "Snow Fox"
 [![](https://i.imgur.com/U147Mzoh.png)](https://i.imgur.com/U147Mzo.png)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-[![](https://i.imgur.com/UCnB17ph.png)](https://i.imgur.com/UCnB17p.png)
+[![](https://i.imgur.com/FTd0mAIh.jpg)](https://i.imgur.com/FTd0mAI.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-[![](https://i.imgur.com/VT8kx0vh.png)](https://i.imgur.com/VT8kx0v.png)
+[![](https://i.imgur.com/UF9kw29h.jpg)](https://i.imgur.com/UF9kw29.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-[![](https://i.imgur.com/jWh8Fqgh.png)](https://i.imgur.com/jWh8Fqg.png)
+[![](https://i.imgur.com/kdGGe1ch.jpg)](https://i.imgur.com/kdGGe1c.jpg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-[![](https://i.imgur.com/Oh6fyTPh.png)](https://i.imgur.com/Oh6fyTP.png)
+[![](https://i.imgur.com/jhn175zh.jpg)](https://i.imgur.com/jhn175z.jpg)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-[![](https://i.imgur.com/FMNI11Gh.png)](https://i.imgur.com/FMNI11G.png)
+[![](https://i.imgur.com/aQwggLph.jpg)](https://i.imgur.com/aQwggLp.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
 [![](https://i.imgur.com/DlJOsZNh.png)](https://i.imgur.com/DlJOsZN.png)
@@ -178,3 +185,18 @@ description: "Snow Fox"
 <!-- endtab -->
 
 {% endtabs %}
+
+
+普通立繪
+https://i.imgur.com/HR0On9f.jpg
+https://i.imgur.com/QLBLh8S.jpg
+https://i.imgur.com/3WWZ3yL.jpg
+https://i.imgur.com/7kRz5iW.jpg
+https://i.imgur.com/fZHKsKH.jpg
+
+特殊立繪
+https://i.imgur.com/FTd0mAI.jpg
+https://i.imgur.com/UF9kw29.jpg
+https://i.imgur.com/kdGGe1c.jpg
+https://i.imgur.com/jhn175z.jpg
+https://i.imgur.com/aQwggLp.jpg

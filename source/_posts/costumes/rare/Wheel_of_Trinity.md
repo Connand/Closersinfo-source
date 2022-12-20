@@ -25,11 +25,18 @@ tags:
     - 露西
     - 愛里
 category: [時裝, 輝煌時裝]
-cover: https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=5341363724651331718
+cover: https://i.imgur.com/yUhXnKzh.jpg
 description: "第三套輝煌時裝(Unique costume)"
 ---
 
-![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=5341363724651331718)
+{% tabs 形象圖 %}
+<!-- tab 黑羊小隊-->
+[![](https://i.imgur.com/VSXSg3dh.jpg)](https://i.imgur.com/VSXSg3d.jpg)
+<!-- endtab -->
+<!-- tab 夜梟小隊-->
+[![](https://i.imgur.com/yUhXnKzh.jpg)](https://i.imgur.com/yUhXnKz.jpg)
+<!-- endtab -->
+{% endtabs %}
 
 ---
 ## 三位一體之輪(Wheel of Trinity)
@@ -67,9 +74,20 @@ description: "第三套輝煌時裝(Unique costume)"
 <!-- tab 米斯特汀(Tein)-->
 [![](https://i.imgur.com/mH5tteYh.png)](https://i.imgur.com/mH5tteY.png)
 <!-- endtab -->
-<!-- tab 動作(李世河~米斯特汀)-->
-{%youtube 7Sha1S2xXMM %}
-{%youtube 8ba6JO-VHCg %}
+<!-- tab 表情動作-->
+{%youtube 3XZk51eRzhs %}
+<!-- endtab -->
+<!-- tab 城鎮動作-->
+{%youtube 6oLxn1asc-I %}
+<!-- endtab -->
+<!-- tab 立繪效果-->
+{%youtube XpK0bOXqYSs %}
+<!-- endtab -->
+<!-- tab 結算動作-->
+{%youtube kp7zV__70YY %}
+<!-- endtab -->
+<!-- tab 過場動作-->
+{%youtube eKRWWIpRIbE %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -104,23 +122,34 @@ description: "第三套輝煌時裝(Unique costume)"
 <!-- tab 夜梟小隊-->
 {% tabs 夜梟小隊立繪 %}
 <!-- tab 沃爾夫姜(Wolfgang)-->
-[![](https://i.imgur.com/3dhcVorh.jpg)](https://i.imgur.com/3dhcVor.jpg)
+[![](https://i.imgur.com/CrUn7LUh.jpg)](https://i.imgur.com/CrUn7LU.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-[![](https://i.imgur.com/vYe7nbeh.jpg)](https://i.imgur.com/vYe7nbe.jpg)
+[![](https://i.imgur.com/hahmRRuh.jpg)](https://i.imgur.com/hahmRRu.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-[![](https://i.imgur.com/AYaZS34h.jpg)](https://i.imgur.com/AYaZS34.jpg)
+[![](https://i.imgur.com/FnCPWLeh.jpg)](https://i.imgur.com/FnCPWLe.jpg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-[![](https://i.imgur.com/0cm0Sinh.jpg)](https://i.imgur.com/0cm0Sin.jpg)
+[![](https://i.imgur.com/VpnGcC4h.jpg)](https://i.imgur.com/VpnGcC4.jpg)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-[![](https://i.imgur.com/wyHzAzLh.jpg)](https://i.imgur.com/wyHzAzL.jpg)
+[![](https://i.imgur.com/UONcqvPh.jpg)](https://i.imgur.com/UONcqvP.jpg)
 <!-- endtab -->
-<!-- tab 動作(沃爾夫姜~賽特)-->
-{%youtube xzB0tWqwvAI %}
-{%youtube T4ivtlTVwwM %}
+<!-- tab 表情動作-->
+{%youtube qbR_XITcJL0 %}
+<!-- endtab -->
+<!-- tab 城鎮動作-->
+{%youtube 55fBqVFs8Ok %}
+<!-- endtab -->
+<!-- tab 立繪效果-->
+{%youtube WPNQJVqoFAo %}
+<!-- endtab -->
+<!-- tab 結算動作-->
+{%youtube r875mtyjxDU %}
+<!-- endtab -->
+<!-- tab 過場動作-->
+{%youtube xM3HoD28asM %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

@@ -43,63 +43,67 @@ description: "第三套高階時裝"
 ---
 
 {% tabs A型角色立繪 %}
+
 <!-- tab 李世河(Seha)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Seha.jpg?alt=media)
+[![](https://i.imgur.com/GPUFxGyh.jpg)](https://i.imgur.com/GPUFxGy.jpg)
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Seulbi.jpg?alt=media)
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_old_Seulbi.png?alt=media)
+[![](https://i.imgur.com/XbIDhvMh.jpg)](https://i.imgur.com/XbIDhvM.jpg)
+![](/img/archive_illust/ZWillust_old_Seulbi.png)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Yuri.jpg?alt=media)
+[![](https://i.imgur.com/HZDaup7h.jpg)](https://i.imgur.com/HZDaup7.jpg)
 <!-- endtab -->
 <!-- tab J-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_J.jpg?alt=media)
+[![](https://i.imgur.com/OtJbyZVh.jpg)](https://i.imgur.com/OtJbyZV.jpg)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Tein.jpg?alt=media)
+[![](https://i.imgur.com/OdUy96Ph.jpg)](https://i.imgur.com/OdUy96P.jpg)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Nata.jpg?alt=media)
+[![](https://i.imgur.com/bcE5BN0h.jpg)](https://i.imgur.com/bcE5BN0.jpg)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Levia.jpg?alt=media)
+[![](https://i.imgur.com/Cxjcw2ch.jpg)](https://i.imgur.com/Cxjcw2c.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Harpy.jpg?alt=media)
+[![](https://i.imgur.com/aiqjKZlh.jpg)](https://i.imgur.com/aiqjKZl.jpg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Tina.jpg?alt=media)
+[![](https://i.imgur.com/PEUmkoPh.jpg)](https://i.imgur.com/PEUmkoP.jpg)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Violet.jpg?alt=media)
+[![](https://i.imgur.com/6sliBsfh.jpg)](https://i.imgur.com/6sliBsf.jpg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Wolfgang.jpg?alt=media)
+[![](https://i.imgur.com/1HBynJ4h.jpg)](https://i.imgur.com/1HBynJ4.jpg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Luna.jpg?alt=media)
+[![](https://i.imgur.com/STEMWJ6h.jpg)](https://i.imgur.com/STEMWJ6.jpg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Soma.jpg?alt=media)
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_old_Soma.png?alt=media)
+[![](https://i.imgur.com/pJ0yX3vh.jpg)](https://i.imgur.com/pJ0yX3v.jpg)
+![](/img/archive_illust/ZWillust_old_Soma.png)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Bai.jpg?alt=media)
+[![](https://i.imgur.com/mERhXy9h.jpg)](https://i.imgur.com/mERhXy9.jpg)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Seth.jpg?alt=media)
+[![](https://i.imgur.com/sCUzQxnh.jpg)](https://i.imgur.com/sCUzQxn.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Mirae.jpg?alt=media)
+[![](https://i.imgur.com/0mNk0Q7h.jpg)](https://i.imgur.com/0mNk0Q7.jpg)
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Chulsoo.jpg?alt=media)
+[![](https://i.imgur.com/VE4zBuSh.jpg)](https://i.imgur.com/VE4zBuS.jpg)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Eunha.jpg?alt=media)
+[![](https://i.imgur.com/ZXP4yeih.jpg)](https://i.imgur.com/ZXP4yei.jpg)
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-![](https://firebasestorage.googleapis.com/v0/b/closersinfo-37f2b.appspot.com/o/ZWillust%2FZWillust_Lucy.jpg?alt=media)
+[![](https://i.imgur.com/ZjA3xTbh.jpg)](https://i.imgur.com/ZjA3xTb.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/yabZMcah.jpg)](https://i.imgur.com/yabZMca.jpg)
 <!-- endtab -->
 {% endtabs %}

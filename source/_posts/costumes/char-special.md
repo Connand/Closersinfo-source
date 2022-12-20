@@ -242,4 +242,23 @@ description: "角色專屬時裝"
 {% endtabs %}
 <!-- endtab -->
 
+<!-- tab 愛里(Aeri)-ZODIAC NIGHT -->
+部位：武器、髮型(3型+另類)、上衣、下衣、手套、鞋子、{% label 臉上 green %}、{% label 特效(威嚴) green %}
+**飾品為單一型
+<font color=#f00>7件可使用普通立繪</font>
+<font color=#f00>8件可使用普通立繪</font>**
+
+{% tabs 愛里(Aeri)-ZODIAC NIGHT %}
+<!-- tab 普通立繪-->
+[![](https://i.imgur.com/uAjDtuoh.jpg)](https://i.imgur.com/uAjDtuo.jpg)
+<!-- endtab -->
+<!-- tab 特殊立繪-->
+[![](https://i.imgur.com/uJFrkZ8h.jpg)](https://i.imgur.com/uJFrkZ8.jpg)
+<!-- endtab -->
+<!-- tab 模組圖片-->
+[![](https://i.imgur.com/fqHfoEwh.png)](https://i.imgur.com/fqHfoEw.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
 {% endtabs %}

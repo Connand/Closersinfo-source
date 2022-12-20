@@ -12,7 +12,7 @@ description: "晶片系統內容說明"
 ## 原始晶片
 ||方法1|方法2|方法3|
 |:-:|:-:|:-:|:-:|
-|材料|古龍眼睛x13 + {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}10w|龍刑眼睛x3|瑪瑙x4|
+|材料|古龍眼睛x13 + {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}10w|龍刑眼睛x3|{% inlineImg https://i.imgur.com/UUm30FC.png 48px %}x4|
 |限制|每周10次|每周10次|每周10次|
 
 ## 超頻用晶片
@@ -24,7 +24,7 @@ description: "晶片系統內容說明"
 ### T1晶片
 ||方法1|方法2|方法3|
 |:-:|:-:|:-:|:-:|
-|材料|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}x1 + 古龍碎片x1|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}x2 + 龍刑碎片x2|原始晶片x1|
+|材料|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}x1 + 古龍碎片x1|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}x2 + {% inlineImg https://i.imgur.com/mZ8i4uG.png 48px %}x2|原始{% inlineImg https://i.imgur.com/sUQBk7t.png 48px %}x1|
 |備註|-|-|1次製作10片|
 
 ### T2晶片
@@ -72,7 +72,7 @@ T2單色晶片x10 + {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}x300 + {
   table {
     text-align: center;
     font-weight: bold;
-	width: 70%;
+	width: 80%;
   }
   .chipOC_exp table th,
   .chipOC_exp table td {
@@ -136,26 +136,32 @@ T2單色晶片x10 + {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}x300 + {
 
 |超頻等級|T1鉑金|T2鉑金|T3鉑金|T4鉑金|
 |:-:|:-:|:-:|:-:|:-:|
-| 0 | 10 | 20 | T3 | T4 | 2 |
-| 1 | T1 | 40 | T3 | T4 | 4 |
-| 2 | T1 | 60 | T3 | T4 | 6 |
-| 3 | T1 | 80 | T3 | T4 | 10 |
-| 4 | T1 |100 | 150 | T4 | 16 |
-| 5 | T1 |120 | T3 | T4 | 22 |
-| 6 | T1 |140 | T3 | T4 |
-| 7 | T1 |160 | T3 | T4 | 42 |
-| 8 | T1 |180 | T3 | T4 | 58 |
-| 9 | T1 |200 | 600 | T4 | 78 |
-|10 | T1 |400 | T3 | T4 | 102 |
-|11 | T1 |600 | 900 | T4 | 132 |
-|12 | T1 |900? | 1200 | T4 | 178 |
-|13 | T1 |1200? | 1500 | T4 | 238 |
-|14 | T1 |2000 | 1800 | T4 | 328 |
-|15及以上 | T1 |2000? | 2100 | T4 | 328 |
+| 0 | 10 | 20 | 25 | 45 | 2 |
+| 1 | T1 | 40 | 50 | 90 | 4 |
+| 2 | T1 | 60 | 75 | 150 | 6 |
+| 3 | T1 | 80 | 100 | 200 | 10 |
+| 4 | T1 |100 | 150 | 300 | 16 |
+| 5 | T1 |120 | 200 | 450 | 22 |
+| 6 | T1 |140 | 300 | 600 |
+| 7 | T1 |160 | 400 | 750 | 42 |
+| 8 | T1 |180 | 500 | 1000 | 58 |
+| 9 | T1 |200 | 600 | 1250 | 78 |
+|10 | T1 |400 | 750 | 1500 | 102 |
+|11 | T1 |600 | 900 | 1750 | 132 |
+|12 | T1 |900? | 1200 | 2000 | 178 |
+|13 | T1 |1200? | 1500 | 2250 | 238 |
+|14 | T1 |2000 | 1800 | 2500 | 328 |
+|15 | T1 |2000? | 2100<br><font color="red">之後不再增加</font> | 2750 | 328 |
+|16 | T1 |2000? | - | 3000 | 328 |
+|17 | T1 |2000? | - | 3250 | 328 |
+|18 | T1 |2000? | - | 3500 | 328 |
+|19 | T1 |2000? | - | 3750 | 328 |
+|20 | T1 |2000? | - | 4000<br><font color="red">之後不再增加</font> | 328 |
 
 </div>
 
-經驗、材料與費用：
+# 經驗、材料與費用
+
 T1單色：1點、1w/每片
 T2單色：4點、2.5w/每片
 T1鉑金：30點、10w/每片

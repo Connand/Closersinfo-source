@@ -19,6 +19,8 @@ description: "野獸王裝備資訊"
 
 ---
 劇情影片(玩家筱筱錄影)：{% hideInline <a href="https://forum.gamer.com.tw/C.php?bsn=23655&snA=9204&tnum=1" target="_blank" rel="noopener">劇情影片</a>,含劇透內容，請再次點擊,#FF7242,#fff %}
+種族名稱：野獸王
+慾望名稱：忌妒王
 
 # 調查隊資訊
 入場等級：90

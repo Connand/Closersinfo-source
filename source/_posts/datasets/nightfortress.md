@@ -6,7 +6,7 @@ category: [遊戲資料, 裝備]
 cover: https://imgur.com/IFXLeRSh.jpg
 description: "白夜要塞裝備資訊"
 ---
-![](https://ssl.nexon.com/s2/game/closers/2022/events/220127_area_n2wa7/visual/bg_visual.png)
+![](https://i.imgur.com/IFXLeRS.png)
 
 # 前言
 [宣傳頁面](https://closers.nexon.com/events2022/0127/nightfortress)
