@@ -166,4 +166,128 @@ description: "Dear Crescent"
 {% endtabs %}
 <!-- endtab -->
 
+<!-- tab 模組A型-->
+{% tabs 模組A型 %}
+<!-- tab 李世河(Seha)-->
+[![](https://i.imgur.com/RZHvR7Wh.png)](https://i.imgur.com/RZHvR7W.png)
+<!-- endtab -->
+<!-- tab 李雪菲(Seulbi)-->
+[![](https://i.imgur.com/AkLGSaoh.png)](https://i.imgur.com/AkLGSao.png)
+<!-- endtab -->
+<!-- tab 徐維莉(Yuri)-->
+[![](https://i.imgur.com/Nr06QwBh.png)](https://i.imgur.com/Nr06QwB.png)
+<!-- endtab -->
+<!-- tab J-->
+[![](https://i.imgur.com/JfevdhHh.png)](https://i.imgur.com/JfevdhH.png)
+<!-- endtab -->
+<!-- tab 米斯特汀(Tein)-->
+[![](https://i.imgur.com/I7YYR9Sh.png)](https://i.imgur.com/I7YYR9S.png)
+<!-- endtab -->
+<!-- tab 納塔(Nata)-->
+[![](https://i.imgur.com/oJ0UJrmh.png)](https://i.imgur.com/oJ0UJrm.png)
+<!-- endtab -->
+<!-- tab 蕾比雅(Levia)-->
+[![](https://i.imgur.com/Ip9uHmHh.png)](https://i.imgur.com/Ip9uHmH.png)
+<!-- endtab -->
+<!-- tab 哈比(Harpy)-->
+[![](https://i.imgur.com/mNo5o8Oh.png)](https://i.imgur.com/mNo5o8O.png)
+<!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+[![](https://i.imgur.com/d78Gtfgh.png)](https://i.imgur.com/d78Gtfg.png)
+<!-- endtab -->
+<!-- tab 薇歐莉特(Violet)-->
+[![](https://i.imgur.com/gmbzxHih.png)](https://i.imgur.com/gmbzxHi.png)
+<!-- endtab -->
+<!-- tab 沃爾夫姜(Wolfgang)-->
+[![](https://i.imgur.com/JhCXe3mh.png)](https://i.imgur.com/JhCXe3m.png)
+<!-- endtab -->
+<!-- tab 露娜(Luna)-->
+[![](https://i.imgur.com/ccObYxmh.png)](https://i.imgur.com/ccObYxm.png)
+<!-- endtab -->
+<!-- tab 索瑪(Soma)-->
+[![](https://i.imgur.com/0CrbniLh.png)](https://i.imgur.com/0CrbniL.png)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+[![](https://i.imgur.com/mgnBr3lh.png)](https://i.imgur.com/mgnBr3l.png)
+<!-- endtab -->
+<!-- tab 賽特(Seth)-->
+[![](https://i.imgur.com/SRt4lWhh.png)](https://i.imgur.com/SRt4lWh.png)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/tZpfqqzh.png)](https://i.imgur.com/tZpfqqz.png)
+<!-- endtab -->
+<!-- tab 徹斯(Chulsoo)-->
+[![](https://i.imgur.com/3GMJ8lDh.png)](https://i.imgur.com/3GMJ8lD.png)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/NqoOQiYh.png)](https://i.imgur.com/NqoOQiY.png)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/RIqWnUAh.png)](https://i.imgur.com/RIqWnUA.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+<!-- tab 模組B型-->
+{% tabs 模組B型 %}
+<!-- tab 李世河(Seha)-->
+[![](https://i.imgur.com/cA7H6WKh.png)](https://i.imgur.com/cA7H6WK.png)
+<!-- endtab -->
+<!-- tab 李雪菲(Seulbi)-->
+[![](https://i.imgur.com/oF0jRO8h.png)](https://i.imgur.com/oF0jRO8.png)
+<!-- endtab -->
+<!-- tab 徐維莉(Yuri)-->
+[![](https://i.imgur.com/qB43qTOh.png)](https://i.imgur.com/qB43qTO.png)
+<!-- endtab -->
+<!-- tab J-->
+[![](https://i.imgur.com/f8eOrLah.png)](https://i.imgur.com/f8eOrLa.png)
+<!-- endtab -->
+<!-- tab 米斯特汀(Tein)-->
+[![](https://i.imgur.com/09hBX5Mh.png)](https://i.imgur.com/09hBX5M.png)
+<!-- endtab -->
+<!-- tab 納塔(Nata)-->
+[![](https://i.imgur.com/BIgyaOwh.png)](https://i.imgur.com/BIgyaOw.png)
+<!-- endtab -->
+<!-- tab 蕾比雅(Levia)-->
+[![](https://i.imgur.com/5RHWYHYh.png)](https://i.imgur.com/5RHWYHY.png)
+<!-- endtab -->
+<!-- tab 哈比(Harpy)-->
+[![](https://i.imgur.com/MIpiE1mh.png)](https://i.imgur.com/MIpiE1m.png)
+<!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+[![](https://i.imgur.com/jiEMikth.png)](https://i.imgur.com/jiEMikt.png)
+<!-- endtab -->
+<!-- tab 薇歐莉特(Violet)-->
+[![](https://i.imgur.com/e07zUMrh.png)](https://i.imgur.com/e07zUMr.png)
+<!-- endtab -->
+<!-- tab 沃爾夫姜(Wolfgang)-->
+[![](https://i.imgur.com/0K6BIzrh.png)](https://i.imgur.com/0K6BIzr.png)
+<!-- endtab -->
+<!-- tab 露娜(Luna)-->
+[![](https://i.imgur.com/F3btCEih.png)](https://i.imgur.com/F3btCEi.png)
+<!-- endtab -->
+<!-- tab 索瑪(Soma)-->
+[![](https://i.imgur.com/WGmvHXBh.png)](https://i.imgur.com/WGmvHXB.png)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+[![](https://i.imgur.com/5biQXj5h.png)](https://i.imgur.com/5biQXj5.png)
+<!-- endtab -->
+<!-- tab 賽特(Seth)-->
+[![](https://i.imgur.com/EhPzz1bh.png)](https://i.imgur.com/EhPzz1b.png)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/z3UdRbFh.png)](https://i.imgur.com/z3UdRbF.png)
+<!-- endtab -->
+<!-- tab 徹斯(Chulsoo)-->
+[![](https://i.imgur.com/zvXWwzuh.png)](https://i.imgur.com/zvXWwzu.png)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/TYt4Uuvh.png)](https://i.imgur.com/TYt4Uuv.png)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/5mF3lqlh.png)](https://i.imgur.com/5mF3lql.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
 {% endtabs %}

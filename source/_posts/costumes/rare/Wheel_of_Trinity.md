@@ -33,8 +33,15 @@ description: "第三套輝煌時裝(Unique costume)"
 <!-- tab 黑羊小隊-->
 [![](https://i.imgur.com/VSXSg3dh.jpg)](https://i.imgur.com/VSXSg3d.jpg)
 <!-- endtab -->
+<!-- tab 紅狼小隊-->
+[![](https://i.imgur.com/KbGya9Ah.jpg)](https://i.imgur.com/KbGya9A.jpg)
+<!-- endtab -->
 <!-- tab 夜梟小隊-->
 [![](https://i.imgur.com/yUhXnKzh.jpg)](https://i.imgur.com/yUhXnKz.jpg)
+<!-- endtab -->
+<!-- tab 嚙鼠小隊-->
+[![](https://i.imgur.com/iEp7Zz5h.jpg)](https://i.imgur.com/iEp7Zz5.jpg)
+[![](https://i.imgur.com/vXZRFqEh.jpg)](https://i.imgur.com/vXZRFqE.jpg)
 <!-- endtab -->
 {% endtabs %}
 
@@ -53,8 +60,6 @@ description: "第三套輝煌時裝(Unique costume)"
 
 所需十件套才可啟動立繪、語音、特效；動作擁有六件套即可
 十件套部位：部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 臉中 green %}、{% label 背部 green %}、{% label 瞳孔 green %}
-
-~~複製怪，先不砍舊的~~
 
 {% tabs 類型 %}
 <!-- tab 黑羊小隊-->
@@ -95,26 +100,34 @@ description: "第三套輝煌時裝(Unique costume)"
 <!-- tab 紅狼小隊-->
 {% tabs 紅狼小隊立繪 %}
 <!-- tab 納塔(Nata)-->
-(下方為舊立繪與新舊對比，**수정 후**為新立繪)
-[![](https://i.imgur.com/l6NutGTh.jpg)](https://i.imgur.com/l6NutGT.jpg)
-[![](https://i.imgur.com/1YsLFKyh.jpg)](https://i.imgur.com/1YsLFKy.jpg)
-![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4836888969281011727)
+[![](https://i.imgur.com/ObLCAZXh.png)](https://i.imgur.com/ObLCAZX.png)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-[![](https://i.imgur.com/As6AQVHh.jpg)](https://i.imgur.com/As6AQVH.jpg)
+[![](https://i.imgur.com/Q9sgJ0fh.png)](https://i.imgur.com/Q9sgJ0f.png)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-[![](https://i.imgur.com/HpnnQMih.jpg)](https://i.imgur.com/HpnnQMi.jpg)
+[![](https://i.imgur.com/UzOrR4wh.png)](https://i.imgur.com/UzOrR4w.png)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-[![](https://i.imgur.com/050jYIPh.jpg)](https://i.imgur.com/050jYIP.jpg)
+[![](https://i.imgur.com/xBqg2V8h.png)](https://i.imgur.com/xBqg2V8.png)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-[![](https://i.imgur.com/fFksfGBh.jpg)](https://i.imgur.com/fFksfGB.jpg)
+[![](https://i.imgur.com/2yy8b4qh.png)](https://i.imgur.com/2yy8b4q.png)
 <!-- endtab -->
-<!-- tab 動作(納塔~薇歐莉特)-->
-{%youtube r5xZP1OonsM %}
-{%youtube cRYOqxCrT2Y %}
+<!-- tab 表情動作-->
+{%youtube buJihznBsY8 %}
+<!-- endtab -->
+<!-- tab 城鎮動作-->
+{%youtube jecyfM156ss %}
+<!-- endtab -->
+<!-- tab 立繪效果-->
+{%youtube SeHpWVshOPg %}
+<!-- endtab -->
+<!-- tab 結算動作-->
+{%youtube P3bitlFkDjw %}
+<!-- endtab -->
+<!-- tab 過場動作-->
+{%youtube TzHAgjvF7T8 %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -157,23 +170,34 @@ description: "第三套輝煌時裝(Unique costume)"
 <!-- tab 嚙鼠小隊-->
 {% tabs 嚙鼠小隊立繪 %}
 <!-- tab 未來(Mirae)-->
-[![](https://i.imgur.com/ItK0ccNh.jpg)](https://i.imgur.com/ItK0ccN.jpg)
+[![](https://i.imgur.com/fnWmuRMh.png)](https://i.imgur.com/fnWmuRM.png)
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-[![](https://i.imgur.com/y6Rb1Smh.jpg)](https://i.imgur.com/y6Rb1Sm.jpg)
+[![](https://i.imgur.com/ZenFLXgh.png)](https://i.imgur.com/ZenFLXg.png)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-[![](https://i.imgur.com/vQO5JRUh.jpg)](https://i.imgur.com/vQO5JRU.jpg)
+[![](https://i.imgur.com/E1olE9Ch.png)](https://i.imgur.com/E1olE9C.png)
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-[![](https://i.imgur.com/a4VdXcyh.jpg)](https://i.imgur.com/a4VdXcy.jpg)
+[![](https://i.imgur.com/iHPggVoh.png)](https://i.imgur.com/iHPggVo.png)
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
-
+[![](https://i.imgur.com/HqGkacoh.png)](https://i.imgur.com/HqGkaco.png)
 <!-- endtab -->
-<!-- tab 動作(未來~露西)-->
-{%youtube Je61jNZS49s %}
-{%youtube U4y7lDZINl8 %}
+<!-- tab 表情動作-->
+{%youtube eZtAHXPBT4w %}
+<!-- endtab -->
+<!-- tab 城鎮動作-->
+{%youtube ZOujbFHdEZM %}
+<!-- endtab -->
+<!-- tab 立繪效果-->
+{%youtube adMXlQ6jUW4 %}
+<!-- endtab -->
+<!-- tab 結算動作-->
+{%youtube xT7GGRO35vs %}
+<!-- endtab -->
+<!-- tab 過場動作-->
+{%youtube 3f8icXFIyms %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

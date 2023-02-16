@@ -34,21 +34,27 @@ description: "2022泳裝系列"
 # 波光粼粼的海洋(Sparkling Ocean)
 
 ## 主題曲： "Paradise" x 유주(Yuju)
+{% hideToggle 主題曲 %}
 {%youtube 67-8B4OoaiE %}
+{% endhideToggle %}
 
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉下 green %}、{% label 腰部 green %}
 
 
 **左5套用日光浴床 左5+1飾品套用主題歌跳舞動作**
-舞蹈動作示意(前半女角、後半男角)
+
+{% hideToggle 舞蹈動作示意(前半女角、後半男角) %}
 {%youtube JKt24SsvV7U %}
+{% endhideToggle %}
 
 **左5+2飾品套用專用立繪**
 **每個角色都有另類時裝(上衣、下衣)，可解鎖額外立繪(特殊立繪)**
 
-模組示意圖(有A、B、C三型)
+{% hideToggle 模組示意圖(有A、B、C三型) %}
 [![](https://i.imgur.com/T50KVELh.png)](https://i.imgur.com/T50KVEL.png)
+{% endhideToggle %}
+
 
 [宣傳頁面](https://closers.nexon.com/Events2022/0714/Costume)
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
@@ -56,6 +62,8 @@ description: "2022泳裝系列"
 
 
 ---
+# 立繪
+
 {% tabs 類型 %}
 <!-- tab 普通角色立繪 -->
 {% tabs 普通角色立繪 %}

@@ -44,14 +44,12 @@ description: "Snow Fox"
 
 **注意**：立繪僅分一般和特殊，模組分2型
 
-部位：髮型、上衣、下衣、手套、鞋子、{% label ？ green %}、{% label 特效 green %}
+部位：髮型、上衣、下衣、手套、鞋子、{% label 腰部 green %}、{% label 特效 green %}
 
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 宣傳頁面
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_SnowFox_221201_30FH49FJL49DK2.zip)
 ---
-
-~~複製怪，再問打死你~~
 
 {% tabs 類型 %}
 <!-- tab 普通角色立繪-->
@@ -72,19 +70,19 @@ description: "Snow Fox"
 [![](https://i.imgur.com/btMv1Jwh.png)](https://i.imgur.com/btMv1Jw.png)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
-[![](https://i.imgur.com/2vCNTwoh.png)](https://i.imgur.com/2vCNTwo.png)
+[![](https://i.imgur.com/BxKA5wPh.png)](https://i.imgur.com/BxKA5wP.png)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-[![](https://i.imgur.com/pNAgfVGh.png)](https://i.imgur.com/pNAgfVG.png)
+[![](https://i.imgur.com/LVNB2nph.png)](https://i.imgur.com/LVNB2np.png)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-[![](https://i.imgur.com/kNKs043h.png)](https://i.imgur.com/kNKs043.png)
+[![](https://i.imgur.com/7FzrvH5h.png)](https://i.imgur.com/7FzrvH5.png)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-[![](https://i.imgur.com/yJF8soQh.png)](https://i.imgur.com/yJF8soQ.png)
+[![](https://i.imgur.com/Cuo7GAIh.png)](https://i.imgur.com/Cuo7GAI.png)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-[![](https://i.imgur.com/MYKuGvwh.png)](https://i.imgur.com/MYKuGvw.png)
+[![](https://i.imgur.com/aKz5qdXh.png)](https://i.imgur.com/aKz5qdX.png)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
 [![](https://i.imgur.com/HR0On9fh.jpg)](https://i.imgur.com/HR0On9f.jpg)
@@ -102,19 +100,19 @@ description: "Snow Fox"
 [![](https://i.imgur.com/fZHKsKHh.jpg)](https://i.imgur.com/fZHKsKH.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-[![](https://i.imgur.com/kKRslKZh.png)](https://i.imgur.com/kKRslKZ.png)
+[![](https://i.imgur.com/BjBX7gGh.png)](https://i.imgur.com/BjBX7gG.png)
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-[![](https://i.imgur.com/NejSHl6h.png)](https://i.imgur.com/NejSHl6.png)
+[![](https://i.imgur.com/tTCRHiMh.png)](https://i.imgur.com/tTCRHiM.png)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-[![](https://i.imgur.com/SNSn9q0h.png)](https://i.imgur.com/SNSn9q0.png)
+[![](https://i.imgur.com/ibzE4x8h.png)](https://i.imgur.com/ibzE4x8.png)
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-[![](https://i.imgur.com/lz5Ox2Lh.png)](https://i.imgur.com/lz5Ox2L.png)
+[![](https://i.imgur.com/tQFBnJIh.png)](https://i.imgur.com/tQFBnJI.png)
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
-
+[![](https://i.imgur.com/CRRcQG5h.png)](https://i.imgur.com/CRRcQG5.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -137,19 +135,19 @@ description: "Snow Fox"
 [![](https://i.imgur.com/nI2zfGth.png)](https://i.imgur.com/nI2zfGt.png)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
-[![](https://i.imgur.com/FHmSgYvh.png)](https://i.imgur.com/FHmSgYv.png)
+[![](https://i.imgur.com/M0pE9rkh.png)](https://i.imgur.com/M0pE9rk.png)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-[![](https://i.imgur.com/KDuu5jOh.png)](https://i.imgur.com/KDuu5jO.png)
+[![](https://i.imgur.com/V88bzflh.png)](https://i.imgur.com/V88bzfl.png)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-[![](https://i.imgur.com/sQw1TS0h.png)](https://i.imgur.com/sQw1TS0.png)
+[![](https://i.imgur.com/gimMRjNh.png)](https://i.imgur.com/gimMRjN.png)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-[![](https://i.imgur.com/MhF1nAJh.png)](https://i.imgur.com/MhF1nAJ.png)
+[![](https://i.imgur.com/4x9AZIPh.png)](https://i.imgur.com/4x9AZIP.png)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-[![](https://i.imgur.com/U147Mzoh.png)](https://i.imgur.com/U147Mzo.png)
+[![](https://i.imgur.com/2lvAPV8h.png)](https://i.imgur.com/2lvAPV8.png)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
 [![](https://i.imgur.com/FTd0mAIh.jpg)](https://i.imgur.com/FTd0mAI.jpg)
@@ -167,19 +165,19 @@ description: "Snow Fox"
 [![](https://i.imgur.com/aQwggLph.jpg)](https://i.imgur.com/aQwggLp.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-[![](https://i.imgur.com/DlJOsZNh.png)](https://i.imgur.com/DlJOsZN.png)
+[![](https://i.imgur.com/pD4DcRrh.png)](https://i.imgur.com/pD4DcRr.png)
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-[![](https://i.imgur.com/PJ435Sfh.png)](https://i.imgur.com/PJ435Sf.png)
+[![](https://i.imgur.com/82TvJ48h.png)](https://i.imgur.com/82TvJ48.png)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-[![](https://i.imgur.com/Mu47niVh.png)](https://i.imgur.com/Mu47niV.png)
+[![](https://i.imgur.com/zB0Q8Ath.png)](https://i.imgur.com/zB0Q8At.png)
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-[![](https://i.imgur.com/FxXOK7eh.png)](https://i.imgur.com/FxXOK7e.png)
+[![](https://i.imgur.com/CHOVytKh.png)](https://i.imgur.com/CHOVytK.png)
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
-
+[![](https://i.imgur.com/tjQsTSWh.png)](https://i.imgur.com/tjQsTSW.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

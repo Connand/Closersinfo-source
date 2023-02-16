@@ -233,7 +233,6 @@ description: ""
 <!-- endtab -->
 
 <!-- tab 動作展示-->
-**<font size=5>尚缺：VIO</font>**
 {% tabs 動作展示 %}
 <!-- tab 李世河(Seha)-->
 [![](https://i.imgur.com/LNiqrYjh.png)](https://i.imgur.com/LNiqrYj.png)
@@ -263,6 +262,7 @@ description: ""
 [![](https://i.imgur.com/k8smckkh.png)](https://i.imgur.com/k8smckk.png)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
+[![](https://i.imgur.com/GBSrCD7h.png)](https://i.imgur.com/GBSrCD7.png)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
 [![](https://i.imgur.com/Z9G77yXh.png)](https://i.imgur.com/Z9G77yX.png)

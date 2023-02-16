@@ -246,7 +246,7 @@ description: "角色專屬時裝"
 部位：武器、髮型(3型+另類)、上衣、下衣、手套、鞋子、{% label 臉上 green %}、{% label 特效(威嚴) green %}
 **飾品為單一型
 <font color=#f00>7件可使用普通立繪</font>
-<font color=#f00>8件可使用普通立繪</font>**
+<font color=#f00>8件可使用特殊立繪</font>**
 
 {% tabs 愛里(Aeri)-ZODIAC NIGHT %}
 <!-- tab 普通立繪-->
@@ -257,6 +257,25 @@ description: "角色專屬時裝"
 <!-- endtab -->
 <!-- tab 模組圖片-->
 [![](https://i.imgur.com/fqHfoEwh.png)](https://i.imgur.com/fqHfoEw.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+<!-- tab 愛里(Aeri)-Devilish Dream -->
+部位：武器、髮型、上衣、下衣、手套、鞋子、{% label 瞳孔 green %}、{% label 特效(威嚴) green %}
+**飾品為單一型，其餘分3型
+<font color=#f00>7件可使用普通立繪</font>
+<font color=#f00>8件可使用特殊立繪</font>**
+
+{% tabs 愛里(Aeri)-Devilish Dream %}
+<!-- tab 普通立繪-->
+[![](https://i.imgur.com/eXf3RNeh.png)](https://i.imgur.com/eXf3RNe.png)
+<!-- endtab -->
+<!-- tab 特殊立繪-->
+[![](https://i.imgur.com/jM0AvjHh.png)](https://i.imgur.com/jM0AvjH.png)
+<!-- endtab -->
+<!-- tab 模組圖片-->
+[![](https://i.imgur.com/8nubYWzh.png)](https://i.imgur.com/8nubYWz.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

@@ -23,10 +23,6 @@ category: [時裝, 無立繪, 全角色]
 cover: https://i.imgur.com/Cldf6Eb.png
 description: ""
 ---
-
-
-
----
 ## 冬季日常
 
 

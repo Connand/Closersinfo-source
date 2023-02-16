@@ -18,6 +18,13 @@ description: "白夜要塞裝備資訊"
 追擊總長的行動，已經到達的最尾聲。
 所有的一切，都將在此結束...
 
+	擊敗霍夫曼夫婦以及《Omega Knight》並救下伊織靜後,安琪兒追查到了米哈耶的位置,那便是18年前爆發第一次次元戰爭的戰場---《南極》,而那裡似乎埋藏著關於一切的根源---《至高圓盤》&《三神器》的秘密。
+    之後安琪兒也發現了道士田禹治與教團在南極的蹤跡,而在前面率領教團主力部隊的,居然是恢復全盛期力量的《熱風達斯特》?!
+    在以為三方勢力要爆發大混戰的時候,在《南極》土地上殘留的偉大意志的力量卻恰巧選在這個時候爆發,使在場的所有沒有超能力的人類陷入了癲狂。
+    就在這極為混亂的時刻,站在無力的封印者們面前的,則是米哈耶利用艾茜的屍體所創造出來的人偶,他的名字叫做—
+                                										《Another Lucifer》(另一位路西法)
+
+[主線劇情(筱筱錄製)](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9152&tnum=1)
 
 {% endhideToggle %}
 
@@ -25,10 +32,10 @@ description: "白夜要塞裝備資訊"
 **擁有新材料**
 + {% inlineImg https://i.imgur.com/qMKcQoy.png 64px %} 不朽之塵
 	> 可透過訓練項目：狼的戰術建議、必殺程式獲得
-	> 可利用5個烈風的漏洞塊兌換10個不朽之塵(每周10次，超越開放一段時間後取消)
+	> 可利用5個烈風的漏洞塊兌換10個不朽之塵(每周 **<font color=#ff0000>帳號</font>** 10次，超越開放一段時間後取消)
 + {% inlineImg https://i.imgur.com/oZ9yEkN.png 64px %} 不朽結晶
 	> 可透過訓練項目：狼的戰術建議、必殺程式獲得
-	> 可利用100個烈風的漏洞塊製作(每月限定製作1顆，超越開放一段時間後取消)
+	> 可利用100個烈風的漏洞塊製作(每月限定 **<font color=#ff0000>帳號</font>** 製作1顆，超越開放一段時間後取消)
 + {% inlineImg https://i.imgur.com/iOcFia8.png 64px %} 烈風的漏洞塊
 	> 用來製作上面兩個用的
 	> 一場VH達斯特可獲得4個
@@ -50,28 +57,19 @@ description: "白夜要塞裝備資訊"
 |達斯特VH|89|**<font color=#ff0000>1800萬</font>**| 163 | 10 |角色1次|建議4人|
 |路西法|90|1600萬| 160 | 10 |角色1次|建議4人|
 |路西法VH|90|**<font color=#ff0000>2200萬</font>**| 172 | 10 |角色1次|建議4人|
+
+### 爆擊抵抗(測量值)
++ 達斯特：1800%
++ 路西法：2200%
+
 ---
 # 模組(不朽熱風)
 替換14村星辰若逝模組
 並且有4種能力供選擇： 速度、超能、致命、漂浮
-+ {% inlineImg https://i.imgur.com/d7G3OHv.png 64px %} >>{% inlineImg https://i.imgur.com/rCcZfdZ.png 64px %}
 
-+ {% inlineImg https://i.imgur.com/ZlQGb42.png 64px %} >>{% inlineImg https://i.imgur.com/QnjyTVK.png 64px %}
-
-+ {% inlineImg https://i.imgur.com/6fwslHh.png 64px %} >>{% inlineImg https://i.imgur.com/nmwHa3X.png 64px %}
-
-
-## 素質能力
-+ 攻擊力+920/雙傷+785
-+ 爆擊傷害+130%
-+ 3條件爆擊傷害+20%
-
-<font color=#ffffff> 基本攻擊修練+Lv.5 (2019/07/11~2022/01/27) </font> **<=?**
-## 專屬字條效果
-+ 速度：攻擊/移動速度+10%
-+ 超能：超能凝聚速度+15%/超能爆發時間+15秒/超能爆發傷害+20%
-+ 致命：物理/魔法爆擊傷害+22%
-+ 漂浮：掉寶/金幣+15%
+|物理|魔法|混合|
+|:-:|:-:|:-:|
+|{% inlineImg https://i.imgur.com/d7G3OHv.png 64px %} >>{% inlineImg https://i.imgur.com/rCcZfdZ.png 64px %}|{% inlineImg https://i.imgur.com/ZlQGb42.png 64px %} >>{% inlineImg https://i.imgur.com/QnjyTVK.png 64px %}|{% inlineImg https://i.imgur.com/6fwslHh.png 64px %} >>{% inlineImg https://i.imgur.com/nmwHa3X.png 64px %}|
 
 ## 製作需求
 材料與漏洞塊由必殺程式、戰術建議中獲得
@@ -84,9 +82,11 @@ description: "白夜要塞裝備資訊"
 # 防具(不朽熱風)
 替換14村藍色地獄防具
 
-+ 戒指{% inlineImg https://i.imgur.com/HKgZ5OW.png 64px %} >>{% inlineImg https://i.imgur.com/cBrnZOc.png 64px %}
-+ 項鍊{% inlineImg https://i.imgur.com/kAi75E2.png 64px %} >>{% inlineImg https://i.imgur.com/y5TJ6p5.png 64px %}
-+ 玩偶{% inlineImg https://i.imgur.com/P3sLDdI.png 64px %} >>{% inlineImg https://i.imgur.com/wc2zlH4.png 64px %}
+|戒指|項鍊|玩偶|
+|:-:|:-:|:-:|
+|{% inlineImg https://i.imgur.com/HKgZ5OW.png 64px %} >>{% inlineImg https://i.imgur.com/cBrnZOc.png 64px %}|{% inlineImg https://i.imgur.com/kAi75E2.png 64px %} >>{% inlineImg https://i.imgur.com/y5TJ6p5.png 64px %}|{% inlineImg https://i.imgur.com/P3sLDdI.png 64px %} >>{% inlineImg https://i.imgur.com/wc2zlH4.png 64px %}|
+
+
 
 ## 製作需求
 材料取得方式如同上方
@@ -96,32 +96,29 @@ description: "白夜要塞裝備資訊"
 |:-:|:-:|:-:|:-:|:-:|
 |8,000,000|200 個|1 個|50 個|30 個|
 
-## 套裝效果
-以單傷角色為範例
-
-|戒指|項鍊|玩偶|
-|---|---|---|
-|總攻擊力+8% <br> 爆擊傷害+92% <br> 最大HP+1980|攻擊力+1320 <br> 爆擊傷害+13% <br> 3條件爆擊傷害+66% <br> 最大HP+1980|攻擊力+792 <br> 爆擊傷害+26% <br> 3條件傷害+53%|
-|---|2件套裝效果：攻擊力+660<br>爆擊率+53% <br>3條件爆擊傷害+40% <br>超能爆發傷害+40%|3件套裝效果： <br>總攻擊力+13%<br>爆擊傷害+66%<br>攻擊速度+6.6% |
-
 # 能力飾品
 共有四個飾品部位 **(常見戰力飾品配法為：軍團長3件 + 這套臉上跟手臂)**
-+ 凍土代行者的肩膀裝飾(手臂) {% inlineImg https://i.imgur.com/s1h7a9Y.png 64px %}
-+ 紅焰/聖光代行者光環(背) {% inlineImg https://i.imgur.com/yBfrLtY.png 64px %} {% inlineImg https://i.imgur.com/gC6ykzB.png 64px %}
-+ 另類路西法護目鏡(臉上) {% inlineImg https://i.imgur.com/0oRcNig.png 64px %}
-+ 嚴寒代行者的腰部裝飾(腰) {% inlineImg https://i.imgur.com/PtTdsxv.png 64px %} 
++ 凍土代行者的肩膀裝飾 **<font color=#ff0000>(手臂)</font>** {% inlineImg https://i.imgur.com/s1h7a9Y.png 64px %}
++ 紅焰/聖光代行者光環 (背) {% inlineImg https://i.imgur.com/yBfrLtY.png 64px %} {% inlineImg https://i.imgur.com/gC6ykzB.png 64px %}
++ 另類路西法護目鏡 **<font color=#ff0000>(臉上)</font>** {% inlineImg https://i.imgur.com/0oRcNig.png 64px %}
++ 嚴寒代行者的腰部裝飾 (腰) {% inlineImg https://i.imgur.com/PtTdsxv.png 64px %} 
+
 ## 套裝效果
+
 + 2件：物理及魔法攻擊力180、三爆傷15%、攻擊速度5%
 + 3件：物理及魔法攻擊力70、雙爆傷15%、掉落道具20%
+
 ## 單件製作材料
-  **<font color=#ff0000 size=4>製作限制：帳號 1 次</font>**
+
+**<font color=#ff0000 size=4>製作限制：帳號 1 次</font>**
+
 | {% inlineImg https://i.imgur.com/bRFx7v6.png 64px %} | {% inlineImg https://i.imgur.com/qMKcQoy.png 64px %} | {% inlineImg https://i.imgur.com/oZ9yEkN.png 64px %} |
 |:-:|:-:|:-:|
 |10,000,000|500 個|10 個|
 
 ---
 
-# 超越
+# 超越材料
 韓版約隔兩個月後開放路西法必殺程式，主要目標是超越15村裝備
 **<font color=#ff0000>路西法VH 1 場掉落 4 個漏洞塊</font>** {% inlineImg https://i.imgur.com/bIENHnS.png 64px %}
 註：每階"賭狗"方法材料都一樣 ~~但我懶得調了~~
@@ -167,14 +164,9 @@ description: "白夜要塞裝備資訊"
 
 | ![金幣](https://i.imgur.com/bRFx7v6.png) | ![彩罐](https://i.imgur.com/6qBUfOf.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) | ![結晶](https://i.imgur.com/oZ9yEkN.png) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|150,000|2 個|25 個|15 個|30 個|13 個|1 個|
+|150,000|5 個|25 個|15 個|30 個|13 個|1 個|
 <!-- endtab -->
 {% endtabs %}
-
-|戒指|項鍊|玩偶|
-|---|---|---|
-|總攻擊力+9% <br> 爆擊傷害+101% <br> 最大HP+2178|攻擊力+1452 <br> 爆擊傷害+14% <br> 3條件爆擊傷害+73% <br> 最大HP+2178|攻擊力+871 <br> 爆擊傷害+29% <br> 3條件傷害+58%|
-|---|2件套裝效果：攻擊力+743<br>爆擊率+60% <br>3條件爆擊傷害+45% <br>超能爆發傷害+45%|3件套裝效果： <br>總攻擊力+15%<br>爆擊傷害+74%<br>攻擊速度+7.4% |
 
 <!-- endtab -->
 
@@ -223,10 +215,6 @@ description: "白夜要塞裝備資訊"
 <!-- endtab -->
 {% endtabs %}
 
-|戒指|項鍊|玩偶|
-|---|---|---|
-|總攻擊力+10% <br> 爆擊傷害+115% <br> 最大HP+2475|攻擊力+1650 <br> 爆擊傷害+16% <br> 3條件爆擊傷害+83% <br> 最大HP+2475|攻擊力+990 <br> 爆擊傷害+33% <br> 3條件傷害+66%|
-|---|2件套裝效果：攻擊力+825<br>爆擊率+66% <br>3條件爆擊傷害+50% <br>超能爆發傷害+50%|3件套裝效果： <br>總攻擊力+16%<br>爆擊傷害+83%<br>攻擊速度+8.3% |
 <!-- endtab -->
 
 <!-- tab 農保底總和-->
@@ -234,7 +222,7 @@ description: "白夜要塞裝備資訊"
 
 | ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) | ![結晶](https://i.imgur.com/oZ9yEkN.png) |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|16,725,000|2625 個|1575 個|2550 個|564 個|16 個|
+|18,750,000|2625 個|1575 個|2550 個|564 個|16 個|
 <!-- endtab -->
 
 <!-- tab 彩罐法總和-->
@@ -248,7 +236,77 @@ description: "白夜要塞裝備資訊"
 
 ---
 
-# 新覺醒
+# 裝備能力
+
+{% tabs 白夜要塞裝備能力 %}
+<!-- tab 模組-->
+
+<font color=#ffffff> 基本攻擊修練+Lv.5 (2019/07/11~2022/01/27) </font> **<=?**
+
+|詞條| 賽騰 | L0 | L1 | L2 |
+|:-:|:-:|:-:|:-:|:-:|
+|攻擊力(單/混)| +700/+595 |+920/+785| +1012/+864 | +1150/+981 |
+|爆擊傷害| +85% |+130%/+110%| +143%/+121% | +163%/+138% |
+|3條件爆擊傷害| +15% |+20%| +22% | +25% |
+|**速度** 攻擊/移動速度| |+10%|+11%|+13%|
+|**超能** <br>超能凝聚速度 / 覺醒時間 / 覺醒傷害| |<br>+15% / +15秒 / +20% |<br>+17% / +17秒 / +22% |<br>+19% / +19秒 / +25%|
+|**致命** 物理/魔法爆擊傷害| |+22%|+24%|+28%|
+|**漂浮** 掉寶/金幣| |+15%|+17%|+19%|
+
+<!-- endtab -->
+<!-- tab 戒指-->
+
+|詞條| 賽騰 | L0 | L1 | L2 |
+|:-:|:-:|:-:|:-:|:-:|
+|總攻擊力| +6%/+5% |+8%/+6.6%| +9%/+7% | +10%/+8% |
+|爆擊傷害| +70%/+60% |+92%/+80%| +101%/+88% | +115%/+100% |
+|最大HP| +1500 |+1980| +2178 | +2475 |
+
+<!-- endtab -->
+<!-- tab 項鍊-->
+
+|詞條| 賽騰 | L0 | L1 | L2 |
+|:-:|:-:|:-:|:-:|:-:|
+|攻擊力| +1000/+850 |+1320/+1122| +1452/+1234 | +1650/+1403 |
+|爆擊傷害| +10%/+8% |+13%/+10%| +14%/+11% | +16%/+13% |
+|3條件爆擊傷害| +50% |+66%| +73% | +83% |
+|最大HP| +1500 |+1980| +2178 | +2475 |
+
+<!-- endtab -->
+<!-- tab 玩偶-->
+
+|詞條| 賽騰 | L0 | L1 | L2 |
+|:-:|:-:|:-:|:-:|:-:|
+|攻擊力| +600%/+510 |+792/+672| +871/+739 | +990/+840 |
+|爆擊傷害| +20%/+17% |+26%/+22%| +29%/+24% | +33%/+28% |
+|3條件傷害| +40% |+53%| +58% | +66% |
+
+<!-- endtab -->
+<!-- tab <b>套裝效果</b>-->
+
++ 兩件套裝效果
+
+|詞條| 賽騰 | L0 | L1 | L2 |
+|:-:|:-:|:-:|:-:|:-:|
+|攻擊力| +500/+425 |+660/+560| +743/+630 | +825/+700 |
+|爆擊率| +40% |+53%| +60% | +66% |
+|3條件爆擊傷害| +30% |+40%| +45% | +50% |
+|覺醒傷害| +30% |+40%| +45% | +50% |
+
++ 三件套裝效果
+
+|詞條| 賽騰 | L0 | L1 | L2 |
+|:-:|:-:|:-:|:-:|:-:|
+|總攻擊力| +10%/+8% |+13%/+11%| +15%/+12% | +16%/+14% |
+|爆擊傷害| +50%/+43% |+66%/+57%| +74%/+64% | +83%/+71% |
+|攻擊速度| +5% |+6.6%| +7.4% | +8.3% |
+
+<!-- endtab -->
+{% endtabs %}
+
+---
+
+# 至高圓盤(新覺醒)
 ![](https://i.imgur.com/CP4HSRA.png)
 開放路西法後同時添加新系統，更強的覺醒 - 至高圓盤
 裝備後會有一個新技能，需放到技能欄上在副本內使用 (VI階持續30秒，冷卻3分鐘)

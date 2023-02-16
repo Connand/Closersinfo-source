@@ -29,6 +29,7 @@ description: "機械王裝備資訊"
 入場等級：89
 裝備等級：162
 建議戰力：1800萬
+爆擊抵抗：1800% (分析室)
 BOSS類型：前腦型 {% inlineImg https://i.imgur.com/acS6rsI.png 64px %}
 **<font color=#ff0000>復活限制2次，藥水限制5次</font>**
 {% btn 'https://forum.gamer.com.tw/C.php?bsn=23655&snA=9067',副本攻略,far fa-hand-point-right,outline blue larger %}

@@ -1,5 +1,5 @@
 ---
-title: 聖夜兔兔
+title: 聖誕夜小兔
 date: 2022-06-01 10:09:15
 tags:
     - 立繪時裝
@@ -22,6 +22,7 @@ tags:
     - 金徹斯
     - 銀河
     - 露西
+    - 愛里
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/RGjk02ih.jpg
 description: "Holy Night"
@@ -36,13 +37,18 @@ description: "Holy Night"
 
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 腰部 green %}、{% label 特效 green %}
+- 湊齊左5 + 任 1 飾品(威嚴除外)可使用 **動作**
+- 湊齊左5 + 2 飾品(威嚴除外)可使用 **普通立繪**
+- 湊齊左5 + 2 飾品 + 威嚴可使用 **特殊立繪**
+
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[台版公告](http://cls.mangot5.com/game/cls/news/detail?contentNo=52499)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_holynight_schaq.zip)
 
 ## 主題曲、動作
 主題曲：" We Winter x 이라온(Raon Lee)" 
 {%youtube IYI2xBhZJHk %}
-**湊齊左五以及帽子、腰部可解鎖特殊動作**
+**湊齊左五以及帽子或腰部可解鎖特殊動作**
 男生動作
 ![](https://i.imgur.com/70L7nbR.gif)
 女生動作
@@ -111,6 +117,9 @@ description: "Holy Night"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/JXLeOkYh.jpg)](https://i.imgur.com/JXLeOkY.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/weKv8kKh.png)](https://i.imgur.com/weKv8kK.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -172,6 +181,74 @@ description: "Holy Night"
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/xwi5dkyh.jpg)](https://i.imgur.com/xwi5dky.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/xZNjCwQh.png)](https://i.imgur.com/xZNjCwQ.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+<!-- tab 模組圖-->
+{% tabs 模組圖 %}
+<!-- tab 李世河(Seha)-->
+[![](https://i.imgur.com/oz1bM1mh.jpg)](https://i.imgur.com/oz1bM1m.jpg)
+<!-- endtab -->
+<!-- tab 李雪菲(Seulbi)-->
+[![](https://i.imgur.com/fkik9Pth.jpg)](https://i.imgur.com/fkik9Pt.jpg)
+<!-- endtab -->
+<!-- tab 徐維莉(Yuri)-->
+[![](https://i.imgur.com/dM00zEvh.jpg)](https://i.imgur.com/dM00zEv.jpg)
+<!-- endtab -->
+<!-- tab J-->
+[![](https://i.imgur.com/xVghk7Ch.jpg)](https://i.imgur.com/xVghk7C.jpg)
+<!-- endtab -->
+<!-- tab 米斯特汀(Tein)-->
+[![](https://i.imgur.com/OnCElZgh.jpg)](https://i.imgur.com/OnCElZg.jpg)
+<!-- endtab -->
+<!-- tab 納塔(Nata)-->
+[![](https://i.imgur.com/71ykLLnh.jpg)](https://i.imgur.com/71ykLLn.jpg)
+<!-- endtab -->
+<!-- tab 蕾比雅(Levia)-->
+[![](https://i.imgur.com/XVNx2vTh.jpg)](https://i.imgur.com/XVNx2vT.jpg)
+<!-- endtab -->
+<!-- tab 哈比(Harpy)-->
+[![](https://i.imgur.com/VqZoel1h.jpg)](https://i.imgur.com/VqZoel1.jpg)
+<!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+[![](https://i.imgur.com/ZyzkURth.jpg)](https://i.imgur.com/ZyzkURt.jpg)
+<!-- endtab -->
+<!-- tab 薇歐莉特(Violet)-->
+[![](https://i.imgur.com/MWNL6B1h.jpg)](https://i.imgur.com/MWNL6B1.jpg)
+<!-- endtab -->
+<!-- tab 沃爾夫姜(Wolfgang)-->
+[![](https://i.imgur.com/oYFJNz0h.jpg)](https://i.imgur.com/oYFJNz0.jpg)
+<!-- endtab -->
+<!-- tab 露娜(Luna)-->
+[![](https://i.imgur.com/X6WQ7Jfh.jpg)](https://i.imgur.com/X6WQ7Jf.jpg)
+<!-- endtab -->
+<!-- tab 索瑪(Soma)-->
+[![](https://i.imgur.com/m3LMYQ3h.jpg)](https://i.imgur.com/m3LMYQ3.jpg)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+[![](https://i.imgur.com/ycH9eAIh.jpg)](https://i.imgur.com/ycH9eAI.jpg)
+<!-- endtab -->
+<!-- tab 賽特(Seth)-->
+[![](https://i.imgur.com/ccuZ1VPh.jpg)](https://i.imgur.com/ccuZ1VP.jpg)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/i4nlu1oh.jpg)](https://i.imgur.com/i4nlu1o.jpg)
+<!-- endtab -->
+<!-- tab 徹斯(Chulsoo)-->
+[![](https://i.imgur.com/JQ9ZxqAh.jpg)](https://i.imgur.com/JQ9ZxqA.jpg)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/3TE9CWgh.jpg)](https://i.imgur.com/3TE9CWg.jpg)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/fMdVDdIh.jpg)](https://i.imgur.com/fMdVDdI.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/JnN8SmXh.png)](https://i.imgur.com/JnN8SmX.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

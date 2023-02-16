@@ -171,12 +171,9 @@ BOSS類型：野生型 {% inlineImg https://i.imgur.com/8ONbMJo.png 64px %}
 ---
 
 # 立繪飾品(手臂)
-+ 打王掉落
-+ 尚無製作方法(暫不刪除以備之後修改)
++ **打王掉落**
 
-|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/irvNg4U.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|
-|:-:|:-:|:-:|:-:|
-|10,000,000|500 個|100 個|100 個|
+
 {% tabs 立繪 %}
 <!-- tab 貝斯特-->
 ![](https://i.imgur.com/OeDYtg9.png)
@@ -213,10 +210,10 @@ BOSS類型：野生型 {% inlineImg https://i.imgur.com/8ONbMJo.png 64px %}
 
 |種類|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/0de4o3s.png 48px %}|主材料|其餘3者|
 |:-:|:-:|:-:|:-:|:-:|
-|**繼承者**|30,000,000|340 個|150 個{% inlineImg https://i.imgur.com/POJfRBz.png 48px %}|各 50 個{% inlineImg https://i.imgur.com/F1JHDgZ.png 48px %}{% inlineImg https://i.imgur.com/Ub0Xfvj.png 48px %}{% inlineImg https://i.imgur.com/E5YHXsq.png 48px %}|
-|**篡位者**|30,000,000|340 個|150 個{% inlineImg https://i.imgur.com/E5YHXsq.png 48px %}|各 50 個{% inlineImg https://i.imgur.com/F1JHDgZ.png 48px %}{% inlineImg https://i.imgur.com/Ub0Xfvj.png 48px %}{% inlineImg https://i.imgur.com/POJfRBz.png 48px %}|
-|**沉思者**|30,000,000|340 個|150 個{% inlineImg https://i.imgur.com/Ub0Xfvj.png 48px %}|各 50 個{% inlineImg https://i.imgur.com/F1JHDgZ.png 48px %}{% inlineImg https://i.imgur.com/E5YHXsq.png 48px %}{% inlineImg https://i.imgur.com/POJfRBz.png 48px %}|
-|**守護者**|30,000,000|340 個|150 個{% inlineImg https://i.imgur.com/F1JHDgZ.png 48px %}|各 50 個{% inlineImg https://i.imgur.com/Ub0Xfvj.png 48px %}{% inlineImg https://i.imgur.com/E5YHXsq.png 48px %}{% inlineImg https://i.imgur.com/POJfRBz.png 48px %}|
+|![](https://i.imgur.com/oaVf1jj.png)**繼承者**|30,000,000|340 個|150 個{% inlineImg https://i.imgur.com/POJfRBz.png 48px %}|各 50 個{% inlineImg https://i.imgur.com/F1JHDgZ.png 48px %}{% inlineImg https://i.imgur.com/Ub0Xfvj.png 48px %}{% inlineImg https://i.imgur.com/E5YHXsq.png 48px %}|
+|![](https://i.imgur.com/PquQhui.png)**篡位者**|30,000,000|340 個|150 個{% inlineImg https://i.imgur.com/E5YHXsq.png 48px %}|各 50 個{% inlineImg https://i.imgur.com/F1JHDgZ.png 48px %}{% inlineImg https://i.imgur.com/Ub0Xfvj.png 48px %}{% inlineImg https://i.imgur.com/POJfRBz.png 48px %}|
+|![](https://i.imgur.com/JB2wJG9.png)**沉思者**|30,000,000|340 個|150 個{% inlineImg https://i.imgur.com/Ub0Xfvj.png 48px %}|各 50 個{% inlineImg https://i.imgur.com/F1JHDgZ.png 48px %}{% inlineImg https://i.imgur.com/E5YHXsq.png 48px %}{% inlineImg https://i.imgur.com/POJfRBz.png 48px %}|
+|![](https://i.imgur.com/QESrfQR.png)**守護者**|30,000,000|340 個|150 個{% inlineImg https://i.imgur.com/F1JHDgZ.png 48px %}|各 50 個{% inlineImg https://i.imgur.com/Ub0Xfvj.png 48px %}{% inlineImg https://i.imgur.com/E5YHXsq.png 48px %}{% inlineImg https://i.imgur.com/POJfRBz.png 48px %}|
 
 ---
 
@@ -229,9 +226,9 @@ BOSS類型：野生型 {% inlineImg https://i.imgur.com/8ONbMJo.png 64px %}
 <!-- tab 220922上修後-->
 |武器|特殊效果|
 |:-:|:-|
-|**繼承者**<br>**<font color=$ff0000>目前理論最強</font>**|使用 **<font color=$ff0000>[緊急迴避]</font>** 時，獲得 **<font color=$ff0000>[共感]</font>** 效果：持續 **<font color=#3b79db>35</font>** 秒、CD**30**秒<br>使用 **<font color=$ff0000>[即時迴避]</font>** 時，獲得 **<font color=$ff0000>[四足行走]</font>** 效果：持續**5**秒、CD**0.5**秒<br>註： **<font color=$ff0000>[即時迴避]</font>** 指迴避成功(獲得無敵)<br> **<font color=$ff0000>[共感]</font>** ：基傷+**2000**(單傷角色) / **1800**(混合角色) <br> **<font color=$ff0000>[四足行走]</font>** ：移動速度+25%|
-|**篡位者**|打擊時給予敵人 **<font color=$ff0000>[擦傷]</font>** 效果：持續16秒、CD5秒<br>使用 **<font color=$ff0000>[強制阻斷]</font>** 時，獲得 **<font color=$ff0000>[黑幕激情]</font>** 效果：持續15秒、CD0.5秒<br>**<font color=#3b79db>使用 <font color=$ff0000>[強制阻斷]</font> 時，恢復MP 15%：CD15秒</font>**<br> **<font color=$ff0000>[擦傷]</font>** ： **<font color=#3b79db>每2秒給予 10億 傷害 (單傷10億/混合5億+5億)</font>** <br> **<font color=$ff0000>[黑幕激情]</font>** ：總物理/魔法防禦力+20%|
-|**沉思者**|打擊時給予敵人 **<font color=$ff0000>[堅韌藤蔓]</font>** 效果：CD6秒<br> **<font color=$ff0000>[特殊技]</font>** 使用時，獲得 **<font color=$ff0000>[繁茂叢林]</font>** 效果：持續30秒、CD60秒<br>註： **<font color=$ff0000>[特殊技]</font>** 指預設欄位為 V 的技能<br> **<font color=$ff0000>[堅韌藤蔓]</font>** ： **<font color=#3b79db>給予40億 + 基傷250000%(單傷角色) / 150000%(混合角色)傷害 2 次</font>** <br> **<font color=$ff0000>[繁茂叢林]</font>** ：攻擊速度+5%、打擊時有12%機率給予敵人 **<font color=$ff0000>[堅韌藤蔓]</font>** 效果|
+|![](https://i.imgur.com/oaVf1jj.png)**繼承者**<br>**<font color=$ff0000>目前理論最強</font>**|使用 **<font color=$ff0000>[緊急迴避]</font>** 時，獲得 **<font color=$ff0000>[共感]</font>** 效果：持續 **<font color=#3b79db>35</font>** 秒、CD**30**秒<br>使用 **<font color=$ff0000>[即時迴避]</font>** 時，獲得 **<font color=$ff0000>[四足行走]</font>** 效果：持續**5**秒、CD**0.5**秒<br>註： **<font color=$ff0000>[即時迴避]</font>** 指迴避成功(獲得無敵)<br> **<font color=$ff0000>[共感]</font>** ：基傷+**2000**(單傷角色) / **1800**(混合角色) <br> **<font color=$ff0000>[四足行走]</font>** ：移動速度+25%|
+|![](https://i.imgur.com/PquQhui.png)**篡位者**|打擊時給予敵人 **<font color=$ff0000>[擦傷]</font>** 效果：持續16秒、CD5秒<br>使用 **<font color=$ff0000>[強制阻斷]</font>** 時，獲得 **<font color=$ff0000>[黑幕激情]</font>** 效果：持續15秒、CD0.5秒<br>**<font color=#3b79db>使用 <font color=$ff0000>[強制阻斷]</font> 時，恢復MP 15%：CD15秒</font>**<br> **<font color=$ff0000>[擦傷]</font>** ： **<font color=#3b79db>每2秒給予 10億 傷害 (單傷10億/混合5億+5億)</font>** <br> **<font color=$ff0000>[黑幕激情]</font>** ：總物理/魔法防禦力+20%|
+|![](https://i.imgur.com/JB2wJG9.png)**沉思者**|打擊時給予敵人 **<font color=$ff0000>[堅韌藤蔓]</font>** 效果：CD6秒<br> **<font color=$ff0000>[特殊技]</font>** 使用時，獲得 **<font color=$ff0000>[繁茂叢林]</font>** 效果：持續30秒、CD60秒<br>註： **<font color=$ff0000>[特殊技]</font>** 指預設欄位為 V 的技能<br> **<font color=$ff0000>[堅韌藤蔓]</font>** ： **<font color=#3b79db>給予40億 + 基傷250000%(單傷角色) / 150000%(混合角色)傷害 2 次</font>** <br> **<font color=$ff0000>[繁茂叢林]</font>** ：攻擊速度+5%、打擊時有12%機率給予敵人 **<font color=$ff0000>[堅韌藤蔓]</font>** 效果|
 <!-- endtab -->
 <!-- tab 220811上修後-->
 |武器|特殊效果|
@@ -254,10 +251,10 @@ BOSS類型：野生型 {% inlineImg https://i.imgur.com/8ONbMJo.png 64px %}
 <!-- tab 220922上修後-->
 |武器|特殊效果|
 |:-:|:-|
-|**繼承者**<br>**<font color=$ff0000>目前理論第二</font>**|--- <font color=$ff0000>繼承天意之人</font><br>使用 **[緊急迴避]** 時，獲得 **<font color=$ff0000>[超感覺]</font>** 效果：持續 **<font color=#3b79db>45</font>** 秒、CD20秒<br>使用 **[即時迴避]** 時，獲得 **<font color=$ff0000>[妙足步行]</font>** 效果：持續8秒、CD0.5秒<br>註： **[即時迴避]** 指迴避成功(獲得無敵)<br> **<font color=$ff0000>[超感覺]</font>** ：基傷+2000(單傷角色) / 1800(混合角色)，總基傷+10%(單傷角色) / 9%(混合角色) <br> **<font color=$ff0000>[妙足步行]</font>** ：移動速度+30%|
-|**篡位者**|--- <font color=$ff0000>篡奪王位之人</font><br>打擊時給予敵人 **<font color=$ff0000>[過量出血]</font>** 效果：持續20秒、CD3秒<br>打擊持有 **<font color=$ff0000>[過量出血]</font>** 的敵人時獲得 **<font color=$ff0000>[虐待本性]</font>** ：CD5秒<br>使用 **[強制阻斷]** 時，獲得 **<font color=$ff0000>[虐待本性]</font>** + **<font color=$ff0000>[黑幕狂熱]</font>** ：持續15秒、CD0.5秒、並回復HP 25% **<font color=#3b79db>及MP 30%</font>** (CD15秒)<br> **<font color=#3b79db><font color=$ff0000>[過量出血]</font> ：每2秒給予25億(單傷角色) / 12.5億+12.5億(混合角色)傷害</font>** <br> **<font color=$ff0000>[黑幕狂熱]</font>** ：總物理/魔法防禦率+30% <br> **<font color=$ff0000>[篡奪者效果]</font>** ： 攻擊 **<font color=$ff0000>[過量出血]</font>** 的敵人時， **[強制阻斷]** CD-1秒 (CD5秒)<br> **<font color=$ff0000>[虐待本性]</font>** ：最大HP +1500 (最多5層)|
-|**沉思者**|--- <font color=$ff0000>思考頂點之人</font><br>打擊時給予敵人 **<font color=$ff0000>[帶刺藤蔓]</font>** 效果：CD6秒<br> **[特殊技]** 使用時，獲得 **<font color=$ff0000>[入侵叢林]</font>** 效果：持續30秒、CD60秒<br>註： **[特殊技]** 指預設欄位為 V 的技能<br> **<font color=#3b79db><font color=$ff0000>[帶刺藤蔓]</font>** ：**給予80億 + 基傷500000%(單傷角色) / 250000%(混合角色)傷害 2 次</font>** <br> **<font color=$ff0000>[帶刺花]</font>** ： 給予周圍 **<font color=#3b79db>50億</font>** 真實傷害 <br> **<font color=$ff0000>[入侵叢林]</font>** ：攻擊速度+7.5%、打擊時有12%機率給予敵人 **<font color=$ff0000>[帶刺藤蔓]</font>** 效果，極低機率發生 **<font color=$ff0000>[帶刺花]</font>**|
-|**守護者**<br>**<font color=$ff0000>目前理論最強</font>**|--- <font color=$ff0000>守護野獸之人</font><br> **<font color=#3b79db>使用 <font color=$ff0000>[超能解放]</font> 時，立即獲得 <font color=$ff0000>[野獸王的暴走]</font> 、並給予周邊敵人 <font color=$ff0000>[壓制者的咆嘯]</font> 攻擊</font>** <br> **<font color=$ff0000>[野獸王的暴走]</font>** ： 基傷+3000(單傷角色) / 2700(混合角色)、攻擊速度+5%、移動速度+10%、攻擊時10%機率吸血HP1%， **<font color=#3b79db>持續45秒，CD0秒</font>** <br> **<font color=#3b79db><font color=$ff0000>[壓制者的咆嘯]</font> ： 給予周圍100億真實傷害，冷卻40秒</font>**|
+|![](https://i.imgur.com/oaVf1jj.png)**繼承者**<br>**<font color=$ff0000>目前理論第二</font>**|--- <font color=$ff0000>繼承天意之人</font><br>使用 **[緊急迴避]** 時，獲得 **<font color=$ff0000>[超感覺]</font>** 效果：持續 **<font color=#3b79db>45</font>** 秒、CD20秒<br>使用 **[即時迴避]** 時，獲得 **<font color=$ff0000>[妙足步行]</font>** 效果：持續8秒、CD0.5秒<br>註： **[即時迴避]** 指迴避成功(獲得無敵)<br> **<font color=$ff0000>[超感覺]</font>** ：基傷+2000(單傷角色) / 1800(混合角色)，總基傷+10%(單傷角色) / 9%(混合角色) <br> **<font color=$ff0000>[妙足步行]</font>** ：移動速度+30%|
+|![](https://i.imgur.com/PquQhui.png)**篡位者**|--- <font color=$ff0000>篡奪王位之人</font><br>打擊時給予敵人 **<font color=$ff0000>[過量出血]</font>** 效果：持續20秒、CD3秒<br>打擊持有 **<font color=$ff0000>[過量出血]</font>** 的敵人時獲得 **<font color=$ff0000>[虐待本性]</font>** ：CD5秒<br>使用 **[強制阻斷]** 時，獲得 **<font color=$ff0000>[虐待本性]</font>** + **<font color=$ff0000>[黑幕狂熱]</font>** ：持續15秒、CD0.5秒、並回復HP 25% **<font color=#3b79db>及MP 30%</font>** (CD15秒)<br> **<font color=#3b79db><font color=$ff0000>[過量出血]</font> ：每2秒給予25億(單傷角色) / 12.5億+12.5億(混合角色)傷害</font>** <br> **<font color=$ff0000>[黑幕狂熱]</font>** ：總物理/魔法防禦率+30% <br> **<font color=$ff0000>[篡奪者效果]</font>** ： 攻擊 **<font color=$ff0000>[過量出血]</font>** 的敵人時， **[強制阻斷]** CD-1秒 (CD5秒)<br> **<font color=$ff0000>[虐待本性]</font>** ：最大HP +1500 (最多5層)|
+|![](https://i.imgur.com/JB2wJG9.png)**沉思者**|--- <font color=$ff0000>思考頂點之人</font><br>打擊時給予敵人 **<font color=$ff0000>[帶刺藤蔓]</font>** 效果：CD6秒<br> **[特殊技]** 使用時，獲得 **<font color=$ff0000>[入侵叢林]</font>** 效果：持續30秒、CD60秒<br>註： **[特殊技]** 指預設欄位為 V 的技能<br> **<font color=#3b79db><font color=$ff0000>[帶刺藤蔓]</font>** ：**給予80億 + 基傷500000%(單傷角色) / 250000%(混合角色)傷害 2 次</font>** <br> **<font color=$ff0000>[帶刺花]</font>** ： 給予周圍 **<font color=#3b79db>50億</font>** 真實傷害 <br> **<font color=$ff0000>[入侵叢林]</font>** ：攻擊速度+7.5%、打擊時有12%機率給予敵人 **<font color=$ff0000>[帶刺藤蔓]</font>** 效果，極低機率發生 **<font color=$ff0000>[帶刺花]</font>**|
+|![](https://i.imgur.com/QESrfQR.png)**守護者**<br>**<font color=$ff0000>目前理論最強</font>**|--- <font color=$ff0000>守護野獸之人</font><br> **<font color=#3b79db>使用 <font color=$ff0000>[超能解放]</font> 時，立即獲得 <font color=$ff0000>[野獸王的暴走]</font> 、並給予周邊敵人 <font color=$ff0000>[壓制者的咆嘯]</font> 攻擊</font>** <br> **<font color=$ff0000>[野獸王的暴走]</font>** ： 基傷+3000(單傷角色) / 2700(混合角色)、攻擊速度+5%、移動速度+10%、攻擊時10%機率吸血HP1%， **<font color=#3b79db>持續45秒，CD0秒</font>** <br> **<font color=#3b79db><font color=$ff0000>[壓制者的咆嘯]</font> ： 給予周圍100億真實傷害，冷卻40秒</font>**|
 <!-- endtab -->
 <!-- tab 初始能力-->
 |武器|特殊效果|
@@ -279,15 +276,14 @@ BOSS類型：野生型 {% inlineImg https://i.imgur.com/8ONbMJo.png 64px %}
 均有一招新招式，可以參考(玩家止水錄影) {% btn 'https://forum.gamer.com.tw/C.php?bsn=23655&snA=9203&tnum=1', 遊玩影片,far fa-hand-point-right,outline blue larger %}
 
 ## 掉落物
-必得{% inlineImg https://i.imgur.com/0de4o3s.png 64px %}x1
-低機率：稱號票(選擇箱)、讀取框、史詩材料{% inlineImg https://i.imgur.com/F1JHDgZ.png 64px %}{% inlineImg https://i.imgur.com/Ub0Xfvj.png 64px %}{% inlineImg https://i.imgur.com/E5YHXsq.png 64px %}{% inlineImg https://i.imgur.com/POJfRBz.png 64px %}
 
-{% inlineImg https://i.imgur.com/7X3NKW3.png 75px %}
-**野獸王法則的延續者**
-- 最大HP +1500
-- 總攻擊力 +3%(**單傷**) / +2.75%(**混合**)
-- 爆擊傷害 +20%(**單傷**) / 攻擊速度 +10%(**混合**)
-- 覺醒增傷 +10%
+|必得|低機率
+|:-:|:-:
+|{% inlineImg https://i.imgur.com/0de4o3s.png 64px %}x1|稱號票(選擇箱)、讀取框、史詩材料{% inlineImg https://i.imgur.com/F1JHDgZ.png 64px %}{% inlineImg https://i.imgur.com/Ub0Xfvj.png 64px %}{% inlineImg https://i.imgur.com/E5YHXsq.png 64px %}{% inlineImg https://i.imgur.com/POJfRBz.png 64px %}
+
+|稱號|能力
+|:-:|:-
+|{% inlineImg https://i.imgur.com/7X3NKW3.png 75px %}<br>**野獸王法則的延續者**|- 最大HP +1500<br>- 總攻擊力 +3%(**單傷**) / +2.75%(**混合**)<br>- 爆擊傷害 +20%(**單傷**) / 攻擊速度 +10%(**混合**)<br>- 覺醒增傷 +10%
 
 ## 成就
 成就150場可得讀取框

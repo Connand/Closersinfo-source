@@ -28,10 +28,10 @@ PNA LV：80
 | :--------: | :--------: | :--------: | :--------: |
 |1|{%inlineImg https://i.imgur.com/I6BPtrp.png 64px%}<br>海底型 ARIDUS<br>**會面/決戰深海，模擬戰**|{%inlineImg https://i.imgur.com/HoxQxvb.png 64px%}<br>食蟲型 MODESTUS<br>**軍團計畫，模擬戰**|{%inlineImg https://i.imgur.com/FWfg4L0.png 64px%}<br>魔龍型 PLACIDUS<br>**古龍系列(含龍之刑場)，模擬戰**|
 |2|{%inlineImg https://i.imgur.com/acS6rsI.png 64px%}<br>前腦型 SORDIDUS<br>**格莫瑞系列，模擬戰，機械王**|{%inlineImg https://i.imgur.com/KOAPxLX.png 64px%}<br>人類型 INHUMANUS<br>**釜山與Centum City決戰項目**|{%inlineImg https://i.imgur.com/t8j9844.png 64px%}<br>使徒型 LAPSUS<br>**模擬戰，白夜要塞**|
-|3|{%inlineImg https://i.imgur.com/8ONbMJo.png 64px%}<br>野生型 DOMITUS<br>**野獸王**|{%inlineImg https://i.imgur.com/3FV9pDB.png 64px%}<br>業火型<br>**打點什麼**|{%inlineImg https://i.imgur.com/gdXdckN.png 64px%}<br>特異型<br>**看起來比較整齊**|
+|3|{%inlineImg https://i.imgur.com/8ONbMJo.png 64px%}<br>野生型 DOMITUS<br>**野獸王**|{%inlineImg https://i.imgur.com/3FV9pDB.png 64px%}<br>業火型 EXTINCTUS<br>**火焰王(猜測)**|{%inlineImg https://i.imgur.com/gdXdckN.png 64px%}<br>特異型 VERUS<br>**16村**|
 
-* 韓版於2022/06/30 更新開放**野生型**
-* 目前尚未開放 **業火型、特異型**
+* 韓版於2022/06/30 更新開放 **野生型**
+* 韓版於2023/01/12 更新開放 **業火型、特異型**
 
 ---
 
@@ -215,9 +215,25 @@ PNA工具箱可將材料需求減半
 物理&魔法攻擊力 +81.6
 <!-- endtab -->
 
-<!-- tab 未開放-->
-* **業火型：**未開放
-* **特異型：**未開放
+<!-- tab 業火型-->
+* **業火型：**
+
+物理爆擊傷害 +10.20%
+
+魔法爆擊傷害 +10.20%
+
+物理&魔法爆擊傷害 +8.16%
+<!-- endtab -->
+
+<!-- tab 特異型-->
+* **特異型：**
+
+空中增傷 +10.10%
+
+背擊增傷 +10.10%
+
+浮空增傷 +10.10%
+
 <!-- endtab -->
 {% endtabs %}
 
@@ -286,9 +302,26 @@ MP +505，3秒回復MP 15.30
 移動速度50.5 ~ 100
 <!-- endtab -->
 
-<!-- tab 未開放-->
-* **業火型：**未開放
-* **特異型：**未開放
+<!-- tab 業火型-->
+* **業火型：**
+
+掉寶率 +10.10%
+
+額外經驗 +5.05%
+<!-- endtab -->
+
+<!-- tab 特異型-->
+* **特異型：**
+
+物理爆擊傷害 +15.30%
+物理防禦穿透 -50%
+
+魔法爆擊傷害 +15.30%
+魔法防禦穿透 -50%
+
+物理&魔法爆擊傷害 +12.24%
+物理&魔法防禦穿透 -40%
+
 <!-- endtab -->
 
 {% endtabs %}
@@ -310,11 +343,13 @@ MP +505，3秒回復MP 15.30
 |7|**5,000,000**|17|**60,000,000**|
 |8|**10,000,000**|18|**70,000,000**|
 |9|**10,000,000**|19|**<font color=#ff0000>150,000,000</font>**|
-|10|**10,000,000**|總和|**<font color=#ff0000>500,000,000</font>**|
+|10|**10,000,000**|**總和**|**<font color=#ff0000>500,000,000</font>**|
 
 ---
 
 # 各副本可獲得經驗值表
+
+**<font color=#ff0000 size=5>韓版PNA改版後失效，僅台版等可供參考</font>**
 
 此表為測試各副本所得的基礎經驗值紀錄，部分是使用加倍水後回推的值
 **並不是完全正確，可能會有少許誤差，僅供參考(<font color=#ff0000>因已開放第2類突變PNA，此表數值請都+50%</font>)**

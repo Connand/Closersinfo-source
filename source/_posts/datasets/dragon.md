@@ -19,20 +19,51 @@ description: "龍刑接收器製作相關資訊"
 |副本難度|困難|噩夢|**<font color=#ff0000>極刑</font>**|
 |---|---|---|---|
 |戰力推薦|10,000,000|25,000,000|40,000,000|
-|主要掉落物|{% inlineImg https://i.imgur.com/mZ8i4uG.png 48px %}x60|{% inlineImg https://i.imgur.com/mZ8i4uG.png 48px %}x120|列在下方|
-|進場次數(困難與惡夢共用)|一周一次|一周一次|一周一次|
+|主要掉落物|{% inlineImg https://i.imgur.com/mZ8i4uG.png 48px %}x60|{% inlineImg https://i.imgur.com/mZ8i4uG.png 48px %}x120|[列在下方](#%E8%B6%85%E8%B6%8A%E6%9D%90%E6%96%99)|
+|進場次數(**困難與惡夢共用**)|一周 2 次|一周 2 次|一周 1 次|
 |復活次數|限制 1 次|**<font color=#ff0000>不可復活</font>**|限制 1 次|
+|爆擊抵抗| - | - |3000%|
 
 **副本PNA類型：魔龍型**{% inlineImg https://i.imgur.com/FWfg4L0.png 64px %}
 **<font color=#ff0000>建議戰力1500萬以上+突變PNA魔龍20等再挑戰**噩夢**難度</font>**
 **<font color=#ff0000>建議戰力3000萬以上+突變PNA魔龍20等再挑戰**極刑**難度</font>**
 
-# 共通素質
+# 能力素質
+
+{% tabs 素質 %}
+<!-- tab 超0-->
 * PLV 145
 * 單傷攻擊力+600/雙傷攻擊力為各+510
 * 條件增加傷害 +25%
 * 條件爆擊傷害 +50%
 * 魔龍型增加傷害 +50%
+<!-- endtab -->
+<!-- tab 超1-->
+* PLV 180
+* 單傷攻擊力 +900/雙傷攻擊力為各 +765
+* 條件增加傷害 +35%
+* 條件爆擊傷害 +75%
+* 魔龍型增加傷害 +75%
+* 超能凝聚速度 +25%
+* **<font color=#ff0000>BUFF [執行官的追問]：</font>**
+** 攻擊力 +2000
+** 每5秒攻擊時恢復 1% HP / 150 MP
+<!-- endtab -->
+<!-- tab 超2-->
+* PLV 200
+* 單傷攻擊力 +1200/雙傷攻擊力為各 +1020
+* 條件增加傷害 +70%
+* 條件爆擊傷害 +100%
+* 魔龍型增加傷害 +100%
+* 超能凝聚速度 +50%
+* 超能爆發傷害 +50%
+* 超能爆發持續時間 +5秒
+* **<font color=#ff0000>BUFF [執行官的定罪]：</font>**
+** 攻擊力 +5000
+** 每2秒攻擊時恢復 1% HP / 300 MP
+** 攻擊時對敵人附加[定罪的烙印]15秒：爆擊抵抗力 -25%
+<!-- endtab -->
+{% endtabs %}
 
 ## 可重鑄之素質(可洗四條素質)
 * 物理/魔法攻擊力   {% label <i>SS</i> red %}200 {% label <i>S</i> purple %}100 {% label <i>A</i> blue %}50 {% label <i>B</i> green %}25 {% label <i>C</i> orange %}15
@@ -64,7 +95,7 @@ description: "龍刑接收器製作相關資訊"
 {% inlineImg https://i.imgur.com/WVZkgZT.png 64px %}x28 (王每階段血量 1 個) 
 {% inlineImg https://i.imgur.com/Y1GQEwg.png 64px %}x7 (打死王 1 個) 
 
-**保底約13周可超完**
+**<font color=#ff0000 size=5>保底約13周可超完</font>**
 
 {% inlineImg https://i.imgur.com/YvNzcRS.png 48px %}(可利用帳號倉庫轉移，打開可得{% inlineImg https://i.imgur.com/Y1GQEwg.png 48px %}x1) 製作材料：{% inlineImg https://i.imgur.com/Y1GQEwg.png 48px %}x3
 
