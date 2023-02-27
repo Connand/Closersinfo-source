@@ -8,12 +8,6 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 ---
 ![](https://i.imgur.com/S7FeIdL.jpg)
 
-
----
-
-# 疑似BUG
-1. 若組隊時沒有開啟過Gate Wave的介面而直接進入副本的話，疑似會在結算時斷線
-
 ---
 
 # 前言
@@ -46,15 +40,14 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 + {% inlineImg https://i.imgur.com/YYeSfOv.png 64px %} 睡眠誘導券
 	> 透過**Gate Wave4人副本**獲得，用於**Night Maze**入場
 	> <font color=#ff0000> **可共倉、可交易** </font>
-
 + {% inlineImg https://i.imgur.com/vS6S6wc.png 64px %} 夢幻水晶
 	> 透過**Night Maze**獲得	
-	> 一場獲得1~3顆不等(僅會在結算獎勵掉落)
+	> 一場獲得1~3顆不等 (僅會在結算獎勵掉落，**陸版**會有2格VIP額外獎勵也可獲得)
 	> <font color=#ff0000> **不可共倉、不可交易** </font>
 
 
 ## 副本資訊
-- 類型：{% inlineImg https://i.imgur.com/gdXdckN.png 64px %} 特異型
+- 類型：{% inlineImg https://i.imgur.com/gdXdckN.png 48px %} 特異型
 - 新裝備裝備等級：148(賽騰城) -> 161 -> 177 -> 201(15村) -> 210 -> 215 -> 220(16村)
 
 |副本|等級|建議戰力|裝備等級|消耗疲勞|入場限制|人數|
@@ -62,7 +55,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |Gate Wave(小本)|90|2000~4000萬| 170~190 | 10 |角色3次<br>(每日補充3次、最多累積6次)|限制1人|
 |Gate Wave(4人副本)|90|2700萬| 177 | 10 |角色1次|建議4人|
 |Night Maze|92|浮動戰力<br>**<font color=#ff0000>2000~4000萬</font>**| - | 10 | - |限制1人|
-|**<font color=#f00>Conquest Program</font>**|92|**<font color=#ff0000>2200~8000萬</font>**| - | 10 | 入場票1張 |限制1人|
+|**<font color=#f00>Conquest Program</font>**|92|**<font color=#ff0000>2200~8000萬</font>**| - | 10 | [入場票1張](#Conquest-Program) |限制1人|
 
 {% hideToggle <font color=#ff0000><b>16村副本詳細內容</b></font> %}
 {% tabs 副本資訊 %}
@@ -106,20 +99,20 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 <!-- endtab -->
 <!-- tab Night Maze-->
 + 消耗{% inlineImg https://i.imgur.com/YYeSfOv.png 48px %} 睡眠誘導券x2入場
-+ 進入關卡後又上會有{% inlineImg https://i.imgur.com/j2hOwtK.png 64px %} 調查值
++ 進入關卡後右上會有{% inlineImg https://i.imgur.com/j2hOwtK.png 64px %} 調查值
 調查值滿100%必出最終BOSS{% inlineImg https://i.imgur.com/QsfIgNP.png 64px %}捕食的噩夢看守者
-+ 內部關卡選擇分有<font color=#ff0000> **普通與特殊** </font>
++ 內部關卡選擇分有<font color=#ff0000> **普通關卡與特殊關卡** </font>
 **1. 普通關卡**
 
 |圖示|關卡|關卡內容|
 |:-:|:-:|:-:|
-|{% inlineImg https://i.imgur.com/W3AyMi3.png 64px %}<br>{% inlineImg https://i.imgur.com/cPux3DO.png 64px %}|普通/精銳關卡|小型Boss與小怪群|
+|{% inlineImg https://i.imgur.com/W3AyMi3.png 64px %}<br>{% inlineImg https://i.imgur.com/cPux3DO.png 64px %}|普通關卡<br>精銳關卡|小型Boss與小怪群|
 |{% inlineImg https://i.imgur.com/MBnUpe0.png 64px %}|挑戰|跳舞機/踩電球|
 |{% inlineImg https://i.imgur.com/Vvon6B8.png 64px %}|捷徑|躲雷射/躲電牆|
 |{% inlineImg https://i.imgur.com/DVZNdZ0.png 64px %}|BOSS|會出現特殊隱藏BOSS|
 
 **2.特殊關卡**
-+ {% inlineImg https://i.imgur.com/hwnGyDz.png 128px %}：生存關卡，會出現+25 J
++ {% inlineImg https://i.imgur.com/hwnGyDz.png 128px %}：生存關卡，會出現+25 J (黑色兔子)
 + {% inlineImg https://i.imgur.com/BZTDJSt.png 128px %}：休息區，可獲得額外buff
 + {% inlineImg https://i.imgur.com/pSidZ3L.png 128px %}：寶藏區，關卡內會出現大寶箱，打掉會獲得馬列克水晶
 + {% inlineImg https://i.imgur.com/1cOFnwx.png 128px %}：神秘商人，可在內與神秘商人進行交易(有日常材料與<font color=#ff0000> **特殊物品** </font>)
@@ -145,31 +138,34 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 {% endhideToggle %}
 
 ---
-# 模組(大門守衛者)
+
+# 裝備製作
+
+## 模組(大門守衛者)
 替換15村不死熱風模組
 一樣有4種能力供選擇： 速度、超能、致命、漂浮
 
 |物理|魔法|混合|
 |:-:|:-:|:-:|
-|{% inlineImg https://i.imgur.com/rCcZfdZ.png 64px %} >>{% inlineImg https://i.imgur.com/JKsWa4G.png 64px %}|{% inlineImg https://i.imgur.com/QnjyTVK.png 64px %} >>{% inlineImg https://i.imgur.com/eU2ditv.png 64px %}|{% inlineImg https://i.imgur.com/nmwHa3X.png 64px %} >>{% inlineImg https://i.imgur.com/jpHeRLl.png 64px %}|
+|{% inlineImg https://i.imgur.com/rCcZfdZ.png 48px %} >>{% inlineImg https://i.imgur.com/JKsWa4G.png 48px %}|{% inlineImg https://i.imgur.com/QnjyTVK.png 48px %} >>{% inlineImg https://i.imgur.com/eU2ditv.png 48px %}|{% inlineImg https://i.imgur.com/nmwHa3X.png 48px %} >>{% inlineImg https://i.imgur.com/jpHeRLl.png 48px %}|
 
-## 製作需求
+### 製作需求
 
 | ![金幣](https://i.imgur.com/bRFx7v6.png) | ![文件](https://i.imgur.com/55LncBB.png) |  ![報告書](https://i.imgur.com/t6ZTftc.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) |
 |:-:|:-:|:-:|:-:|:-:|
 |10,000,000|40 個|200 個|1,000 個|1,000 個|
 
 ---
-# 防具(大門守衛者)
+## 防具(大門守衛者)
 替換15村不死熱風防具
 
 |戒指|項鍊|玩偶|
 |:-:|:-:|:-:|
-|{% inlineImg https://i.imgur.com/cBrnZOc.png 64px %} >>{% inlineImg https://i.imgur.com/k2OnMwe.png 64px %}|{% inlineImg https://i.imgur.com/y5TJ6p5.png 64px %} >>{% inlineImg https://i.imgur.com/WcDk9sk.png 64px %}|{% inlineImg https://i.imgur.com/wc2zlH4.png 64px %} >>{% inlineImg https://i.imgur.com/xlVjB6s.png 64px %}|
+|{% inlineImg https://i.imgur.com/cBrnZOc.png 48px %} >>{% inlineImg https://i.imgur.com/k2OnMwe.png 48px %}|{% inlineImg https://i.imgur.com/y5TJ6p5.png 48px %} >>{% inlineImg https://i.imgur.com/WcDk9sk.png 48px %}|{% inlineImg https://i.imgur.com/wc2zlH4.png 48px %} >>{% inlineImg https://i.imgur.com/xlVjB6s.png 48px %}|
 
 
 
-## 製作需求
+### 製作需求
 **以下為單一件所需要的量，全做需要x3**
 
 | ![金幣](https://i.imgur.com/bRFx7v6.png) | ![文件](https://i.imgur.com/55LncBB.png) |  ![報告書](https://i.imgur.com/t6ZTftc.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) |
@@ -360,11 +356,12 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 {% endtabs %}
 
 ---
-# 飾品、連身相關
+# 飾品與連身
 ## 飾品部位(三件套)
-+ 夢幻潛行者的護目鏡(臉上) {% inlineImg https://i.imgur.com/jwQYMA8.png 64px %}
-+ 夢幻潛行者的技術臂袋(手臂) {% inlineImg https://i.imgur.com/6ONOjEj.png 64px %}
-+ 夢幻潛行者的科技腰刀(腰) {% inlineImg https://i.imgur.com/ICJ2phV.png 64px %} 
+
+|夢幻潛行者的護目鏡<br><font color=#f00>臉上</font>|夢幻潛行者的技術臂袋<br><font color=#f00>手臂</font>|夢幻潛行者的科技腰刀<br><font color=#f00>腰部</font>
+|:-:|:-:|:-:
+|{% inlineImg https://i.imgur.com/jwQYMA8.png 64px %}|{% inlineImg https://i.imgur.com/6ONOjEj.png 64px %}|{% inlineImg https://i.imgur.com/ICJ2phV.png 64px %} 
 
 ### 套裝效果
 + 2件：物理及魔法攻擊力200、三爆傷18%
@@ -373,19 +370,19 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ### 製作需求
 + 分三階段製作(**<font color=#ff0000> 需從一星升到三星 </font>**)
-+ 共需要 {% inlineImg https://i.imgur.com/vS6S6wc.png 64px %}144顆、{% inlineImg https://i.imgur.com/bRFx7v6.png 64px %} 180,000,000
++ 共需要 {% inlineImg https://i.imgur.com/vS6S6wc.png 48px %}144顆、{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} 180,000,000
 
 ## 夢幻潛行者套裝(連身)
 ### 前置作業(以李雪菲時裝為例子)
-1. 製作夢幻潛行者時裝{% inlineImg https://i.imgur.com/jPJv9Zx.png 64px %} {% inlineImg https://i.imgur.com/MGNjnyw.png 64px %} {% inlineImg https://i.imgur.com/N3km7DF.png 64px %} {% inlineImg https://i.imgur.com/uavj5s6.png 64px %} {% inlineImg https://i.imgur.com/d05wDKp.png 64px %}到三星(**<font color=#ff0000> 需從一星升到三星 </font>**)
-2. 用上方三星時裝與{% inlineImg https://i.imgur.com/vS6S6wc.png 64px %}製作出{% inlineImg https://i.imgur.com/y14JQdu.png 64px %}
-3. 總需材料量：{% inlineImg https://i.imgur.com/vS6S6wc.png 64px %}96顆、{% inlineImg https://i.imgur.com/bRFx7v6.png 64px %} 170,000,000
+1. 製作夢幻潛行者時裝{% inlineImg https://i.imgur.com/jPJv9Zx.png 48px %} {% inlineImg https://i.imgur.com/MGNjnyw.png 48px %} {% inlineImg https://i.imgur.com/N3km7DF.png 48px %} {% inlineImg https://i.imgur.com/uavj5s6.png 48px %} {% inlineImg https://i.imgur.com/d05wDKp.png 48px %}到三星(**<font color=#ff0000> 需從一星升到三星 </font>**)
+2. 用上方三星時裝與{% inlineImg https://i.imgur.com/vS6S6wc.png 48px %}製作出{% inlineImg https://i.imgur.com/y14JQdu.png 48px %}
+3. **總材料量**：{% inlineImg https://i.imgur.com/vS6S6wc.png 48px %}96顆、{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} 170,000,000
 
 ### 素質能力
 + 雙爆傷+30%
 + 覺醒增傷+20%
 + 2轉必殺技 Lv+1
-+ 攻速+3%
++ 攻擊速度+3%
 
 ---
 # 稱號
@@ -394,22 +391,44 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 || {% inlineImg https://i.imgur.com/to0HmOD.png 64px %}  | {% inlineImg https://i.imgur.com/ZMtHyR8.png 64px %}  | {% inlineImg https://i.imgur.com/jhhaZ4o.png 64px %}  | {% inlineImg https://i.imgur.com/jhhaZ4o.png 64px %}  |  | 
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |名稱|**噩夢的囚徒**| **噩夢看守者**  | **噩夢征服者**  | **12次任務**  | **戰勝噩夢者**  |
-|獲得方式|Night Maze中<br> <font color=#ff0000> 黑色兔子</font>掉落獲得| Night Maze中<br> <font color=#ff0000> 噩夢看守者</font>掉落獲得 |於Night Maze中<br>與神秘商人購買|於Night Maze中<br>與神秘商人購買<br><font color=#ff0000> 購買須使用成就道具 </font>|擊敗噩夢看守者成就|
-|素質|總物攻/魔攻+6%<br>物理/魔法爆擊傷害+66%<br>攻速+6%<br>超能爆發狀態增傷+66%| 物攻/魔攻+5%<br>物理/魔法爆擊傷害+60%<br>攻速+4%<br>超能爆發狀態增傷+60% |總物攻/魔攻+4%<br>物理/魔法爆擊傷害+44%<br>攻速+6%<br>超能爆發狀態增傷+44%|HP+2500<br>總物攻/魔攻+4%<br>物理/魔法爆擊傷害+25%<br>超能爆發狀態增傷+70%|追加金幣20%<br>追加道具掉落率20%<br>追加經驗值20%<br>追加PNA經驗值20%|
+|獲得方式|Night Maze中機率獲得<br> <font color=#ff0000> 黑色兔子</font>掉落率較高| Night Maze中機率獲得<br> <font color=#ff0000> 看守者</font>掉落率較高 |於Night Maze中<br>與神秘商人購買|於Night Maze中<br>與神秘商人購買<br><font color=#ff0000> 購買須使用成就道具 </font>|擊敗噩夢看守者成就|
+|素質|總物攻/魔攻+6%<br>物理/魔法爆擊傷害+66%<br>攻速+6%<br>超能爆發狀態增傷+66%| 總物攻/魔攻+5%<br>物理/魔法爆擊傷害+60%<br>攻速+4%<br>超能爆發狀態增傷+60% |總物攻/魔攻+4%<br>物理/魔法爆擊傷害+44%<br>攻速+6%<br>超能爆發狀態增傷+44%|HP+2500<br>總物攻/魔攻+4%<br>物理/魔法爆擊傷害+25%<br>超能爆發狀態增傷+70%|追加金幣20%<br>追加道具掉落率20%<br>追加經驗值20%<br>追加PNA經驗值20%|
 
 ---
 # 讀取框(成就)
-+ 可透過成就獲得
++ 可透過**成就獲得**
 
 ||![](https://i.imgur.com/YSNNKFS.png) |![](https://i.imgur.com/Op4fZ1u.png) |
 |:-:|:-:|:-:|
 |獲得方式|在Night Maze中擊倒<font color=#ff0000> 黑色兔子</font> 一次|在Night Maze中擊倒<font color=#ff0000> 白色兔子</font> 一次|
 
+{% hideToggle <b>兔子</b>( J )開啟方式 %}
+**<黑色兔子>** 選擇方式：
+
+- 選擇生存關卡{% inlineImg https://i.imgur.com/hwnGyDz.png 96px %}
+
+**<白色兔子>** 開啟方式：
+
+1. 調查等級到四等
+2. 選擇小關 {% inlineImg https://i.imgur.com/W3AyMi3.png 48px %}
+3. 在小關內等待約 1 分鐘，會出現**計時器**
+4. 再等待計時 30 秒結束
+5. 白色兔子出現
+
+**<font color=#f00>注意</font>** ：白色兔子會在小怪全滅後逃跑，請專注於打白兔子
+參考影片
+{%youtube 0yDfyHwZ9Gw %}
+
+{% endhideToggle %}
+
+---
+
 # Conquest Program
 難度最高的挑戰副本，共分30層
-**從2023/02/09更新開放至今(更新日02/13)尚未通關30層**
+**從2023/02/09更新開放至今(更新日02/26)尚未通關30層**
 從建議戰力2200萬開始，每一層加上200萬
 入場票可從Gate Wave的**危險度3**獎勵獲得{%inlineImg https://i.imgur.com/ZauopIm.png 64px%}
+**<font color=#900>復活次數：2。第30層為3次</font>**
 {% tabs 副本資訊 %}
 <!-- tab 樓層資訊-->
 |層數|建議戰力|關卡BOSS|類型|
@@ -450,45 +469,45 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 <font size=4>貼圖可至 <a target="_blank" href="https://drive.google.com/drive/folders/1jFK6bpar4oSDy2_DeNQ4wOqFaBHDhoJ7?usp=share_link">雲端</a> 下載</font>
 
-|層數|獎勵1|獎勵2<br>寵物核心|獎勵3<br>馬列克鑽石(1:90萬)|
-|:-:|:-:|:-:|:-:|
-|1|強化罐x5|5|1
-|2|裝備重鑄S~C|5|1
-|3|時裝重鑄S~C|5|1
-|4|威嚴精隨|5|1
-|5|+14罐|5|1
-|6|格茉莉表情(哭)<br>![](https://i.imgur.com/012MYEg.gif)|10|1
-|7|裝備重鑄SS~C|10|1
-|8|一般寵物自選|10|1
-|9|時裝重鑄SS~C|10|1
-|10|+15罐|10|1
-|11|格茉莉表情(生氣)<br>![](https://i.imgur.com/qG7MiBh.gif)|30|2
-|12|裝備重鑄必定S|30|2
-|13|一般寵物自選|30|2
-|14|時裝重鑄必定S|30|2
-|15|+16罐|30|2
-|16|跳舞特效動作自選|50|3
-|17|裝備重鑄必定S|50|3
-|18|格茉莉表情(歡喜)<br>![](https://i.imgur.com/t6JvnXf.gif)|50|3
-|19|EX黑晶片 50個|50|3
-|20|+16罐|50|3
-|21|超能覺醒特效自選|70|4
-|22|裝備重鑄必定SS|70|4
-|23|攻克項目角色等級框<br>![](https://i.imgur.com/G6G50dv.png)|70|4
-|24|T4鉑金自選|70|4
-|25|+17罐|70|4
-|26|跳舞特效動作自選|100|5
-|27|時裝重鑄必定SS|100|5
-|28|攻克項目讀取框<br>![](https://i.imgur.com/L2MyRPX.gif)|100|5
-|29|菁英寵物自選|100|5
-|30|攻克項目威嚴<br>![](https://i.imgur.com/tEZKpit.gif)|100|5
+|層數|建議戰力|獎勵1|獎勵2<br>寵物核心|獎勵3<br>馬列克鑽石(1:90萬)|
+|:-:|:-:|:-:|:-:|:-:|
+|1|2200萬|一般強化器燃料x5|5|1
+|2|2400萬|裝備重鑄S~C|5|1
+|3|2600萬|時裝重鑄S~C|5|1
+|4|2800萬|威嚴精隨|5|1
+|5|3000萬|強化燃料 +14|5|1
+|6|3200萬|格茉莉表情(哭)<br>![](https://i.imgur.com/lxrq2VQ.gif)|10|1
+|7|3400萬|裝備重鑄SS~C|10|1
+|8|3600萬|一般寵物自選|10|1
+|9|3800萬|時裝重鑄SS~C|10|1
+|10|4000萬|強化燃料 +15|10|1
+|11|4200萬|格茉莉表情(生氣)<br>![](https://i.imgur.com/RvjqIMz.gif)|30|2
+|12|4400萬|裝備重鑄必定S|30|2
+|13|4600萬|一般寵物自選|30|2
+|14|4800萬|時裝重鑄必定S|30|2
+|15|5000萬|強化燃料 +16|30|2
+|16|5200萬|跳舞特效動作自選|50|3
+|17|5400萬|裝備重鑄必定S|50|3
+|18|5600萬|格茉莉表情(歡喜)<br>![](https://i.imgur.com/6iGyKp9.gif)|50|3
+|19|5800萬|EX黑晶片 50個|50|3
+|20|6000萬|強化燃料 +16|50|3
+|21|6200萬|超能覺醒特效自選|70|4
+|22|6400萬|裝備重鑄必定SS|70|4
+|23|6600萬|攻克項目角色等級框<br>![](https://i.imgur.com/G6G50dv.png)|70|4
+|24|6800萬|T4鉑金自選|70|4
+|25|7000萬|強化燃料 +17|70|4
+|26|7200萬|跳舞特效動作自選|100|5
+|27|7400萬|時裝重鑄必定SS|100|5
+|28|7600萬|攻克項目讀取框<br>![](https://i.imgur.com/L2MyRPX.gif)|100|5
+|29|7800萬|菁英寵物自選|100|5
+|30|8000萬|攻克項目威嚴<br>![](https://i.imgur.com/tEZKpit.gif)|100|5
 
 </div>
 <!-- endtab -->
 {% endtabs %}
 
 <style>
-	.arranged_table table th:nth-of-type(2){
-		width: 50%;
+	.arranged_table table th:nth-of-type(3){
+		width: 45%;
 	}
 </style>

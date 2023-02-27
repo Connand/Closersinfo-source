@@ -8,6 +8,9 @@ description: "重點寵物能力資料"
 ---
 
 # 強化材料
+
+{% tabs 標籤區名稱 %}
+<!-- tab 菁英寵物-->
 |星數|寵物素材|寵物核心|遊戲幣|
 |:-:|:-:|:-:|:-:|
 |0★->1★|1|1000|450萬|
@@ -16,16 +19,77 @@ description: "重點寵物能力資料"
 |3★->4★|4|4000|1800萬|
 |4★->5★|5|5000|2250萬|
 |**總和**|**15**|**15000**|**6750萬**|
+<!-- endtab -->
+<!-- tab 一般寵物-->
+|星數|寵物素材|寵物核心|遊戲幣|
+|:-:|:-:|:-:|:-:|
+|0★->1★|1|250|200萬|
+|1★->2★|2|500|400萬|
+|2★->3★|3|750|600萬|
+|3★->4★|4|1500|1000萬|
+|4★->5★|5|2000|1400萬|
+|**總和**|**15**|**5000**|**3600萬**|
+<!-- endtab -->
+{% endtabs %}
+
+{% hideToggle 材料說明 %}
+- 寵物素材：同一隻寵物(可以是不同型態)。例如：強化 {% inlineImg https://i.imgur.com/JhW3QAn.png 48px %}**<迷你另一個路西法>** 1★->2★時，則還需要 2 隻 {% inlineImg https://i.imgur.com/V4fyCwO.png 48px %}{% inlineImg https://i.imgur.com/Xzf3fue.png 48px %}{% inlineImg https://i.imgur.com/JhW3QAn.png 48px %}**<迷你另一個路西法>** (可以是蛋/幼體/成體/覺醒任一型態)
+
+- 寵物核心：強化所需材料，請參考下方 **[寵物核心取得管道]**
+
+- 遊戲幣：**所需數量會略有不同，請依各寵物實際數值為主**
+
+{% endhideToggle %}
+
+{% hideToggle 寵物核心取得管道 %}
+1. 分解寵物：實際數量可以從遊戲內的[寵物圖鑑]參考
+
+|等級|進化狀態|分解可得寵物核心
+|:-:|:-:|:-:
+|一般(普通)|蛋/幼體<br>成體/覺醒|5<br>10
+|一般(高級)|蛋/幼體<br>成體/覺醒|15<br>25
+|菁英(普通)|蛋/幼體<br>成體/覺醒|30<br>50
+|菁英(高級)|蛋/幼體<br>成體/覺醒|100<br>150
+
+2. 模擬戰
+||材料|限制
+|:-:|:-:|:-:
+|{% inlineImg https://i.imgur.com/HVxdbDJ.png 48px %} 寵物核心 x10|{% inlineImg https://i.imgur.com/LxU0Byk.png 48px %}訓練的證明 x10|**每周帳號 2 次**
+
+3. 軍團計畫
+![](https://i.imgur.com/YLLxBdv.png)
+
+4. 通天塔
+![](https://i.imgur.com/7XbwiaW.png)
+
+5. 能力值提升支援箱子：可由戰力榜獲得的硬幣兌換，一次可得 25 個
+![](https://i.imgur.com/WhQE5lf.png)
+
+6. UNION會員點數(UMP)商店
+![](https://i.imgur.com/PuFAXL2.png)
+
+{% endhideToggle %}
+
+---
 
 # 種族增傷類寵物
+種族增傷類寵物即為針對特定種族增傷的寵物
+其能力以提升種族增傷 (**<font color=#090>主動技能、強化素質</font>**) 為主
+用以應對特定BOSS
+**由於種族增傷的特性，通常來說 [0★的增傷寵物] 實戰強度是大於 [5★通用寵物]**
+{% hideToggle 種族增傷類寵物 %}
 
 {% tabs 增傷寵物 %}
 <!-- tab <img class="inline-img" src="https://i.imgur.com/I6BPtrp.png" style="height:32px">海底型-->
 {% inlineImg https://i.imgur.com/P1emmlZ.png 48px %}**<迷你阿斯莫德>**
 
+<div class="altop">
+
 |被動|戰鬥技能|主動技能|
 |:-:|:-:|:-:|
 |技能冷卻時間25%<br>技能資源節約25%<br>追加金幣25%<br>追加獲得道具25%|<font color=#900>冷卻40秒</font><br><font color=#090>持續50秒</font><br>物理/魔法爆擊傷害60%<br>移動速度(%)10%|<font color=#900>冷卻40秒</font><br><font color=#090>- 持續40秒</font><br>物理攻擊力1000<br>魔法攻擊力1000<br>技能冷卻時間15%<br>技能資源節約15%<br>**<font color=#d60>海底型增傷100%</font>**<br><font color=#090>- 持續15秒</font><br>給予物理/魔法傷害量25%<br>每秒HP恢復10.00%<br>每秒MP恢復10.00%<br>超級裝甲等級: 2<br>傷害減少60%|
+
+</div>
 
 **強化能力**
 
@@ -46,9 +110,13 @@ description: "重點寵物能力資料"
 <!-- tab <img class="inline-img" src="https://i.imgur.com/KOAPxLX.png" style="height:32px">人類型-->
 {% inlineImg https://i.imgur.com/IEVCXSW.png 48px %}**<迷你吉娜葛蕾斯>**
 
+<div class="altop">
+
 |被動|戰鬥技能|主動技能|
 |:-:|:-:|:-:|
 |技能冷卻時間25%<br>技能資源節約25%<br>追加金幣25%<br>追加獲得道具25%|<font color=#900>冷卻40秒</font><br><font color=#090>持續50秒</font><br>物理/魔法爆擊傷害50%<br>移動速度(%)10%<br>攻擊速度5%|<font color=#900>冷卻40秒</font><br><font color=#090>- 持續40秒</font><br>物理攻擊力1000<br>魔法攻擊力1000<br>技能冷卻時間15%<br>技能資源節約15%<br>**<font color=#d60>人類型增傷100%</font>**<br><font color=#090>- 持續15秒</font><br>給予物理/魔法傷害量25%<br>每秒HP恢復10.00%<br>每秒MP恢復10.00%<br>超級裝甲等級: 2<br>傷害減少60%|
+
+</div>
 
 **強化能力**
 
@@ -70,9 +138,13 @@ description: "重點寵物能力資料"
 <!-- tab <img class="inline-img" src="https://i.imgur.com/HoxQxvb.png" style="height:32px">食蟲型-->
 {% inlineImg https://i.imgur.com/4guuWuv.png 48px %}**<迷你歐梅嘉騎士>**
 
+<div class="altop">
+
 |被動|戰鬥技能|主動技能|
 |:-:|:-:|:-:|
 |技能冷卻時間25%<br>技能資源節約25%<br>追加金幣25%<br>追加獲得道具25%|<font color=#900>冷卻40秒</font><br><font color=#090>持續50秒</font><br>物理/魔法爆擊傷害60%<br>移動速度(%)10%|<font color=#900>冷卻40秒</font><br><font color=#090>- 持續40秒</font><br>物理攻擊力1000<br>魔法攻擊力1000<br>技能冷卻時間15%<br>技能資源節約15%<br>**<font color=#d60>食蟲型增傷100%</font>**<br><font color=#090>- 持續15秒</font><br>給予物理/魔法傷害量25%<br>每秒HP恢復10.00%<br>每秒MP恢復10.00%<br>超級裝甲等級: 2<br>傷害減少60%|
+
+</div>
 
 **強化能力**
 
@@ -93,9 +165,13 @@ description: "重點寵物能力資料"
 <!-- tab <img class="inline-img" src="https://i.imgur.com/acS6rsI.png" style="height:32px">前腦型-->
 {% inlineImg https://i.imgur.com/yDlYKup.png 48px %}**<迷你格茉莉>**
 
+<div class="altop">
+
 |被動|戰鬥技能|主動技能|
 |:-:|:-:|:-:|
 |技能冷卻時間25%<br>技能資源節約25%<br>追加金幣25%<br>追加獲得道具25%|<font color=#900>冷卻40秒</font><br><font color=#090>持續50秒</font><br>物理/魔法爆擊傷害60%<br>移動速度(%)10%|<font color=#900>冷卻40秒</font><br><font color=#090>- 持續40秒</font><br>物理攻擊力1000<br>魔法攻擊力1000<br>技能冷卻時間15%<br>技能資源節約15%<br>**<font color=#d60>前腦型增傷100%</font>**<br><font color=#090>- 持續15秒</font><br>給予物理/魔法傷害量25%<br>每秒HP恢復10.00%<br>每秒MP恢復10.00%<br>超級裝甲等級: 2<br>傷害減少60%|
+
+</div>
 
 **強化能力**
 
@@ -116,9 +192,13 @@ description: "重點寵物能力資料"
 <!-- tab <img class="inline-img" src="https://i.imgur.com/FWfg4L0.png" style="height:32px">魔龍型-->
 {% inlineImg https://i.imgur.com/rbAAIO4.png 48px %}**<迷你阿施塔特>**
 
+<div class="altop">
+
 |被動|戰鬥技能|主動技能|
 |:-:|:-:|:-:|
 |技能冷卻時間25%<br>技能資源節約25%<br>追加金幣25%<br>追加獲得道具25%|<font color=#900>冷卻40秒</font><br><font color=#090>持續50秒</font><br>物理/魔法爆擊傷害60%<br>移動速度(%)10%|<font color=#900>冷卻40秒</font><br><font color=#090>- 持續40秒</font><br>物理攻擊力1000<br>魔法攻擊力1000<br>技能冷卻時間15%<br>技能資源節約15%<br>**<font color=#d60>魔龍型增傷100%</font>**<br><font color=#090>- 持續15秒</font><br>給予物理/魔法傷害量25%<br>每秒HP恢復10.00%<br>每秒MP恢復10.00%<br>超級裝甲等級: 2<br>傷害減少60%|
+
+</div>
 
 **強化能力**
 
@@ -139,9 +219,13 @@ description: "重點寵物能力資料"
 <!-- tab <img class="inline-img" src="https://i.imgur.com/t8j9844.png" style="height:32px">使徒型-->
 {% inlineImg https://i.imgur.com/JhW3QAn.png 48px %}**<迷你另一個路西法>**
 
+<div class="altop">
+
 |被動|戰鬥技能|主動技能|
 |:-:|:-:|:-:|
 |技能冷卻時間25%<br>技能資源節約25%<br>追加金幣25%<br>追加獲得道具25%|<font color=#900>冷卻40秒</font><br><font color=#090>持續50秒</font><br>物理/魔法爆擊傷害50%<br>移動速度(%)10%<br>攻擊速度5%|<font color=#900>冷卻40秒</font><br><font color=#090>- 持續40秒</font><br>物理攻擊力1000<br>魔法攻擊力1000<br>技能冷卻時間15%<br>技能資源節約15%<br>**<font color=#d60>使徒型增傷100%</font>**<br><font color=#090>- 持續15秒</font><br>給予物理/魔法傷害量25%<br>每秒HP恢復10.00%<br>每秒MP恢復10.00%<br>超級裝甲等級: 2<br>傷害減少60%|
+
+</div>
 
 **強化能力**
 
@@ -162,9 +246,13 @@ description: "重點寵物能力資料"
 <!-- tab <img class="inline-img" src="https://i.imgur.com/8ONbMJo.png" style="height:32px">野生型-->
 {% inlineImg https://i.imgur.com/uI3PMhU.png 48px %}**<迷你芭斯特>**
 
+<div class="altop">
+
 |被動|戰鬥技能|主動技能|
 |:-:|:-:|:-:|
 |技能冷卻時間25%<br>技能資源節約25%<br>追加金幣25%<br>追加獲得道具25%|<font color=#900>冷卻40秒</font><br><font color=#090>持續50秒</font><br>物理/魔法爆擊傷害50%<br>移動速度(%)10%<br>攻擊速度5%|<font color=#900>冷卻40秒</font><br><font color=#090>- 持續40秒</font><br>物理攻擊力1000<br>魔法攻擊力1000<br>技能冷卻時間15%<br>技能資源節約15%<br>**<font color=#d60>野生型增傷100%</font>**<br><font color=#090>- 持續15秒</font><br>給予物理/魔法傷害量25%<br>每秒HP恢復10.00%<br>每秒MP恢復10.00%<br>超級裝甲等級: 2<br>傷害減少60%|
+
+</div>
 
 **強化能力**
 
@@ -185,9 +273,13 @@ description: "重點寵物能力資料"
 <!-- tab <img class="inline-img" src="https://i.imgur.com/gdXdckN.png" style="height:32px">特異型-->
 {% inlineImg https://i.imgur.com/BNasNU5.png 48px %}**<迷你百變怪>**
 
+<div class="altop">
+
 |被動|戰鬥技能|主動技能|
 |:-:|:-:|:-:|
 |技能冷卻時間25%<br>技能資源節約25%<br>追加金幣25%<br>追加獲得道具25%|<font color=#900>冷卻40秒</font><br><font color=#090>持續50秒</font><br>物理/魔法爆擊傷害50%<br>移動速度(%)10%<br>攻擊速度5%|<font color=#900>冷卻40秒</font><br><font color=#090>- 持續40秒</font><br>物理攻擊力1000<br>魔法攻擊力1000<br>技能冷卻時間15%<br>技能資源節約15%<br>**<font color=#d60>特異型增傷100%</font>**<br><font color=#090>- 持續15秒</font><br>給予物理/魔法傷害量25%<br>每秒HP恢復10.00%<br>每秒MP恢復10.00%<br>超級裝甲等級: 2<br>傷害減少60%|
+
+</div>
 
 **強化能力**
 
@@ -208,19 +300,27 @@ description: "重點寵物能力資料"
 
 {% endtabs %}
 
+{% endhideToggle %}
 
-# 通用類寵物(施工)
+---
+
+# 通用類寵物
 通用型寵物即為沒有種族增傷的寵物
-其能力以提升基本數值(提升爆傷、降低敵人爆抗等)為主
+其能力以提升基本數值 (**<font color=#090>提升爆傷、降低敵人爆抗等</font>**) 為主
+{% hideToggle 通用類寵物 %}
 
 {% tabs 通用寵物 %}
 <!-- tab 老師寵-->
 {% inlineImg https://i.imgur.com/ImeaAwT.png 48px %}**<迷你玲兒>**
-此寵物主動技能為提升自身爆傷 (**空背浮合計高達90%**)
+此寵物主動技能為提升自身爆傷 (**<font color=#090>空背浮合計高達90%</font>**)
+
+<div class="altop">
 
 |被動|戰鬥技能|主動技能|
 |:-:|:-:|:-:|
 |技能冷卻時間25%<br>技能資源節約25%<br>追加金幣25%<br>追加獲得道具25%|<font color=#900>冷卻40秒</font><br><font color=#090>持續50秒</font><br>物理/魔法爆擊傷害60%<br>移動速度(%)10%|<font color=#900>冷卻40秒</font><br><font color=#090>- 持續40秒</font><br>物理攻擊力1000<br>魔法攻擊力1000<br>技能冷卻時間15%<br>技能資源節約15%<br>**<font color=#d60>空中/背擊/浮空爆擊傷害30%</font>**<br><font color=#090>- 持續15秒</font><br>給予物理/魔法傷害量25%<br>每秒HP恢復10.00%<br>每秒MP恢復10.00%<br>超級裝甲等級: 2<br>傷害減少60%<br>玩家攻擊力50000%傷害|
+
+</div>
 
 **強化能力**
 
@@ -238,12 +338,42 @@ description: "重點寵物能力資料"
 ![](https://i.imgur.com/8CjDgou.png)
 <!-- endtab -->
 
+<!-- tab 風鳥寵-->
+{% inlineImg https://i.imgur.com/6WZlcnG.png 48px %}**<迷你可愛赫爾巴斯>**
+此寵物主動技能為降低敵人爆擊抵抗力 (**100%**)
+**<font color=#090>相反的說可以讓自身及隊友的爆擊傷害提升100%</font>**
+
+<div class="altop">
+
+|被動|戰鬥技能|主動技能|
+|:-:|:-:|:-:|
+|技能冷卻時間25%<br>技能資源節約25%<br>追加金幣25%<br>追加獲得道具25%|<font color=#900>冷卻40秒</font><br><font color=#090>持續50秒</font><br>物理/魔法爆擊傷害50%<br>移動速度(%)10%<br>攻擊速度5%|<font color=#900>冷卻40秒</font><br><font color=#090>- 持續40秒</font><br>物理攻擊力800<br>魔法攻擊力800<br>技能冷卻時間15%<br>技能資源節約15%<br><font color=#090>- 持續20秒</font><br>**<font color=#d60>爆擊抵抗減少100%</font>**<br><font color=#090>- 持續15秒</font><br>給予物理/魔法傷害量25%<br>每秒HP恢復10.00%<br>每秒MP恢復10.00%<br>超級裝甲等級: 2<br>傷害減少60%<br>玩家攻擊力50000%傷害|
+
+</div>
+
+**強化能力**
+
+|詞條|0★|1★|2★|3★|4★|5★|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|HP|270|500|730|960|1190|1420
+|MP|200|310|420|530|640|750
+|物理/魔法攻擊力|275|335|395|455|515|575
+|物理/魔法防禦力|220|360|500|640|780|920
+|物理/魔法爆擊傷害|-|65%|90%|115%|140%|165%
+|總物理/魔法攻擊力|-|0.6%|1.2%|1.8%|2.4%|3%
+|道具自動使用欄位數量|-|-|1|2|3|4
+
+
+![](https://i.imgur.com/GhdMFS2.png)
+<!-- endtab -->
+
 {% endtabs %}
 
-(施工中)
+{% endhideToggle %}
+
 
 <style>
-  table td {
+  .altop table td {
     vertical-align: top;
   }
 </style>

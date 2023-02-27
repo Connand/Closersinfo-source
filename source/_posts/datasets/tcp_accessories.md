@@ -19,11 +19,11 @@ description: "能力飾品資料整理"
 <!-- tab 能力-->
 
 |軍團長|道具圖|能力值|
-|:-:|:-:|:-|
+|:-:|:-|:-|
 | 野獸王 | {% inlineImg https://i.imgur.com/XiMgiNw.png 32px %}{% inlineImg https://i.imgur.com/0VaY1sl.png 32px %}{% inlineImg https://i.imgur.com/luPj9ua.png 32px %} | 物理/魔法攻擊力+350<br>物理/魔法爆傷+40%<br>野生增傷+10% |
-| 機械王 | {% inlineImg https://i.imgur.com/32MiorG.png 32px %}{% inlineImg https://i.imgur.com/bF7eDfD.png 32px %}{% inlineImg https://i.imgur.com/pRibBVh.png 32px %} | 物理/魔法攻擊力+300<br>物理/魔法爆傷+35%<br>前腦增傷+10% |
-| 深海王 | {% inlineImg https://i.imgur.com/0ItwifH.png 32px %}{% inlineImg https://i.imgur.com/kyn2g4L.png 32px %}{% inlineImg https://i.imgur.com/2hPXx0l.png 32px %} | 物理/魔法攻擊力+250<br>物理/魔法爆傷+30%<br>深海增傷+10% |
-| 蒼蠅王 | {% inlineImg https://i.imgur.com/3iw8ZrA.png 32px %}{% inlineImg https://i.imgur.com/l8fnkO7.png 32px %}{% inlineImg https://i.imgur.com/FzN4lOh.png 32px %} | 物理/魔法攻擊力+200<br>物理/魔法爆傷+27% |
+| 機械王 | {% inlineImg https://i.imgur.com/32MiorG.png 32px %}安娜貝爾的反重力模組<br>{% inlineImg https://i.imgur.com/bF7eDfD.png 32px %}格莫莉的天線絲帶<br>{% inlineImg https://i.imgur.com/pRibBVh.png 32px %}洛夫克拉夫特之錘 | 物理/魔法攻擊力+300<br>物理/魔法爆傷+35%<br>前腦增傷+10% |
+| 深海王 | {% inlineImg https://i.imgur.com/Lrj8V1L.png 32px %}波洛芙的飄揚腿部裝飾<br>{% inlineImg https://i.imgur.com/7NxcuSR.png 32px %}戴維約翰的燧發槍<br>{% inlineImg https://i.imgur.com/eUoR3Ni.png 32px %}羅蕾萊的神聖守護符 | 物理/魔法攻擊力+250<br>物理/魔法爆傷+30%<br>深海增傷+10% |
+| 蒼蠅王 | {% inlineImg https://i.imgur.com/3iw8ZrA.png 32px %}舒菲德的項鍊<br>{% inlineImg https://i.imgur.com/l8fnkO7.png 32px %}德瑪托比亞的手槍<br>{% inlineImg https://i.imgur.com/FzN4lOh.png 32px %}暮斯卡的鋸齒劍 | 物理/魔法攻擊力+200<br>物理/魔法爆傷+27% |
 
 <!-- endtab -->
 
@@ -57,6 +57,7 @@ description: "能力飾品資料整理"
 | 釜山：南浦洞 | {% inlineImg https://i.imgur.com/ud3dkwj.png 32px %}{% inlineImg https://i.imgur.com/w2zNTuk.png 32px %}{% inlineImg https://i.imgur.com/HPooJuz.png 32px %}{% inlineImg https://i.imgur.com/T36l1xp.png 32px %}{% inlineImg https://i.imgur.com/TIYIPxX.png 32px %}<br>臉下 腰部 腿部<br><font color=#f00>手臂 臉上</font> | 2件：物理及魔法攻擊力50、三爆傷8%<br>3件：物理及魔法攻擊力100、三增傷4%<br>5件：攻擊速度5%、移動速度100、技能冷卻降低10%、技能消耗降低10% |
 | 大淨化作戰 | {% inlineImg https://i.imgur.com/mHhLd0e.png 32px %}{% inlineImg https://i.imgur.com/crzMAG2.png 32px %}{% inlineImg https://i.imgur.com/MiEhpzy.png 32px %}{% inlineImg https://i.imgur.com/0hq1cbk.png 32px %}{% inlineImg https://i.imgur.com/JucHaXK.png 32px %}<br>腿部 腰部 臉下<br><font color=#f00>手臂 臉上</font> | 2件：物理及魔法攻擊力60、雙爆傷10%<br>3件：攻擊速度5%、掉寶15%、技能消耗降低10% |
 | 獵者之夜 | {% inlineImg https://i.imgur.com/VykF2Yq.png 32px %}{% inlineImg https://i.imgur.com/mGHH7BP.png 32px %}{% inlineImg https://i.imgur.com/9WS0eoJ.png 32px %}<br>臉下 腿部 腰部 | 2件：總物理及魔法攻擊力2%、雙爆傷6%<br>3件：總物理及魔法攻擊力2%、雙爆傷6% |
+| UNION臨時總部 | {% inlineImg https://i.imgur.com/ibOx1b2.png 32px %}{% inlineImg https://i.imgur.com/EdwCVkX.png 32px %}{% inlineImg https://i.imgur.com/n31n01R.png 32px %}{% inlineImg https://i.imgur.com/LprBfC2.png 32px %}{% inlineImg https://i.imgur.com/z8J3aIz.png 32px %}<br>臉下 腿部 腰部<br><font color=#f00>手臂 臉上</font> | 3件：總物理及魔法攻擊力2%、雙爆傷6%<br>5件：攻擊速度2%、掉寶6%、移動速度(%)10% |
 
 <!-- endtab -->
 
@@ -70,6 +71,7 @@ description: "能力飾品資料整理"
 | 釜山：南浦洞 | {% inlineImg https://i.imgur.com/ud3dkwj.png 32px %}{% inlineImg https://i.imgur.com/w2zNTuk.png 32px %}{% inlineImg https://i.imgur.com/HPooJuz.png 32px %}{% inlineImg https://i.imgur.com/T36l1xp.png 32px %}{% inlineImg https://i.imgur.com/TIYIPxX.png 32px %}<br>臉下 腰部 腿部<br><font color=#f00>手臂 臉上</font> | - <font color=#f00>臉上</font>： BIMF廣場白天、戡蠻碼頭夜晚、頂樓公園：迷惑、廣安大橋：蔽目、訓練計劃：從黃昏到黎明、訓練專案：混亂的釜山 <br><br>- 腰部： 屋頂花園白天、戡蠻碼頭夜晚、BIMF廣場：不信任、廣安大橋：蔽目、訓練計劃：從黃昏到黎明、訓練專案：混亂的釜山 <br><br>- 腿部： 廣安大橋白天、戡蠻碼頭夜晚、戡蠻碼頭：懷疑、廣安大橋：蔽目、訓練計劃：從黃昏到黎明、訓練專案：混亂的釜山 <br><br>- 臉下： 戡蠻碼頭夜晚、廣安大橋：蔽目、訓練計劃：從黃昏到黎明、訓練專案：混亂的釜山 <br><br>- <font color=#f00>手臂</font>： 戡蠻碼頭夜晚、廣安大橋：蔽目、訓練計劃：從黃昏到黎明、訓練專案：混亂的釜山 |
 | 大淨化作戰 | {% inlineImg https://i.imgur.com/mHhLd0e.png 32px %}{% inlineImg https://i.imgur.com/crzMAG2.png 32px %}{% inlineImg https://i.imgur.com/MiEhpzy.png 32px %}{% inlineImg https://i.imgur.com/0hq1cbk.png 32px %}{% inlineImg https://i.imgur.com/JucHaXK.png 32px %}<br>腿部 腰部 臉下<br><font color=#f00>手臂 臉上</font> | - <font color=#f00>臉上</font>：YOD(L6)、淨者(L5與L6)、汙染地獄/表面<br>- 臉下：YOD(L6)、淨者(L5與L6)、汙染地獄/表面、保底製作<br>- <font color=#f00>手臂</font>：火女與風鳥(L2 L4 L6)、淨者(L5與L6)、小關<br>- 腰部：風鳥(L2 L4 L6)、小關、保底製作<br>- 腿部：火女(L2 L4 L6)、淨者(L5與L6)、小關、保底製作 |
 | 獵者之夜 | {% inlineImg https://i.imgur.com/VykF2Yq.png 32px %}{% inlineImg https://i.imgur.com/mGHH7BP.png 32px %}{% inlineImg https://i.imgur.com/9WS0eoJ.png 32px %}<br>臉下 腿部 腰部 | - 臉下：<br>地下研究室、夜梟之城、必殺程式<br>- 腰部：<br>獵人的殿堂、午夜的古城、霍夫曼的研究室、人工培養室、瘋狂的產物<br>- 腿部：<br>地下實驗室、夜梟之城、必殺程式 |
+| UNION臨時總部 | {% inlineImg https://i.imgur.com/ibOx1b2.png 32px %}{% inlineImg https://i.imgur.com/EdwCVkX.png 32px %}{% inlineImg https://i.imgur.com/n31n01R.png 32px %}{% inlineImg https://i.imgur.com/LprBfC2.png 32px %}{% inlineImg https://i.imgur.com/z8J3aIz.png 32px %}<br>臉下 腿部 腰部<br><font color=#f00>手臂 臉上</font> | [貢獻度-特別] 商店<br>UNION臨時總部 副本 |
 
 <!-- endtab -->
 {% endtabs %}
@@ -98,10 +100,10 @@ description: "能力飾品資料整理"
     width: 10%;
   }
   table th:nth-of-type(2){
-    width: 20%;
+    width: 30%;
   }
   table th:nth-of-type(3){
-    width: 70%;
+    width: 60%;
   }
 
 </style>

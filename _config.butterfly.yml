@@ -7,11 +7,11 @@
 #   name: link || icon
 
 menu:
+  轉移(重要！): /transfer_notice/ || fas fa-exchange-alt
   首頁: / || fas fa-home
   # 封存: /archives/ || fas fa-archive
   標籤: /tags/ || fas fa-tags
   分類: /categories/ || fas fa-folder-open
-  雲端圖庫: https://drive.google.com/drive/folders/1jFK6bpar4oSDy2_DeNQ4wOqFaBHDhoJ7?usp=share_link || fas fa-cloud
   遊戲攻略/資料 || fas fa-book-open || hide:
     總覽: /categories/遊戲資料 || fas fa-book-open
     PNA資料: /categories/遊戲資料/PNA || fas fa-dna
@@ -21,6 +21,7 @@ menu:
     轉職介紹: /categories/遊戲資料/轉職 || fas fa-book-open
     機率資料: /categories/遊戲資料/機率資料 || fas fa-book-open
     其他資料: /categories/遊戲資料/其他 || fas fa-book-open
+    雲端圖庫: https://drive.google.com/drive/folders/1jFK6bpar4oSDy2_DeNQ4wOqFaBHDhoJ7?usp=share_link || fas fa-cloud
   時裝 || fas fa-tshirt:
     總覽: /categories/時裝 || fas fa-tshirt
     輝煌時裝: /categories/時裝/輝煌時裝/ || fas fa-tshirt
@@ -651,7 +652,7 @@ subtitle:
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
-    - 測試站建置中，預計未來取代主站
+    - 重要消息：台版轉移作業即刻開始，請參考至頂文章
     - 歡迎加入Discord群組！
     - 建議使用電腦瀏覽此網站
     - 次元戰爭永不停歇
@@ -678,10 +679,10 @@ aside:
       link: https://github.com/Connand
   card_announcement:
     enable: true
-    content: <b>2022/10/19更新</b>：<br>1. <b><font color=#f00>所有時裝立繪預覽壓縮處理</font><br>- 如有發現錯誤請回報！</b><br>- 點選圖片可以查看imgur上最佳畫質<br>2. 開通贊助功能<br>---<br>繪師：<a target="_blank" rel="noopener" href="https://www.facebook.com/profile.php?id=100024698682237">煉銅術士</a><img src="/img/ProfilePic_56.png"><div class="announcement-button"> <a class="button--animated" href="https://www.facebook.com/Closersinfo" rel="external nofollow noreferrer" target="_blank">FB粉絲專頁</a> <a class="button--animated" href="https://closersinfo.xyz/" rel="external nofollow noreferrer" target="_blank">運行中的正式版</a> <a class="button--animated" href="https://discord.gg/ACBYdf5TNd" rel="external nofollow noreferrer" target="_blank">Discord群組</a></div>
+    content: <b>2023/02/23更新</b>：<br>1. <b><font color=#f00>台版轉移開始！請參考置頂公告</font></b><br>---<br>繪師：<a target="_blank" rel="noopener" href="https://www.facebook.com/profile.php?id=100024698682237">煉銅術士</a><img src="/img/ProfilePic_56.png"><div class="announcement-button"> <a class="button--animated" href="https://www.facebook.com/Closersinfo" rel="external nofollow noreferrer" target="_blank">FB粉絲專頁</a> <a class="button--animated" href="https://closersinfo.xyz/" rel="external nofollow noreferrer" target="_blank">運行中的正式版</a> <a class="button--animated" href="https://discord.gg/ACBYdf5TNd" rel="external nofollow noreferrer" target="_blank">Discord群組</a></div>
   card_recent_post:
     enable: true
-    limit: 5 # if set 0 will show all
+    limit: 7 # if set 0 will show all
     sort: updated # date or updated
     sort_order: # Don't modify the setting unless you know how it works
   card_categories:

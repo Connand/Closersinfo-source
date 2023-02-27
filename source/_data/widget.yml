@@ -1,7 +1,13 @@
 top:
+  - class_name: birthday-character
+    id_name: birthday-character
+    name: '今日生日角色'
+    icon: fas fa-birthday-cake
+    order: 1
+    html: '<div id="birthday"></div>'
   - class_name: dungeons-today
     id_name: dungeons-today
-    name: '今天開放調查本（台版）'
+    name: '模擬戰資訊（台版）'
     icon: fas fa-flag-checkered
-    order: 1
-    html: '【2022/10/13遊戲體驗優化<a href="https://cls.mangot5.com/game/cls/news/detail/?contentNo=51538" rel="external nofollow noreferrer" target="_blank">更新時程</a>】<br><b>僅剩機械王會根據日程開放</b><div id="schedule"></div><br><div id="mockBattleInfo"><b>第 2 季</b><a href="https://cls.mangot5.com/game/cls/news/detail?contentNo=46589" rel="external nofollow noreferrer" target="_blank">模擬戰</a>(<a href="/datasets/mockbattle_rank/" rel="external nofollow noreferrer" target="_blank">分數表</a>)</div><b>結算日期</b>：<br><div id="mockBattleEnd"></div><div id="mockBattle"></div>'
+    order: 2
+    html: '<div id="mockBattleInfo"><b>第 2 季</b><a href="https://cls.mangot5.com/game/cls/news/detail?contentNo=46589" rel="external nofollow noreferrer" target="_blank">模擬戰</a>(<a href="/datasets/mockbattle_rank/" rel="external nofollow noreferrer" target="_blank">分數表</a>)</div><b>結算日期</b>：<br><div id="mockBattleEnd"></div><div id="mockBattle"></div>'

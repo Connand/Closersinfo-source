@@ -19,7 +19,7 @@ description: "晶片系統內容說明"
 
 ## 超頻用晶片
 製作材料：{% inlineImg https://i.imgur.com/WVZkgZT.png 48px %}腳鐐x48
-超頻經驗值；
+超頻經驗值100；
 
 ## 單色晶片
 

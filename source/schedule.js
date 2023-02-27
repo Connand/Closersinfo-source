@@ -2,25 +2,6 @@ let date = new Date(); //get current date
 
 let day = date.getDay(); // getDay returns 0 to 6; 0 = sun, 1 = mon and so on.
 let hour= date.getHours(); // gethhours returns the hour (0-23)
-let result = "";
-
-let dungeons =
-[
-	{
-		name: "[覲見]機械王貝爾菲格",
-        html: '<font color=#ff0000><b>[覲見]機械王貝爾菲格</b></font><a href="/datasets/belphegor/">攻略</a><br>',
-        days: [0, 2, 5, 6]
-	}
-];
-
-dungeons.forEach((e, i) => {
-    if(e.days.includes(day)){
-        result += e.html;
-    }
-});
-
-//outut the result to div
-  document.getElementById("schedule").innerHTML = result;
   
 let boss_names = [
 "島的主人(食蟲型)<img class=\"inline-img\" src=\"https://i.imgur.com/HoxQxvb.png\" style=\"height:32px\">",
@@ -69,3 +50,65 @@ function showRemaining() {
 }
 showRemaining();
 setInterval(showRemaining, 1000);
+
+
+function getDateString (time) {
+	let day = time.getDate();
+	let month = time.getMonth() + 1;
+    //month = 4; day = 30;
+	
+	if (day < 10) {
+		day = '0' + day;
+	}
+
+	if (month < 10) {
+		month = `0${month}`;
+	}
+	
+	//console.log(month + "/" + day);
+	return (month + "/" + day)
+}
+
+// let time = new Date();
+// getDateString(time);
+
+/* let birthdays = {
+	"06/03": {name: "李世河", code: "STRIKER"},
+	"04/30": {name: "李世河", code: "STRIKER"},
+	"02/28": {name: "李世河", code: "STRIKER"},
+	"02/27": {name: "測試名", code: "TESTCODE"}
+}; */
+
+let birthdays = {
+  "06/03":{name:"李世河",code:"STRIKER"},
+  "04/30":{name:"<font color=#ff40af>李雪菲</font>",code:"CASTER"},
+  "05/17":{name:"徐維莉",code:"RANGER"},
+  "11/22":{name:"J",code:"FIGHTER"},
+  "10/31":{name:"米斯特汀",code:"LANCER"}, 
+  
+  "07/16":{name:"納塔",code:"HUNTER"},
+  "06/06":{name:"蕾比雅",code:"WITCH"},
+  "12/13":{name:"哈比",code:"ROGUE"},
+  "05/28":{name:"緹娜",code:"ARMS"},
+  "10/03":{name:"薇歐莉特",code:"VALYRIE"}, 
+  
+  "04/05":{name:"沃爾夫姜．施奈伊德",code:"LIBRARIAN"},
+  "09/23":{name:"露娜．埃癸斯",code:"AEGIS"},
+  "03/26":{name:"索瑪．阿斯特拉",code:"ASTRA"},
+  "09/09":{name:"白．溫徹斯特",code:"MYSTIC"},
+  "08/25":{name:"賽特．賽赫麥特",code:"BEAST"}, 
+  
+  "07/02":{name:"金徹斯",code:"NONAME"},
+  "11/02":{name:"未來",code:"REAPER"},
+  "04/12":{name:"<font color=#64668d>銀河</font>",code:"KNIVES"},
+  "02/28":{name:"露西．普拉蒂尼",code:"ALTEREGO"},
+  "03/02":{name:"愛里",code:"DEVILISH"}, 
+}
+
+if (typeof birthdays[getDateString(now)] != 'undefined') {
+    image_name = "/img/birthday_images/DLG_EVENT_BIRTHDAY_" + birthdays[getDateString(now)].code + ".PNG";
+    document.getElementById('birthday').innerHTML = "<b>今天是 " + birthdays[getDateString(now)].name + " 的生日！！</b><br>- 除了慶祝生日外，記得領取遊戲內的生日禮物箱喔！<a href=\"" + image_name + "\" rel=\"external nofollow noreferrer\" target=\"_blank\"><img src=\"" + image_name + "\"></a>";
+}
+else {
+    document.getElementById('birthday-character').remove();
+}

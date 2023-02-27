@@ -24,12 +24,14 @@ CPU: i7-12700
 ---
 
 # 改善讀取速度
+**<font color=#f00 size=4>在進一步用這些方法之前，建議將遊戲存放至SSD槽中，確保基本的讀取速度提升</font>**
+
 因此我就上網查了一些資料，看到[韓版這篇](https://closers.nexon.com/Community/Tip/View?n4ArticleSN=19398)文章，說明怎麼提高讀取速度
 簡譯如下：
-1. 改用全螢幕
-1. 關閉垂直同步(如圖)
+1. (**可選**) 改用全螢幕
+1. **關閉垂直同步**(如圖)
 ![](https://i.imgur.com/qJHfRFu.png)
-1. 打開工作管理員 => 點"詳細資料" => 找到"CW.EXE" => 點選"設定親和性" => 把"CPU 0"點掉 => "確定"完成
+1. (**可選**) 打開工作管理員 => 點"詳細資料" => 找到"CW.EXE" => 點選"設定親和性" => 把"CPU 0"點掉 => "確定"完成
 註：每次開遊戲需要重複3的操作
 ![](https://i.imgur.com/U20MJ8G.png)
 
@@ -51,7 +53,7 @@ CPU: i7-12700
 於是我就找到的[這篇](http://closers.nexon.com/Community/Tip/View?n4ArticleSN=19371)
 裡面提到2個軟體：
 1. Nvidia Profile Inspector
-1. Rivatuner Statistics Server
+1. **Rivatuner Statistics Server**
 
 其中第1個似乎因為很久沒有更新，所以沒辦法使用(可能是驅動程式版本太新無法抓到)
 第2個就是這篇文主角，簡稱RTSS
@@ -81,7 +83,7 @@ CPU: i7-12700
 
 **<font color=#ff0000 size=5>然後大功告成，現在應該會有很快的讀取速度跟很流暢的畫面了</font>**
 
-## RTSS是什麼碗糕
+## 附錄：RTSS是什麼碗糕
 有關RTSS的原理與介紹，可以參考巴哈[這篇](https://forum.gamer.com.tw/Co.php?bsn=36072&sn=32315)文章介紹(使用APEX來說明與設定)
 有關上面設定的Scanline sync(掃描線同步)說明(節錄巴哈文章)：
 `掃描線同步利用純軟體的解決方案，一樣可減少畫面撕裂，同時比一般垂直同步產生更低的輸入延遲。由於人眼感知運動的方式，它還有助於消除不屬於上文所說的可變刷新率 (VRR) 面板上，產生的不穩定卡頓`

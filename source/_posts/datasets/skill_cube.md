@@ -19,11 +19,14 @@ https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/
 # 技能核心
 
 ## 使用介面
+
+{% hideToggle 使用介面 %}
 **<font color=#ff0000 size=5>技能核心將會變成帳號制，有專屬背包可以存放</font>**
 **<p align="right"><font size=5>(打勾處)顯示自己類型<br>(<font color=#f5c71a>黃色按鈕</font>)核心合成<br>高級 菁英<br>傳說 <font color=#ff0000>覺醒</font></font></p>**
 **<p align="center"><font size=5>可以放置2種核心：原版的(傷害增加等等) + 覺醒技能</font></p>**
 
 ![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=5485478582014705885)
+{% endhideToggle %}
 
 ---
 
@@ -45,8 +48,6 @@ https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/
 
 此系統更新除了將原本大淨化作戰(雷本)的覺醒技能改為不受裝備制約。
 並每個角色都新增了一招 **<font color=#ff0000>新覺醒技能</font>** ，變更技能為獎章技能(俗稱鎖技)
-其視覺效果請參考此影片
-{%youtube N8BPDRTKyg8 %}
 
 ### 取得來源
 新舊覺醒技能核心取得方式如下 **<font color=#ff0000>請注意新舊覺醒道具圖外框四角的差別</font>**
@@ -76,15 +77,296 @@ https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/
 ## 入場
 
 入場建議戰力為1000萬，當然基本上無法通關WAVE 10
-依據經驗得出，若想通關食蟲型的WAVE 10，所需戰力大約如下 **<font color=#ff0000>(撇除使用BUG的情況)</font>**
+依據經驗得出，若想通關食蟲型的WAVE 10，所需戰力大約如下(四轉狀態) **<font color=#ff0000>(撇除使用BUG的情況)</font>**
 **<font color=#ff0000>需要食蟲型增傷260%以上(突變20因素滿重組)</font>**
 - 李世河：3000~3200萬
 - 米斯特汀、露西：2000~2200萬
 - 其他角色：2500~2800萬
 
 ## 樓層獎勵
+{% hideToggle 樓層獎勵 %}
 |無追加獎勵|有追加獎勵|
 |:-:|:-:|
 |![](https://i.imgur.com/Ot9RMCc.png)|![](https://i.imgur.com/6HNLzbf.png)|
+|總共{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x48|總共{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x60|
+{% endhideToggle %}
+
+---
+
+# 軍團程式可換獎勵
+|道具|所需材料|限制|
+|:-|:-:|:-:|
+|{% inlineImg https://i.imgur.com/6PHDZf6.png 48px %}威嚴精髓x1|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x500|每個帳號一個月 3 次|
+|{% inlineImg https://i.imgur.com/3MjLN14.png 48px %}時裝合成纖維x1|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x250|每個帳號一個月 6 次|
+|{% inlineImg https://i.imgur.com/eCOAypO.png 48px %}寵物核心x50|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x250|每個帳號一個月 6 次|
+
+---
+
+# 新覺醒技能資料
+**<font color=#ff0000>倍率或功能以Lv. 15為準，冷卻時間以減少40%為準</font>**
+**<font color=#ff0000>可能因平衡而變化，此區未必能即時更新</font>**
+
+{% hideToggle 技能效果參考 %}
+{%youtube N8BPDRTKyg8 %}
+{% endhideToggle %}
+
+
+{% tabs 新覺醒技能資料 %}
+<!-- tab 李世河(Seha)-->
+**<集中火力>流星雨** 冷卻時間 15 秒
+<font color=#090>- 技能功能</font>
+傷害減少80%
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+真實傷害 14040%
+<!-- endtab -->
+
+<!-- tab 李雪菲(Seulbi)-->
+**<迷你衛星>雷電** 冷卻時間 15 秒
+<font color=#090>- 技能功能</font>
+傷害減少80%
+使用時被動堆疊 1 層
+使用碎片生成技能時，冷卻時間減少 1 秒
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空
+7560%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+11088%
+<!-- endtab -->
+
+<!-- tab 徐維莉(Yuri)-->
+**<晴天霹靂>永恆** 冷卻時間 15 秒
+<font color=#090>- 技能功能</font>
+無敵
+使用時獲得MP 30%
+使用時獲得超能力 15%
+依[必殺：必勝決心]等級增加傷害 (下列為Lv. 9倍率)
+命中時，敵人爆擊抵抗力減少 30% (持續 10秒)
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空
+7425%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空
+7058%
+<!-- endtab -->
+
+<!-- tab J-->
+**<來一發馬殺雞>乾式桑拿** 冷卻時間 15 秒
+<font color=#090>- 技能功能</font>
+傷害減少80%
+疊加維生素片 1 層
+使用必殺技時，冷卻減少 3 秒
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+7828%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+12338%
+<!-- endtab -->
+
+<!-- tab 米斯特汀(Tein)-->
+**<魔槍芬裡厄>閃電狼** 冷卻時間 14 秒
+<font color=#090>- 技能功能</font>
+傷害減少80%
+疊加芬裡厄的牙齒 3 層
+芬裡厄的牙齒：
+- 使用米德加爾特時，疊加 1 層 (強化魔槍為 3 層)
+- 使用慕斯貝爾海姆時，疊加 3 層
+- 使用尼福爾海姆時，疊加 3 層
+- 最多 6 層
+
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+7828%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+12338%
+<!-- endtab -->
+
+<!-- tab 納塔(Nata)-->
+**<狂氣暴走>呼喚鬼神** 冷卻時間 15 秒
+<font color=#090>- 技能功能</font>
+傷害減少80%
+使用時，必殺技冷卻時間減少 2 秒
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+24192%
+<!-- endtab -->
+
+<!-- tab 蕾比雅(Levia)-->
+**<地獄爆發>恐怖之珠** 冷卻時間 15 秒
+<font color=#090>- 技能功能</font>
+傷害減少80%
+使用時，獲得超能力 30%
+BUFF[接近的恐懼]：爆擊傷害+35% (持續 10 秒)
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+真實傷害 8116%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+真實傷害 10260%
+<!-- endtab -->
+
+<!-- tab 哈比(Harpy)-->
+**<卡牌之星>弔詭的擺牌** 冷卻時間 15 秒 
+<font color=#090>- 技能功能</font>
+無敵
+使用時獲得MP 20%
+打擊時爆擊抵抗減少 20% (持續 10 秒)
+BUFF[假面的舞會女王] (持續 15 秒)
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空
+16247%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+12060%
+<!-- endtab -->
+
+<!-- tab 緹娜(Tina)-->
+**<急速冷凍>打雪仗** 冷卻時間 12 秒 
+<font color=#090>- 技能功能</font>
+傷害減少80%
+超低溫堆疊 8 層
+<font color=#C7C81F>- 技能倍率</font>(單顆手榴彈)
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空
+5690%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+2613%
+<!-- endtab -->
+
+<!-- tab 薇歐莉特(Violet)-->
+**<拜託了海德!>颶風昇龍切擊!!** 冷卻時間 15 秒
+<font color=#090>- 技能功能</font>
+傷害減少80%
+BUFF[颱風小姐]：爆擊傷害+25% (持續 10 秒)
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空
+10260%
+<!-- endtab -->
+
+<!-- tab 沃爾夫姜(Wolfgang)-->
+**<篇章：捕食>飢餓之牙** 冷卻時間 15 秒 
+<font color=#090>- 技能功能</font>
+傷害減少80%
+堆疊黑魔寶典 3 層
+[篇章：吸收]傷害增加50%
+使用[篇章：吸收]獲得BUFF[精神分析]
+BUFF[精神分析]：空中時傷害增加 15%
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+17054%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 (休芙攻擊)
+真實傷害 14723%
+<!-- endtab -->
+
+<!-- tab 露娜(Luna)-->
+**<流星舞躍>釘上冰楔之盾** 冷卻時間 15 秒 
+<font color=#090>- 技能功能</font>
+無敵
+結束後發動 5 等霸體 1 秒
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空
+11289%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空
+14776%
+<!-- endtab -->
+
+<!-- tab 索瑪(Soma)-->
+**<獅吼>開路的吶喊** 冷卻時間 15 秒
+<font color=#090>- 技能功能</font>
+傷害減少80%
+BUFF[獅子的鬥志]：爆擊傷害+30%、攻擊力+300 (持續 10 秒)
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空
+18057%
+<!-- endtab -->
+
+<!-- tab 白(Bai)-->
+**<寒龍慟哭>凍土潛龍** 冷卻時間 15 秒 
+<font color=#090>- 技能功能</font>
+傷害減少80%
+使用時所有必殺技冷卻時間減少 4 秒
+BUFF[冰龍的氣息 - 覺醒]：空中 / 浮空 / 背擊爆擊傷害+30% (持續 30 秒)
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+6984%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+7183%
+<!-- endtab -->
+
+<!-- tab 賽特(Seth)-->
+**<愛貓神的慈悲>冥刺之地** 冷卻時間 15 秒
+<font color=#090>- 技能功能</font>
+傷害減少80%
+使用時減少野性甦醒冷卻時間 1.5 秒
+使用時[必殺：冥王神的壞滅]冷卻時間初始化
+使用時獲得[愛貓神的善變]：[必殺：冥王神的壞滅]施放速度增加
+BUFF[無情的冥刺]：造成的魔法傷害+10%、爆擊傷害+20%、攻擊力+100 (持續 10 秒)
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+2052%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+5126%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊 (B模式)
+真實傷害 5126%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+5644%
+<!-- endtab -->
+
+<!-- tab 未來(Mirae)-->
+**<仰天而泣>放飛夜蝶** 冷卻時間 15 秒 
+<font color=#090>- 技能功能</font>
+傷害減少80%
+BUFF[夜裡飛舞的蝴蝶]：造成的傷害+15%、爆擊傷害+35% (持續 10 秒)
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空
+真實傷害 6921%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+真實傷害 4512%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+真實傷害 6019%
+<!-- endtab -->
+
+<!-- tab 徹斯(Chulsoo)-->
+**<[慈悲]-不逞之徒]>骷髏之地** 冷卻時間 15 秒 
+<font color=#090>- 技能功能</font>
+傷害減少80%
+摩擦 3 層
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空
+15648%
+<!-- endtab -->
+
+<!-- tab 銀河(Eunha)-->
+**<暴躁的步伐>區域佔領** 冷卻時間 15 秒 
+<font color=#090>- 技能功能</font>
+傷害減少80%
+使用時所有必殺技冷卻時間減少 2 秒
+BUFF[不讓開嗎?]：爆擊傷害+30% (持續 10 秒)
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空
+10454%
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+6336%
+<!-- endtab -->
+
+<!-- tab 露西(Lucy)-->
+**<歡呼的伊斯塔>神聖鼓槌** 冷卻時間 15 秒 
+<font color=#090>- 技能功能</font>
+無敵
+使用時內加爾的目光 1 層
+<font color=#C7C81F>- 技能倍率</font>
+<font color=#18F0E8>確定判定</font> - 空中 / 浮空 / 背擊
+14652%
+<!-- endtab -->
+
+<!-- tab 愛里(Aeri)-->
+**<魔彈-斬波浪>** 冷卻時間 15.3 秒 
+<font color=#090>- 技能功能</font>
+無敵
+水滴攻擊時，疊加水滴
+猛毒攻擊時，疊加猛毒
+<font color=#C7C81F>- 技能倍率</font>
+31917% (猛毒時為真實傷害、空中 / 浮空 / 背擊確定判定)
+
+技能參考：{%youtube PdiuYl12uKg %}
+<!-- endtab -->
+{% endtabs %}
+
 
 (未完工)

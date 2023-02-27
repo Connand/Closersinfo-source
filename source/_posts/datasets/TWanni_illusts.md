@@ -6,7 +6,7 @@ tags:
     - 周年
     - 繪圖
 category: [遊戲資料,繪圖]
-cover: https://i.imgur.com/i682h3ch.jpg
+cover: https://i.imgur.com/iByVVB4h.png
 description: "紀錄台版周年紀念使用過的官方/非官方立繪與登入圖等等"
 ---
 
@@ -15,13 +15,24 @@ description: "紀錄台版周年紀念使用過的官方/非官方立繪與登�
 **<font color=#FF0000 size=5>直接點圖可察看原圖</font>**
 
 ---
+# 2023新年紀念立繪
+卯月之花 - 薇歐莉特
+神秘商店購買 (600元) 或者刷新66次 (594元)
+[活動公告](http://cls.mangot5.com/game/cls/news/detail?contentNo=53044)
+{% hideToggle 立繪圖 %}
+[![](https://i.imgur.com/iByVVB4h.png)](/img/anniversary/TW_2023_Violet.png)
+{% endhideToggle %}
 
-# 2022年萬聖節紀念立繪：搗蛋之夜 - 蕾比雅
+---
+
+# 2022年萬聖節紀念立繪
+搗蛋之夜 - 蕾比雅
 
 [活動公告](http://cls.mangot5.com/game/cls/news/detail?contentNo=51680)
 一般立繪：角色貼紙蒐集活動
 特殊立繪：商城禮包999元
 
+{% hideToggle 立繪圖 %}
 {% tabs lva萬聖節 %}
 <!-- tab 一般-->
 [![](https://i.imgur.com/i682h3ch.jpg)](/img/anniversary/TW_halloween_Levia.jpg)
@@ -30,37 +41,48 @@ description: "紀錄台版周年紀念使用過的官方/非官方立繪與登�
 [![](https://i.imgur.com/5lXgKfhh.jpg)](/img/anniversary/TW_halloween_Levia_secret.jpg)
 <!-- endtab -->
 {% endtabs %}
-
+{% endhideToggle %}
 
 
 ---
 
-# 五周年官方紀念立繪：黑色風雲 - J
+# 五周年官方紀念立繪
+黑色風雲 - J
 [活動網址](https://cls.mangot5.com/game/cls/news/detail?contentNo=48862)
+{% hideToggle 立繪圖 %}
 [![](https://i.imgur.com/XEjGz48h.jpg)](/img/anniversary/TW5th_J.jpg)
+{% endhideToggle %}
 
 ---
 
-# 2022新年台版限定立繪：萌虎雙子星 - 賽特x安娜
+# 2022新年台版限定立繪
+萌虎雙子星 - 賽特x安娜
 [神秘商店活動](https://cls.mangot5.com/game/cls/news/detail?contentNo=48047)
+{% hideToggle 立繪圖 %}
 [![](https://i.imgur.com/7ynqpRBh.png)](/img/anniversary/TW_22NY_Seth.png)
+{% endhideToggle %}
 
 
-# 2021聖誕節台版限定立繪：聖夜的獄棺姬 - 露西
+# 2021聖誕節台版限定立繪
+聖夜的獄棺姬 - 露西
 [此連結中](https://cls.mangot5.com/game/cls/event/detail/?contentNo=47692)第3個活動禮包購買(999元)
+{% hideToggle 立繪圖 %}
 [![](https://i.imgur.com/TzskJcLh.png)](/img/anniversary/TW_Xmax_Lucy.png)
+{% endhideToggle %}
 
 ---
 
 # 四周年二創入選登入圖
 繪師：Nekotsuki
+{% hideToggle 立繪圖 %}
 [![四周年二創入選登入圖(繪師：Nekotsuki)](https://i.imgur.com/WBo0W15h.png)](/img/anniversary/TW4th_illust_login_Nekotsuki.png)
-
+{% endhideToggle %}
 
 ---
 
 # 四周年二創入選臂章立繪
 製作成臂章飾品在週年時發送 [當時公告內容](https://cls.mangot5.com/game/cls/event/detail/?contentNo=44118)
+{% hideToggle 立繪圖 %}
 {% tabs 四周年入選立繪 %}
 <!-- tab 立繪A(Alopex)-->
 繪師：Alopex
@@ -83,6 +105,7 @@ description: "紀錄台版周年紀念使用過的官方/非官方立繪與登�
 [![](https://i.imgur.com/wWyA7Tz.png)](/img/anniversary/TW4th_illust_Tina_沙沙.png)
 <!-- endtab -->
 {% endtabs %}
+{% endhideToggle %}
 
 ---
 
@@ -92,6 +115,7 @@ description: "紀錄台版周年紀念使用過的官方/非官方立繪與登�
 - [登入畫面](https://www.facebook.com/media/set/?set=a.1147504492342438&type=3)
 - [臂章立繪](https://www.facebook.com/media/set/?set=a.1147509552341932&type=3)
 
+{% hideToggle 立繪圖 %}
 {% tabs 四周年參賽作品 %}
 <!-- tab 登入圖(Mint)-->
 繪師：Mint
@@ -110,25 +134,26 @@ description: "紀錄台版周年紀念使用過的官方/非官方立繪與登�
 [![](https://i.imgur.com/Rlyt3I9h.png)](/img/anniversary/TW4th_illust_千月.png)
 <!-- endtab -->
 {% endtabs %}
+{% endhideToggle %}
 
 ---
 
 # 官方四周年紀念立繪
 四周年期間儲值並消耗2750點就能拿到 [當時公告內容](https://cls.mangot5.com/game/cls/news/detail?contentNo=44021)
-
+{% hideToggle 立繪圖 %}
 |徹斯|未來|
 |:-:|:-:|
 |[![](https://i.imgur.com/F4lszy5h.png)](/img/anniversary/TW_4th_illust_Chulsoo.png)|[![](https://i.imgur.com/6e56Od5h.png)](/img/anniversary/TW_4th_illust_Mirae.png)|
-
+{% endhideToggle %}
 
 ---
 
 # 官方三周年紀念立繪
-
+{% hideToggle 立繪圖 %}
 |李世河|納塔|露娜|
 |:-:|:-:|:-:|
 |[![](https://i.imgur.com/fR7IglI.png)](/img/anniversary/TW3rd_illust_Seha.png)|[![](https://i.imgur.com/i2ZIHSU.png)](/img/anniversary/TW3rd_illust_Nata.png)|[![](https://i.imgur.com/mR6iAYb.png)](/img/anniversary/TW3rd_illust_Luna.png)|
-
+{% endhideToggle %}
 
 ---
 
