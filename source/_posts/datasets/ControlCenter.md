@@ -41,8 +41,9 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 	> 透過**Gate Wave4人副本**獲得，用於**Night Maze**入場
 	> <font color=#ff0000> **可共倉、可交易** </font>
 + {% inlineImg https://i.imgur.com/vS6S6wc.png 64px %} 夢幻水晶
-	> 透過**Night Maze**獲得	
-	> 一場獲得1~3顆不等 (僅會在結算獎勵掉落，**陸版**會有2格VIP額外獎勵也可獲得)
+	> 透過**Night Maze**獲得
+	> 王關、隱藏BOSS跟寶藏區可能掉落
+	> 結算獎勵可獲得1~3顆不等 (**陸版**會有2格VIP額外獎勵也可獲得)
 	> <font color=#ff0000> **不可共倉、不可交易** </font>
 
 
@@ -74,7 +75,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 > 每日第一次：免費
 > 第2-3次：10萬
 > 第4-5次：30萬
->第6-10次：50萬
+> 第6-10次：50萬
 > 第11次起：100萬
 
 ![](https://i.imgur.com/rMdpLAA.png)
@@ -98,6 +99,9 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 <!-- endtab -->
 <!-- tab Night Maze-->
+
+[參考攻略](https://docs.google.com/presentation/d/16RSChND4x9FDJB7DX0W3K8ydlWFwelqQZND_LCeYrgw/edit?usp=sharing)
+
 + 消耗{% inlineImg https://i.imgur.com/YYeSfOv.png 48px %} 睡眠誘導券x2入場
 + 進入關卡後右上會有{% inlineImg https://i.imgur.com/j2hOwtK.png 64px %} 調查值
 調查值滿100%必出最終BOSS{% inlineImg https://i.imgur.com/QsfIgNP.png 64px %}捕食的噩夢看守者
@@ -123,8 +127,6 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ![](https://i.imgur.com/YnmcgNI.png)
 
-+ 結算獎勵
-![](https://i.imgur.com/PEso7i5.png)
 <!-- endtab -->
 <!-- tab 入場次數 -->
 + Gate Wave單人副本：每日增加 <font color=#ff0000> **三次** </font> 調查次數，最多可累積 <font color=#ff0000> **六次** </font>
@@ -391,7 +393,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 || {% inlineImg https://i.imgur.com/to0HmOD.png 64px %}  | {% inlineImg https://i.imgur.com/ZMtHyR8.png 64px %}  | {% inlineImg https://i.imgur.com/jhhaZ4o.png 64px %}  | {% inlineImg https://i.imgur.com/jhhaZ4o.png 64px %}  |  | 
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |名稱|**噩夢的囚徒**| **噩夢看守者**  | **噩夢征服者**  | **12次任務**  | **戰勝噩夢者**  |
-|獲得方式|Night Maze中機率獲得<br> <font color=#ff0000> 黑色兔子</font>掉落率較高| Night Maze中機率獲得<br> <font color=#ff0000> 看守者</font>掉落率較高 |於Night Maze中<br>與神秘商人購買|於Night Maze中<br>與神秘商人購買<br><font color=#ff0000> 購買須使用成就道具 </font>|擊敗噩夢看守者成就|
+|獲得方式|Night Maze中機率獲得<br> <font color=#ff0000> 黑色兔子</font>掉落率較高| Night Maze中機率獲得<br> <font color=#ff0000> 看守者</font>掉落率較高 |於Night Maze中<br>與神秘商人購買|於Night Maze中<br>與神秘商人購買<br><font color=#ff0000> 購買須使用成就道具 </font>|擊敗噩夢看守者成就<br>(通關Night Maze 1次)|
 |素質|總物攻/魔攻+6%<br>物理/魔法爆擊傷害+66%<br>攻速+6%<br>超能爆發狀態增傷+66%| 總物攻/魔攻+5%<br>物理/魔法爆擊傷害+60%<br>攻速+4%<br>超能爆發狀態增傷+60% |總物攻/魔攻+4%<br>物理/魔法爆擊傷害+44%<br>攻速+6%<br>超能爆發狀態增傷+44%|HP+2500<br>總物攻/魔攻+4%<br>物理/魔法爆擊傷害+25%<br>超能爆發狀態增傷+70%|追加金幣20%<br>追加道具掉落率20%<br>追加經驗值20%<br>追加PNA經驗值20%|
 
 ---
@@ -425,7 +427,8 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 # Conquest Program
 難度最高的挑戰副本，共分30層
-**從2023/02/09更新開放至今(更新日02/26)尚未通關30層**
+**從2023/02/09更新開放至今(更新日03/04)尚未通關30層**
+[陸版首通30層](https://www.bilibili.com/video/BV14L411y7MX/?share_source=copy_web)
 從建議戰力2200萬開始，每一層加上200萬
 入場票可從Gate Wave的**危險度3**獎勵獲得{%inlineImg https://i.imgur.com/ZauopIm.png 64px%}
 **<font color=#900>復活次數：2。第30層為3次</font>**

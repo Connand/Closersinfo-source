@@ -7,18 +7,19 @@
 #   name: link || icon
 
 menu:
-  轉移(重要！): /transfer_notice/ || fas fa-exchange-alt
-  首頁: / || fas fa-home
+  轉移資訊: /transfer_notice/ || fas fa-exchange-alt
+  # 首頁: / || fas fa-home
   # 封存: /archives/ || fas fa-archive
   標籤: /tags/ || fas fa-tags
   分類: /categories/ || fas fa-folder-open
-  遊戲攻略/資料 || fas fa-book-open || hide:
+  遊戲資料 || fas fa-book-open || hide:
     總覽: /categories/遊戲資料 || fas fa-book-open
     PNA資料: /categories/遊戲資料/PNA || fas fa-dna
-    繪圖圖庫: /categories/遊戲資料/繪圖 || fas fa-image
-    裝備資訊: /categories/遊戲資料/裝備 || fas fa-book-open
+    繪圖圖庫: /datasets/TWanni_illusts/ || fas fa-image
+    主線裝備: /categories/遊戲資料/裝備 || fas fa-book-open
+    能力提升: /categories//遊戲資料/能力提升 || fas fa-book-open
     裝備懶人包: https://cdn.discordapp.com/attachments/884269427644850256/986936100465569802/gearflow2.png || fas fa-book-open
-    轉職介紹: /categories/遊戲資料/轉職 || fas fa-book-open
+    轉職介紹: /datasets/decisive_agent/ || fas fa-book-open
     機率資料: /categories/遊戲資料/機率資料 || fas fa-book-open
     其他資料: /categories/遊戲資料/其他 || fas fa-book-open
     雲端圖庫: https://drive.google.com/drive/folders/1jFK6bpar4oSDy2_DeNQ4wOqFaBHDhoJ7?usp=share_link || fas fa-cloud
@@ -43,7 +44,7 @@ menu:
     贊助: /Donate/ || fas fa-dollar-sign
 
 # Hide the child menu items in mobile sidebar
-hide_sidebar_menu_child: false
+hide_sidebar_menu_child: true
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -119,6 +120,7 @@ disable_top_img: false
 
 # The banner image of home page
 index_img: /img/fort_bg.jpg
+# index_img: /img/test_cover.png
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: /img/Cover_Clsinfo.png
