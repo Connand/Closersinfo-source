@@ -23,6 +23,7 @@ tags:
     - 徹斯
     - 銀河
     - 露西
+    - 愛里
 category: [時裝, 輝煌時裝]
 cover: https://i.imgur.com/85hinXsh.jpg
 description: "第二套輝煌時裝(Unique costume)"
@@ -34,8 +35,8 @@ description: "第二套輝煌時裝(Unique costume)"
 ## 所羅門武裝(Solomon’s Vestments)
 所羅門武裝(Solomon’s Vestments)是基於前一年的閃耀之星，所接連出的第二套輝煌時裝(Unique costume)。於[AMAZING CLOSERS](https://www.youtube.com/watch?v=1ZKj7cuBx6Q)預告片中釋出
 
-
-
+23/03/23更新愛里
+[載點](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_230323_9D8CEC0ABD7D2E9A.zip)
 
 [台版介紹網頁](https://landing.mangot5.com/template/cls/event/211223_solomon/index.html)
 [韓版官網立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_210128.zip)
@@ -136,6 +137,9 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/a4VdXcyh.jpg)](https://i.imgur.com/a4VdXcy.jpg)
+<!-- endtab -->	
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/ZguYoneh.png)](https://i.imgur.com/ZguYone.png)
 <!-- endtab -->		
 <!-- tab 動作(未來~露西)-->
 {%youtube Je61jNZS49s %}

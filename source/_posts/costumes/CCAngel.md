@@ -10,11 +10,11 @@ tags:
     - 露西
     - 愛里
 category: [時裝, 有立繪, 限定角色]
-cover: https://i.imgur.com/Qr3HzV3.jpg
+cover: https://i.imgur.com/Qr3HzV3h.jpg
 description: "Cotton Candy Angel"
 ---
 
-![](https://i.imgur.com/Qr3HzV3h.jpg)
+![](https://i.imgur.com/Qr3HzV3.jpg)
 
 ---
 ## 棉花糖天使

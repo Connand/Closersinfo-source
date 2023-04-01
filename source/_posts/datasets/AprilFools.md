@@ -22,14 +22,27 @@ tags:
     - 徹斯
     - 銀河
     - 露西
+    - 愛里
     - 愚人節立繪
 category: [遊戲資料,其他]
-cover: https://i.imgur.com/3G5Z1Hgh.jpg
+cover: https://i.imgur.com/mDMxLqlh.jpg
 description: "愚人節立繪"
 ---
 
+{% tabs Banner %}
+<!-- tab 2023愚人節banner-->
+![](https://i.imgur.com/mDMxLql.jpg)
+<!-- endtab -->
+<!-- tab 2022前愚人節banner-->
 ![](https://i.imgur.com/3G5Z1Hg.jpg)
 ![](https://i.imgur.com/TJjwIeq.jpg)
+<!-- endtab -->
+{% endtabs %}
+
+
+
+23/03/23更新愛里
+[載點](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_AprilFools_230323_7B4568BB79FEB0AC.zip)
 
 
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_lieDay_210323_pdabaa.zip)
@@ -103,6 +116,9 @@ description: "愚人節立繪"
 <!-- tab 露西(Lucy)-->
 ![](https://i.imgur.com/aQ1nLpv.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/EbS7OTkh.png)](https://i.imgur.com/EbS7OTk.png)
+<!-- endtab -->	
 {% endtabs %}
 <!-- endtab -->
 
@@ -165,6 +181,9 @@ description: "愚人節立繪"
 <!-- tab 露西(Lucy)-->
 ![](https://i.imgur.com/dKG8nlv.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/yhgXWNdh.png)](https://i.imgur.com/yhgXWNd.png)
+<!-- endtab -->	
 {% endtabs %}
 <!-- endtab -->
 

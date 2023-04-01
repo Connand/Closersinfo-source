@@ -19,7 +19,7 @@ description: "龍刑接收器製作相關資訊"
 |副本難度|困難|噩夢|**<font color=#ff0000>極刑</font>**|
 |---|---|---|---|
 |戰力推薦|10,000,000|25,000,000|40,000,000|
-|主要掉落物|{% inlineImg https://i.imgur.com/mZ8i4uG.png 48px %}x60|{% inlineImg https://i.imgur.com/mZ8i4uG.png 48px %}x120|[列在下方](#%E8%B6%85%E8%B6%8A%E6%9D%90%E6%96%99)|
+|主要掉落物|{% inlineImg https://i.imgur.com/mZ8i4uG.png 48px %}x60|{% inlineImg https://i.imgur.com/mZ8i4uG.png 48px %}x120|[列在下方](#%E6%A5%B5%E5%88%91-%E8%B6%85%E8%B6%8A%E6%9D%90%E6%96%99)|
 |進場次數(**困難與惡夢共用**)|一周 2 次|一周 2 次|一周 1 次|
 |復活次數|限制 1 次|**<font color=#ff0000>不可復活</font>**|限制 1 次|
 |爆擊抵抗| - | - |3000%|

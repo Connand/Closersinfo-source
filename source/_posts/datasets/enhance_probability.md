@@ -1,9 +1,9 @@
 ---
-title: 強化機率表(開放+25新增)
+title: 強化機率表
 date: 2021-09-03 14:01:31
 tags: 資料紀錄
 category: [遊戲資料,機率資料]
-cover: https://i2.wp.com/closersinfo.xyz/wp-content/uploads/2021/08/Enchant16.png?ssl=1
+cover: /img/enhance/Enchant16.png
 description: ""
 ---
 
@@ -67,7 +67,7 @@ description: ""
 
 
 # <center>使用<font color=#ef674d>一般強化器燃料</font>時的機率表</center>
-![](https://i2.wp.com/closersinfo.xyz/wp-content/uploads/2021/08/Enchant16.png?ssl=1)
+<center>{% inlineImg /img/enhance/Enchant16.png 400px %}</center>
 
 ---
 
@@ -225,3 +225,21 @@ description: ""
 <!-- endtab-->
 {% endtabs %}
 
+---
+
+# 晶片槽機率
+
+指開啟與修改晶片槽的機率
+{% note warning simple %}
+**<font color=red>注意：</font>**
+1. 開啟第2或3格時，已經有的顏色會被排除，則此機率會平均分布在其他顏色中。
+2. 使用”驅動器”時(包含鉑金)，機率總和由100%變為124%，就是選擇的顏色會多24%機率
+{% endnote %}
+
+
+
+
+|顏色|武器|模組|護盾|接收器
+|:-:|:-:|:-:|:-:|:-:
+|**<font color=red>紅色</font><br><font color=blue>藍色</font><br><font color=#aa0>黃色</font><br><font color=green>綠色</font><br><font color=purple>紫色</font><br><font color=black>黑色</font><br><font color=#888>白色</font>**|13%|13%|13%|14%
+|**<font style="background: linear-gradient(to left, violet, indigo, blue, green, #aa0, orange, red);    -webkit-background-clip: text;    -webkit-text-fill-color: transparent;">鉑金</font>**|9%|9%|9%|2%

@@ -14,7 +14,7 @@ tags:
     - 銀河
     - 露西
 category: [時裝, 有立繪, 限定角色]
-cover: https://i.imgur.com/hBP3sB7.jpg
+cover: https://i.imgur.com/hBP3sB7h.jpg
 description: "Imperial Guard"
 ---
 

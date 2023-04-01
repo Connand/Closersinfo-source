@@ -427,7 +427,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 # Conquest Program
 難度最高的挑戰副本，共分30層
-**從2023/02/09更新開放至今(更新日03/04)尚未通關30層**
+**從韓版2023/02/09更新開放至03/29，才有首位玩家通關30層**
 [陸版首通30層](https://www.bilibili.com/video/BV14L411y7MX/?share_source=copy_web)
 從建議戰力2200萬開始，每一層加上200萬
 入場票可從Gate Wave的**危險度3**獎勵獲得{%inlineImg https://i.imgur.com/ZauopIm.png 64px%}

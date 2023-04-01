@@ -11,7 +11,7 @@ tags:
     - 蕾比亞
     - 哈比
 category: [時裝, 無立繪, 全角色]
-cover: https://i.imgur.com/dUO3lQL.jpg
+cover: https://i.imgur.com/dUO3lQLh.jpg
 description: ""
 
 ---

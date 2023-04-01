@@ -16,7 +16,7 @@ tags:
     - 露娜
     - 索瑪
 category: [時裝, 無立繪, 全角色]
-cover: https://i.imgur.com/QcjsG6X.png
+cover: https://i.imgur.com/QcjsG6Xh.png
 description: ""
 
 ---

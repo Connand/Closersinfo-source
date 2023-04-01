@@ -163,13 +163,15 @@ cover:
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
   flink: /img/friend_404.gif
-  post_page: /img/404.jpg
+  post_page: /img/emotes/EMT_GOMORI_3.PNG
+  #post_page: /img/404.jpg
 
 # A simple 404 page
 error_404:
   enable: true
   subtitle: '沒有這個頁面！'
-  background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  background: /img/emotes/EMT_GOMORI_3.PNG
+  #background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 
 post_meta:
   page: # Home Page
@@ -453,7 +455,7 @@ baidu_analytics:
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: UA-142985109-1
 
 # Tencent Analytics ID
 # https://mta.qq.com

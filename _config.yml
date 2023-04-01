@@ -4,16 +4,16 @@
 
 # Site
 title: 封印者攻略網
-subtitle: '歡迎來到封印者攻略網(測試站)'
-description: '靜態版封印者攻略網製作測試中'
-keywords:
+subtitle: '歡迎來到封印者攻略網'
+description: '新站即將正式營運'
+keywords: 封印者
 author: 梧夜
 language: zh-TW
 timezone: 'Asia/Taipei'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://connand.github.io/
+url: https://closersinfo.xyz
 permalink: :title/
 permalink_defaults:
 pretty_urls:

@@ -77,9 +77,8 @@ description: "重點寵物能力資料"
 其能力以提升種族增傷 (**<font color=#090>主動技能、強化素質</font>**) 為主
 用以應對特定BOSS
 **由於種族增傷的特性，通常來說 [0★的增傷寵物] 實戰強度是大於 [5★通用寵物]**
-{% hideToggle 種族增傷類寵物 %}
 
-{% tabs 增傷寵物 %}
+{% tabs 增傷寵物, -1 %}
 <!-- tab <img class="inline-img" src="https://i.imgur.com/I6BPtrp.png" style="height:32px">海底型-->
 1. {% inlineImg https://i.imgur.com/P1emmlZ.png 48px %}**<迷你阿斯莫德>**
 
@@ -326,16 +325,14 @@ description: "重點寵物能力資料"
 
 {% endtabs %}
 
-{% endhideToggle %}
 
 ---
 
 # 通用類寵物
 通用型寵物即為沒有種族增傷的寵物
 其能力以提升基本數值 (**<font color=#090>提升爆傷、降低敵人爆抗等</font>**) 為主
-{% hideToggle 通用類寵物 %}
 
-{% tabs 通用寵物 %}
+{% tabs 通用寵物, -1 %}
 <!-- tab 暴傷提升-->
 {% inlineImg https://i.imgur.com/ImeaAwT.png 48px %}**<迷你玲兒>**
 此寵物主動技能為提升自身爆傷 (**<font color=#090>空背浮合計高達90%</font>**)
@@ -427,7 +424,6 @@ description: "重點寵物能力資料"
 
 {% endtabs %}
 
-{% endhideToggle %}
 
 ---
 

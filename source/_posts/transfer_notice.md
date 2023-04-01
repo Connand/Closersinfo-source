@@ -5,7 +5,7 @@ updated: 2023-03-02 11:50:52
 tags: 轉移
 cover: https://i.imgur.com/jqKpOgK.png
 description: "普天同慶，樂意倒閉！"
-sticky: 1
+sticky: 2
 ---
 ![](https://i.imgur.com/YFpTZot.png)
 

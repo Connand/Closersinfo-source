@@ -13,11 +13,11 @@ tags:
     - 緹娜
     - 薇歐莉特
 category: [時裝, 無立繪, 全角色]
-cover: https://i.imgur.com/B3ZSKk5.jpg
+cover: https://i.imgur.com/B3ZSKk5l.jpg
 description: ""
 
 ---
-![](https://i.imgur.com/B3ZSKk5l.jpg)
+![](https://i.imgur.com/B3ZSKk5.jpg)
 # 旗袍馬褂
 
 為舊期時裝，僅到紅狼小隊

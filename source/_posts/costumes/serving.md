@@ -18,6 +18,11 @@ tags:
     - 索瑪
     - 白
     - 賽特
+    - 未來
+    - 金徹斯
+    - 銀河
+    - 露西
+    - 愛里
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/Gr686gnh.jpg
 description: "Serving Master"
@@ -29,6 +34,9 @@ description: "Serving Master"
 
 服務大師(原翻，Serving Master)，帶立繪的時裝
 湊齊所有部位即可使用立繪。
+
+2023/03/23補齊嚙鼠角色
+[載點](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_ServingRat_230323_073DDF61ECAD3FBD.zip)
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉下 green %} 
 
@@ -85,6 +93,21 @@ description: "Serving Master"
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
 [![](https://i.imgur.com/x58btUsh.jpg)](https://i.imgur.com/x58btUs.jpg)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/6Gwkw25h.png)](https://i.imgur.com/6Gwkw25.png)
+<!-- endtab -->
+<!-- tab 徹斯(Chulsoo)-->
+[![](https://i.imgur.com/V3fdvXkh.png)](https://i.imgur.com/V3fdvXk.png)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/zpu9h7vh.png)](https://i.imgur.com/zpu9h7v.png)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/OOseLmYh.png)](https://i.imgur.com/OOseLmY.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/AKvF10Nh.png)](https://i.imgur.com/AKvF10N.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -151,6 +174,21 @@ description: "Serving Master"
 [![](https://i.imgur.com/0R00T4qh.jpg)](https://i.imgur.com/0R00T4q.jpg)
 [![](https://i.imgur.com/qzTIMBsh.png)](https://i.imgur.com/qzTIMBs.png)
 <!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/tJtpd3yh.png)](https://i.imgur.com/tJtpd3y.png)
+<!-- endtab -->
+<!-- tab 徹斯(Chulsoo)-->
+[![](https://i.imgur.com/O9eitu9h.png)](https://i.imgur.com/O9eitu9.png)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/h5NkwPnh.png)](https://i.imgur.com/h5NkwPn.png)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/AgUY5vch.png)](https://i.imgur.com/AgUY5vc.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/wSgTENqh.png)](https://i.imgur.com/wSgTENq.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -216,6 +254,21 @@ description: "Serving Master"
 [![](https://i.imgur.com/2WCEXPVh.jpg)](https://i.imgur.com/2WCEXPV.jpg)
 [![](https://i.imgur.com/wYwVWuVh.png)](https://i.imgur.com/wYwVWuV.png)
 <!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/ZA4yVjnh.png)](https://i.imgur.com/ZA4yVjn.png)
+<!-- endtab -->
+<!-- tab 徹斯(Chulsoo)-->
+[![](https://i.imgur.com/z4hn69Mh.png)](https://i.imgur.com/z4hn69M.png)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/rboQInZh.png)](https://i.imgur.com/rboQInZ.png)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/5GmxTcqh.png)](https://i.imgur.com/5GmxTcq.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/WTaJGq5h.png)](https://i.imgur.com/WTaJGq5.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -280,6 +333,21 @@ description: "Serving Master"
 <!-- tab 賽特(Seth)-->
 [![](https://i.imgur.com/qtwGvePh.jpg)](https://i.imgur.com/qtwGveP.jpg)
 [![](https://i.imgur.com/VyNylGph.png)](https://i.imgur.com/VyNylGp.png)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/V4wjg2Wh.png)](https://i.imgur.com/V4wjg2W.png)
+<!-- endtab -->
+<!-- tab 徹斯(Chulsoo)-->
+[![](https://i.imgur.com/4KN2kWHh.png)](https://i.imgur.com/4KN2kWH.png)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/YoZgf8vh.png)](https://i.imgur.com/YoZgf8v.png)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/z4XNxk4h.png)](https://i.imgur.com/z4XNxk4.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/uzTUSuTh.png)](https://i.imgur.com/uzTUSuT.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

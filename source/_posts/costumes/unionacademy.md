@@ -22,7 +22,7 @@ tags:
     - 銀河
     - 露西
 category: [時裝, 無立繪, 全角色]
-cover: https://i.imgur.com/Fa8P9Qm.jpg
+cover: https://i.imgur.com/Fa8P9Qmh.jpg
 description: ""
 ---
 

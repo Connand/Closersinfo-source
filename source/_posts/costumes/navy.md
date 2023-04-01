@@ -14,7 +14,7 @@ tags:
     - 薇歐莉特
     - 沃爾夫姜
 category: [時裝, 無立繪, 全角色]
-cover: https://i.imgur.com/fWoKVaM.jpg
+cover: https://i.imgur.com/fWoKVaMh.jpg
 description: ""
 
 ---

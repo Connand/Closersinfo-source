@@ -8,7 +8,7 @@ tags:
     - J
     - 米斯特汀
 category: [時裝, 無立繪, 限定角色]
-cover: https://i.imgur.com/dDYLWNz.jpg
+cover: https://i.imgur.com/dDYLWNzh.jpg
 description: ""
 ---
 

@@ -23,7 +23,7 @@ tags:
     - 露西
     - 可染色
 category: [時裝, 無立繪, 全角色]
-cover: https://i.imgur.com/n5KqSjS.png
+cover: https://i.imgur.com/n5KqSjSh.png
 description: ""
 
 ---

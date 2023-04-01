@@ -22,12 +22,12 @@ tags:
     - 銀河
     - 露西
 category: [時裝, 無立繪, 全角色]
-cover: https://i.imgur.com/UkIuJZc.jpg
+cover: https://i.imgur.com/UkIuJZch.jpg
 description: ""
 
 ---
 
-![](https://i.imgur.com/UkIuJZch.jpg)
+![](https://i.imgur.com/UkIuJZc.jpg)
 
 ---
 ## 極限冬季

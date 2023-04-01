@@ -9,7 +9,7 @@ tags:
     - 緹娜
     - 露西
 category: [時裝, 有立繪, 限定角色]
-cover: https://i.imgur.com/lFp8nNv.jpg
+cover: https://i.imgur.com/lFp8nNvh.jpg
 description: ""
 ---
 
