@@ -1,14 +1,39 @@
 ---
 title: 新手/回歸玩家快速上手指南
 date: 2023-02-23 11:25:52
-updated: 2023-04-01 04:01:00
+updated: 2023-04-13 18:01:00
 tags: 轉移
 cover: https://i.imgur.com/jqKpOgK.png
-description: "轉移特輯 (絕讚建置中)"
+description: "轉移特輯 (大致完工！)"
 sticky: 1
 ---
 
-# 角色傷害類型
+# 角色選擇
+
+**主要是自己看喜歡的即可**
+可以先參考[【攻略】新手該選什麼角色？伺服器選擇？全職業介紹及各問題整理](https://forum.gamer.com.tw/C.php?bsn=23655&snA=8240&tnum=7&subbsn=8&bPage=2)
+也可以點各角色去看巴哈上面對應角色的詳細玩法攻略
+但是有些文章的技能功能可能因為平衡並非完全相同，建議利用 **<訓練場>** 練習測試
+日期前面標註 "T" 則表示此文章為陸版貼吧文章
+{% note warning simple %}
+**<font color=red>注意</font>** ：部分文章可能未包含五轉技能
+{% endnote %}
+
+|黑羊小隊|紅狼小隊|夜梟小隊|嚙鼠小隊
+|:-|:-|:-|:-
+|[李世河](https://forum.gamer.com.tw/C.php?bsn=23655&snA=8997&tnum=1&subbsn=11) 2021/04/19<br>[李雪菲](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9063) 2022/02/14<br>徐維莉<br>J<br>米斯特汀|納塔<br>[蕾比雅](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9277&tnum=3) 2023/04/12<br>哈比<br>[緹娜](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9172&tnum=2&bPage=2) 2022/09/30<br>[薇歐莉特](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9055&tnum=1&bPage=4) 2022/11/10|沃爾夫姜<br>露娜<br>索瑪<br>[白](https://tieba.baidu.com/p/8016335815?pn=1) T2023/01/03<br>賽特|未來<br>[金徹斯](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9190&tnum=1&bPage=2) 2022/07/30<br>[銀河](https://tieba.baidu.com/p/7216785049) T2021/02/04<br>露西<br>愛里
+
+額外參考：
+[封印者全角色PVE攻略](https://tieba.baidu.com/home/main?id=tb.1.c63e10b1.zuxqZuR820CSNU2xTPrgbg?t=1536394254&fr=pb) T2019年：包含除嚙鼠小隊外15隻角色的玩法，但由於是2019年的文章，內容可能已經與實際情況大幅改變了
+白：[玩法](https://docs.qq.com/doc/DWkpRbFhmZ0JPQU5Q) [技能](https://docs.qq.com/sheet/DWldzUUhKd0hERXZV?tab=BB08J2) T2023/01/03
+[徹斯](https://tieba.baidu.com/p/7789656101) T2023/03/27
+
+攻擊屬性：會影響重鑄目標、以及史詩裝備(紅裝)選擇等問題
+
+{% note info simple %}
+有關技能點法，可參考[這個Excel](https://docs.google.com/spreadsheets/d/1M1Qvw8TALxd2zZjTEd6Rq8p_UpCDswCcV-wf7tpDCrE/edit#gid=735145887)
+由群內玩家 憲兵多拉 提供
+{% endnote %}
 
 |物理|魔法|混合
 |:-|:-|:-
@@ -17,6 +42,7 @@ sticky: 1
 ---
 
 # 常用與隱藏小技巧
+04/02補上"空白鍵"功用
 
 |指令|功能
 |:-|:-
@@ -25,6 +51,8 @@ sticky: 1
 |Ctrl + 滑鼠右鍵|將道具從**背包移到帳號倉庫**，或將道具從**角色倉庫跟帳號倉庫之間移動**
 |Ctrl + 拖曳道具|拆分道具
 |Shift + 左鍵道具|將道具資訊貼上聊天室
+|空白鍵|完成任務
+|調查隊(12人)相關|如果是隊長的情況下，在完成副本時按下ESC並點{%inlineImg /img/new_ret_tip/exit.png 60px%}即可快速離開副本(不需要F3倒數)
 
 ## 拍賣相關
 - 指定販賣拍賣行(指定交易)開放條件：
@@ -37,6 +65,39 @@ sticky: 1
 若再選擇下面的**角色：<font color=#ff40af>李雪菲</font>** 後，透過此技巧可搜尋 **<font color=#ff40af>李雪菲</font>的所有時裝**
 
 {%inlineImg /img/new_ret_tip/market_tip.gif 350px%}
+
+---
+
+# 各式簡稱
+
+## 角色簡稱
+
+|黑羊小隊|紅狼小隊|夜梟小隊|嚙鼠小隊
+|:-|:-|:-|:-
+|李世河：PSP<br>李雪菲：粉毛<br>徐維莉：大姊<br>J<br>米斯特汀：小米|納塔：NT<br>蕾比雅：LVA<br>哈比：HB<br>緹娜：TN<br>薇歐莉特：大小姐、VIO|沃爾夫姜：VR<br>露娜：LN<br>索瑪：SM、SOMA<br>白<br>賽特：ST|未來<br>金徹斯：徹斯、YSY(陸版)<br>銀河<br>露西：LC<br>愛里
+
+
+## 副本簡稱
+
+{% note blue 'fas fa-question-circle' simple %}
+副本簡稱請參考巴哈上的[【心得】台版副本招募術語](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9261&tnum=1)
+{% endnote %}
+額外補充 (以單人常刷副本為主)：
+
+|用語|說明
+|:-|:-:
+|**中熊** 與 **高熊** 與 **樂園**<br>**通稱熊本**|分別對應 **格莫瑞中央研究室** 與 **格莫瑞中央研究室[高級課程]** 與 **熊熊樂園** <br>大量PNA經驗與PNA材料來源
+|超頻|**必殺程式：沃爾夫姜<<超頻>>** 與 **必殺程式：霍夫曼<<超頻>>** <br>為常打的單人資源副本之一
+|蟲小|**IF - 來不及迎接的世界 1** 與 **IF - 從今天分裂而成的昨天** <br>為常打的單人資源副本之一，以前者較常打
+|海小|**IF - 被洪水淹沒的世界** 與 **IF - 被迷霧吞噬的日常** <br>資源副本之一，副本時間比蟲小快，但**沒有觸發器燃料**與**材料量較少**為其缺點
+|雷本|**平原之門：深層** <br>為常打的單人資源副本之一，其王關必定掉落 **馬列克水晶箱**
+|雷小|**雷本** 中的 **汙染超能的手下們** <br>為資源副本之一， **彩虹次元塵埃** 掉落量較多
+|古龍300|**古龍遺跡地 (簡稱古龍)** 中的 **震懾的沙塵暴** 與 **猛毒的沙塵暴** <br>為資源副本之一，單場 **消耗5疲勞** ，相比**龍800**的單場10疲勞來說，平均材料量多
+
+{% note primary simple %}
+延伸參考：[日常農本與製作指南](/datasets/farming_guide/)
+{% endnote %}
+
 
 ---
 
@@ -60,7 +121,7 @@ sticky: 1
 **<font color=red>如果在不放置任何保護劑超越的話，所有道具數值會重置(強化、重鑄、晶片)</font>**
 因此了解超越方法會幫助正確的使用材料，避免浪費
 {% note blue 'fas fa-question-circle' simple %}
-**超越方法** [(點此看大圖)](/img/new_ret_tip/transGuide_v2.png)
+**超越方法** <a target="_blank" rel="noopener external nofollow noreferrer" href="/img/new_ret_tip/transGuide_v2.png">(點此看大圖)</a>
 {% endnote %}
 
 ---
@@ -134,9 +195,9 @@ sticky: 1
 {% hideToggle 如果缺少SP的話 %}
 1. 請先從各村莊<font color=red>販賣機</font>中 點數商店(D)->貢獻度 底下確認是否已經購買經驗之書
 
-<div style="text-align: center">{% inlineImg /img/new_ret_tip/SP_get.png 300px %}</div>
+<div style="text-align: center">{% inlineImg /img/new_ret_tip/SP_get.png 250px %}</div>
 
-2. **<font color=red>平原之門</font>** 的所有任務請務必解完，主要為紅色/藍色次元傳送石(俗成紅藍本)相關任務都要解完 
+2. **<font color=red>平原之門</font> (共 40 SP)** 的所有任務請務必解完，主要為紅色/藍色次元傳送石(俗成紅藍本)相關任務都要解完 
 ~~雖然場數很多但請還是努力打完~~
 
 3. <font color=red>主線任務</font>。尤其黑羊、紅狼、夜梟角色的主線到 **獵者之夜(12村)** 或 **釜山-南浦洞(13村)** 的最後一個任務還會有經驗之書
@@ -167,7 +228,7 @@ sticky: 1
 - [龍之刑場](/datasets/dragon/)
 
 {% note blue 'fas fa-question-circle' simple %}
-請參考這張裝備流程圖 [(點此看大圖)](/img/new_ret_tip/gearflow_v3.png)
+請參考這張裝備流程圖 <a target="_blank" rel="noopener external nofollow noreferrer" href="/img/new_ret_tip/gearflow_v3.png">(點此看大圖)</a>
 {% endnote %}
 
 
@@ -198,6 +259,7 @@ sticky: 1
 <div class="childDiv">
 
 **<font size=5>能力提升</font>**
+- [團隊增益](/datasets/spec/teambuff/)
 - [稀有與輝煌時裝](/datasets/spec/synthesis/)
 - [突變PNA](/datasets/mutantPNA/)
 - [增幅PNA](/datasets/spec/ampPNA/)
@@ -214,6 +276,7 @@ sticky: 1
 <div class="childDiv">
 
 **<font size=5>其他</font>**
+- [農本指南](/datasets/farming_guide/)
 - [優化讀取與畫面流暢的方法](/datasets/settingWithRTSS/)
 - [相關連結](/link/)
 - [日配資料](/datasets/JP_vocal/)

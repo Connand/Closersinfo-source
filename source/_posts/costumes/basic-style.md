@@ -1,5 +1,5 @@
 ---
-title: 基本色調
+title: 純粹風格(基本色調)
 date: 2023-02-09 11:09:15
 tags:
     - 李世河
@@ -21,6 +21,7 @@ tags:
     - 徹斯
     - 銀河
     - 露西
+    - 愛里
     - 可染色
 category: [時裝, 無立繪, 全角色]
 cover: https://i.imgur.com/n5KqSjSh.png
@@ -100,6 +101,9 @@ description: ""
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/R8paB2vl.png)](https://i.imgur.com/R8paB2v.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+![](https://i.imgur.com/StJDkvW.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -162,6 +166,9 @@ description: ""
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/EfliLAbl.png)](https://i.imgur.com/EfliLAb.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+![](https://i.imgur.com/xMY4TWB.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -223,6 +230,9 @@ description: ""
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/2qknmkLl.png)](https://i.imgur.com/2qknmkL.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+![](https://i.imgur.com/h8xVgOx.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

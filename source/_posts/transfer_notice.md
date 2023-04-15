@@ -1,12 +1,55 @@
 ---
-title: 台版轉移公告(0302更新)
+title: 台版轉移公告(0413更新，事前預約！)
 date: 2023-02-23 11:25:52
-updated: 2023-03-02 11:50:52
+updated: 2023-04-13 18:01:01
 tags: 轉移
 cover: https://i.imgur.com/jqKpOgK.png
-description: "普天同慶，樂意倒閉！"
+description: "<b>0413更新常見問題</b><br>普天同慶，樂意倒閉！"
 sticky: 2
 ---
+
+# 新台版事前預約開始！
+
+即刻起至4月23日23:59前都可預約
+
+預約官網：https://closers-event.tw/
+新台版粉絲專頁：https://www.facebook.com/CLOSERSTAIWAN
+
+新台版QA整理：https://hackmd.io/@tOZ1RZxvRrO9PysmfXLKqg/SJtHBtWG2
+
+<font size=4>0223舊台版轉移公告：https://cls.mangot5.com/game/cls/news/detail?contentNo=53217</font>
+<font size=4>0309補充公告：https://cls.mangot5.com/game/cls/news/detail?contentNo=53339</font>
+<font size=4>0413提醒：http://cls.mangot5.com/game/cls/news/detail?contentNo=53727</font>
+
+<font size=5>問題整理：</font>
+
+- **<font color=red>0417前請把「商城背包」所有道具領出</font>**
+
+- **<font color=red>轉移與預約獎勵是同一份，兩個都做不會拿到兩份</font>**
+
+- 轉移前(0417)要先關OTP嗎？
+不用，但是之後原廠會沒有OTP系統，應該會有比樂意好的防盜或回復機制
+
+- 之後還有MyCard管道嗎？
+有
+
+- 轉移之間能玩嗎？
+沒有，0417~0424 請休肝
+
+- 網路轉移啥時開啟？
+0414後開放網路轉移，還沒轉移的會寄Email提醒
+
+- 點數不會轉移，請 在0417的0:00前用完(或轉移跟退費，退費收25%手續費) 或 0406起開放退費
+**<font color=red>UNION會員點數 (UMP) 屬於遊戲貨幣，並非遊戲點數，因此會一起轉移</font>**
+
+- 轉移出問題怎麼辦？
+建議清除Cookie或換一個瀏覽器試看看
+
+- 回鍋了有參考的攻略嗎？
+請參考 [新手/回歸玩家快速上手指南](/new_ret_notice/)
+
+---
+
 ![](https://i.imgur.com/YFpTZot.png)
 
 
@@ -57,3 +100,5 @@ sticky: 2
 
 - 或者在官網申請完後，會有如下面的轉移成功Email
 ![](https://i.imgur.com/TNWUJN4.png)
+
+---

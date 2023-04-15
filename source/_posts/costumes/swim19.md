@@ -218,11 +218,11 @@ description: "2019泳裝系列"
 <!-- endtab -->
 <!-- tab 白(Bai)-->
 [![](https://i.imgur.com/u1ZHdMsh.jpg)](https://i.imgur.com/u1ZHdMs.jpg)
-[![](https://i.imgur.com/l5kX0qMh.png)](https://i.imgur.com/l5kX0qM.png)
+[![](https://i.imgur.com/A4TtyBmh.png)](https://i.imgur.com/A4TtyBm.png)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
 [![](https://i.imgur.com/WctKjbph.jpg)](https://i.imgur.com/WctKjbp.jpg)
-[![](https://i.imgur.com/A4TtyBmh.png)](https://i.imgur.com/A4TtyBm.png)
+[![](https://i.imgur.com/l5kX0qMh.png)](https://i.imgur.com/l5kX0qM.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -282,11 +282,11 @@ description: "2019泳裝系列"
 [![](https://i.imgur.com/TxuwPJGh.png)](https://i.imgur.com/TxuwPJG.png)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-[![](https://i.imgur.com/auORFvlh.jpg)](https://i.imgur.com/auORFvl.jpg)
+[![](https://i.imgur.com/QrWn4kAh.jpg)](https://i.imgur.com/QrWn4kA.jpg)
 [![](https://i.imgur.com/fZ4nogUh.png)](https://i.imgur.com/fZ4nogU.png)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-[![](https://i.imgur.com/QrWn4kAh.jpg)](https://i.imgur.com/QrWn4kA.jpg)
+[![](https://i.imgur.com/auORFvlh.jpg)](https://i.imgur.com/auORFvl.jpg)
 [![](https://i.imgur.com/oerB5c6h.png)](https://i.imgur.com/oerB5c6.png)
 <!-- endtab -->
 {% endtabs %}

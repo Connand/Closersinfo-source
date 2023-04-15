@@ -2,7 +2,7 @@
 title: 史詩裝備掉落紀錄(第100件史詩裝備！)
 date: 2021-09-07 14:45:59
 tags: 資料紀錄
-category: [遊戲資料,能力提升]
+category: [遊戲資料,其他]
 cover: https://i.imgur.com/iQtB29Fh.jpg
 description: "紀錄那些超級歐洲人"
 ---
@@ -10,19 +10,19 @@ description: "紀錄那些超級歐洲人"
 改址前閱讀量5589
 
 # 目前記錄已掉落數量
-**<font size=5 color=#000000>138件 = 58深海 + 80機械</font>**
+**<font size=5 color=#000000>149件 = 58深海 + 90機械</font>**
 **<font size=4 color=#ff0000>2022/12/03 00:45 第100件史詩裝備</font>**
 **<font size=4 color=#ff0000>2022/12/31 15:51 第10顆機械魔方</font>**
 
 ---
 
 # <font color=#ff0000>機械</font>史詩裝備相關
-## 掉落數：80
+## 掉落數：90
 |種類|核心|模組1|模組2|
 |:-:|:-:|:-:|:-:|
-|物理|長劍<br>**6**|引擎<br>**<font color=#f00>15</font>**|推進器<br>**7**|
-|魔法|權杖<br>**9**|調節器<br>**3**|發生器<br>**8**|
-|雙傷|鐮刀<br>**<font color=#f00>10</font>**|保險絲<br>**<font color=#f00>10</font>**|魔方<br>**<font color=#f00>12</font>**|
+|物理|長劍<br>**8**|引擎<br>**<font color=#f00>15</font>**|推進器<br>**9**|
+|魔法|權杖<br>**9**|調節器<br>**6**|發生器<br>**9**|
+|雙傷|鐮刀<br>**<font color=#f00>11</font>**|保險絲<br>**<font color=#f00>11</font>**|魔方<br>**<font color=#f00>12</font>**|
 
 ## 裝備說明文
 {% hideToggle 裝備說明文 %}
@@ -46,11 +46,11 @@ description: "紀錄那些超級歐洲人"
 ---
 
 # <font color=#ff0000>深海</font>史詩裝備相關
-## 掉落數：58
+## 掉落數：59
 |種類|核心|模組1|模組2|
 |:-:|:-:|:-:|:-:|
 |物理|長劍<br>**8**|引擎<br>**7**|推進器<br>**5**|
-|魔法|權杖<br>**8**|調節器<br>**8**|發生器<br>**5**|
+|魔法|權杖<br>**8**|調節器<br>**8**|發生器<br>**6**|
 |雙傷|鐮刀<br>**6**|保險絲<br>**2**|魔方<br>**9**|
 
 ## 裝備說明文
@@ -144,6 +144,83 @@ description: "紀錄那些超級歐洲人"
 
 # 時間軸
 {% timeline <strong>掉落時間</strong> %}
+
+{% timenode <font size=4>2023/04/03 23:04</font> %}
+
+**第6顆機械調節器**
+![](/img/epicgears/epicgear149.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/04/03 19:45</font> %}
+
+**第6顆深海發生器**
+![](/img/epicgears/epicgear148.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/04/03 15:08</font> %}
+
+**第9顆機械推進器**
+![](/img/epicgears/epicgear147.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/04/01 16:27</font> %}
+
+**第8把機械長劍**
+![](/img/epicgears/epicgear146.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/03/31 00:30</font> %}
+
+**第11顆機械保險絲**
+![](/img/epicgears/epicgear145.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/03/28 23:03</font> %}
+
+**第11把機械鐮刀**
+![](/img/epicgears/epicgear144.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/03/26 10:35</font> %}
+
+**第5顆機械調節器**
+![](/img/epicgears/epicgear143.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/03/25 21:21</font> %}
+
+**第7把機械長劍**
+![](/img/epicgears/epicgear142.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/03/19 23:26</font> %}
+
+**第8顆機械推進器**
+![](/img/epicgears/epicgear141.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/03/19 02:41</font> %}
+
+**第9顆機械發生器**
+![](/img/epicgears/epicgear140.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/03/17 22:16</font> %}
+
+**第4顆機械調節器**
+![](/img/epicgears/epicgear139.png)
+
+{% endtimenode %}
 
 {% timenode <font size=4>2023/03/14 23:00</font> %}
 

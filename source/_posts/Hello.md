@@ -1,12 +1,17 @@
 ---
 title: 你好！
 date: 2021-08-31 11:25:52
-updated: 2021-08-31 11:50:52
+updated: 2021-08-32 11:50:52
 tags: TEST1
+katex: true
 ---
 
-<%- date(Date.now()) %>
+% \f is defined as #1f(#2) using the macro
+$\f\relax{x} = \int_{-\infty}^\infty
+    \f\hat\xi\,e^{2 \pi i \xi x}
+    \,d\xi
 
+26
 
 ## 表格測試
 |123|456|
@@ -14,6 +19,7 @@ tags: TEST1
 |2561516573|148|
 |917|6801561561|
 
+2233
 ## 第一篇
 
 123

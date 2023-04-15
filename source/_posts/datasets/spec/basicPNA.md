@@ -32,7 +32,7 @@ description: "最基本的PNA說明"
 
 特殊PNA的擺法基本上是固定的組合，只有**緹娜**會用浮空來替代空中的PNA
 
-|表格|標題|方法
+|第一格|第二格|第三格
 |:-:|:-:|:-:
 |{% inlineImg /img/PNA/HQ_PNA_SPECIAL_ATT.PNG 50px %}武器親和力|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC.PNG 50px %}跑動射擊|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC_2.PNG 50px %}空中戰士(其餘)<br>{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC_1.PNG 50px %}極速浮空(**緹娜**)
 

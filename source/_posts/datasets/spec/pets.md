@@ -296,7 +296,7 @@ description: "重點寵物能力資料"
 <!-- endtab -->
 
 <!-- tab <img class="inline-img" src="https://i.imgur.com/gdXdckN.png" style="height:32px">特異型-->
-{% inlineImg https://i.imgur.com/BNasNU5.png 48px %}**<迷你百變怪>**
+{% inlineImg https://i.imgur.com/BNasNU5.png 48px %}**<迷你莉莉姆>**
 
 <div class="altop">
 
@@ -420,6 +420,33 @@ description: "重點寵物能力資料"
 
 
 ![](https://i.imgur.com/ugWNemg.png)
+<!-- endtab -->
+
+<!-- tab 練等專用-->
+{% inlineImg https://i.imgur.com/I0wVFM7.png 48px %}**<迷你楊秀妍>**
+寵物能力幾乎無用處
+**<font color=#090>但是擁有少量的(角色/PNA)經驗值加成 (10%)，尤其對於練突變所需要的PNA經驗，算是不無小補</font>**
+
+<div class="altop">
+
+|被動|戰鬥技能|主動技能|
+|:-:|:-:|:-:|
+|增加最大生命值1500<br>增加最大魔法值1500<br>物理/魔法防禦穿透率15%<br>**<font color=#d60>追加經驗值10%</font>**<br>**<font color=#d60>追加PNA經驗值10%</font>**|<font color=#900>冷卻40秒</font><br><font color=#090>持續50秒</font><br>物理/魔法爆擊傷害25%<br>技能冷卻時間-5%<br>技能資源節約-5%|<font color=#900>冷卻40秒</font><br><font color=#090>- 持續40秒</font><br>物理防禦力2500<br>魔法防禦力2500<br>每秒恢復HP1%<br>每秒恢復MP1%<br><font color=#090>- 持續9999秒</font><br>移動速度(%)6%|
+
+</div>
+
+**強化能力**
+
+|詞條|0★|1★|2★|3★|4★|5★|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|HP|?|?|?|?|?|900
+|MP|?|?|?|?|?|450
+|物理/魔法攻擊力|?|?|?|?|?|250
+|物理/魔法防禦力|?|?|?|?|?|600
+|物理/魔法爆擊傷害|-|-|?%|?%|?%|50%
+|總物理/魔法攻擊力|-|-|-|?%|?%|1%
+|道具自動使用欄位數量|-|-|1|2|3|4
+
 <!-- endtab -->
 
 {% endtabs %}

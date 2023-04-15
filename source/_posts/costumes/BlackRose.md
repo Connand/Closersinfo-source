@@ -1,5 +1,5 @@
 ---
-title: 永恆的漆黑薔薇(暫譯，測試功能)
+title: 永恆的漆黑薔薇(暫譯)
 date: 2022-09-07 12:09:15
 tags:
     - 立繪時裝
@@ -21,18 +21,21 @@ tags:
     - 未來
     - 金徹斯
     - 銀河
+    - 愛里
     - 露西
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/J3b5en6h.jpg
 description: "Eternal Black Rose<br>加速讀圖速度功能測試"
 ---
 
-![](https://file.nexon.com/NxFile/download/FileDownloader.aspx?oidFile=5197197585378443303)
+![](https://i.imgur.com/J3b5en6.jpg)
 
 ---
 ## Eternal Black Rose
 
 **注意**：立繪僅分一般和特殊，模組分2型
+
+[2023/04/06更新](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=561)補上艾里
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 特效 green %}
 
@@ -40,9 +43,6 @@ description: "Eternal Black Rose<br>加速讀圖速度功能測試"
 [宣傳頁面](https://closers.nexon.com/Events2022/0907/Costume)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_black_rose_220905_3F8D10C3.zip)
 ---
-
-**實驗性功能測試：**
-**<font color=#F00>將頁面上顯示圖片的解析度降低(加速讀取)，點圖片可以看原圖(相對高清)。有相關建議可以Discord找我提供。</font>**
 
 
 {% tabs 類型 %}
@@ -105,6 +105,9 @@ description: "Eternal Black Rose<br>加速讀圖速度功能測試"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/lz5Ox2Lh.png)](https://i.imgur.com/lz5Ox2L.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/VxbLq39h.png)](https://i.imgur.com/VxbLq39.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -166,6 +169,9 @@ description: "Eternal Black Rose<br>加速讀圖速度功能測試"
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/FxXOK7eh.png)](https://i.imgur.com/FxXOK7e.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/4L15OIgh.png)](https://i.imgur.com/4L15OIg.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

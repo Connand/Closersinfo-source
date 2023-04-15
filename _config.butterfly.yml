@@ -120,10 +120,11 @@ disable_top_img: false
 
 # The banner image of home page
 index_img: /img/fort_bg.jpg
-# index_img: /img/test_cover.png
+#index_img: /img/125M.png
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: /img/Cover_Clsinfo.png
+#default_top_img: /img/122M.png
 
 # The banner image of archive page
 archive_img:
@@ -145,7 +146,7 @@ category_img:
 # format:
 #  - category name: xxxxx
 category_per_img:
-  時裝: https://i.imgur.com/J3b5en6h.jpg
+  時裝: https://i.imgur.com/Qr3HzV3h.jpg
   遊戲資料: https://i.imgur.com/i9QFdYEh.jpg
 
 cover:
@@ -209,7 +210,7 @@ index_post_content:
 # toc (目錄)
 toc:
   enable: true
-  number: true
+  number: false
   style_simple: false
 
 post_copyright:
@@ -614,7 +615,7 @@ beautify:
   enable: false
   field: post # site/post
   title-prefix-icon: '\f0c1'
-  title-prefix-icon-color: '#F47466'
+  title-prefix-icon-color: '#F47466' #'#05A2DE'
 
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
@@ -656,7 +657,7 @@ subtitle:
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
-    - 重要消息：台版轉移作業即刻開始，請參考至頂文章
+    - 重要消息：台版轉移作業即將截止，請儘速進行！
     - 歡迎加入Discord群組！
     - 建議使用電腦瀏覽此網站
     - 次元戰爭永不停歇

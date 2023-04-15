@@ -16,6 +16,16 @@ description: ""
 
 **此分頁為<font color=red>稀有時裝(Rare Costume)、輝煌時裝(Unique Costume)</font>的詳細介紹**
 
+**合成懶人包**
+
+|目標|材料|成功率
+|:-:|:-:|:-:
+|稀有|二星 + 二星|10%
+|稀有|三星 + 三星|100%
+|輝煌|三星 + 三星|25%
+|輝煌|稀有 + 稀有|50%
+
+
 # 左六、右四分別為哪些部位?
 
 **武器、頭髮、上衣、下衣、手套、鞋子**是稀有、輝煌的合成部位，因為主要位於時裝欄左邊，俗稱<font color=#00a2ff> **左六** </font> 
@@ -90,7 +100,7 @@ description: ""
 |{% inlineImg https://i.imgur.com/nGzxSPA.png 300px %}|{% inlineImg https://i.imgur.com/ecLbdY9.png 300px %}|
 
 {% note info simple %}
-<font size=4>**額外獲得方法：**不定期扭蛋機、CN專屬：BINGO</font>
+<font size=4><b>額外獲得方法：</b>不定期扭蛋機、CN專屬：BINGO</font>
 {% endnote %}
 
 1. 不定期扭蛋機
@@ -151,6 +161,8 @@ description: ""
 
 - ## 套裝效果
 
+備註： **服裝室** 可於任何村莊尋找白鳥博士 (劇場則是倉庫)開啟，可以將不會使用的稀有/輝煌放進去來獲得額外能力 **並保留除表情外的所有視覺效果**
+
 |X件套|輝煌時裝|稀有時裝|
 |:-:|:-:|:-:|
 |10件套|物爆/魔爆+50%<br>正式特工/解決師必殺技Lv+2<br><font color=#ff0000> **[氣力鍛鍊]、[精神修練]、[奪寶奇兵]Lv+2** </font> |物爆/魔爆+35%<br>正式特工/解決師必殺技Lv+2|
@@ -177,7 +189,7 @@ description: ""
 但是數量只能透過此道具查看且這道具價格並不便宜 (128元/1個、1288元/11個)
 下面列出單件使用數量供參考
 
-|-|武器、上衣、下衣|頭髮、手套、鞋子|飾品
+|重新包裝核准證 [輝煌時裝]|武器、上衣、下衣|頭髮、手套、鞋子|飾品
 |:-:|:-:|:-:|:-:
 |{% inlineImg /img/material/unique_repack.png 50px %}|<font size=4>9</font>|<font size=4>7</font>|<font size=4>5</font>
 

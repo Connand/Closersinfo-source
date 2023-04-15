@@ -7,6 +7,16 @@ cover: https://i.imgur.com/bF7eDfD.png
 description: "能力飾品資料整理"
 ---
 
+# 組合時裝
+
+由製作取得，建議可直接做 **深海王連身** (大淨化連身為直升角色送的部分)
+
+|組合時裝|道具圖|能力值|
+|:-:|:-|:-|
+| 深海王 | {% inlineImg https://i.imgur.com/eq0ZfOa.png 40px %}{% inlineImg https://i.imgur.com/4khmgZK.png 40px %} | 物理/魔法爆傷 +15%<br><正式/執行者必殺(2大)> Lv+1<br>攻擊速度 +3% |
+| 大淨化 | {% inlineImg https://i.imgur.com/fSK8eom.png 40px %}{% inlineImg https://i.imgur.com/hPyWrDa.png 40px %} | 物理/魔法爆傷 +10%<br>造成的增傷+5% |
+
+---
 
 # 軍團長系列
 

@@ -3,7 +3,7 @@ title: 技能核心與軍團程式
 date: 2022-03-06 12:45:59
 tags: 資料紀錄
 category: [遊戲資料, 能力提升]
-cover: https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4692777217178996618
+cover: https://i.imgur.com/Zm1unpL.gif
 description: "2022年技能核心改版介紹"
 ---
 
@@ -12,13 +12,12 @@ https://docs.google.com/document/d/1A3PdFADHraQIHI36Ag_9SjOvsQ6fr2xAR8eu0xMB03Q/
 備份資料
 https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/edit?usp=sharing
 
+[官網特效圖](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4692777217178996618)
 [參考更新公告(韓版)](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=506)
 
 ---
 
-# 技能核心
-
-## 使用介面
+# 技能核心使用介面
 
 {% hideToggle 使用介面 %}
 **<font color=#ff0000 size=5>技能核心將會變成帳號制，有專屬背包可以存放</font>**
@@ -30,13 +29,15 @@ https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/
 
 ---
 
-## 核心合成
+# 核心合成
 
+{% hideToggle 使用介面 %}
 **使用3個相同等級(例如傳說或覺醒等)的技能核心可以進行合成，10%機率可以合成到高一階的核心**
 
 ![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4764902053224907063)
+{% endhideToggle %}
 
-### 目前取得技能核心的管道
+## 目前取得技能核心的管道
 此系統開放後，取得技能核心箱子的管道將會受約束(尤其是製作機與販賣機)
 1. PVP商店
 1. 貢獻度(榮譽)商店
@@ -44,24 +45,24 @@ https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/
 1. 平原之門副本(紅藍本)
 ---
 
-## 覺醒技能核心
+# 覺醒技能核心
 
 此系統更新除了將原本大淨化作戰(雷本)的覺醒技能改為不受裝備制約。
 並每個角色都新增了一招 **<font color=#ff0000>新覺醒技能</font>** ，變更技能為獎章技能(俗稱鎖技)
 
-### 取得來源
+## 取得來源
 新舊覺醒技能核心取得方式如下 **<font color=#ff0000>請注意新舊覺醒道具圖外框四角的差別</font>**
-- 舊覺醒技能核心(雷本覺醒) {% inlineImg https://i.imgur.com/1GGW1T1.png 64px %}
+- 舊覺醒技能核心(雷本覺醒) {% inlineImg https://i.imgur.com/1GGW1T1.png 50px %}
 	1. 平原之門深層製作機：可製作各一個自身角色的覺醒技能。 **<font color=#ff0000>製作限制：每個角色1次</font>**
-	![](https://i.imgur.com/gSpLPD7.png)
-	![](https://i.imgur.com/LYV6G59.png)
+	{% inlineImg https://i.imgur.com/gSpLPD7.png 170px %}
+	{% inlineImg https://i.imgur.com/LYV6G59.png 170px %}
 	2. 使用覺醒技能核心合成(90%機率)
 	3. 使用傳說或菁英核心合成(10%機率)
 	4. 未鑑定覺醒技能核心(不可交易，90%機率 **<font color=#ff0000>通關軍團程式WAVE 10</font>** )
-- 新覺醒技能核心 {% inlineImg https://i.imgur.com/LrllCYr.png 64px %}
+- 新覺醒技能核心 {% inlineImg https://i.imgur.com/LrllCYr.png 50px %}
 	1. 使用覺醒技能核心合成(10%機率)
 	2. 未鑑定覺醒技能核心(可交易，10%機率 **<font color=#ff0000>通關軍團程式WAVE 10</font>** )
-	![](https://i.imgur.com/TqehvR7.png)
+	<br>{% inlineImg https://i.imgur.com/TqehvR7.png 300px %}
 
 
 ---
@@ -409,7 +410,7 @@ BUFF[不讓開嗎?]：爆擊傷害+30% (持續 10 秒)
 
 屬性核心就是可以提升一個技能傷害的核心
 
-|圖示|能力|Lv.1|Lv.3|Lv.2|Lv.4
+|核心|能力|Lv.1|Lv.2|Lv.3|Lv.4
 |:-|:-|:-:|:-:|:-:|:-:
 |{% inlineImg https://i.imgur.com/LQQ3LkH.png 40px %} 超能釋放/傷害|超能釋放時增加傷害<br>造成的傷害|6%<br>6%|9%<br>9%|12%<br>12%|15%<br>15%
 |{% inlineImg https://i.imgur.com/A5KnZVc.png 40px %} 物理暴擊/超能釋放|物理暴擊傷害<br>超能釋放時增加傷害|10%<br>9%|15%<br>12%|-|-
