@@ -20,7 +20,7 @@ tags:
     - 賽特
     - 未來
     - 徹斯
-category: [遊戲資料,轉職]
+category: [遊戲資料,其他]
 cover: https://i.imgur.com/zLWH2hkh.jpg
 description: "五轉介紹與資訊"
 ---
@@ -45,12 +45,12 @@ description: "五轉介紹與資訊"
 
 ---
 
-# 轉職條件
+# <font color=red>轉職條件</font>
 
-## 先行條件
+## 前置條件
 1. 需完成四轉
 2. 等級達90等
-3. 需完成Centum City(14村)主線
+3. 需完成賽騰城 (Centum City，14村) 主線
 
 ## 轉職需求
 總共通關**所羅門的試煉**副本7次(每日限制1場)
@@ -65,8 +65,8 @@ description: "五轉介紹與資訊"
 - 被動技能：每等消耗2 SP，滿等10等 (共需20 SP，下列10等數值)
 雙傷：總物理/魔法攻擊力+4.25%
 單傷：總攻擊力+6%
-- 主動技能1：**被動3等時解鎖**，每等消耗5 SP，滿等3等 (共需15 SP，CD 30秒)
-- 主動技能2：**被動5等時解鎖**，每等消耗5 SP，滿等3等 (共需15 SP，CD 50秒)
+- 主動技能1：**被動3等時解鎖**，每等消耗5 SP，滿等3等 (共需15 SP)
+- 主動技能2：**被動5等時解鎖**，每等消耗5 SP，滿等3等 (共需15 SP)
 - **<font color=#FF0000>終極技</font>**：**被動10等時解鎖**，每等消耗20 SP，滿等1等 (**<font color=#FF0000>武器的SS重鑄可洗+1等</font>**)
 
 **<font color=#FF0000>終極技施放後獲得一狀態，此狀態導致無法再施放終極技，無法透過死亡重置，因此每場戰鬥只能施放一次</font>**
@@ -101,6 +101,7 @@ description: "五轉介紹與資訊"
 **<font color=#FF0000>因此所有技能點滿需要70 SP</font>**
 **[2021/12/30更新](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=520)：黑羊、紅狼、夜梟小隊的三轉EX技能限制放寬**
 **前置從需要10等改為1等就開放EX技能，因此會多出54 SP來緩解5轉SP不夠的問題(台版於2022/06/30跟上此更新)**
+
 ---
 
 # 立繪與宣傳影片
@@ -108,97 +109,101 @@ description: "五轉介紹與資訊"
 {% tabs 五轉立繪 %}
 <!-- tab 李世河(Seha)-->
 ![](/img/decisive_illust/Seha.jpg)
-{%youtube LMiPUBSpHjQ %}
 {%youtube HBNMWaQ8FQo %}
+{%youtube LMiPUBSpHjQ %}
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
 ![](/img/decisive_illust/Seulbi.jpg)
-{%youtube bXBLoeXEeP4 %}
 {%youtube 5YV64MihnG8 %}
+{%youtube bXBLoeXEeP4 %}
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
 ![](/img/decisive_illust/Yuri.png)
-{%youtube HvRQzkK-v9w %}
 {%youtube EIwNfsyX-W8 %}
+{%youtube HvRQzkK-v9w %}
 <!-- endtab -->
 <!-- tab J-->
 ![](/img/decisive_illust/J.jpg)
-{%youtube XMUGlT-QJe4 %}
 {%youtube a6M-fZ493ZA %}
+{%youtube XMUGlT-QJe4 %}
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
 ![](/img/decisive_illust/Tein.png)
+{%youtube 1Pchd8zI5Lc %}
 {%youtube KhX6zhJNT0M %}
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
 ![](/img/decisive_illust/Nata.jpg)
-{%youtube jFQNIt_E5o4 %}
 {%youtube NG5zOTmJDss %}
+{%youtube jFQNIt_E5o4 %}
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
 ![](/img/decisive_illust/Levia.jpg)
-{%youtube IsjC-UWtrmY %}
 {%youtube onSEex7F0h8 %}
+{%youtube IsjC-UWtrmY %}
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
 ![](/img/decisive_illust/Harpy.png)
+{%youtube Zdb73mxemMk %}
 {%youtube fDOEcFN_XA4 %}
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
 ![](/img/decisive_illust/Tina.jpg)
-{%youtube ymxMwcvCpc4 %}
 {%youtube 9WfNnXkj9o8 %}
+{%youtube ymxMwcvCpc4 %}
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
 ![](/img/decisive_illust/Violet.jpg)
-{%youtube JT_mzilP7uk %}
 {%youtube -T4YSnI2mlc %}
+{%youtube JT_mzilP7uk %}
 舊立繪：聽說因為左手手勢與韓國女權議題相關，因此馬上被修改了  
 
 ![](/img/decisive_illust/Violet_old.jpg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
 ![](/img/decisive_illust/Wolfgang.png)
+{%youtube wUGG2jL7XCE %}
 {%youtube 2VB_eB3dIh4 %}
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
 ![](/img/decisive_illust/Luna.jpg)
-{%youtube ryPfTcbsL0c %}
 {%youtube kGU2Fvt3nXE %}
+{%youtube ryPfTcbsL0c %}
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
 ![](/img/decisive_illust/Soma.png)
-{%youtube jxTxZULWKf8 %}
 {%youtube JIC0oGBXdcw %}
+{%youtube jxTxZULWKf8 %}
 <!-- endtab -->
 <!-- tab 白(Bai)-->
 ![](/img/decisive_illust/Bai.png)
-{%youtube Fv2P33L1zm8 %}
 {%youtube emugjRpn2jE %}
+{%youtube Fv2P33L1zm8 %}
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
 ![](/img/decisive_illust/Seth.jpg)
-{%youtube 1pIy3g5jTFI %}
 {%youtube NafDrtUCxfw %}
+{%youtube 1pIy3g5jTFI %}
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
 ![](/img/decisive_illust/Mirae.png)
-{%youtube lHFJoAbQNi0 %}
 {%youtube kJrFRewBheI %}
+{%youtube lHFJoAbQNi0 %}
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
 ![](/img/decisive_illust/Chulsoo.jpg)
-{%youtube TrP-gh8nBfc %}
 {%youtube VVU_WVDu080 %}
+{%youtube TrP-gh8nBfc %}
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
 ![](/img/decisive_illust/Eunha.png)
+{%youtube _6Ypd7NIboU %}
 {%youtube sEyPmyIb9sY %}
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 ![](/img/decisive_illust/Lucy.png)
-{%youtube IXbq2wTtCI4 %}
 {%youtube lBw0LQoQP_o %}
+{%youtube IXbq2wTtCI4 %}
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 ![](/img/decisive_illust/Aeri.png)
@@ -331,6 +336,8 @@ description: "五轉介紹與資訊"
 {% timenode <font size=5>2022/08/11：米斯特汀、銀河</font> %}
 
 [宣傳頁面(倒數第二波)](https://closers.nexon.com/Events2022/0811/Advancement)
+[台版宣傳頁面](https://landing.mangot5.com/template/cls/event/230207_five_change/index.html)
+[日版宣傳頁面](https://closers.naddicjapan.com/event_2020/20230202/01/closers/index.html)
 {% hideToggle 登入畫面 %}
 {%youtube 2xzK5Kn0sMw %}
 {% endhideToggle %}
@@ -340,6 +347,8 @@ description: "五轉介紹與資訊"
 {% timenode <font size=5>2022/08/25：哈比、沃爾夫姜</font> %}
 
 [宣傳頁面(超人氣角色)](https://closers.nexon.com/Events2022/0825/Advancement)
+[台版宣傳頁面](https://landing.mangot5.com/template/cls/event/230307_five_change/index.html)
+[日版宣傳頁面](https://closers.naddicjapan.com/event_2020/20230228_gyij/closers/index.html)
 {% hideToggle 登入畫面 %}
 {%youtube TWip-pQBrL4 %}
 {% endhideToggle %}
@@ -356,149 +365,5 @@ description: "五轉介紹與資訊"
 {% endtimenode %}
 
 {% endtimeline %}
-
----
-
-# 平衡紀錄
-
-## 2022/10/06
-
-**<font size=4>由翻譯專員 雷克 提供</font>**
-共同修正： **提升終極技無敵特性**
-~~我先貼過來，有空再排版~~
-{% hideToggle 詳細內容 %}
-
-【1】李世河
-1.爆裂彈(51)
--可以在技能使用中變換方向
-2.終極技:黎明劍
--攻擊判定範圍增加
-
-【2】李雪菲
-1.電子追擊(52)
--長按技能按鍵時，發動[雷神:電荷放電]
-
-【3】徐維莉
-1.空中維莉(51)
--按[下]方向鍵時，從[上切]攻擊開始(此時不發動[弱點鎖定]BUFF)
--[BUFF:弱點鎖定]持續時間由20增加至25秒
-
-【4】J
-1.三重混合飲料(52)
--使用[鍺元素強化]時，減少[三重混合飲料]CD 2秒
--按[下]方向鍵時，發動技能時間縮短，但不會獲得[BUFF:預料之外的藥效]、[BUFF:可預料的副作用]
--技能使用時間縮短
--三種飲料攻擊時，角色移動距離縮短
-
-【5】米斯特汀
-1.穆斯貝爾海姆之火花(51)
--按[前]方向鍵時，從[魔力火花濃縮]階段開始攻擊
--在空中使用時，調整使用技能時增加的高度
-2.亞恩維澤之刺(52)
--使用技能後，按下追加打擊時，魔槍變更為可解放
-
-【6】納塔
-1.惡鬼決斷(51)
--攻擊速度增加
--降低跳躍高度
-2.終極技:鬼怪解體
--攻擊判定範圍增加
--三大BUFF可以取消五大BUFF
-
-【7】蕾比雅
-1.尖叫魔彈(51)
--取消技能時，安裝好的魔彈仍會爆炸
--長按技能時，發動[尖叫魔彈(單一)]攻擊
-
-【8】哈比
-1.氣流螺旋(51)
--按[下]方向鍵時，從[下踢]開始攻擊
-
-【9】緹娜
-1.黃金子彈(51)
--使用技能時，獲得1層過熱
--長按技能時，發動[銀色子彈]
-2.野性射擊(52)
--使用技能時，獲得1層過熱
-
-【10】薇歐莉特
-1.霸體破壞者(51)
--可以取消技能(使用方向鍵)的時間縮短
--[結束衝擊]判定範圍增加
--在地面使用時不會增加高度
--地面:按[上]方向鍵時，[結束衝擊]會在空中使用
--空中:按[下]方向鍵時，[結束衝擊]會在地面使用
-2.終極技:皇后審判
--使用時給予[超越]
--使用時間縮短
-
-【11】沃夫岡
-1.終極技:所羅門的判決
--攻擊範圍增加
-
-【12】露娜
-1.阿爾戈追擊(51)
--攻擊速度增加
--使用技能後可以用方向鍵調整技能方向
--[最終攻擊]在敵人80%HP以上時，給予傷害量增加10%
-2.終極技:大爆炸
--攻擊範圍增加
-
-【13】索瑪
-1.雷神擊發(52)
--整體傷害增加10%
--按[下]方向鍵時從[雷擊波]開始使用
-2.終極技:全能靈藥-祝福
--隊員BUFF[靈藥的祝福]:給予絕對無敵，持續時間變更為5秒
--[靈藥的覺醒]BUFF修正:變更為持續時間50秒，物理爆擊傷害50%
--攻擊範圍增加
--終極技使用時，周邊敵人僵直4秒 
-
-【14】白
-1.源遠流長(52)
--地面/空中:按[下]方向鍵時，馬上使用[碰觸盡頭!]攻擊
-2.終極技:無我-極圈斬擊
--攻擊範圍增加/攻擊速度增加
--演出品質改善
--增加整體約15%傷害
--傷害採用時間改善
--終極技使用時，周邊敵人僵直4秒
-
-【15】賽特
-1.亞圖姆的記憶(51)
--地上按[上]方向鍵時，從[歐貝里克斯的召喚]開始，但不會獲得[歐貝里克斯的加護]
-2.凱弗里的榮耀(52)
--集氣攻擊/爆炸範圍增加
--集氣距離減少，攻擊次數調整
-
-【16】金徹斯
-1.[慈悲]-死亡之舞(51)
--地面按[上]時，[迅速攻擊]使用一次後，[迴旋射擊]會在空中使用
-2.終極技:最高潮
--攻擊速度增加
--敵人50%HP以下時，傷害量增加15%
-
-【17】未來
-1.奼紫嫣紅(52)
--使用時，增加HP吸收量30%
--地面按[下]時，從[刺擊]開始攻擊，但不會發動[暗影-爆擊](最後一段真實傷害)
-2.終極技:黎明守望
--攻擊範圍/攻擊速度增加
--敵人50%HP以上時，傷害量增加20%
--蝴蝶飛舞特效持續時間減少至5秒
-
-【18】銀河
-1.灑甲(51)
--地面按[上]時，會先移動到空中再開始技能
-
-【19】露西
-1.平安的尼尼希納(51)
--地面按[下]時，從[落下]開始攻擊
-2.終極技:伊爾卡拉的永奉
--攻擊範圍增加
--使用時，獲得[涅爾凱的視線]5層
--敵人50%HP以上時，傷害量約增加15%
-
-{% endhideToggle %}
 
 ---

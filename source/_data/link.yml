@@ -10,7 +10,7 @@
       avatar: https://www.oneup.com.tw/img/logo.gif
       descr: 查看一些玩家分享的趣事
     - name: 台版封印者官網
-      link: https://cls.mangot5.com/cls/index
+      link: https://www.closers.com.tw/
       avatar: /img/Blacklambslogo.png
       descr: 查看官方公告
     - name: 韓版封印者官網
@@ -29,6 +29,10 @@
       link: https://www.closersonline.com/
       avatar: /img/Blacklambslogo.png
       descr: 就是國際版
+    - name: 舊版台版封印者官網
+      link: https://cls.mangot5.com/cls/index
+      avatar: /img/Blacklambslogo.png
+      descr: 我們懷念他
     - name: Code Closers官網
       link: https://www.codeclosers.to/
       avatar: https://www.codeclosers.to/images/logo.png

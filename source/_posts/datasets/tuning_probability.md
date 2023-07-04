@@ -1,13 +1,14 @@
 ---
-title: 重鑄機率表
+title: 重鑄與福袋機率表
 date: 2021-09-03 14:01:31
 tags: 資料紀錄
 category: [遊戲資料,機率資料]
-cover: https://i2.wp.com/closersinfo.xyz/wp-content/uploads/2021/08/Enchant16.png?ssl=1
+cover: https://i.imgur.com/lC2WTk8.png
 description: ""
 ---
 
 來源為韓版官方公布的機率表：https://closers.nexon.com/News/Notice/View?n4ArticleSN=133964
+韓版官方付費道具機率表：https://cs.nexon.com/helpBoard/popuphelpview/5032
 
 **公告中提到：**
 - **<font color=#ef674d>所有機率均已通過遊戲記錄分析驗證，可正常運行。</font>**
@@ -19,7 +20,7 @@ description: ""
   table {
     text-align: center;
     font-weight: bold;
-	width: 40%;
+	width: 45%;
   }
   table th,
   table td {
@@ -42,13 +43,67 @@ description: ""
   }
 
   table th:nth-of-type(1){
-    width: 10%;
+    width: 20%;
   }
   table th:nth-of-type(2){
     width: 10%;
   }
 
 </style>
+
+---
+
+# 幸運福袋機率表
+
+### {% inlineImg /img/material/syringe_bag.png 48px %} [強化器防護劑] 幸運福袋
+
+| 內容與數量 | 機率 |
+| :- | :-: |
+| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 7 | 83.54 % |
+| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 8 | 8.00 % |
+| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 9 | 4.86 % |
+| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 10 | 2.00 % |
+| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 15 | 1.00 % |
+| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 20 | 0.30 % |
+| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 30 | 0.20 % |
+| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 50 | 0.10 % |
+
+### {% inlineImg /img/material/elixir_bag.png 48px %} [超越秘藥] 幸運福袋
+
+| 內容與數量 | 機率 |
+| :- | :-: |
+| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 17 | 64.54 % |
+| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 18 | 19.00 % |
+| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 19 | 10.36 % |
+| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 20 | 4.00 % |
+| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 30 | 1.00 % |
+| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 40 | 0.50 % |
+| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 50 | 0.30 % |
+| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 70 | 0.20 % |
+| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 100 | 0.10 % |
+
+### 黑暗光輝飾品隨機箱子
+
+| 內容 | 機率 |
+| :- | :-: |
+| {% inlineImg https://i.imgur.com/j8l7M8H.png 40px %} 濃縮黑暗光輝眼線紋身[稀有] x 1 | 35.00 % |
+| {% inlineImg https://i.imgur.com/Dnm3PJT.png 40px %} 濃縮黑暗光輝頭飾[稀有] x 1 | 25.00 % |
+| {% inlineImg https://i.imgur.com/GAeSil7.png 40px %} 濃縮黑暗光輝翅膀[稀有] x 1 | 30.00 % |
+| {% inlineImg https://i.imgur.com/fiYIa5J.png 40px %} 濃縮黑暗光輝眼瞳[稀有] x 1 | 10.00 % |
+
+### +13/+14 燃料隨機箱子
+
+| 內容 | 機率 |
+| :- | :-: |
+| {% inlineImg /img/material/fuel13.PNG 40px %} 強化燃料 +13 x 1 | 99.00 % |
+| {% inlineImg /img/material/fuel14.PNG 40px %} 強化燃料 +14 x 1 | 1.00 % |
+
+### +14/+15 燃料隨機箱子
+
+| 內容 | 機率 |
+| :- | :-: |
+| {% inlineImg /img/material/fuel14.PNG 40px %} 強化燃料 +14 x 1 | 95.00 % |
+| {% inlineImg /img/material/fuel15.PNG 40px %} 強化燃料 +15 x 1 | 5.00 % |
 
 ---
 

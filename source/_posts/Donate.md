@@ -1,7 +1,6 @@
 ---
 title: 贊助
 date: 2021-08-31 11:25:52
-updated: 2021-08-31 11:50:52
 tags: 贊助
 ---
 
@@ -29,7 +28,21 @@ tags: 贊助
 
 綠界收款：https://p.ecpay.com.tw/E659612
 
-[![](https://payment.ecpay.com.tw/Upload/QRCode/202209/QRCode_a6c6bfbf-80ca-4c7a-bd19-2ffec8af75c5.png)](https://p.ecpay.com.tw/E659612)
+[{% inlineImg https://payment.ecpay.com.tw/Upload/QRCode/202209/QRCode_a6c6bfbf-80ca-4c7a-bd19-2ffec8af75c5.png 200px %}](https://p.ecpay.com.tw/E659612)
+
+# 贊助紀錄
+
+|名稱|金額|時間
+|:-:|:-:|:-:
+|平胸飛機場|1000|2023/05/22 15:19:15
+|左岸口力口啡|1000|2023/05/18 16:33:00
+|泡芙|600|2023/05/16 11:26:31
+|焰光蛋蛋|1000|2023/05/13 08:35:16
+|迅羽|100|2022/10/19 18:26:04
+|rcb|100|2022/10/19 18:19:55
+|穆夈|100|2022/10/19 12:42:43
+
+---
 
 [![](https://i.imgur.com/d7HDSLMh.png)](https://i.imgur.com/d7HDSLM.png)
 

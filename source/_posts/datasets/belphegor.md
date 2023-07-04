@@ -13,22 +13,19 @@ description: "機械王裝備資訊"
 # 前言
 
 **<font size=5 color=#ff0000>裝備轉移SOP(對於有+16以上裝備與晶片的人建議使用)</font>**
-~~由於強化轉移跟晶片轉移無法同時進行。~~
-~~先轉強化時，舊裝備晶片等級會被歸零。先轉晶片時，晶片等級最高只能到新裝備的強化等級。~~
-~~因此列出轉移的SOP，盡可能降低轉移的懲罰。~~
 **<font size=4 color=#ff0000>實測後發現晶片等級不會被歸零，因此可以先1.轉移強化 再 2.轉移晶片</font>**
-舊裝備：深海王
-新裝備：機械王
-~~1. 將新裝備衝到+13或以上~~
-~~2. 將舊裝備 **<font color=#ff0000>晶片</font>** 轉移到新裝備上~~
-~~3. 將舊裝備 **<font color=#ff0000>強化等級</font>** 轉移到新裝備上~~
+詳細請參考[晶片系統](/datasets/spec/chip_system/)的轉移部份
 
 ---
 
-# 調查隊資訊
-入場等級：89
-裝備等級：162
-建議戰力：1800萬
+# 調查隊 / 上位副本資訊
+
+|限制|調查隊(12人)|上位副本
+|:-:|:-:|:-:
+|入場等級|89|89
+|裝備等級|162|170
+|建議戰力|1800|3000
+
 爆擊抵抗：1800% (分析室)
 BOSS類型：前腦型 {% inlineImg https://i.imgur.com/acS6rsI.png 64px %}
 **<font color=#ff0000>復活限制2次，藥水限制5次</font>**
@@ -36,10 +33,23 @@ BOSS類型：前腦型 {% inlineImg https://i.imgur.com/acS6rsI.png 64px %}
 
 獎勵資訊(僅擷取SSS獎勵)
 
-|-|{% inlineImg https://i.imgur.com/Dl6aRb1.png 48px %}|{% inlineImg https://i.imgur.com/xr8svxG.png 48px %}|{% inlineImg https://i.imgur.com/KSEhC9w.png 48px %}|{% inlineImg https://i.imgur.com/baRi1wQ.png 48px %}|{% inlineImg https://i.imgur.com/i6U1M4r.png 48px %}
+|-|{% inlineImg https://i.imgur.com/Dl6aRb1.png 48px %}|{% inlineImg https://i.imgur.com/xr8svxG.png 48px %}<br>隨機裝備箱|{% inlineImg https://i.imgur.com/KSEhC9w.png 48px %}|{% inlineImg https://i.imgur.com/baRi1wQ.png 48px %}|{% inlineImg https://i.imgur.com/i6U1M4r.png 48px %}<br>分析室鑰匙卡箱子
 |:-:|:-:|:-:|:-:|:-:|:-:
 |調整後|64|4|2|160|4
 |調整前|16|1|2|80|1
+
+{% hideToggle 下放後獎勵資訊 %}
+[下放](https://closers.nexon.com/News/Notice/View?n4ArticleSN=141079)後採用類似雷本的 "作戰結果報告" 方式，每周限制入場 4 次
+
+|-|{% inlineImg https://i.imgur.com/Dl6aRb1.png 48px %}|{% inlineImg https://i.imgur.com/xr8svxG.png 48px %}|{% inlineImg https://i.imgur.com/KSEhC9w.png 48px %}|{% inlineImg https://i.imgur.com/baRi1wQ.png 48px %}|{% inlineImg https://i.imgur.com/i6U1M4r.png 48px %}|所需{% inlineImg https://i.imgur.com/vmKTcS0.png 48px %}
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+|Tier 1|77|2|1|96|2|1
+|Tier 2|154|5|2|192|5|2
+|Tier 3|230|7|4|288|7|3
+|Tier 4|384|12|6|480|12|4
+
+![](https://i.imgur.com/C9KHVcz.png)
+{% endhideToggle %}
 
 ---
 

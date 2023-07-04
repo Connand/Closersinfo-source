@@ -13,8 +13,9 @@ description: "能力飾品資料整理"
 
 |組合時裝|道具圖|能力值|
 |:-:|:-|:-|
-| 深海王 | {% inlineImg https://i.imgur.com/eq0ZfOa.png 40px %}{% inlineImg https://i.imgur.com/4khmgZK.png 40px %} | 物理/魔法爆傷 +15%<br><正式/執行者必殺(2大)> Lv+1<br>攻擊速度 +3% |
-| 大淨化 | {% inlineImg https://i.imgur.com/fSK8eom.png 40px %}{% inlineImg https://i.imgur.com/hPyWrDa.png 40px %} | 物理/魔法爆傷 +10%<br>造成的增傷+5% |
+| 16村<br>[製作](/datasets/ControlCenter/#套裝效果) | {% inlineImg https://i.imgur.com/fpuLmaj.png 48px %}{% inlineImg https://i.imgur.com/uXVHunT.png 48px %} | 物理/魔法爆傷 +30%<br><正式/執行者必殺(2大)> Lv+1<br>攻擊速度 +3%<br>超能爆發時增加傷害 +20%<br> |
+| 深海王 | {% inlineImg https://i.imgur.com/eq0ZfOa.png 48px %}{% inlineImg https://i.imgur.com/4khmgZK.png 48px %} | 物理/魔法爆傷 +15%<br><正式/執行者必殺(2大)> Lv+1<br>攻擊速度 +3% |
+| 大淨化 | {% inlineImg https://i.imgur.com/fSK8eom.png 48px %}{% inlineImg https://i.imgur.com/hPyWrDa.png 48px %} | 物理/魔法爆傷 +10%<br>造成的增傷+5% |
 
 ---
 
@@ -65,7 +66,7 @@ description: "能力飾品資料整理"
 | 要塞 | {% inlineImg https://i.imgur.com/Ku2qK8w.png 32px %}{% inlineImg https://i.imgur.com/zSzsS1B.png 32px %}{% inlineImg https://i.imgur.com/sqRxqvR.png 32px %}{% inlineImg https://i.imgur.com/agZl0zT.png 32px %}{% inlineImg https://i.imgur.com/rrpQ2gb.png 32px %}<br>背部 腰部 背部<br><font color=#f00>手臂 臉上</font> | 2件：物理及魔法攻擊力180、三爆傷15%、攻擊速度5%<br>3件：物理及魔法攻擊力70、雙爆傷15%、掉落道具20% |
 | 賽騰城 | {% inlineImg https://i.imgur.com/Gcq581T.png 32px %}{% inlineImg https://i.imgur.com/Ey363sm.png 32px %}{% inlineImg https://i.imgur.com/218lZqO.png 32px %}<br><font color=#f00>臉上 手臂</font> 腰部 | 2件：物理及魔法攻擊力150、三爆傷12%<br>3件：物理及魔法攻擊力50、雙爆傷20%、掉落道具10% |
 | 釜山：南浦洞 | {% inlineImg https://i.imgur.com/ud3dkwj.png 32px %}{% inlineImg https://i.imgur.com/w2zNTuk.png 32px %}{% inlineImg https://i.imgur.com/HPooJuz.png 32px %}{% inlineImg https://i.imgur.com/T36l1xp.png 32px %}{% inlineImg https://i.imgur.com/TIYIPxX.png 32px %}<br>臉下 腰部 腿部<br><font color=#f00>手臂 臉上</font> | 2件：物理及魔法攻擊力50、三爆傷8%<br>3件：物理及魔法攻擊力100、三增傷4%<br>5件：攻擊速度5%、移動速度100、技能冷卻降低10%、技能消耗降低10% |
-| 大淨化作戰 | {% inlineImg https://i.imgur.com/mHhLd0e.png 32px %}{% inlineImg https://i.imgur.com/crzMAG2.png 32px %}{% inlineImg https://i.imgur.com/MiEhpzy.png 32px %}{% inlineImg https://i.imgur.com/0hq1cbk.png 32px %}{% inlineImg https://i.imgur.com/JucHaXK.png 32px %}<br>腿部 腰部 臉下<br><font color=#f00>手臂 臉上</font> | 2件：物理及魔法攻擊力60、雙爆傷10%<br>3件：攻擊速度5%、掉寶15%、技能消耗降低10% |
+| 大淨化作戰 | {% inlineImg https://i.imgur.com/mHhLd0e.png 32px %}{% inlineImg https://i.imgur.com/crzMAG2.png 32px %}{% inlineImg https://i.imgur.com/MiEhpzy.png 32px %}{% inlineImg https://i.imgur.com/0hq1cbk.png 32px %}{% inlineImg https://i.imgur.com/JucHaXK.png 32px %}<br>腿部 腰部 臉下<br><font color=#f00>手臂 臉上</font> | 2件：物理及魔法攻擊力60、雙爆傷10%<br>5件：攻擊速度5%、掉寶15%、技能消耗降低10% |
 | 獵者之夜 | {% inlineImg https://i.imgur.com/VykF2Yq.png 32px %}{% inlineImg https://i.imgur.com/mGHH7BP.png 32px %}{% inlineImg https://i.imgur.com/9WS0eoJ.png 32px %}<br>臉下 腿部 腰部 | 2件：總物理及魔法攻擊力2%、雙爆傷6%<br>3件：總物理及魔法攻擊力2%、雙爆傷6% |
 | UNION臨時總部 | {% inlineImg https://i.imgur.com/ibOx1b2.png 32px %}{% inlineImg https://i.imgur.com/EdwCVkX.png 32px %}{% inlineImg https://i.imgur.com/n31n01R.png 32px %}{% inlineImg https://i.imgur.com/LprBfC2.png 32px %}{% inlineImg https://i.imgur.com/z8J3aIz.png 32px %}<br>臉下 腿部 腰部<br><font color=#f00>手臂 臉上</font> | 3件：總物理及魔法攻擊力2%、雙爆傷6%<br>5件：攻擊速度2%、掉寶6%、移動速度(%)10% |
 

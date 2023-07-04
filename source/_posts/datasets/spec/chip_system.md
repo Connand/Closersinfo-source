@@ -1,5 +1,5 @@
 ---
-title: 晶片系統(施工中)
+title: 晶片系統
 date: 2022-11-22 11:25:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
@@ -18,6 +18,66 @@ description: "晶片系統內容說明"
 {% inlineImg /img/chip/HQ_1002_CHIP.PNG 40px %}
 {% inlineImg /img/chip/HQ_3009_CHIP.PNG 40px %}
 
+# 晶片操作
+
+**<font color=#F00 size=4>按下快捷鍵 "；" 開啟晶片介面</font>**
+
+{% tabs 晶片操作, -1 %}
+<!-- tab 變更欄位 (開啟晶片格)-->
+1. 將 83等以上裝備 右鍵至晶片介面中
+{%inlineImg /img/new_ret_tip/chip1.png 300px%}
+
+2. 按下 "欄位顏色" 開啟晶片格
+{%inlineImg /img/new_ret_tip/chip2.png 300px%}
+
+3. 當顏色不對時，可以使用 {% inlineImg /img/material/chip_slot_change.png 40px %}強化槽類型變更工具 改變格子顏色
+搭配{% inlineImg /img/material/platinum_driver.png 40px %}驅動器 或 {% inlineImg /img/material/real_platinum_driver.png 40px %}真實驅動器，分別有 {% inlineImg /img/material/platinum_driver.png 40px %}提高該顏色機率 或 {% inlineImg /img/material/real_platinum_driver.png 40px %}必定獲得該顏色 的效果
+{%inlineImg /img/new_ret_tip/chip3.png 350px%}
+<!-- endtab -->
+
+<!-- tab 製作-->
+湊到相應數量的材料後，在右側點想做晶片，再按 "製作" 即可製作晶片
+
+{%inlineImg /img/new_ret_tip/chip4.png 500px%}
+<!-- endtab -->
+
+<!-- tab 適配器-->
+用於在裝備上面 安裝或解除晶片 的功能
+點已開啟的格子，在右方選擇晶片即可安裝
+
+{%inlineImg /img/new_ret_tip/chip5.png 500px%}
+<!-- endtab -->
+
+<!-- tab 超頻-->
+將晶片能力進一步強化
+點已安裝的晶片，在右方選擇晶片即可超頻
+**<font color=#F00 size=4>若選擇相同顏色的材料晶片，則提供的經驗值為 2 倍</font>**
+
+{%inlineImg /img/new_ret_tip/chip6.png 500px%}
+<!-- endtab -->
+
+<!-- tab 繼承-->
+將晶片Tier數提升並保留超頻總經驗值
+點已安裝的晶片，在右方選擇晶片即可繼承
+**<font color=#F00 size=4>繼承會保留先前晶片超頻的總經驗值，沒有繼承懲罰</font>**
+
+{%inlineImg /img/new_ret_tip/chip7.png 500px%}
+<!-- endtab -->
+
+<!-- tab 轉移-->
+將晶片從舊裝備轉移到新裝備上並保留超頻總經驗值
+點已安裝的晶片，在右方選擇晶片即可繼承
+轉移需要一定數量的 {%inlineImg /img/chip/HQ_503009_CASH_ITEM.PNG 40px%}晶片保護裝置 (可於榮譽每周購買一個)
+**<font color=#F00 size=4>舊裝備先轉移強化時，舊裝備上的晶片超頻等級仍會保留</font>**
+所以在換裝備的時候，步驟如下：
+1. 先轉移強化
+2. 再轉移晶片
+
+{%inlineImg /img/new_ret_tip/chip8.png 500px%}
+<!-- endtab -->
+{% endtabs %}
+
+---
 
 # 超頻經驗表
 **<font color=#F00 size=4>超頻等級N：指N到N+1等經驗，例如N = 13就是13到14等的超頻經驗值 </font>**
@@ -45,6 +105,7 @@ description: "晶片系統內容說明"
 |13 |25 |120 | 240 | T4 | 238 |
 |14 |30 |150 | 300 | T4 | 328 |
 |15及以上 | 0 | 0 | 300 | 0 | 0 |
+
 </div>
 {% endhideToggle %}
 
@@ -130,16 +191,17 @@ T2鉑金：65點、23w/每片
 
 # 建議晶片配置
 
-- > **<font color=#F00 size=4>混合角色以提升條件爆傷為主，可最大限度同時提升物理與魔法的傷害</font>**
+- > **<font color=#F00 size=4>混合角色以提升條件爆傷為主，可最大限度同時提升物理與魔法的傷害<br><font color=black>黑色</font>替換：緹娜使用<font color=#888>白色</font>，納塔可使用<font color=purple>紫色</font>代替</font>**
 - 若無 **<font class="rainbow-text">T1鉑金晶片</font>** 可用 **<font class="rainbow-text">早期鉑金晶片</font>** 替代
 - 武器： **<font color=#C00>最優先</font>** ，盡量用最高T值(T3 T4)
 - 模組：次優先
 - 護盾：最低考量，顏色晶片可使用介於T2~T3之間，比T3便宜許多的 **伯爾戴布系列**
 - 接收器：除非要上 **<font class="rainbow-text">T4鉑金</font>** 不然建議使用 **提亞瑪特(女王)系列**
+- **額外參考：[傷害公式與暴抗表](/datasets/damage_calculation/)。主要探討武器的 <font color=red>紅色</font> 與 <font color=blue>藍色</font> 位置的選擇(可使用 <font color=black>黑色</font> 或 <font color=#888>白色</font> 或 <font color=purple>紫色</font> )**
 
 |裝備|物理|魔法|混合
 |:-:|:-:|:-:|:-:
-|武器|{% inlineImg /img/chip/HQ_5_CHIP.PNG 35px %}<font color=red>紅色</font><br>{% inlineImg /img/chip/HQ_25_CHIP.PNG 35px %}<font color=#aa0>黃色</font><br>{% inlineImg /img/chip/HQ_1001_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>|{% inlineImg /img/chip/HQ_15_CHIP.PNG 35px %}<font color=blue>藍色</font><br>{% inlineImg /img/chip/HQ_35_CHIP.PNG 35px %}<font color=green>綠色</font><br>{% inlineImg /img/chip/HQ_1002_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>|{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_45_CHIP.PNG 35px %}<font color=purple>紫色</font><br>{% inlineImg /img/chip/HQ_3009_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>
+|武器|{% inlineImg /img/chip/HQ_25_CHIP.PNG 35px %}<font color=#aa0>黃色</font> 或 {% inlineImg /img/chip/HQ_5_CHIP.PNG 35px %}<font color=red>紅色</font><br>{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_1001_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>|{% inlineImg /img/chip/HQ_35_CHIP.PNG 35px %}<font color=green>綠色</font> 或 {% inlineImg /img/chip/HQ_15_CHIP.PNG 35px %}<font color=blue>藍色</font><br>{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_1002_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>|{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_45_CHIP.PNG 35px %}<font color=purple>紫色</font><br>{% inlineImg /img/chip/HQ_3009_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>
 |模組|{% inlineImg /img/chip/HQ_25_CHIP.PNG 35px %}<font color=#aa0>黃色</font><br>{% inlineImg /img/chip/HQ_1001_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>|{% inlineImg /img/chip/HQ_35_CHIP.PNG 35px %}<font color=green>綠色</font><br>{% inlineImg /img/chip/HQ_1002_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>|{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_3009_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>
 |護盾|{% inlineImg /img/chip/HQ_25_CHIP.PNG 35px %}<font color=#aa0>黃色</font><br>{% inlineImg /img/chip/HQ_1001_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>|{% inlineImg /img/chip/HQ_35_CHIP.PNG 35px %}<font color=green>綠色</font><br>{% inlineImg /img/chip/HQ_1002_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>|{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_3009_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>
 |接收器<br><font color=red>也可使用<br>{% inlineImg /img/chip/chip_spd.png 35px %}攻速晶片x3</font>|{% inlineImg /img/chip/HQ_25_CHIP.PNG 35px %}<font color=#aa0>黃色</font><br>{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_45_CHIP.PNG 35px %}<font color=purple>紫色</font>|{% inlineImg /img/chip/HQ_35_CHIP.PNG 35px %}<font color=green>綠色</font><br>{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_45_CHIP.PNG 35px %}<font color=purple>紫色</font>|{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_45_CHIP.PNG 35px %}<font color=purple>紫色</font><br>{% inlineImg /img/chip/HQ_605_NEW_CHIP.PNG 35px %}<font color=#888>白色</font>
@@ -159,13 +221,11 @@ T2鉑金：65點、23w/每片
 |{% inlineImg https://i.imgur.com/DVB4PAE.png 40px %}背叛者的枷鎖|龍的刑場<br>普通通關可得6個，VH通關可得12個
 |{% inlineImg https://i.imgur.com/mZ8i4uG.png 40px %}背叛的記憶|龍的刑場<br>普通通關可得60個，VH通關可得120個
 
-此表格為韓版開放**海市蜃樓的重演**時， **<font color=red>調整後</font>** 的材料掉落數量，為必定掉落數量
-
 |副本|{% inlineImg https://i.imgur.com/UUm30FC.png 40px %}太初瑪瑙|T1顏色晶片選擇箱|T2顏色晶片選擇箱
 |:-|:-:|:-:|:-:
 |單人最深處(350)|7|5|1
 |單人監獄城(400)|7|4|1
-|凶夢沙塵暴(800)|2|3|-
+|凶夢沙塵暴(800)|2|2|-
 |凶夢監獄城(900)|9|7|1
 |凶夢最深處(1000)|10|9|1
 |海市蜃樓的重演H(3000)|20|17|1

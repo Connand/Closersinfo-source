@@ -13,6 +13,7 @@ tags:
     - 徹斯
     - 銀河
     - 露西
+    - 愛里
 category: [時裝, 有立繪,]
 cover: https://i.imgur.com/JIDFPVU.jpg
 description: "角色專屬時裝"
@@ -242,13 +243,13 @@ description: "角色專屬時裝"
 {% endtabs %}
 <!-- endtab -->
 
-<!-- tab 愛里(Aeri)-ZODIAC NIGHT -->
+<!-- tab 愛里(Aeri)-星座之夜 -->
 部位：武器、髮型(3型+另類)、上衣、下衣、手套、鞋子、{% label 臉上 green %}、{% label 特效(威嚴) green %}
 **飾品為單一型
 <font color=#f00>7件可使用普通立繪</font>
 <font color=#f00>8件可使用特殊立繪</font>**
 
-{% tabs 愛里(Aeri)-ZODIAC NIGHT %}
+{% tabs 愛里(Aeri)-星座之夜 %}
 <!-- tab 普通立繪-->
 [![](https://i.imgur.com/uAjDtuoh.jpg)](https://i.imgur.com/uAjDtuo.jpg)
 <!-- endtab -->

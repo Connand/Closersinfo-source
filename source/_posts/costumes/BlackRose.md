@@ -25,7 +25,7 @@ tags:
     - 露西
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/J3b5en6h.jpg
-description: "Eternal Black Rose<br>加速讀圖速度功能測試"
+description: "Eternal Black Rose"
 ---
 
 ![](https://i.imgur.com/J3b5en6.jpg)
@@ -42,6 +42,7 @@ description: "Eternal Black Rose<br>加速讀圖速度功能測試"
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [宣傳頁面](https://closers.nexon.com/Events2022/0907/Costume)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_black_rose_220905_3F8D10C3.zip)
+
 ---
 
 

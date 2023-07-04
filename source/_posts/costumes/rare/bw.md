@@ -23,24 +23,20 @@ tags:
     - 徹斯
     - 銀河
     - 露西
+    - 愛里
 category: [時裝, 高階時裝]
 cover: https://i.imgur.com/w5A5xI5h.jpg
 description: "第三套高階時裝改色版"
 ---
-
-
-
 ---
-## 漆黑之翼(Black Wings)
+## 漆黑之翼 (Black Wings，칠흑의 날개)
 漆黑之翼(Black Wings)為至高之翼的黑化版本
 
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_RareCostume_black_210209_obuaq.zip)
-詳情參考[至高之翼](https://connand.github.io/costumes/rare/zw/)
+[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_RareCostume_black_230126_BD17594A40751AC8.zip)
+語音及動作等內容均與原版相同，詳細請參考[至高之翼](/costumes/rare/zw/)
 
 ---
 
-{% tabs 類型 %}
-<!-- tab 立繪-->
 {% tabs 立繪 %}
 <!-- tab 李世河(Seha)-->
 [![](https://i.imgur.com/w5A5xI5h.jpg)](https://i.imgur.com/w5A5xI5.jpg)
@@ -99,7 +95,8 @@ description: "第三套高階時裝改色版"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/MbZAPS9h.jpg)](https://i.imgur.com/MbZAPS9.jpg)
 <!-- endtab -->
-{% endtabs %}
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/2wZlrxth.jpg)](https://imgur.com/2wZlrxt.jpg)
 <!-- endtab -->
-
 {% endtabs %}
+

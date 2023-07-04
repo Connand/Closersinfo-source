@@ -23,6 +23,7 @@ tags:
     - 徹斯
     - 銀河
     - 露西
+    - 愛里
 category: [時裝, 高階時裝]
 cover: https://i.imgur.com/49fugI4h.png
 description: "第一套高階時裝"
@@ -34,8 +35,8 @@ description: "第一套高階時裝"
 ## 黑暗光輝(Splendor of Darkness)
 黑暗光輝 (Splendor of Darkness，SoD)是第一套高階時裝，以羊隊在正職任務的「訓練場」中的黑影角色設定為藍本。
 
-    比黑暗還要漆黑，比夜晚還要深沉，
-    將身心都染上漆黑之力而覺醒吧！
+> 比黑暗還要漆黑，比夜晚還要深沉，
+> 將身心都染上漆黑之力而覺醒吧！
 
 
 [台版介紹網頁](https://landing.mangot5.com/template/closers/event/170719/index.html)
@@ -52,40 +53,40 @@ description: "第一套高階時裝"
 {%youtube mgSyJY-GrvM %}
 <!-- endtab -->
 <!-- tab 李世河(Seha)-->
-    「吾即是王！以星光之力摧毀一切吧！」
+> 「吾即是王！以星光之力摧毀一切吧！」
 [![](https://imgur.com/MkvaUtQh.jpg)](https://imgur.com/MkvaUtQ.jpg)
 {%youtube VHX9bFwSZwU %}
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
-    「全部給我消失吧！垃圾！」
+> 「全部給我消失吧！垃圾！」
 [![](https://i.imgur.com/KiIaAgch.jpg)](https://i.imgur.com/KiIaAgc.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-    「嘻嘻！用刀刃為你劃出死亡印記~」
+> 「嘻嘻！用刀刃為你劃出死亡印記~」
 [![](https://i.imgur.com/Uf7XD4Fh.jpg)](https://i.imgur.com/Uf7XD4F.jpg)
 <!-- endtab -->
 <!-- tab J-->
-    「走入黑暗，承受痛苦的極限吧！」
+> 「走入黑暗，承受痛苦的極限吧！」
 [![](https://i.imgur.com/gvKYQXHh.jpg)](https://i.imgur.com/gvKYQXH.jpg)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-    「哼哼！小心腦袋被貫穿呦~」
+> 「哼哼！小心腦袋被貫穿呦~」
 [![](https://i.imgur.com/zwwYyOUh.jpg)](https://i.imgur.com/zwwYyOU.jpg)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
-    「成為我力量的祭品吧！」
+> 「成為我力量的祭品吧！」
 [![](https://i.imgur.com/zH0Www3h.jpg)](https://i.imgur.com/zH0Www3.jpg)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-    「燃燒吧！然後在地獄中安眠~」
+> 「燃燒吧！然後在地獄中安眠~」
 [![](https://i.imgur.com/feJABYph.jpg)](https://i.imgur.com/feJABYp.jpg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-    「抽到的牌！是你的靈魂呦~」
+> 「抽到的牌！是你的靈魂呦~」
 [![](https://i.imgur.com/bnY4Ahdh.jpg)](https://i.imgur.com/bnY4Ahd.jpg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-    「魔法少女緹娜！閃亮登場！」
+> 「魔法少女緹娜！閃亮登場！」
 [![](https://i.imgur.com/Esdbxzqh.jpg)](https://i.imgur.com/Esdbxzq.jpg)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
@@ -135,6 +136,10 @@ description: "第一套高階時裝"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/rUrhbQEh.jpg)](https://i.imgur.com/rUrhbQE.jpg)
 {%youtube t92ynZL3IbM %}
+<!-- endtab -->		
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/vxKbJpAh.jpg)](https://imgur.com/vxKbJpA.jpg)
+{%youtube vHe7dPaMiVo %}
 <!-- endtab -->		
 
 <!-- endtab -->

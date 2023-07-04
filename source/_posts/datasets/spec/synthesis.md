@@ -48,8 +48,9 @@ description: ""
 **<font size=4>拍賣</font>**
 {% endnote %}
 
-在拍賣搜尋**時裝**→選擇**稀有度**→選擇**3星輝煌時裝**
+在拍賣搜尋 **時裝** →選擇 **稀有度** →選擇 **3星輝煌時裝**
 即可獲得以下結果
+
 ![](https://i.imgur.com/sYOs7hmh.png)
 
 {% note info simple %}
@@ -84,6 +85,7 @@ description: ""
 
 在拍賣搜尋**飾品**→選擇**稀有度**→選擇**3星輝煌時裝**
 即可獲得以下結果
+
 <div style="text-align: center">{% inlineImg https://i.imgur.com/IIym3Mjh.png 300px %}</div>
 -
 {% note info simple %}
@@ -93,7 +95,7 @@ description: ""
 每期的物質轉換機中均**機率性**獲得，分別有**選擇箱子**跟**全套選擇箱子**
 不定期開放的**「交叉型」物質轉換**，也可獲得飾品
 
-{% inlineImg https://i.imgur.com/SfYCPqth.png 400px %}
+<div style="text-align: center">{% inlineImg https://i.imgur.com/SfYCPqth.png 400px %}</div>
 
 |選擇箱子|全套選擇箱|
 |:-:|:-:|

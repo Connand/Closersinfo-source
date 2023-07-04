@@ -21,6 +21,9 @@ tags:
     - 賽特
     - 未來
     - 徹斯
+    - 銀河
+    - 露西
+    - 愛里
 category: [時裝, 高階時裝]
 cover: https://i.imgur.com/Y760rUrh.jpg
 description: "第四套高階時裝"
@@ -29,20 +32,22 @@ description: "第四套高階時裝"
 [![](https://i.imgur.com/Y760rUrh.jpg)](https://i.imgur.com/Y760rUr.jpg)
 
 ---
-## 德拉格尼爾(Dragonian)
+## 德拉格尼爾 (Dragonian，드래고니안)
 
 正式翻譯”德拉格尼爾”(Dragonian)，以”龍”做為各角色的服裝設計。
-目前僅出到徹斯，據PD在座談會所說，會將銀河、露西的龍套補齊。
+2023年5月18日：補齊銀河、露西、愛里
 
-**註：立繪分為兩種**
+**註：立繪分為兩種、預覽影片位於一般立繪中**
 
-[韓版官網立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_rareCostume4_250ava.zip)
+[韓版官網立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Dragonian_2A39D3BFF193016E.zip)
+
+## 相關資料參考
+
+[語音與動作展示](https://www.youtube.com/playlist?list=PLRQzOnUOAvn_h72nrKKvWNhUGOQTh2ec1)(僅到賽特)
+[語音展示](https://www.youtube.com/playlist?list=PLuZgoltyKSaSu1V4Wd_NGhFwnikifWiIk)
+各標籤下方包含官方展示影片
 
 ---
-
-所需十件套才可啟動立繪、語音、特效；動作擁有六件套即可
-十件套部位：部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 臉中 green %}、{% label 背部 green %}、{% label 瞳孔 green %}
-
 
 {% tabs 類型 %}
 <!-- tab 一般立繪-->
@@ -115,11 +120,23 @@ description: "第四套高階時裝"
 [![](https://i.imgur.com/SvVnu6rh.jpg)](https://i.imgur.com/SvVnu6r.jpg)
 {%youtube 8CyOuUyC_Pc %}
 <!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://imgur.com/ieuHA0Bh.jpg)](https://imgur.com/ieuHA0B.jpg)
+{%youtube bxk1-idZ_OI %}
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://imgur.com/kElvKfTh.jpg)](https://imgur.com/kElvKfT.jpg)
+{%youtube 03jDP6xPquw %}
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/HHkQcPqh.jpg)](https://imgur.com/HHkQcPq.jpg)
+{%youtube ftmjH2oN8lU %}
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
-<!-- tab 特殊立繪-->
-{% tabs 特殊角色立繪 %}
+<!-- tab [覺醒]立繪-->
+{% tabs 覺醒立繪 %}
 <!-- tab 李世河(Seha)-->
 [![](https://i.imgur.com/wsqexG5h.jpg)](https://i.imgur.com/wsqexG5.jpg)
 <!-- endtab -->
@@ -171,7 +188,18 @@ description: "第四套高階時裝"
 <!-- tab 徹斯(Chulsoo)-->
 [![](https://i.imgur.com/pQKqn8Ch.jpg)](https://i.imgur.com/pQKqn8C.jpg)
 <!-- endtab -->
-
+<!-- tab 銀河(Eunha)-->
+[![](https://imgur.com/kPdxmyCh.jpg)](https://imgur.com/kPdxmyC.jpg)
+{%youtube 8CyOuUyC_Pc %}
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://imgur.com/IwoBJ7rh.jpg)](https://imgur.com/IwoBJ7r.jpg)
+{%youtube 8CyOuUyC_Pc %}
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/rA79sZPh.jpg)](https://imgur.com/rA79sZP.jpg)
+{%youtube 8CyOuUyC_Pc %}
+<!-- endtab -->
 
 <!-- endtab -->
 {% endtabs %}

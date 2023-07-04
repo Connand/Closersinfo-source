@@ -1,9 +1,9 @@
 ---
-title: 封印者：主題歌曲(0314補上動畫OP與ED)
+title: 封印者：主題歌曲
 date: 2021-10-16 16:40:00
 tags: 資料紀錄
 category: [遊戲資料,其他]
-cover: https://i.imgur.com/vRKh37h.jpg
+cover: https://i.imgur.com/MMTR8Ce.jpg
 description: "官方發布的各式主題曲"
 ---
 
@@ -17,6 +17,11 @@ description: "官方發布的各式主題曲"
 
 # 快速點播
 ~~排版還很醜，之後處理~~
+### 曇花一現之Closers RT：New Order
+- [Closers RT：New Order開頭曲 - Go Beyond](https://youtu.be/xruoEBWsMOo)
+- [Closers RT：New Order結尾曲 - Closer](https://youtu.be/Wfi_SMMKvNY)
+- 附加：[Closers RT : New Order MV](https://youtu.be/TXh4srE_AGA)
+
 ### 黑羊小隊
 | 李世河 | 李雪菲 | 徐維莉 |  J  | 米斯特汀 |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
@@ -131,5 +136,8 @@ description: "官方發布的各式主題曲"
 [宣傳頁面](https://closers.nexon.com/Events2022/0714/Costume) [MP3下載](https://closers.vod.nexoncdn.co.kr/event/2022/220714_costume_4DAF452CB59BE570/Closers_2022summer_Paradise_246B52A6.zip)
 
 2022/12/08：[愛里主題曲 -  i (孩子)](https://youtu.be/VGiJ-LFobog)
+
+2023/05：[Closers RT：New Order開頭曲 - Go Beyond](https://youtu.be/xruoEBWsMOo)
+2023/05：[Closers RT：New Order結尾曲 - Closer](https://youtu.be/Wfi_SMMKvNY)
 
 ---

@@ -21,6 +21,7 @@ tags:
     - 未來
     - 金徹斯
     - 露西
+    - 愛里
 category: [時裝, 有立繪, 全角色]
 cover: https://imgur.com/tZgybXEh.jpg
 description: ""
@@ -34,13 +35,13 @@ description: ""
 第一次限定角色：李世河、李雪菲、徐維利、納塔、白、賽特
 第二次限定角色：哈比、緹娜、薇歐莉特、未來、徹斯、銀河
 第三次限定角色：J、米斯特汀、蕾比亞、沃爾夫姜、露娜、索瑪、露西
-
+第四次開放：愛里
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 腰部 green %}
 
 
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_urban_clftg.zip)
+[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Urban_230629_3E048289F46E5859.zip)
 
 
 ---
@@ -109,6 +110,9 @@ description: ""
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/ILF0FUCh.jpg)](https://i.imgur.com/ILF0FUC.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/dDGLqFJh.png)](https://i.imgur.com/dDGLqFJ.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -191,6 +195,10 @@ description: ""
 [![](https://i.imgur.com/MOvKXOWh.jpg)](https://i.imgur.com/MOvKXOW.jpg)
 [![](https://i.imgur.com/Vuvbbt5h.png)](https://i.imgur.com/Vuvbbt5.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/KOlmUhBh.png)](https://i.imgur.com/KOlmUhB.png)
+[![](https://i.imgur.com/ma4plxJh.png)](https://i.imgur.com/ma4plxJ.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -272,6 +280,10 @@ description: ""
 [![](https://i.imgur.com/rdt4sQBh.jpg)](https://i.imgur.com/rdt4sQB.jpg)
 [![](https://i.imgur.com/oylHG3lh.png)](https://i.imgur.com/oylHG3l.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/mNuqvYEh.png)](https://i.imgur.com/mNuqvYE.png)
+[![](https://i.imgur.com/hS9Soglh.png)](https://i.imgur.com/hS9Sogl.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -352,6 +364,10 @@ description: ""
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/SAiMcfvh.jpg)](https://i.imgur.com/SAiMcfv.jpg)
 [![](https://i.imgur.com/O8AGKOIh.png)](https://i.imgur.com/O8AGKOI.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/gd73kqFh.png)](https://i.imgur.com/gd73kqF.png)
+[![](https://i.imgur.com/xxa6S6Kh.png)](https://i.imgur.com/xxa6S6K.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

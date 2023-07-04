@@ -3,7 +3,7 @@ title: 基礎與特殊PNA
 date: 2019-04-01 11:54:31
 tags: 資料紀錄
 category: [遊戲資料,PNA]
-cover: /img/PNA/icon_01.png
+cover: /img/PNA/HQ_PNA_SPECIAL_ATT.PNG
 description: "最基本的PNA說明"
 ---
 
@@ -32,9 +32,12 @@ description: "最基本的PNA說明"
 
 特殊PNA的擺法基本上是固定的組合，只有**緹娜**會用浮空來替代空中的PNA
 
+- **徐維莉**由於被動互補的特性，可以使用具有雙暴傷 {% inlineImg /img/PNA/HQ_PNA_SPECIAL_SUP.PNG 50px %}捕獲弱點 取代 空中戰士 會增加較多的暴傷
+- 需要攻速時，可以使用 {% inlineImg /img/PNA/HQ_PNA_SPECIAL_ARM.PNG 50px %}強化攻速 取代 空中戰士
+
 |第一格|第二格|第三格
 |:-:|:-:|:-:
-|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_ATT.PNG 50px %}武器親和力|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC.PNG 50px %}跑動射擊|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC_2.PNG 50px %}空中戰士(其餘)<br>{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC_1.PNG 50px %}極速浮空(**緹娜**)
+|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_ATT.PNG 50px %}武器親和力|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC.PNG 50px %}跑動射擊|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC_2.PNG 50px %}空中戰士(其餘)<br>{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC_1.PNG 50px %}極速浮空 (**緹娜**)
 
 ---
 
@@ -50,7 +53,7 @@ description: "最基本的PNA說明"
 <div class="childDiv">
 
 ## 基礎PNA強化材料
-**註：預計4月更新可能會降低材料量**
+**註：此表為初始數值，遊戲內數值已經調降過**
 
 |因數等級|所需PNA等級|<font color=#880>強化材料</font>|金幣
 |:-:|:-:|:-:|:-:
@@ -73,7 +76,7 @@ description: "最基本的PNA說明"
 <div class="childDiv">
 
 ## 特殊PNA強化材料
-**註：預計4月更新可能會降低材料量、部分數據尚待確認**
+<br>
 
 |因數等級|所需PNA等級|<font color=#0aa>進化材料</font>|金幣|成功率
 |:-:|:-:|:-:|:-:|:-:

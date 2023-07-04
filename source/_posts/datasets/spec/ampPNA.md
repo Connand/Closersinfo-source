@@ -78,6 +78,85 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 </style>
 
 {% tabs 隱藏序列PNA %}
+
+<!-- tab <b><font color=red>常用系列</font></b>-->
+<div class='box'>
+	<div class='pattern'> 
+		<table>
+			<tbody>
+				<tr>
+					<td></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+				</tr>
+				<tr>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div class='description'><font color=#FF0000><b>常用序列之一</b></font><br>空中暴擊傷害+ 5%<br>背擊暴擊傷害+12%<br>浮空暴擊傷害+ 5%</div>
+</div>
+
+<div class='box'>
+	<div class='pattern'> 
+		<table>
+			<tbody>
+				<tr>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div class='description'><font color=#FF0000><b>常用序列之一</b></font><br>空中暴擊傷害+10%<br>背擊暴擊傷害+ 5%<br>浮空暴擊傷害+ 5%</div>
+</div>
+
+<div class='box'>
+	<div class='pattern'> 
+		<table>
+			<tbody>
+				<tr>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
+					<td></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div class='description'><font color=#FF0000><b>常用序列之一</b></font><br>攻擊速度+10%</div>
+</div>
+
+<!-- endtab -->
+
 <!-- tab 基傷系列(3)-->
 
 <div class='box'>
@@ -85,19 +164,19 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 		<table>
 			<tbody>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 					<td></td>
 					<td></td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -111,18 +190,18 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 			<tbody>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -136,18 +215,18 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 			<tbody>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -164,17 +243,17 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 			<tbody>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 					<td></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 					<td></td>
 				</tr>
 			</tbody>
@@ -188,18 +267,18 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 		<table>
 			<tbody>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 					<td></td>
 					<td></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 					<td></td>
 				</tr>
 			</tbody>
@@ -213,19 +292,19 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 		<table>
 			<tbody>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 					<td></td>
 					<td></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -239,18 +318,18 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 			<tbody>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 					<td></td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -263,19 +342,19 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 		<table>
 			<tbody>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 					<td></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -293,17 +372,17 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 				<tr>
 					<td></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 					<td></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -316,19 +395,19 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 		<table>
 			<tbody>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 					<td></td>
 				</tr>
 				<tr>
 					<td></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -343,19 +422,19 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 		<table>
 			<tbody>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><img src="" alt="空圖片"></td>
+					<td><img src="" alt="空圖片" width="40" height="40"></td>
 					<td></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -368,19 +447,19 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 		<table>
 			<tbody>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
-					<td><img src="" alt="空圖片"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="" alt="空圖片" width="40" height="40"></td>
 					<td></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -395,17 +474,17 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 		<table>
 			<tbody>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 					<td></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 					<td></td>
 					<td></td>
 				</tr>
@@ -421,18 +500,18 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 			<tbody>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 					<td></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -445,18 +524,18 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 		<table>
 			<tbody>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 				<tr>
 					<td></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 					<td></td>
 				</tr>
 			</tbody>
@@ -474,19 +553,19 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 		<table>
 			<tbody>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
 					<td></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -499,18 +578,18 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 		<table>
 			<tbody>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampAtk.png"></td>
+					<td><img src="/img/PNA/PNA_ampAtk.png" width="40" height="40"></td>
 				</tr>
 				<tr>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
-					<td><img src="/img/PNA/PNA_ampDef.png"></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampDef.png" width="40" height="40"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><img src="/img/PNA/PNA_ampSup.png"></td>
+					<td><img src="/img/PNA/PNA_ampSup.png" width="40" height="40"></td>
 					<td></td>
 				</tr>
 			</tbody>

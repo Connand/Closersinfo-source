@@ -6,13 +6,49 @@ tags:
     - 周年
     - 繪圖
 category: [遊戲資料,繪圖]
-cover: https://i.imgur.com/iByVVB4h.png
+cover: https://i.imgur.com/fufBHdDh.png
 description: "紀錄台版周年紀念使用過的官方/非官方立繪與登入圖等等"
 ---
 
 **<font color=#FF0000 size=5>注意：此區所見之玩家作品，均經過原作者同意展示，並且所有創作本站均不用於營利用途。</font>**
 
 **<font color=#FF0000 size=5>直接點圖可察看原圖</font>**
+
+---
+# 網站用圖
+
+{% tabs 標籤區名稱 %}
+<!-- tab 封面圖片-->
+**2023/04/20更新轉移紀念封面圖！**
+
+> 【 New Road to Next Stage 】
+主線第三季劇情結束了，緊接著是第四季的序章，故事進入全新的階段 。（Stage）
+劉炳輝PD卸任，隨即李承憲PD的接任，遊戲內容開發進入全新的階段。 （Stage）
+台版結束代理，由原廠接手繼續營運，台版經營進入全新的階段。 （Stage）
+>
+> 這是封印者攻略網全新的封面圖，作為台版轉移的紀念，同時也是個人對台版六週年的賀圖，以及更多意義。作為台版封印者初始玩家，見到了非常多跟封印者有關的各種事件，中途多少對於這款遊戲多少都有灰心的時候。
+但是一切即將改變，現在是封印者邁入全新里程的時候，討厭的總長已經倒台了、討厭的炳輝已經離開了、討厭的樂意已經放手了，一切都將雨過天晴。
+>
+> 新台版將於2023/04/24開始營運，在此祝福封印者玩家，不論常駐、回歸或新手玩家，都能夠好好體會到這遊戲的樂趣所在。
+
+{% note red 'fas fa-pen' simple %}
+**<font size=5>繪師：[Sy](https://twitter.com/Singtsuisy)</font>**
+{% endnote %}
+
+
+![](/img/cover_categories.png)
+<!-- endtab -->
+<!-- tab FB粉絲專業頭貼-->
+{% note red 'fas fa-pen' simple %}
+**<font size=5>繪師：[煉銅術士](https://www.facebook.com/profile.php?id=100024698682237)</font>**
+{% endnote %}
+
+{% inlineImg /img/ProfilePic_56.png 300px %}
+
+![](/img/Cover_Clsinfo.png)
+<!-- endtab -->
+{% endtabs %}
+
 
 ---
 # 2023新年紀念立繪

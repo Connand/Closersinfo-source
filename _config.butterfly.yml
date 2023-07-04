@@ -14,12 +14,10 @@ menu:
   分類: /categories/ || fas fa-folder-open
   遊戲資料 || fas fa-book-open || hide:
     總覽: /categories/遊戲資料 || fas fa-book-open
+    新手指南: /categories/遊戲資料/新手指南/ || fas fa-shield-alt
     PNA資料: /categories/遊戲資料/PNA || fas fa-dna
-    繪圖圖庫: /datasets/TWanni_illusts/ || fas fa-image
     主線裝備: /categories/遊戲資料/裝備 || fas fa-book-open
     能力提升: /categories//遊戲資料/能力提升 || fas fa-book-open
-    裝備懶人包: https://cdn.discordapp.com/attachments/884269427644850256/986936100465569802/gearflow2.png || fas fa-book-open
-    轉職介紹: /datasets/decisive_agent/ || fas fa-book-open
     機率資料: /categories/遊戲資料/機率資料 || fas fa-book-open
     其他資料: /categories/遊戲資料/其他 || fas fa-book-open
     雲端圖庫: https://drive.google.com/drive/folders/1jFK6bpar4oSDy2_DeNQ4wOqFaBHDhoJ7?usp=share_link || fas fa-cloud
@@ -119,12 +117,12 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: /img/fort_bg.jpg
-#index_img: /img/125M.png
+#index_img: /img/fort_bg.jpg
+index_img: /img/cover_top.png
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: /img/Cover_Clsinfo.png
-#default_top_img: /img/122M.png
+#default_top_img: /img/Cover_Clsinfo.png
+default_top_img: /img/cover_categories.png
 
 # The banner image of archive page
 archive_img:
@@ -456,7 +454,7 @@ baidu_analytics:
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics: UA-142985109-1
+google_analytics: G-7C9EMS2MBS
 
 # Tencent Analytics ID
 # https://mta.qq.com
@@ -479,10 +477,10 @@ microsoft_clarity:
 
 # Google Adsense (谷歌廣告)
 google_adsense:
-  enable: false
+  enable: true
   auto_ads: true
   js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
-  client:
+  client: pub-1886641105210989
   enable_page_level_ads: true
 
 # Insert ads manually (手動插入廣告)
@@ -657,9 +655,10 @@ subtitle:
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
-    - 重要消息：台版轉移作業即將截止，請儘速進行！
-    - 歡迎加入Discord群組！
+    - 新台服開始營運，請查看至頂公告！
+    - 網站全新封面圖公開！
     - 建議使用電腦瀏覽此網站
+    - 歡迎加入Discord群組！
     - 次元戰爭永不停歇
 
 # Loading Animation (加載動畫)
@@ -684,7 +683,7 @@ aside:
       link: https://github.com/Connand
   card_announcement:
     enable: true
-    content: <b>2023/02/23更新</b>：<br>1. <b><font color=#f00>台版轉移開始！請參考置頂公告</font></b><br>---<br>繪師：<a target="_blank" rel="noopener" href="https://www.facebook.com/profile.php?id=100024698682237">煉銅術士</a><img src="/img/ProfilePic_56.png"><div class="announcement-button"> <a class="button--animated" href="https://www.facebook.com/Closersinfo" rel="external nofollow noreferrer" target="_blank">FB粉絲專頁</a> <a class="button--animated" href="https://closersinfo.xyz/" rel="external nofollow noreferrer" target="_blank">運行中的正式版</a> <a class="button--animated" href="https://discord.gg/ACBYdf5TNd" rel="external nofollow noreferrer" target="_blank">Discord群組</a></div>
+    content: <b>2023/04/20更新</b>：<br>1. <b><font color=#959>網站新封面公開！<a target="_blank" rel="noopener" href="/datasets/TWanni_illusts/">點此欣賞</a></font></b><br>---<br>繪師：<a target="_blank" rel="noopener" href="https://www.facebook.com/profile.php?id=100024698682237">煉銅術士</a><img src="https://i.imgur.com/lrezp9Ym.png"><div class="announcement-button"> <a class="button--animated" href="https://www.facebook.com/Closersinfo" rel="external nofollow noreferrer" target="_blank">FB粉絲專頁</a> <a class="button--animated" href="https://discord.gg/ACBYdf5TNd" rel="external nofollow noreferrer" target="_blank">Discord群組</a></div>
   card_recent_post:
     enable: true
     limit: 7 # if set 0 will show all

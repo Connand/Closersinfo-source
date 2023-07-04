@@ -22,6 +22,7 @@ tags:
     - 徹斯
     - 銀河
     - 露西
+    - 愛里
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/xYfWmVuh.jpg
 description: "Vow of Love"
@@ -35,7 +36,7 @@ description: "Vow of Love"
 **注意**：立繪僅分一般和特殊
 部位：髮型、上衣、下衣、手套、鞋子、{% label 手臂(婚戒) green %}、{% label 威嚴 green %} 
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Wedding_210422_oqvb052.zip)
+[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Wedding_230601_F8334CC75013372E.zip)
 
 ---
 
@@ -99,6 +100,9 @@ description: "Vow of Love"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/EQGYXyLh.jpg)](https://i.imgur.com/EQGYXyL.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/GltQPk4h.jpg)](https://i.imgur.com/GltQPk4.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -160,6 +164,9 @@ description: "Vow of Love"
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/HoZtCQMh.jpg)](https://i.imgur.com/HoZtCQM.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/9J8xn1jh.jpg)](https://i.imgur.com/9J8xn1j.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -224,6 +231,9 @@ description: "Vow of Love"
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 ![](https://i.imgur.com/D4IkQbO.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+![](https://i.imgur.com/3Vrw5kc.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

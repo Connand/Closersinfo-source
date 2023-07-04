@@ -1,39 +1,114 @@
 ---
 title: 新手/回歸玩家快速上手指南
 date: 2023-02-23 11:25:52
-updated: 2023-04-13 18:01:00
 tags: 轉移
-cover: https://i.imgur.com/jqKpOgK.png
-description: "轉移特輯 (大致完工！)"
-sticky: 1
+cover: https://i.imgur.com/0ykRYBfh.png
+description: "<b><font color=red>0430更新角色攻略文連結<br>(尚缺：J、哈比、夜梟除白、銀河)</font><br>轉移特輯！</b>"
+sticky: 2
+---
+
+- 若看完此篇還有問題，可以來 [Discord群組](https://discord.gg/closersinfotw)的新手區提問
+
+# <font color=red>其他更詳細的入坑介紹文推薦！</font>
+
+**若看完本站此篇文還有疑問不妨再參考以下文章，均為轉移後大佬們精心撰寫！
+各項內容均有詳細介紹與說明，是值得參考的攻略！**
+
+- **<font size=4>[【攻略】新手/回鍋玩家 從0開始的特工之路](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9333&tnum=4)</font>**
+
+- **<font size=4>[【攻略】配合2023回歸原廠寫的一篇完全新手指南](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9318&tnum=1)</font>**
+
+- **<font size=4>[【攻略】封印者/Closers 新手入坑該做的事情與可能會遇到的問題](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9314&tnum=1)</font>**
+
+---
+
+# <font color=red>轉移/事前預約與直升獎勵選擇</font>
+
+**<font size=4 color=blue>紅字表示高價物，請謹慎使用</font>**
+
+**<font size=4 color=purple>1. 轉移/事前預約獎勵</font>**
+
+- 至高之翼全套箱子：根據喜歡的角色開
+
+- **<font color=red>強化燃料+16</font>** ：建議用在**機械模組**，或等之後野獸武器超完或農史詩武器
+
+- **<font color=red>T3鉑金晶片選擇箱子</font>** ： **TN選擇浮空，NT選擇背擊，其餘一律空中**
+
+- [S 確定D零件：裝備]、[S 確定D零件：裝備] ：可留至畢業裝完成在思考使用方式
+
+- **<font color=red>2023菁英寵物選擇箱子</font>** ：以 **龍寵(阿師塔特)** 或 **貓寵(愛貓神)** 為主。補充：較建議 **玲兒**
+
+- 高級型變異材料膠囊：隨便，練突變用的
+
+**<font size=4 color=purple>2. 直升獎勵</font>**
+
+**<font size=4 color=red>[Brand New直升箱子] 可共倉，打開後內容物不可共倉！！！<br>建議給直升角色使用</font>**
+
+- 觸發器： **紅海任務會給綠色(遊戲套)，可以考慮其他顏色**
+
+- 狂風模組： **致命**
+
+- 直升完的角色要解五轉與15村主線
+
+- **<font size=4 color=red>PASS裝備可用另外一隻領取，領完後無法共倉</font>**
+
+---
+
+# 字體大小與日文配音
+
+{% note info simple %}
+- [日文配音資料 (日配)](/datasets/JP_vocal/)
+- [字體與BGM修改](/datasets/font_bgm_mod/)
+{% endnote %}
+
+
 ---
 
 # 角色選擇
 
 **主要是自己看喜歡的即可**
-可以先參考[【攻略】新手該選什麼角色？伺服器選擇？全職業介紹及各問題整理](https://forum.gamer.com.tw/C.php?bsn=23655&snA=8240&tnum=7&subbsn=8&bPage=2)
-也可以點各角色去看巴哈上面對應角色的詳細玩法攻略
+
+{% note info simple %}
+可以先參考[【攻略】新手該選什麼角色？伺服器選擇？全職業介紹及各問題整理](https://forum.gamer.com.tw/C.php?bsn=23655&snA=8240&tnum=7&subbsn=8&bPage=2)簡單了解個角色的特質等等屬性
+{% endnote %}
+
+再來可以點下方表格各角色去看巴哈上面對應角色的詳細玩法攻略
 但是有些文章的技能功能可能因為平衡並非完全相同，建議利用 **<訓練場>** 練習測試
-日期前面標註 "T" 則表示此文章為陸版貼吧文章
+
 {% note warning simple %}
-**<font color=red>注意</font>** ：部分文章可能未包含五轉技能
+**<font color=red>注意</font>** ：
+- **<font color=red>感謝每一篇文章/影片的作者細心製作！</font>**
+- 部分文章可能未包含五轉技能
+- 日期前面標註 "T" 則表示此文章為陸版貼吧(Tieba)文章
+- 日期前面標註 "C" 則表示此文章為韓版打[Conquest Program](/datasets/ControlCenter/#Conquest-Program)的影片 (~~尚無對應的文章，拿影片來頂著~~)
 {% endnote %}
 
 |黑羊小隊|紅狼小隊|夜梟小隊|嚙鼠小隊
 |:-|:-|:-|:-
-|[李世河](https://forum.gamer.com.tw/C.php?bsn=23655&snA=8997&tnum=1&subbsn=11) 2021/04/19<br>[李雪菲](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9063) 2022/02/14<br>徐維莉<br>J<br>米斯特汀|納塔<br>[蕾比雅](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9277&tnum=3) 2023/04/12<br>哈比<br>[緹娜](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9172&tnum=2&bPage=2) 2022/09/30<br>[薇歐莉特](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9055&tnum=1&bPage=4) 2022/11/10|沃爾夫姜<br>露娜<br>索瑪<br>[白](https://tieba.baidu.com/p/8016335815?pn=1) T2023/01/03<br>賽特|未來<br>[金徹斯](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9190&tnum=1&bPage=2) 2022/07/30<br>[銀河](https://tieba.baidu.com/p/7216785049) T2021/02/04<br>露西<br>愛里
+|[李世河](https://forum.gamer.com.tw/C.php?bsn=23655&snA=8997&tnum=1&subbsn=11) <br>**泉姊** 2021/04/19|[納塔](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9322&tnum=1) <br>**智波水** C2023/04/16<br>|[沃爾夫姜](https://youtu.be/q6hQnp9mvC4) <br>韓版30層 C2023/04/12|[未來](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9320&tnum=1) <br>**咖啡** 2023/04/30
+|[李雪菲](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9063) <br>**虛擬小草** 2023/04/27|[蕾比雅](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9277&tnum=3) <br>**孤兒** 2023/04/12|[露娜](https://youtu.be/CrdI9STPUq4) <br>韓版28層 C2023/02/28|[金徹斯](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9190&tnum=1&bPage=2) <br>**Slier** 2022/07/30
+|[徐維莉](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9284&tnum=1) <br>**Tesoat** 2023/04/17|[哈比](https://youtu.be/rhnsr56Wzvk) <br>韓版15層 C2023/03/02|[索瑪](https://youtu.be/FqbhmsLcp_A) <br>韓版全層 C2023/02/18|[銀河](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9332&tnum=3) <br>**虛擬小草** 2023/05/07
+|[J叔](https://youtu.be/4OP5q1SYrTg) <br>韓版15~25層 C2023/04/07|[緹娜](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9172&tnum=2&bPage=2) <br>**黑兔** 2022/09/30|白<br>[巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9321&tnum=1)<br>**Brown** 2023/04/30<br>[官網論壇](https://www.closers.com.tw/forum/thread/40) <br>**specter3000** 2023/04/26|[露西](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9319&tnum=1) <br>**Saiter** 2023/04/29
+|[米斯特汀](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9281&tnum=1) <br>**芯繫c** 2023/04/16|[薇歐莉特](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9055&tnum=1&bPage=4) <br>**史迪** 2023/04/27|[賽特](https://youtu.be/L5bPZjx61gc) <br>韓版27層 C2023/03/21|[愛里](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9285&tnum=1) <br>**Sakura** 2023/04/18
 
-額外參考：
+{% hideToggle 額外參考 %}
 [封印者全角色PVE攻略](https://tieba.baidu.com/home/main?id=tb.1.c63e10b1.zuxqZuR820CSNU2xTPrgbg?t=1536394254&fr=pb) T2019年：包含除嚙鼠小隊外15隻角色的玩法，但由於是2019年的文章，內容可能已經與實際情況大幅改變了
-白：[玩法](https://docs.qq.com/doc/DWkpRbFhmZ0JPQU5Q) [技能](https://docs.qq.com/sheet/DWldzUUhKd0hERXZV?tab=BB08J2) T2023/01/03
+[白](https://tieba.baidu.com/p/8016335815?pn=1)：[玩法](https://docs.qq.com/doc/DWkpRbFhmZ0JPQU5Q) [技能](https://docs.qq.com/sheet/DWldzUUhKd0hERXZV?tab=BB08J2) T2023/01/03
 [徹斯](https://tieba.baidu.com/p/7789656101) T2023/03/27
-
-攻擊屬性：會影響重鑄目標、以及史詩裝備(紅裝)選擇等問題
+[徐維莉](https://youtu.be/sl1k5r-faFA) C2023/03/28
+[露西](https://youtu.be/EGHdOGy6KUg) 韓版20層 C2023/03/06
+[未來](https://youtu.be/Hdwtpz6zx7w) 韓版28層 C2023/03/1
+[納塔](https://youtu.be/KD7E4ilaDCQ) 韓版30層 C2023/04/16
+[銀河](https://tieba.baidu.com/p/7216785049) 陸版文章 T2021/02/04
+[愛里](https://youtu.be/OG405QwOniU) C2023/02/10
+{% endhideToggle %}
 
 {% note info simple %}
 有關技能點法，可參考[這個Excel](https://docs.google.com/spreadsheets/d/1M1Qvw8TALxd2zZjTEd6Rq8p_UpCDswCcV-wf7tpDCrE/edit#gid=735145887)
 由群內玩家 憲兵多拉 提供
 {% endnote %}
+
+攻擊屬性：會影響重鑄目標、以及史詩裝備(紅裝)選擇等問題
 
 |物理|魔法|混合
 |:-|:-|:-
@@ -42,12 +117,12 @@ sticky: 1
 ---
 
 # 常用與隱藏小技巧
-04/02補上"空白鍵"功用
 
 |指令|功能
 |:-|:-
 |/escape 或 /脫離|傳送到地圖初始位置<br>卡在異常位置或角色飛出平台時可使用
 |/<任何表情>|能夠中斷開場或結算動作<br>可以加快刷本速度
+|/cr|重置聊天窗位置設定<br>跑位時可以使用
 |Ctrl + 滑鼠右鍵|將道具從**背包移到帳號倉庫**，或將道具從**角色倉庫跟帳號倉庫之間移動**
 |Ctrl + 拖曳道具|拆分道具
 |Shift + 左鍵道具|將道具資訊貼上聊天室
@@ -60,6 +135,7 @@ sticky: 1
     2. **角色**創建時間達360小時(15日)以上
     3. **角色**通關副本300次
 - 拍賣場為每分鐘更新一次，利用/time可以確認伺服器時間來對時
+- 丟至拍賣場的道具，約需要10 ~ 30分鐘才會上架
 - 點選類別後直接搜尋，可以搜尋此類別中的所有道具
 如下圖，點選**時裝**後直接按下**搜尋(或者按Enter)** ，即可搜尋所有時裝
 若再選擇下面的**角色：<font color=#ff40af>李雪菲</font>** 後，透過此技巧可搜尋 **<font color=#ff40af>李雪菲</font>的所有時裝**
@@ -134,7 +210,7 @@ sticky: 1
 僅簡單提點，完整攻略請參考連結中的文章 **(均為巴哈大佬們撰寫的文章)**
 
 - [野獸王：貝西摩斯](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9196)
-台版尚未開放
+    - **建議至少戰力達2500萬，突變增傷達160%以上(會以2500/160簡稱)**
 
 - [龍極刑場](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9182)
     - 若無法正攻法過關(實際建議戰力約3000萬以上)，可將防禦拉至165%以上進行[坐牢法](/datasets/dragon/#BOSS%E5%87%BA%E5%A0%B4%E9%A0%86%E5%BA%8F%E8%88%87%E6%A5%B5%E5%88%91%E6%94%BB%E7%95%A5)
@@ -142,6 +218,7 @@ sticky: 1
 - [15村：另一個路西法攻略](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9154)
     - 95條命(讚揚吧，輕蔑吧，虛假的守護者來了)， **<font color=red>請看上方文字與中間圖案說明。以白圈區分內外</font>**
 組合： **<font color=red>[來此/遠離去] [讚揚/輕蔑] 吧</font>** {% inlineImg https://i.imgur.com/FRSKJ9l.png 100px %}{% inlineImg https://i.imgur.com/RVLjUrP.png 100px %}
+解法：[進入白圈 / 離開白圈] [面對王 / 背對王]
     - 85條命(呼呼，沒用的孩子是誰呢?)，主要用無敵技能閃避，有信心可以空白
 
 - 機械王：貝爾菲格爾。[圖文攻略](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9067) [影片攻略](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9168)
@@ -149,7 +226,7 @@ sticky: 1
     - 工廠：戰力較低者，請主動去關閉地圖角落的機關。 **<font color=red>50條血後，請勿關閉左上角印章機關</font>**
     - 機械王：
 55血印章攻擊，請將印章引導至機械王，能夠長時間滯空者則可以保持在機械王上空，加快此機制速度\
-20血推方塊，請依照左上角隊伍排序至對應的"列"來推方塊
+**20血推方塊，請依照左上角隊伍排序至對應的"列"來推方塊**
 第三階段綁人，請經過連接電線來救隊友
 
 
@@ -162,6 +239,8 @@ sticky: 1
 且完成後除了有較高的能力外，也會有不錯的視覺效果，
 包含**6件套的城鎮動作(站街)、表情，<font color=red>10件套的立繪、語音、開場/結算動作、技能特效</font>等等**
 
+**記住：輝煌時裝右四<font size=5 color=red>不兼容</font>稀有時裝效果**
+
 {% note blue 'fas fa-question-circle' simple %}
 合成方法請參考[這篇文](/datasets/spec/synthesis/)
 {% endnote %}
@@ -169,6 +248,10 @@ sticky: 1
 ---
 
 # 新手常見問題
+
+- ## 每日/每周副本跟其他的重置時間
+
+**<font size=5 color=red>每日04:00重置，每周於周六04:00重置</font>**
 
 - ## 觸發器格子開啟
 
@@ -197,7 +280,7 @@ sticky: 1
 
 <div style="text-align: center">{% inlineImg /img/new_ret_tip/SP_get.png 250px %}</div>
 
-2. **<font color=red>平原之門</font> (共 40 SP)** 的所有任務請務必解完，主要為紅色/藍色次元傳送石(俗成紅藍本)相關任務都要解完 
+2. **<font color=red>平原之門</font> (共 40 SP)** 的所有任務請務必解完，主要為紅色/藍色次元傳送石(俗稱紅藍本)相關任務都要解完 
 ~~雖然場數很多但請還是努力打完~~
 
 3. <font color=red>主線任務</font>。尤其黑羊、紅狼、夜梟角色的主線到 **獵者之夜(12村)** 或 **釜山-南浦洞(13村)** 的最後一個任務還會有經驗之書
@@ -276,13 +359,15 @@ sticky: 1
 <div class="childDiv">
 
 **<font size=5>其他</font>**
+- [裝備等級與品級](/datasets/spec/gearlevel_and_quality/)
 - [農本指南](/datasets/farming_guide/)
 - [優化讀取與畫面流暢的方法](/datasets/settingWithRTSS/)
-- [相關連結](/link/)
-- [日配資料](/datasets/JP_vocal/)
+- [日文配音資料 (日配)](/datasets/JP_vocal/)
+- [字體與BGM修改](/datasets/font_bgm_mod/)
 - [台版紀念立繪](/datasets/TWanni_illusts/)
 - [愚人節立繪](/datasets/AprilFools/)
 - [主題歌曲](/datasets/ClosersSongs/)
+- [相關連結](/link/)
 </div>
 
 </div>

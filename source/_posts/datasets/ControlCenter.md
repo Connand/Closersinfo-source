@@ -56,7 +56,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |Gate Wave(小本)|90|2000~4000萬| 170~190 | 10 |角色3次<br>(每日補充3次、最多累積6次)|限制1人|
 |Gate Wave(4人副本)|90|2700萬| 177 | 10 |角色1次|建議4人|
 |Night Maze|92|浮動戰力<br>**<font color=#ff0000>2000~4000萬</font>**| - | 10 | - |限制1人|
-|**<font color=#f00>Conquest Program</font>**|92|**<font color=#ff0000>2200~8000萬</font>**| - | 10 | [入場票1張](#Conquest-Program) |限制1人|
+|**<font color=#f00>Conquest Program</font>**|92|**<font color=#ff0000>2200~8000萬</font>**| - | 10 | {%inlineImg https://i.imgur.com/ZauopIm.png 48px%}[入場票1張](#Conquest-Program) |限制1人|
 
 {% hideToggle <font color=#ff0000><b>16村副本詳細內容</b></font> %}
 {% tabs 副本資訊 %}
@@ -79,6 +79,11 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 > 第11次起：100萬
 
 ![](https://i.imgur.com/rMdpLAA.png)
+
+{% note info simple %}
+獎勵表請至[下方](/datasets/ControlCenter/#%E9%99%84%E9%8C%84%EF%BC%9A%E5%96%AE%E4%BA%BAGW%E7%8D%8E%E5%8B%B5%E8%A1%A8)查看
+{% endnote %}
+
 <!-- endtab -->
 <!-- tab Gate Wave(四人)-->
 圖標 {% inlineImg https://i.imgur.com/I7ceohW.png 64px %}
@@ -157,7 +162,8 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |:-:|:-:|:-:|:-:|:-:|
 |10,000,000|40 個|200 個|1,000 個|1,000 個|
 
----
+<p>　</p>
+
 ## 防具(大門守衛者)
 替換15村不死熱風防具
 
@@ -432,7 +438,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 從建議戰力2200萬開始，每一層加上200萬
 入場票可從Gate Wave的**危險度3**獎勵獲得{%inlineImg https://i.imgur.com/ZauopIm.png 64px%}
 **<font color=#900>復活次數：2。第30層為3次</font>**
-{% tabs 副本資訊 %}
+{% tabs 副本資訊, -1 %}
 <!-- tab 樓層資訊-->
 |層數|建議戰力|關卡BOSS|類型|
 |:-:|:-:|:-:|:-:|
@@ -472,45 +478,161 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 <font size=4>貼圖可至 <a target="_blank" href="https://drive.google.com/drive/folders/1jFK6bpar4oSDy2_DeNQ4wOqFaBHDhoJ7?usp=share_link">雲端</a> 下載</font>
 
-|層數|建議戰力|獎勵1|獎勵2<br>寵物核心|獎勵3<br>馬列克鑽石(1:90萬)|
+|層數|建議戰力|獎勵1|獎勵2<br>{% inlineImg https://i.imgur.com/eCOAypO.png 48px %}<br>寵物核心|獎勵3<br>{% inlineImg /img/material/malek_diamond.png 48px %}<br>馬列克鑽石(1:90萬)|
 |:-:|:-:|:-:|:-:|:-:|
-|1|2200萬|一般強化器燃料x5|5|1
-|2|2400萬|裝備重鑄S~C|5|1
-|3|2600萬|時裝重鑄S~C|5|1
-|4|2800萬|威嚴精隨|5|1
-|5|3000萬|強化燃料 +14|5|1
-|6|3200萬|格茉莉表情(哭)<br>![](https://i.imgur.com/lxrq2VQ.gif)|10|1
-|7|3400萬|裝備重鑄SS~C|10|1
-|8|3600萬|一般寵物自選|10|1
-|9|3800萬|時裝重鑄SS~C|10|1
-|10|4000萬|強化燃料 +15|10|1
-|11|4200萬|格茉莉表情(生氣)<br>![](https://i.imgur.com/RvjqIMz.gif)|30|2
-|12|4400萬|裝備重鑄必定S|30|2
-|13|4600萬|一般寵物自選|30|2
-|14|4800萬|時裝重鑄必定S|30|2
-|15|5000萬|強化燃料 +16|30|2
-|16|5200萬|跳舞特效動作自選|50|3
-|17|5400萬|裝備重鑄必定S|50|3
-|18|5600萬|格茉莉表情(歡喜)<br>![](https://i.imgur.com/6iGyKp9.gif)|50|3
-|19|5800萬|EX黑晶片 50個|50|3
-|20|6000萬|強化燃料 +16|50|3
-|21|6200萬|超能覺醒特效自選|70|4
-|22|6400萬|裝備重鑄必定SS|70|4
-|23|6600萬|攻克項目角色等級框<br>![](https://i.imgur.com/G6G50dv.png)|70|4
-|24|6800萬|T4鉑金自選|70|4
-|25|7000萬|強化燃料 +17|70|4
-|26|7200萬|跳舞特效動作自選|100|5
-|27|7400萬|時裝重鑄必定SS|100|5
-|28|7600萬|攻克項目讀取框<br>![](https://i.imgur.com/L2MyRPX.gif)|100|5
-|29|7800萬|菁英寵物自選|100|5
-|30|8000萬|攻克項目威嚴<br>![](https://i.imgur.com/tEZKpit.gif)|100|5
+|1|2200萬|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}一般強化器燃料x5|5|1
+|2|2400萬|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|5|1
+|3|2600萬|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|5|1
+|4|2800萬|{% inlineImg https://i.imgur.com/6PHDZf6.png 40px %}威嚴精隨|5|1
+|5|3000萬|{% inlineImg /img/material/fuel14.PNG 40px %}強化燃料 +14|5|1
+|6|3200萬|格茉莉表情(哭)<br>{% inlineImg https://i.imgur.com/lxrq2VQ.gif 100px %}|10|1
+|7|3400萬|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %}高級D零件：裝備|10|1
+|8|3600萬|{% inlineImg https://i.imgur.com/I0wVFM7.png 40px %}一般寵物自選|10|1
+|9|3800萬|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}高級D零件：時裝|10|1
+|10|4000萬|{% inlineImg /img/material/fuel15.PNG 40px %}強化燃料 +15|10|1
+|11|4200萬|格茉莉表情(生氣)<br>{% inlineImg https://i.imgur.com/RvjqIMz.gif 100px %}|30|2
+|12|4400萬|{% inlineImg https://i.imgur.com/LE2TT8Q.png 40px %} S 確定D零件：裝備|30|2
+|13|4600萬|{% inlineImg https://i.imgur.com/I0wVFM7.png 40px %}一般寵物自選|30|2
+|14|4800萬|{% inlineImg https://i.imgur.com/I62TyC9.png 40px %} S 確定D零件：時裝|30|2
+|15|5000萬|{% inlineImg /img/material/fuel16.PNG 40px %}強化燃料 +16|30|2
+|16|5200萬|{% inlineImg /img/material/dance_effect.png 40px %}跳舞特效動作自選|50|3
+|17|5400萬|{% inlineImg https://i.imgur.com/LE2TT8Q.png 40px %} S 確定D零件：裝備|50|3
+|18|5600萬|格茉莉表情(歡喜)<br>{% inlineImg https://i.imgur.com/6iGyKp9.gif 100px %}|50|3
+|19|5800萬|{% inlineImg /img/chip/chip_overclock.png 40px %} 超頻晶片50個|50|3
+|20|6000萬|{% inlineImg /img/material/fuel16.PNG 40px %}強化燃料 +16|50|3
+|21|6200萬|{% inlineImg /img/material/awaken_effect.png 40px %}超能覺醒特效自選|70|4
+|22|6400萬|{% inlineImg https://i.imgur.com/WxaqM1W.png 40px %} SS確定D零件：裝備|70|4
+|23|6600萬|攻克項目角色等級框<br>{% inlineImg https://i.imgur.com/G6G50dv.png 100px %}|70|4
+|24|6800萬|{% inlineImg /img/chip/T4_platinum.png 40px %}T4鉑金自選|70|4
+|25|7000萬|{% inlineImg /img/material/fuel17.PNG 40px %}強化燃料 +17|70|4
+|26|7200萬|{% inlineImg /img/material/dance_effect.png 40px %}跳舞特效動作自選|100|5
+|27|7400萬|{% inlineImg https://i.imgur.com/YWwwVtP.png 40px %} SS確定D零件：時裝|100|5
+|28|7600萬|攻克項目讀取框<br>{% inlineImg https://i.imgur.com/L2MyRPX.gif 150px %}|100|5
+|29|7800萬|{% inlineImg https://i.imgur.com/yDlYKup.png 40px %}菁英寵物自選|100|5
+|30|8000萬|攻克項目威嚴<br>{% inlineImg https://i.imgur.com/tEZKpit.gif 150px %}|100|5
 
 </div>
 <!-- endtab -->
 {% endtabs %}
 
+---
+
+# 附錄：單人GW獎勵表
+
+由[參考資料](https://closers.nexon.com/Community/Tip/View?n4ArticleSN=19640)翻譯
+表格中標題數字為 **危險度**
+部分翻譯可能不正確，待台版開服後確認
+
+<div class="container">
+
+<div class="childDiv">
+
+- 聖水大橋、BOSS：基頓
+
+|獎勵|1|2|3
+|:-|:-:|:-:|:-:
+|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶|110|160|214
+|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}彩虹次元精髓|115|172|229
+|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}普通強化器燃料|2|3|4
+|{% inlineImg /img/material/chip_slot_change.png 40px %}強化槽類型變更工具|1|2|2
+|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|1|2|2
+|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|1|1|1
+</div>
+<div class="childDiv">
+
+- 被摧毀的購物中心、BOSS：尤德
+
+|獎勵|1|2|3
+|:-|:-:|:-:|:-:
+|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶|6|8|11
+|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}穩定的次元裂痕|458|686|915
+|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}普通強化器燃料|2|3|4
+|{% inlineImg /img/material/chip_slot_change.png 40px %}強化槽類型變更工具|4||
+|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|1|2|2
+|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|1|1|1
+|{% inlineImg /img/material/platinum_driver.png 40px %}鉑金驅動器||2|
+|{% inlineImg /img/material/real_platinum_driver.png 40px %}真實鉑金驅動器|||1
+</div>
+<div class="childDiv">
+
+- 弘大街 - 夜晚、BOSS：尼托克麗絲
+
+|獎勵|1|2|3
+|:-|:-:|:-:|:-:
+|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶|6|8|11
+|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}彩虹次元精髓|23|35|46
+|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}普通強化器燃料|2|3|4
+|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|1|2|2
+|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|1|1|1
+|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}高級D零件：時裝|||2
+|{% inlineImg /img/material/real_platinum_driver.png 40px %}真實鉑金驅動器|1|1|2
+</div>
+<div class="childDiv">
+
+- 辛強高中校園 - 夜晚、新論峴
+
+|獎勵|1|2|3
+|:-|:-:|:-:|:-:
+|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶|27|40|54
+|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}穩定的次元裂痕|23|35|46
+|{% inlineImg /img/material/chip_slot_change.png 40px %}強化槽類型變更工具|1|2|2
+|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|1|2|2
+|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|1|1|1
+|{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %}強化器防護器|1|2|3
+</div>
+</div>
+
+<div class="container">
+<div class="childDiv">
+
+- 新首爾綜合棒球場 - 夜晚、東莞新港區
+
+|獎勵|1|2|3
+|:-|:-:|:-:|:-:
+|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶|6|8|11
+|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}彩虹次元精髓|23|35|46
+|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}普通強化器燃料|10|15|
+|{% inlineImg /img/material/chip_slot_change.png 40px %}強化槽類型變更工具|1|2|2
+|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|1|1|1
+|{% inlineImg https://i.imgur.com/TmHFFrJ.png 40px %}α重鑄等化器|1|2|3
+|{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %}強化器防護器|||1
+</div>
+<div class="childDiv">
+
+- 新首爾樂園 - 夜晚、下雨的電車站
+
+|獎勵|1|2|3
+|:-|:-:|:-:|:-:
+|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶|6|8|11
+|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}穩定的次元裂痕|23|35|46
+|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}普通強化器燃料|2|3|4
+|{% inlineImg /img/material/chip_slot_change.png 40px %}強化槽類型變更工具|1|2|2
+|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %}高級D零件：裝備|3|4|
+|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}高級D零件：時裝|2|3|5
+|{% inlineImg https://i.imgur.com/TmHFFrJ.png 40px %}α重鑄等化器|||1
+</div>
+
+</div>
+
+
+---
+
 <style>
 	.arranged_table table th:nth-of-type(3){
 		width: 45%;
 	}
+	.container {
+        overflow: hidden;
+        zoom: 1;
+        width: 100%;
+        height: flex;
+        /*border: 1px solid red;*/
+    }
+    .childDiv {
+        float: left;
+        width: 50%;
+        height: 100%;
+		padding: 5px;
+        /* border: 1px solid greenyellow;*/
+    }
 </style>
