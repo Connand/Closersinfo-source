@@ -21,6 +21,7 @@ description: "官方發布的各式主題曲"
 - [Closers RT：New Order開頭曲 - Go Beyond](https://youtu.be/xruoEBWsMOo)
 - [Closers RT：New Order結尾曲 - Closer](https://youtu.be/Wfi_SMMKvNY)
 - 附加：[Closers RT : New Order MV](https://youtu.be/TXh4srE_AGA)
+- ~~06/07上線，06/14宣布07/14關服~~
 
 ### 黑羊小隊
 | 李世河 | 李雪菲 | 徐維莉 |  J  | 米斯特汀 |

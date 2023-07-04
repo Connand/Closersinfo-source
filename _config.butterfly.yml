@@ -7,7 +7,6 @@
 #   name: link || icon
 
 menu:
-  轉移資訊: /transfer_notice/ || fas fa-exchange-alt
   # 首頁: / || fas fa-home
   # 封存: /archives/ || fas fa-archive
   標籤: /tags/ || fas fa-tags
