@@ -103,7 +103,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Connand/Closersinfo-source.git
+  repo: https://github.com/Connand/Connand.github.io
   branch: main
 
 # https://github.com/hexojs/hexo-filter-nofollow
