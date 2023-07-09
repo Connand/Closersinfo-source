@@ -3,7 +3,7 @@ title: 新手/回歸玩家快速上手指南
 date: 2023-02-23 11:25:52
 tags: 轉移
 cover: https://i.imgur.com/0ykRYBfh.png
-description: "<b><font color=red>0430更新角色攻略文連結<br>(尚缺：J、哈比、夜梟除白、銀河)</font><br>轉移特輯！</b>"
+description: "<b><font color=red>0709更新角色攻略文連結<br>(尚缺：J、哈比、沃爾夫姜、露娜、索瑪、銀河)</font><br>轉移特輯！</b>"
 sticky: 2
 ---
 
@@ -89,7 +89,7 @@ sticky: 2
 |[李雪菲](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9063) <br>**虛擬小草** 2023/04/27|[蕾比雅](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9277&tnum=3) <br>**孤兒** 2023/04/12|[露娜](https://youtu.be/CrdI9STPUq4) <br>韓版28層 C2023/02/28|[金徹斯](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9190&tnum=1&bPage=2) <br>**Slier** 2022/07/30
 |[徐維莉](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9284&tnum=1) <br>**Tesoat** 2023/04/17|[哈比](https://youtu.be/rhnsr56Wzvk) <br>韓版15層 C2023/03/02|[索瑪](https://youtu.be/FqbhmsLcp_A) <br>韓版全層 C2023/02/18|[銀河](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9332&tnum=3) <br>**虛擬小草** 2023/05/07
 |[J叔](https://youtu.be/4OP5q1SYrTg) <br>韓版15~25層 C2023/04/07|[緹娜](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9172&tnum=2&bPage=2) <br>**黑兔** 2022/09/30|白<br>[巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9321&tnum=1)<br>**Brown** 2023/04/30<br>[官網論壇](https://www.closers.com.tw/forum/thread/40) <br>**specter3000** 2023/04/26|[露西](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9319&tnum=1) <br>**Saiter** 2023/04/29
-|[米斯特汀](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9281&tnum=1) <br>**芯繫c** 2023/04/16|[薇歐莉特](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9055&tnum=1&bPage=4) <br>**史迪** 2023/04/27|[賽特](https://youtu.be/L5bPZjx61gc) <br>韓版27層 C2023/03/21|[愛里](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9285&tnum=1) <br>**Sakura** 2023/04/18
+|[米斯特汀](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9281&tnum=1) <br>**芯繫c** 2023/04/16|[薇歐莉特](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9055&tnum=1&bPage=4) <br>**史迪** 2023/04/27|[賽特](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9356&tnum=1) <br>**雲落炩** 2023/07/07|[愛里](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9285&tnum=1) <br>**Sakura** 2023/04/18
 
 {% hideToggle 額外參考 %}
 [封印者全角色PVE攻略](https://tieba.baidu.com/home/main?id=tb.1.c63e10b1.zuxqZuR820CSNU2xTPrgbg?t=1536394254&fr=pb) T2019年：包含除嚙鼠小隊外15隻角色的玩法，但由於是2019年的文章，內容可能已經與實際情況大幅改變了
@@ -99,6 +99,7 @@ sticky: 2
 [露西](https://youtu.be/EGHdOGy6KUg) 韓版20層 C2023/03/06
 [未來](https://youtu.be/Hdwtpz6zx7w) 韓版28層 C2023/03/1
 [納塔](https://youtu.be/KD7E4ilaDCQ) 韓版30層 C2023/04/16
+[賽特](https://youtu.be/L5bPZjx61gc) 韓版27層 C2023/03/21
 [銀河](https://tieba.baidu.com/p/7216785049) 陸版文章 T2021/02/04
 [愛里](https://youtu.be/OG405QwOniU) C2023/02/10
 {% endhideToggle %}
