@@ -39,7 +39,7 @@ description: "官方發布的各式主題曲"
 | 未來 | 徹斯 | 銀河 | 露西 | 愛里 | 
 | :--------: | :--------: | :--------: | :--------: | :--------: |
 | {% btn 'https://youtu.be/J3BqQKb2aQg', 天堂,fas fa-music,outline blue %} | {% btn 'https://youtu.be/A2_RyCKUUx8', Running out,fas fa-music,outline pink %} | {% btn 'https://youtu.be/0KU3LmvCc1A',Shadow,fas fa-music,outline %} | {% btn 'https://youtu.be/RJ9k-1Z8q60',我小小的救贖祈禱,fas fa-music,outline orange %} | {% btn 'https://youtu.be/QJJbQxmFOtE', 孩子,fas fa-music,outline blue %} |
-| {% btn 'https://youtu.be/5CXr51F741A', 楽園,fas fa-music,outline blue %} | {% btn 'https://youtu.be/_pUkoqaZasA', 日語版,fas fa-music,outline pink %} | {% btn 'https://youtu.be/yKvxNTV2Eos',日語版,fas fa-music,outline %} | {% btn 'https://youtu.be/Dwijmjdkm-w',小さな救いへの祈り,fas fa-music,outline orange %} |  |
+| {% btn 'https://youtu.be/5CXr51F741A', 楽園,fas fa-music,outline blue %} | {% btn 'https://youtu.be/_pUkoqaZasA', 日語版,fas fa-music,outline pink %} | {% btn 'https://youtu.be/yKvxNTV2Eos',日語版,fas fa-music,outline %} | {% btn 'https://youtu.be/Dwijmjdkm-w',小さな救いへの祈り,fas fa-music,outline orange %} | {% btn 'https://youtu.be/YdLfnof1Z-c',アイ,fas fa-music,outline blue %} |
 ### 主題曲
 | 2017 | 2019 | 2020 | 2021 | 2022 |
 | :--------: | :--------: | :--------: | :--------: | :--------: | 
@@ -140,5 +140,7 @@ description: "官方發布的各式主題曲"
 
 2023/05：[Closers RT：New Order開頭曲 - Go Beyond](https://youtu.be/xruoEBWsMOo)
 2023/05：[Closers RT：New Order結尾曲 - Closer](https://youtu.be/Wfi_SMMKvNY)
+
+2023/05/26：[日版愛里主題曲 -  i (アイ)](https://youtu.be/YdLfnof1Z-c)
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 覺醒PNA (未完工)
+title: 覺醒PNA
 date: 2023-06-14 11:54:31
 tags: 資料紀錄
 category: [遊戲資料,PNA]
@@ -28,20 +28,22 @@ PNA/突變改版
 
 > # 新副本與經驗表
 
+**<font color=red size=4>改版後僅能透過格莫瑞相關副本獲得PNA經驗</font>**
+
 ## 新副本（格莫瑞街機遊戲室，街機室）入場需求
 
 角色等級 92
 
 VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材料
 
-|副本|戰力|裝備等級
+|難度|戰力|裝備等級
 |:-:|:-:|:-|
 |NORMAL|25,000,000|180|
 |V.HARD|40,000,000|190|
 
 **<font color=red>高級篇：高級熊、熊樂園、科學設施。彼此場數共用<br>分別掉落覺醒機制Type A、Type B、Type C相關材料</font>**
 
-|副本|經驗|場數
+|副本|基礎經驗|場數
 |:-:|:-:|:-|
 |初級篇|7,200|每日帳號 1 次|
 |**<font color=red>高級篇</font>**|8,600|每日帳號 3 次 (與VH共用)|
@@ -120,7 +122,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 
 **<font color=red>重製以後，以前的突變因素將會移除，並且返還已使用的突變膠囊數量</font>**
 - 突變對應的種族增傷變更如下
-	- 20等前：每等級提升 13%，20等時為 260%
+	- 20等前：每等級提升 13.5%，20等時為 270%
 	- 20等後：每等級提升 1%，75等時 315%
 
 觀察圖片右邊，每一格均有重鑄等級標示，代表表達體的能力可以進行重鑄
@@ -270,37 +272,3 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 [官網資料](https://cs.nexon.com/helpBoard/popuphelpview/27112)
 
 ---
-
-# 未完工，以下是舊的東西
-
----
-
-
-<style>
-table {
-	width: 85%
-}
-.mutantEXP table td:nth-child(even) {
-	font-weight: bold;
-}
-</style>
-
-# 強化費用
-
-增幅PNA使用金幣與 **<font color=#F00>強化材料 (Lv 5以上則變為 進化材料)</font>** 來升級，強化材料可透過分解初始PNA以及增幅PNA來取得
-
-**<font size=5>注意：一樣可以使用特殊PNA升級的輔助道具使用</font>** {% inlineImg https://i.imgur.com/ofbuOah.png 64px %}
-
-|等級(Lv.)|所需材料|所需金幣|成功機率|
-|:-:|:-:|:-:|:-:|
-|0|1080 **<font color=#880>(強化)</font>**|89萬|75%|
-|1|1130 **<font color=#880>(強化)</font>**|144萬|75%|
-|2|1210 **<font color=#880>(強化)</font>**|233萬|75%|
-|3|1340 **<font color=#880>(強化)</font>**|377萬|75%|
-|4|1550 **<font color=#880>(強化)</font>**|610萬|75%|
-|5|1210 **<font color=#0aa>(進化)</font>**|314萬|**30%**|
-|6|1340 **<font color=#0aa>(進化)</font>**|159萬|60%|
-|7|1550 **<font color=#0aa>(進化)</font>**|265萬|50%|
-|8|1890 **<font color=#0aa>(進化)</font>**|358萬|40%|
-|9|2440 **<font color=#0aa>(進化)</font>**|479萬|**10%**|
-|最低消耗|6310 **<font color=#880>(強化)</font>** + 8430 **<font color=#0aa>(進化)</font>**|3028萬|-|
