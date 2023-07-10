@@ -31,6 +31,9 @@ description: "第二套高階時裝"
 因為動作、設計問題，比較沒辦法處理。
 故暫無露娜、索瑪、賽特、白、未來、徹斯、銀河、露西，但未來有機會出一套類似世界觀的。
 
+## 相關資料參考
+
+[語音展示](https://youtube.com/playlist?list=PLuZgoltyKSaSllJM8gn6PAP6UzSgIoG87)
 		
 **注意**：立繪僅分一般和特殊
 需要取得**除特效外**所有部位才可取得立繪
@@ -40,8 +43,8 @@ description: "第二套高階時裝"
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_cyber_2018.zip)
 [台版介紹網頁](https://landing.mangot5.com/template/closers/event/180202_update2/index.html#sec2)
----
-		
+
+---	
 
 {% tabs 類型 %}
 <!-- tab 一般立繪-->

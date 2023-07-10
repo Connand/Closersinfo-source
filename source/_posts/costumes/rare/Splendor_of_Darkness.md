@@ -38,6 +38,12 @@ description: "第一套高階時裝"
 > 比黑暗還要漆黑，比夜晚還要深沉，
 > 將身心都染上漆黑之力而覺醒吧！
 
+## 相關資料參考
+
+[語音與動作展示](https://youtube.com/playlist?list=PLRQzOnUOAvn9_fgJqM-6nnjrqtUHJEJHd)(部分缺失)
+[語音展示](https://youtube.com/playlist?list=PLuZgoltyKSaR_b0wFc4Y44AszdQhf5pLw)
+各標籤下方包含官方展示影片
+
 
 [台版介紹網頁](https://landing.mangot5.com/template/closers/event/170719/index.html)
 [韓版官網立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_RareCostume_pdabaa.zip)
@@ -45,6 +51,7 @@ description: "第一套高階時裝"
 所需十件套才可啟動立繪、語音、特效；動作擁有六件套即可
 十件套部位：部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 臉中 green %}、{% label 背部 green %}、{% label 瞳孔 green %}
 
+---
 
 {% tabs 類型 %}
 <!-- tab 一般立繪-->

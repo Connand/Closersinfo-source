@@ -2,7 +2,7 @@
 title: 裝備等級與品級
 date: 2023-04-23 11:25:00
 tags: 資料紀錄
-category: [遊戲資料,其他]
+category: [遊戲資料,新手指南]
 cover: /img/material/gearquality_refresh.png
 description: "裝備等級跟裝備品級的說明"
 ---

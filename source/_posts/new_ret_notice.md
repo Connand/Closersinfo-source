@@ -3,7 +3,7 @@ title: 新手/回歸玩家快速上手指南
 date: 2023-02-23 11:25:52
 tags: 轉移
 cover: https://i.imgur.com/0ykRYBfh.png
-description: "<b><font color=red>0709更新角色攻略文連結<br>(尚缺：J、哈比、沃爾夫姜、露娜、索瑪、銀河)</font><br>轉移特輯！</b>"
+description: "<b><font color=red>0709更新賽特攻略文連結<br>(尚缺：J、哈比、沃爾夫姜、露娜、索瑪、銀河)</font><br>轉移特輯！</b>"
 sticky: 2
 ---
 
