@@ -1,5 +1,5 @@
 ---
-title: 閃亮海洋(Sparkling Ocean，2022泳裝)
+title: 閃亮海洋(2022泳裝)
 date: 2022-07-14 10:10:31
 tags:
     - 立繪時裝
