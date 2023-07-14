@@ -20,7 +20,7 @@ description: "火焰王裝備資訊"
 
 # 副本資訊
 
-# 火焰的悲劇
+## 火焰的悲劇
 
 角色等級需求92、各每日入場一次
 每場約掉落新材料：20 x {% inlineImg https://i.imgur.com/iRfp4za.png 48px %}、10 x {% inlineImg https://i.imgur.com/5qvueVT.png 48px %}
