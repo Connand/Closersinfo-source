@@ -28,7 +28,8 @@ cover: https://imgur.com/rzULlGW.png
 description: "2023泳裝系列"
 ---
 
-[![](https://imgur.com/jdDvzME.png)](https://imgur.com/jdDvzME.png)
+[![](https://imgur.com/jdDvzMEh.png)](https://imgur.com/jdDvzME.png)
+[![](https://imgur.com/TaU1lFgh.png)](https://imgur.com/TaU1lFg.png)
 
 ---
 # 水槍盛典(暫譯)/ WaterBoom Festa
@@ -48,7 +49,8 @@ description: "2023泳裝系列"
 
 **左5套用水槍動作 左5+1飾品套用主題歌跳舞動作**
 
-{% hideToggle 舞蹈動作示意 %}
+{% hideToggle 舞蹈動作示意(請開啟聲音) %}
+
 <video height="300" controls="" preload="metadata" poster="" controlslist="nodownload" loop="">
     <source src="https://closers.vod.nexoncdn.co.kr/event/2023/0713_event_BC377CF8306B8708/CCFE192FD052804F.mp4" type="video/mp4">
 </video>
@@ -69,10 +71,10 @@ description: "2023泳裝系列"
 </video>
 {% endhideToggle %}
 
+若無法觀看，可至下方[宣傳頁面](https://closers.nexon.com/Events2023/0713/Festa)或[Imgur頁面](https://imgur.com/a/kfii6OM)上查看
+
 **左5+2飾品套用專用立繪**
 **每個角色都有另類時裝(上衣、下衣)，可解鎖額外立繪(特殊立繪)**
-
-
 
 [宣傳頁面](https://closers.nexon.com/Events2023/0713/Festa)
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
@@ -216,5 +218,3 @@ description: "2023泳裝系列"
 {% endtabs %}
 
 ---
-
-{%youtube V5Ll3yEqoPM %}

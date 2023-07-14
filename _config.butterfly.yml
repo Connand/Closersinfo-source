@@ -218,11 +218,11 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: false
+  enable: true
   QR_code:
-    # - img: /img/wechat.jpg
-    #   link:
-    #   text: wechat
+    - img: https://payment.ecpay.com.tw/Upload/QRCode/202209/QRCode_a6c6bfbf-80ca-4c7a-bd19-2ffec8af75c5.png
+      link: https://p.ecpay.com.tw/E659612
+      text: 綠界(點擊圖片)
     # - img: /img/alipay.jpg
     #   link:
     #   text: alipay
