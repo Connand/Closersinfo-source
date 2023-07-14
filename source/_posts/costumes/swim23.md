@@ -22,6 +22,7 @@ tags:
     - 金徹斯
     - 銀河
     - 露西
+    - 愛里
     - 泳裝
 category: [時裝, 有立繪, 全角色]
 cover: https://imgur.com/rzULlGW.png
