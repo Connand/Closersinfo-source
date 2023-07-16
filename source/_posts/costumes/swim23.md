@@ -113,7 +113,8 @@ description: "2023泳裝系列"
 [![](https://i.imgur.com/LXnQuZlh.png)](https://i.imgur.com/LXnQuZl.png)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-[![](https://i.imgur.com/1V7D17Th.png)](https://i.imgur.com/1V7D17T.png)
+~~聽說這張圖被Imgur ban過一次~~
+[![](https://imgur.com/mFAutSah.png)](https://imgur.com/mFAutSa.png)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
 [![](https://i.imgur.com/wm8zn1rh.png)](https://i.imgur.com/wm8zn1r.png)

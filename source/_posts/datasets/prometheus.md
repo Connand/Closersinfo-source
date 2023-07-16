@@ -66,7 +66,57 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 64px %}
 
 ---
 
-- 裝備能力值可以參考[官網公告](https://closers.nexon.com/News/Notice/View?n4ArticleSN=141603)
+# 能力比較
+
+以當前開放最高超越為主 (後續再更新)
+
+## 武器
+
+PLV: 210
+
+|詞條|{% inlineImg https://i.imgur.com/L74nNUW.png 48px %}<br><font color=red>長劍</font>|{% inlineImg https://i.imgur.com/WCtD9ox.png 48px %}<br><font color=red>槌子</font>|{% inlineImg https://i.imgur.com/2SRRUUZ.png 48px %}<br><font color=blue>權杖</font>|{% inlineImg https://i.imgur.com/sNyNomI.png 48px %}<br><font color=blue>燈籠</font>|{% inlineImg https://i.imgur.com/E1dgLmi.png 48px %}<br><font color=purple>鐮刀</font>|{% inlineImg https://i.imgur.com/N0BBqrl.png 48px %}<br><font color=purple>鞭子</font>
+|:-|:-:|:-:|:-:|:-:|:-:|:-:
+|攻擊力(49%)|4350|4350|4350|4350|4350|4350
+|攻擊速度|1|1|1|1|1|1
+|(1)暴擊率<br>(2)防禦穿透率|(1) 35%|(2) 40%|(1) 35%|(2) 40%|(1) 35%|(2) 40%
+|爆擊傷害|75%|125%|75%|125%|75%|125%
+|--- <font color=#8B8000>以下黃字數值</font>|---|---|---|---|---|---
+|攻擊速度|+10%|-10%|+10%|-10%|+10%|-10%
+|防禦穿透率|25%|25%|25%|25%|25%|25%
+|暴擊率|25%|25%|25%|25%|25%|25%
+|暴擊傷害|25%|25%|25%|25%|25%|25%
+|空中/背擊/浮空增傷|25%|25%|25%|25%|25%|25%
+
+## 模組
+
+PLV: 215
+
+|詞條|{% inlineImg https://i.imgur.com/tyJNFKL.png 48px %}<br><font color=red>物理</font>|{% inlineImg https://i.imgur.com/d1M6CpE.png 48px %}<br><font color=blue>魔法</font>|{% inlineImg https://i.imgur.com/yLM0SDP.png 48px %}<br><font color=purple>混合</font>
+|:-|:-:|:-:|:-:
+|攻擊力(49%)|1600|1600|1360
+|--- <font color=#8B8000>以下黃字數值</font>|---|---|---
+|暴擊傷害|165%|165%|140%
+|條件暴擊傷害|95%|95%|95%
+|條件增傷|45%|45%|45%
+|--- <font color=red>以下兩件套裝效果</font>|---|---|---
+|攻擊力|2750|2750|2338
+|暴擊率|45%|45%|45%
+
+## 接收器
+
+PLV: 200
+
+|詞條|{% inlineImg https://i.imgur.com/pMOTiqz.png 48px %}
+|:-|:-:
+|條件額外傷害(49%)|7500
+|攻擊力|2000
+|條件暴擊傷害|75%
+|條件增傷|60%
+|三轉一般技能等級| +1
+|--- <font color=red>以下特殊能力</font>|---
+|攻擊時攻擊力增加<br>冷卻 20 秒|2500
+
+- 詳細裝備能力值可以參考[官網公告](https://closers.nexon.com/News/Notice/View?n4ArticleSN=141603)
 
 ---
 
