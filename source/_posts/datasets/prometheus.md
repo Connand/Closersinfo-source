@@ -74,7 +74,7 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 64px %}
 
 PLV: 210
 
-|詞條|{% inlineImg https://i.imgur.com/L74nNUW.png 48px %}<br><font color=red>長劍</font>|{% inlineImg https://i.imgur.com/WCtD9ox.png 48px %}<br><font color=red>槌子</font>|{% inlineImg https://i.imgur.com/2SRRUUZ.png 48px %}<br><font color=blue>權杖</font>|{% inlineImg https://i.imgur.com/sNyNomI.png 48px %}<br><font color=blue>燈籠</font>|{% inlineImg https://i.imgur.com/E1dgLmi.png 48px %}<br><font color=purple>鐮刀</font>|{% inlineImg https://i.imgur.com/N0BBqrl.png 48px %}<br><font color=purple>鞭子</font>
+|詞條|{% inlineImg https://i.imgur.com/L74nNUW.png 48px %}<br><font color=red>長劍</font>|{% inlineImg https://i.imgur.com/WCtD9ox.png 48px %}<br><font color=red>槌子</font>|{% inlineImg https://i.imgur.com/2SRRUUZ.png 48px %}<br><font color=blue>權杖</font>|{% inlineImg https://i.imgur.com/sNyNomI.png 48px %}<br><font color=blue>燈籠</font>|{% inlineImg https://i.imgur.com/N0BBqrl.png 48px %}<br><font color=purple>鞭子</font>|{% inlineImg https://i.imgur.com/E1dgLmi.png 48px %}<br><font color=purple>鐮刀</font>
 |:-|:-:|:-:|:-:|:-:|:-:|:-:
 |攻擊力(49%)|4350|4350|4350|4350|4350|4350
 |攻擊速度|1|1|1|1|1|1
