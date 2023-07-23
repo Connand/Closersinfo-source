@@ -51,12 +51,12 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 - 類型：{% inlineImg https://i.imgur.com/gdXdckN.png 48px %} 特異型
 - 新裝備裝備等級：148(賽騰城) -> 161 -> 177 -> 201(15村) -> 210 -> 215 -> 220(16村)
 
-|副本|等級|建議戰力|裝備等級|消耗疲勞|入場限制|人數|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Gate Wave(小本)|90|2000~4000萬| 170~190 | 10 |角色3次<br>(每日補充3次、最多累積6次)|限制1人|
-|Gate Wave(4人副本)|90|2700萬| 177 | 10 |角色1次|建議4人|
-|Night Maze|92|浮動戰力<br>**<font color=#ff0000>2000~4000萬</font>**| - | 10 | - |限制1人|
-|**<font color=#f00>Conquest Program</font>**|92|**<font color=#ff0000>2200~8000萬</font>**| - | 10 | {%inlineImg https://i.imgur.com/ZauopIm.png 48px%}[入場票1張](#Conquest-Program) |限制1人|
+|副本|等級|建議戰力|裝備等級|消耗疲勞|入場限制|人數|復活限制
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Gate Wave(小本)|90|2000~4000萬| 170~190 | 10 |角色3次<br>(每日補充3次、最多累積6次)|限制1人|1 次|
+|Gate Wave(4人副本)|90|2700萬| 177 | 10 |角色1次|建議4人|1 次|
+|Night Maze|92|浮動戰力<br>**<font color=#ff0000>2000~4000萬</font>**| - | 10 | - |限制1人|<font color=red>0 次</font>|
+|**<font color=#f00>Conquest Program</font>**|92|**<font color=#ff0000>2200~8000萬</font>**| - | 10 | {%inlineImg https://i.imgur.com/ZauopIm.png 48px%}[入場票1張](#Conquest-Program) |限制1人|2 次|
 
 {% hideToggle <font color=#ff0000><b>16村副本詳細內容</b></font> %}
 {% tabs 副本資訊 %}

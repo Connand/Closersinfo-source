@@ -10,7 +10,8 @@ description: "紀錄那些超級歐洲人"
 改址前閱讀量5589
 
 # 目前記錄已掉落數量
-**<font size=5 color=#000000>492件 = 218野獸 + 205機械 + 69深海</font>**
+**<font size=5 color=#000000>526件 = 244野獸 + 213機械 + 69深海</font>**
+**<font size=4 color=red>2023/07/19 21:08 第500件史詩裝備</font>**
 **<font size=4 color=red>2023/07/09 17:12 同場掉落 2 野獸武器</font>**
 **<font size=4 color=red>2023/07/01 18:12 第400件史詩裝備</font>**
 **<font size=4 color=red>2023/06/15 02:55 第100件野獸史詩</font>**
@@ -25,12 +26,12 @@ description: "紀錄那些超級歐洲人"
 ---
 
 # <font color=red>野獸</font>史詩裝備相關
-## 掉落數：218
+## 掉落數：244
 |種類|繼承者<br><font color=red>貓武</font>|篡奪者<br><font color=red>醜武</font>|審視者<br><font color=red>花武</font>|守護者<br><font color=red>王武</font>|
 |:-:|:-:|:-:|:-:|:-:|
-|物理長劍|**23**|**9**|**8**|**33**|
-|魔法權杖|**15**|**8**|**8**|**33**|
-|雙傷鐮刀|**25**|**8**|**6**|**42**|
+|物理長劍|**28**|**9**|**8**|**40**|
+|魔法權杖|**19**|**8**|**8**|**37**|
+|雙傷鐮刀|**26**|**8**|**8**|**45**|
 
 ## 裝備說明文
 {% hideToggle 裝備說明文 %}
@@ -48,12 +49,12 @@ description: "紀錄那些超級歐洲人"
 ---
 
 # <font color=#ff0000>機械</font>史詩裝備相關
-## 掉落數：205
+## 掉落數：213
 |種類|核心|模組1|模組2|
 |:-:|:-:|:-:|:-:|
-|物理|長劍<br>**17**|引擎<br>**33**|推進器<br>**28**|
-|魔法|權杖<br>**20**|調節器<br>**21**|發生器<br>**21**|
-|雙傷|鐮刀<br>**18**|保險絲<br>**21**|魔方<br>**26**|
+|物理|長劍<br>**17**|引擎<br>**34**|推進器<br>**30**|
+|魔法|權杖<br>**20**|調節器<br>**23**|發生器<br>**22**|
+|雙傷|鐮刀<br>**18**|保險絲<br>**21**|魔方<br>**28**|
 
 ## 裝備說明文
 {% hideToggle 裝備說明文 %}
@@ -175,6 +176,244 @@ description: "紀錄那些超級歐洲人"
 
 # 時間軸
 {% timeline <strong>掉落時間</strong> %}
+
+{% timenode <font size=4>2023/07/23 20:00</font> %}
+
+**第37把野獸守護者權杖**
+![](/img/epicgears/epicgear526.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/23 16:18</font> %}
+
+**第28顆機械魔方**
+![](/img/epicgears/epicgear525.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/23 15:27</font> %}
+
+**第34顆機械引擎**
+![](/img/epicgears/epicgear524.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/23 14:38</font> %}
+
+**第27顆機械魔方**
+![](/img/epicgears/epicgear523.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/23 14:09</font> %}
+
+**第23顆機械調節器**
+![](/img/epicgears/epicgear522.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/23 11:41</font> %}
+
+**第40把野獸守護者長劍**
+![](/img/epicgears/epicgear521.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/23 03:08</font> %}
+
+**第45把野獸守護者鐮刀**
+![](/img/epicgears/epicgear520.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/23 01:46</font> %}
+
+**第39把野獸守護者長劍**
+![](/img/epicgears/epicgear519.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/23 01:31</font> %}
+
+**第38把野獸守護者長劍**
+![](/img/epicgears/epicgear518.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/23 01:08</font> %}
+
+**第37把野獸守護者長劍**
+![](/img/epicgears/epicgear517.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/23 01:06</font> %}
+
+**第44把野獸守護者鐮刀**
+![](/img/epicgears/epicgear516.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/23 01:00</font> %}
+
+**第36把野獸守護者權杖**
+![](/img/epicgears/epicgear515.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/22 23:56</font> %}
+
+**第28把野獸繼承者長劍**
+![](/img/epicgears/epicgear514.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/22 23:52</font> %}
+
+**第30顆機械推進器**
+![](/img/epicgears/epicgear513.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/22 22:37</font> %}
+
+**第27把野獸繼承者長劍**
+![](/img/epicgears/epicgear512.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/22 22:22</font> %}
+
+**第35把野獸守護者權杖**
+![](/img/epicgears/epicgear511.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/22 22:10</font> %}
+
+**第8把野獸審視者鐮刀**
+![](/img/epicgears/epicgear510.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/22 21:57</font> %}
+
+**第36把野獸守護者長劍**
+![](/img/epicgears/epicgear509.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/22 20:54</font> %}
+
+**第19把野獸繼承者權杖**
+![](/img/epicgears/epicgear508.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/22 ??:??(時間未知)</font> %}
+
+**第29顆機械推進器**
+![](/img/epicgears/epicgear507.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/22 01:17</font> %}
+
+**第35把野獸守護者長劍**
+![](/img/epicgears/epicgear506.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/21 01:42</font> %}
+
+**第26把野獸繼承者長劍**
+![](/img/epicgears/epicgear505.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/21 01:06</font> %}
+
+**第7把野獸審視者鐮刀**
+![](/img/epicgears/epicgear504.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/20 21:42</font> %}
+
+**第26把野獸繼承者鐮刀**
+![](/img/epicgears/epicgear503.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/20 21:12</font> %}
+
+**第22顆機械調節器**
+![](/img/epicgears/epicgear502.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/20 00:35</font> %}
+
+**第18把野獸繼承者權杖**
+![](/img/epicgears/epicgear501.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/19 21:08</font> %}
+
+**第34把野獸守護者權杖**
+![](/img/epicgears/epicgear500.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/18 ??:??(時間未知)</font> %}
+
+**第22顆機械發生器**
+![](/img/epicgears/epicgear499.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/18 20:50</font> %}
+
+**第43把野獸守護者鐮刀**
+![](/img/epicgears/epicgear498.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/18 20:43</font> %}
+
+**第25把野獸繼承者長劍**
+![](/img/epicgears/epicgear497.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/18 01:03</font> %}
+
+**第24把野獸繼承者長劍**
+![](/img/epicgears/epicgear496.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/18 00:49</font> %}
+
+**第17把野獸繼承者權杖**
+![](/img/epicgears/epicgear495.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/18 00:03</font> %}
+
+**第16把野獸繼承者權杖**
+![](/img/epicgears/epicgear494.png)
+
+{% endtimenode %}
+
+{% timenode <font size=4>2023/07/17 23:23</font> %}
+
+**第34把野獸守護者長劍**
+![](/img/epicgears/epicgear493.png)
+
+{% endtimenode %}
 
 {% timenode <font size=4>2023/07/16 22:50</font> %}
 
