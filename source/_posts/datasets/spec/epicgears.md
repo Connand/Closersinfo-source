@@ -1,5 +1,5 @@
 ---
-title: 史詩裝備掉落紀錄
+title: 史詩裝備掉落紀錄(停止更新)
 date: 2021-09-07 14:45:59
 tags: 資料紀錄
 category: [遊戲資料,其他]
@@ -7,20 +7,20 @@ cover: https://i.imgur.com/iP8sRLGh.jpg
 description: "紀錄那些超級歐洲人"
 ---
 
-改址前閱讀量5589
+> **<div style="text-align:center"><font size=3 color=red>此紀錄區目前為暫時停止更新狀態</font></div>**
 
 # 目前記錄已掉落數量
-**<font size=5 color=#000000>526件 = 244野獸 + 213機械 + 69深海</font>**
-**<font size=4 color=red>2023/07/19 21:08 第500件史詩裝備</font>**
-**<font size=4 color=red>2023/07/09 17:12 同場掉落 2 野獸武器</font>**
-**<font size=4 color=red>2023/07/01 18:12 第400件史詩裝備</font>**
-**<font size=4 color=red>2023/06/15 02:55 第100件野獸史詩</font>**
-**<font size=4 color=red>2023/06/11 02:44 第300件史詩裝備</font>**
-**<font size=4 color=red>2023/05/16 23:11 第200件史詩裝備</font>**
-**<font size=4 color=red>2023/05/11 23:30 第10件野獸裝備</font>**
-**<font size=4 color=red>2023/05/11 14:28 開放 1 小時 28 分後，第1件野獸裝備</font>**
-**<font size=4 color=red>2023/05/04 16:00 第100件機械裝備</font>**
-**<font size=4 color=red>2022/12/03 00:45 第100件史詩裝備</font>**
+**<font size=4 color=#000000>526件 = 244野獸 + 213機械 + 69深海</font>**
+**<font size=3 color=red>2023/07/19 21:08 第500件史詩裝備</font>**
+**<font size=3 color=red>2023/07/09 17:12 同場掉落 2 野獸武器</font>**
+**<font size=3 color=red>2023/07/01 18:12 第400件史詩裝備</font>**
+**<font size=3 color=red>2023/06/15 02:55 第100件野獸史詩</font>**
+**<font size=3 color=red>2023/06/11 02:44 第300件史詩裝備</font>**
+**<font size=3 color=red>2023/05/16 23:11 第200件史詩裝備</font>**
+**<font size=3 color=red>2023/05/11 23:30 第10件野獸裝備</font>**
+**<font size=3 color=red>2023/05/11 14:28 開放 1 小時 28 分後，第1件野獸裝備</font>**
+**<font size=3 color=red>2023/05/04 16:00 第100件機械裝備</font>**
+**<font size=3 color=red>2022/12/03 00:45 第100件史詩裝備</font>**
 
 
 ---
@@ -362,6 +362,7 @@ description: "紀錄那些超級歐洲人"
 {% timenode <font size=4>2023/07/19 21:08</font> %}
 
 **第34把野獸守護者權杖**
+**<font color=#ff0000>第500件史詩裝備</font>**
 ![](/img/epicgears/epicgear500.png)
 
 {% endtimenode %}
