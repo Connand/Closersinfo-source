@@ -521,7 +521,10 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 由[參考資料](https://closers.nexon.com/Community/Tip/View?n4ArticleSN=19640)翻譯
 表格中標題數字為 **危險度**
-部分翻譯可能不正確，待台版開服後確認
+
+{% note info simple %}
+{% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} 可能會與特定獎勵一同出現、{% inlineImg https://i.imgur.com/ZauopIm.png 48px %} 可能會與特定**危險度3**的獎勵一同出現
+{% endnote %}
 
 <div class="container">
 
@@ -565,7 +568,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|1|2|2
 |{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|1|1|1
 |{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}高級D零件：時裝|||2
-|{% inlineImg /img/material/real_platinum_driver.png 40px %}真實鉑金驅動器|1|1|2
+|{% inlineImg /img/material/real_platinum_driver.png 40px %}真實鉑金驅動器|1|2|2
 </div>
 <div class="childDiv">
 
