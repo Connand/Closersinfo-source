@@ -46,6 +46,17 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 裝備等級210，建議戰力4500萬
 每周獎勵次數： 1 次
 
+{% hideToggle 副本系統說明 %}
+1. 復活次數限制： 2 次
+2. 藥水使用限制： 10 次
+3. 副本技能
+  - 伊織靜：復活 1 次(不使用復活次數)
+  - 楊秀妍：絕對無敵 10 秒
+  - 維羅妮卡：解除DEBUFF，60 秒內對業火型增傷 100%
+  - 黑智秀：扣除敵人最大血量 5%
+  - 閔秀賢：使吉達和普羅米修斯無力化
+{% endhideToggle %}
+
 |獎勵|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|
 |:-:|:-:|:-:|:-:|:-:|
 |任務完成|206 個|105 個|210 個|210 個

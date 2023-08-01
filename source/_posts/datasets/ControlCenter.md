@@ -1,5 +1,5 @@
 ---
-title: 16村—新首爾支部：作戰指揮室(ControlCenter)裝備資訊
+title: 16村—新首爾分部指揮控制室裝備資訊
 date: 2023-01-26 14:25:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
@@ -47,7 +47,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 	> <font color=#ff0000> **不可共倉、不可交易** </font>
 
 
-## 副本資訊
+# 副本資訊
 - 類型：{% inlineImg https://i.imgur.com/gdXdckN.png 48px %} 特異型
 - 新裝備裝備等級：148(賽騰城) -> 161 -> 177 -> 201(15村) -> 210 -> 215 -> 220(16村)
 
@@ -527,7 +527,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 <div class="childDiv">
 
-- 聖水大橋、BOSS：基頓
+- 聖水大橋、BOSS：雷獸基頓
 
 |獎勵|1|2|3
 |:-|:-:|:-:|:-:
@@ -540,7 +540,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 </div>
 <div class="childDiv">
 
-- 被摧毀的購物中心、BOSS：尤德
+- 被毀的購物中心、BOSS：尤德
 
 |獎勵|1|2|3
 |:-|:-:|:-:|:-:
@@ -555,7 +555,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 </div>
 <div class="childDiv">
 
-- 弘大街 - 夜晚、BOSS：尼托克麗絲
+- 弘大街區 - 夜晚、BOSS：尼托克麗絲
 
 |獎勵|1|2|3
 |:-|:-:|:-:|:-:
@@ -585,7 +585,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 <div class="container">
 <div class="childDiv">
 
-- 新首爾綜合棒球場 - 夜晚、東莞新港區
+- 新首爾綜合棒球場 - 夜晚、辛強高中東館
 
 |獎勵|1|2|3
 |:-|:-:|:-:|:-:
@@ -599,7 +599,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 </div>
 <div class="childDiv">
 
-- 新首爾樂園 - 夜晚、下雨的電車站
+- 新首爾樂園 - 夜晚、雨中的地鐵站
 
 |獎勵|1|2|3
 |:-|:-:|:-:|:-:
@@ -613,6 +613,20 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 </div>
 
 </div>
+
+# 附錄：四人GW獎勵表
+
+- **每個箱子都是隨機抽取其中一種獎勵**
+
+|星期|BOSS|獎勵箱|內容物1|內容物2|內容物3|內容物4
+|:-:|:-:|:-|:-:|:-:|:-:|:-:
+|一|鏡者尼托克莉絲|{% inlineImg https://i.imgur.com/t9JN12W.png 40px %}新首爾分部常用材料箱子|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}58|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}58| |
+|二|汙染超能尤德|{% inlineImg https://i.imgur.com/WM6KFO2.png 40px %}新首爾分部裝備重鑄箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}2|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %}2|{% inlineImg https://i.imgur.com/TmHFFrJ.png 40px %}1
+|三|雷獸基頓|{% inlineImg https://i.imgur.com/gvOyR60.png 40px %}新首爾分部時裝重鑄箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}2|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}2|{% inlineImg https://i.imgur.com/iVGZwbH.png 40px %}1
+|四|汙染超能尤德|{% inlineImg https://i.imgur.com/NvD4XPQ.png 40px %}新首爾分部馬列克水晶箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg /img/material/malek_crysyal.png 40px %}10|{% inlineImg /img/material/malek_crysyal.png 40px %}30|{% inlineImg /img/material/malek_crysyal.png 40px %}100
+|五|鏡者尼托克莉絲|{% inlineImg https://i.imgur.com/72r1vbB.png 40px %}新首爾分部強化支援箱子|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}2|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}10|{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %}1|
+|六|汙染超能尤德|{% inlineImg https://i.imgur.com/bxZUEBm.png 40px %}新首爾分部晶片支援箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg /img/material/chip_slot_change.png 40px %}2|{% inlineImg /img/material/platinum_driver.png 40px %}1|{% inlineImg /img/material/real_color_driver.png 40px %}1
+|日|雷獸基頓|{% inlineImg https://i.imgur.com/NvD4XPQ.png 40px %}新首爾分部馬列克水晶箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg /img/material/malek_crysyal.png 40px %}10|{% inlineImg /img/material/malek_crysyal.png 40px %}30|{% inlineImg /img/material/malek_crysyal.png 40px %}100
 
 
 ---
