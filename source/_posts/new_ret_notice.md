@@ -95,11 +95,13 @@ sticky: 2
 由群內玩家 憲兵多拉 提供
 {% endnote %}
 
-攻擊屬性：會影響重鑄目標、以及史詩裝備(紅裝)選擇等問題
+{% hideToggle 角色攻擊屬性：會影響重鑄目標、以及史詩裝備(紅裝)選擇等問題 %}
 
 |物理|魔法|混合
 |:-|:-|:-
 |李世河<br>J<br>納塔<br>哈比<br>緹娜<br>露娜<br>索瑪<br>未來|李雪菲<br>米斯特汀<br>蕾比雅<br>沃爾夫姜<br>賽特<br>銀河<br>愛里|徐維莉<br>薇歐莉特<br>白<br>金徹斯<br>露西
+
+{% endhideToggle %}
 
 ---
 
@@ -145,7 +147,8 @@ sticky: 2
 {% note blue 'fas fa-question-circle' simple %}
 副本簡稱請參考巴哈上的[【心得】台版副本招募術語](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9261&tnum=1)
 {% endnote %}
-額外補充 (以單人常刷副本為主)：
+
+{% hideToggle 額外補充 (以單人常刷副本為主) %}
 
 |用語|說明
 |:-|:-:
@@ -156,6 +159,8 @@ sticky: 2
 |雷本|**平原之門：深層** <br>為常打的單人資源副本之一，其王關必定掉落 **馬列克水晶箱**
 |雷小|**雷本** 中的 **汙染超能的手下們** <br>為資源副本之一， **彩虹次元塵埃** 掉落量較多
 |古龍300|**古龍遺跡地 (簡稱古龍)** 中的 **震懾的沙塵暴** 與 **猛毒的沙塵暴** <br>為資源副本之一，單場 **消耗5疲勞** ，相比**龍800**的單場10疲勞來說，平均材料量多
+
+{% endhideToggle %}
 
 {% note primary simple %}
 延伸參考：[日常農本與製作指南](/datasets/farming_guide/)
@@ -255,12 +260,13 @@ sticky: 2
 
 - ## 角色SP上限是多少
 
-對於多數玩家未配置PVP技能的情況下，可以點擊**PVP標籤**來確認目前SP上限
+對於多數玩家未配置PVP技能的情況下，可以點擊**PVP標籤**來確認目前SP上限 **<font color=red>可能有些預設技能記得取消</font>**
 <div style="text-align: center">{% inlineImg /img/new_ret_tip/SP_limit.png 400px %}</div>
 
 目前等級上限90等，最高SP點如下 (若是韓版92等，則是再加上20點)
 - 黑羊、紅狼、夜梟角色： **<font color=red>959點</font>**
 - 嚙鼠角色： **<font color=red>889點</font>**
+- 愛里： **<font color=red>899點</font>**
 
 {% hideToggle 如果缺少SP的話 %}
 1. 請先從各村莊<font color=red>販賣機</font>中 點數商店(D)->貢獻度 底下確認是否已經購買經驗之書
@@ -317,6 +323,7 @@ sticky: 2
 <div class="childDiv">
 
 **<font size=5>主線裝備</font>**
+- [軍團長：普羅米修斯裝備](/datasets/prometheus/)
 - [新首爾作戰指揮室裝備](/datasets/ControlCenter/)
 - [軍團長：貝西摩斯裝備](/datasets/behemoth/)
 - [龍之刑場](/datasets/dragon/)
@@ -331,6 +338,7 @@ sticky: 2
 **<font size=5>能力提升</font>**
 - [團隊增益](/datasets/spec/teambuff/)
 - [稀有與輝煌時裝](/datasets/spec/synthesis/)
+- [覺醒PNA](/datasets/spec/awakenPNA/)
 - [突變PNA](/datasets/mutantPNA/)
 - [增幅PNA](/datasets/spec/ampPNA/)
 - [基礎與特殊PNA](/datasets/spec/basicPNA/)
@@ -374,6 +382,7 @@ sticky: 2
         float: left;
         width: 33.3%;
         height: 100%;
+        font-size: 0.9em;
         /* border: 1px solid greenyellow;*/
     }
 </style>
