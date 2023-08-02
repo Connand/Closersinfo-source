@@ -124,97 +124,35 @@ description: "白夜要塞裝備資訊"
 **<font color=#ff0000>路西法VH 1 場掉落 4 個漏洞塊</font>** {% inlineImg https://i.imgur.com/bIENHnS.png 64px %}
 註：每階"賭狗"方法材料都一樣 ~~但我懶得調了~~
 {% tabs 白夜要塞超越 %}
-<!-- tab 超1 (L1)-->
-{% tabs 超越L1方法 %}
+
 <!-- tab 賭狗-->
-模組
 
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) |
-|:-:|:-:|:-:|:-:|:-:|
-|400,000|50 個|30 個|40 個|8 個|
-
-護盾
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) |
-|:-:|:-:|:-:|:-:|:-:|
-|150,000|25 個|15 個|30 個|5 個|
-<!-- endtab -->
-
-<!-- tab 農保底-->
-模組
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) | ![結晶](https://i.imgur.com/oZ9yEkN.png) |
+|對象| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|4,000,000|500 個|300 個|400 個|89 個|2 個|
+|模組|400,000|50 個|30 個|40 個|8 個|
+|護盾|150,000|25 個|15 個|30 個|5 個|
 
-護盾
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) | ![結晶](https://i.imgur.com/oZ9yEkN.png) |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|750,000|125 個|75 個|150 個|33 個|1 個|
 <!-- endtab -->
 
-<!-- tab 彩罐保底-->
-模組
+<!-- tab 保底法-->
 
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![彩罐](https://i.imgur.com/6qBUfOf.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) | ![結晶](https://i.imgur.com/oZ9yEkN.png) |
+|階段| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) | ![結晶](https://i.imgur.com/oZ9yEkN.png) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|400,000|10 個|50 個|30 個|40 個|17 個|2 個|
-
-護盾
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![彩罐](https://i.imgur.com/6qBUfOf.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) | ![結晶](https://i.imgur.com/oZ9yEkN.png) |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|150,000|5 個|25 個|15 個|30 個|13 個|1 個|
-<!-- endtab -->
-{% endtabs %}
+|模組L1|4,000,000|500 個|300 個|400 個|89 個|2 個|
+|模組L2|8,000,000|1000 個|600 個|800 個|178 個|2 個|
+|護盾L1|750,000|125 個|75 個|150 個|33 個|1 個|
+|護盾L2|1,500,000|250 個|150 個|300 個|66 個|3 個|
 
 <!-- endtab -->
 
-<!-- tab 超2 (L2)-->
-{% tabs 超越L2方法 %}
-<!-- tab 賭狗-->
-模組
+<!-- tab 彩罐法-->
 
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) |
-|:-:|:-:|:-:|:-:|:-:|
-|400,000|50 個|30 個|40 個|8 個|
-
-護盾
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) |
-|:-:|:-:|:-:|:-:|:-:|
-|150,000|25 個|15 個|30 個|5 個|
-<!-- endtab -->
-
-<!-- tab 農保底-->
-模組
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) | ![結晶](https://i.imgur.com/oZ9yEkN.png) |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|8,000,000|1000 個|600 個|800 個|178 個|2 個|
-
-護盾
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) | ![結晶](https://i.imgur.com/oZ9yEkN.png) |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|1,500,000|250 個|150 個|300 個|66 個|3 個|
-<!-- endtab -->
-
-<!-- tab 彩罐保底-->
-模組
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![彩罐](https://i.imgur.com/6qBUfOf.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) | ![結晶](https://i.imgur.com/oZ9yEkN.png) |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|400,000|20 個|50 個|30 個|40 個|26 個|5 個|
-
-護盾
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![彩罐](https://i.imgur.com/6qBUfOf.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) | ![結晶](https://i.imgur.com/oZ9yEkN.png) |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|150,000|10 個|25 個|15 個|30 個|21 個|3 個|
-<!-- endtab -->
-{% endtabs %}
+|接段| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![彩罐](https://i.imgur.com/6qBUfOf.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![粉塵](https://i.imgur.com/qMKcQoy.png) | ![漏洞](https://i.imgur.com/bIENHnS.png) | ![結晶](https://i.imgur.com/oZ9yEkN.png) |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|模組L1|400,000|10 個|50 個|30 個|40 個|17 個|2 個|
+|模組L2|400,000|20 個|50 個|30 個|40 個|26 個|5 個|
+|護盾L1|150,000|5 個|25 個|15 個|30 個|13 個|1 個|
+|護盾L2|150,000|10 個|25 個|15 個|30 個|21 個|3 個|
 
 <!-- endtab -->
 

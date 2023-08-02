@@ -193,70 +193,26 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |500,000|50 個|30 個|2 個|10 個|
 <!-- endtab -->
 
-<!-- tab 超1 (L1)-->
-{% tabs 超越L1方法 %}
-<!-- tab 農保底-->
-模組
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
-|:-:|:-:|:-:|:-:|:-:|
-|12,500,000|1250 個|1250 個|50 個|250 個|
-
-護盾
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
-|:-:|:-:|:-:|:-:|:-:|
-|6,250,000|625 個|625 個|25 個|125 個|
-<!-- endtab -->
-
-<!-- tab 彩罐保底-->
-模組
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![彩罐](https://i.imgur.com/6qBUfOf.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
+<!-- tab 保底法-->
+|階段| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|500,000|28 個|50 個|50 個|2 個|10 個|
-
-護盾
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![彩罐](https://i.imgur.com/6qBUfOf.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|500,000|14 個|50 個|50 個|2 個|10 個|
-<!-- endtab -->
-{% endtabs %}
-
+|模組L1|12,500,000|1250 個|1250 個|50 個|250 個|
+|模組L2|16,700,000|1670 個|1670 個|67 個|330 個|
+|<font color=red>小結</font>|29,200,000|2920 個|2920 個|117 個|580 個|
+|護盾L1|6,250,000|625 個|625 個|25 個|125 個|
+|護盾L2|8,300,000|830 個|830 個|33 個|170 個|
+|<font color=red>小結</font>|14,550,000|1455 個|1455 個|58 個|295 個|
 <!-- endtab -->
 
-<!-- tab 超2 (L2)-->
-{% tabs 超越L2方法 %}
-<!-- tab 農保底-->
-模組
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
-|:-:|:-:|:-:|:-:|:-:|
-|16,700,000|1670 個|1670 個|67 個|330 個|
-
-護盾
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
-|:-:|:-:|:-:|:-:|:-:|
-|8,300,000|830 個|830 個|33 個|170 個|
-<!-- endtab -->
-
-<!-- tab 彩罐保底-->
-模組
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![彩罐](https://i.imgur.com/6qBUfOf.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|500,000|37 個|50 個|50 個|2 個|10 個|
-
-護盾
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![彩罐](https://i.imgur.com/6qBUfOf.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|500,000|18 個|50 個|50 個|2 個|10 個|
-<!-- endtab -->
-{% endtabs %}
-
+<!-- tab 彩罐法-->
+|階段| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![彩罐](https://i.imgur.com/6qBUfOf.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|模組L1|500,000|28 個|50 個|50 個|2 個|10 個|
+|模組L2|500,000|37 個|50 個|50 個|2 個|10 個|
+|<font color=red>小結</font>|1,000,000|65 個|100 個|100 個|4 個|20 個|
+|護盾L1|500,000|14 個|50 個|50 個|2 個|10 個|
+|護盾L2|500,000|18 個|50 個|50 個|2 個|10 個|
+|<font color=red>小結</font>|1,000,000|32 個|100 個|100 個|4 個|20 個|
 <!-- endtab -->
 
 <!-- tab 農保底總和-->
