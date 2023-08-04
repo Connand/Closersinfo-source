@@ -29,18 +29,18 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 16村(Control Center)中新增的裝備，為獨立模組以及防具三件套(大門守衛者)，替換掉15村裝備。
 
 **新材料**
-+ {% inlineImg https://i.imgur.com/55LncBB.png 64px %} 聯盟戰術分析文件
++ {% inlineImg https://i.imgur.com/55LncBB.png 48px %} UNION戰術分析檔案
 	> 透過**Gate Wave**獲得
 	> **4人副本固定獲得8個**
 	> <font color=#ff0000> **不可共倉、不可交易** </font>
-+ {% inlineImg https://i.imgur.com/t6ZTftc.png 64px %} 聯盟戰術分析報告書
++ {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} UNION戰鬥分析報告
 	> 透過**Gate Wave**獲得
 	> **4人副本固定獲得10張**、**單人副本有機率刷出10張的獎勵**
 	> <font color=#ff0000> **可共倉、可交易** </font>
-+ {% inlineImg https://i.imgur.com/YYeSfOv.png 64px %} 睡眠誘導券
++ {% inlineImg https://i.imgur.com/YYeSfOv.png 48px %} 睡眠誘導券
 	> 透過**Gate Wave4人副本**獲得，用於**Night Maze**入場
 	> <font color=#ff0000> **可共倉、可交易** </font>
-+ {% inlineImg https://i.imgur.com/vS6S6wc.png 64px %} 夢幻水晶
++ {% inlineImg https://i.imgur.com/vS6S6wc.png 48px %} 夢的水晶
 	> 透過**Night Maze**獲得
 	> 王關、隱藏BOSS跟寶藏區可能掉落
 	> 結算獎勵可獲得1~3顆不等 (**陸版**會有2格VIP額外獎勵也可獲得)
@@ -148,37 +148,25 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 # 裝備製作
 
-## 模組(大門守衛者)
-替換15村不死熱風模組
-一樣有4種能力供選擇： 速度、超能、致命、漂浮
+替換15村
+模組一樣有4種能力供選擇： 速度、超能、致命、漂浮
 
 |物理|魔法|混合|
 |:-:|:-:|:-:|
 |{% inlineImg https://i.imgur.com/rCcZfdZ.png 48px %} >>{% inlineImg https://i.imgur.com/JKsWa4G.png 48px %}|{% inlineImg https://i.imgur.com/QnjyTVK.png 48px %} >>{% inlineImg https://i.imgur.com/eU2ditv.png 48px %}|{% inlineImg https://i.imgur.com/nmwHa3X.png 48px %} >>{% inlineImg https://i.imgur.com/jpHeRLl.png 48px %}|
 
-### 製作需求
-
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![文件](https://i.imgur.com/55LncBB.png) |  ![報告書](https://i.imgur.com/t6ZTftc.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) |
-|:-:|:-:|:-:|:-:|:-:|
-|10,000,000|40 個|200 個|1,000 個|1,000 個|
-
-<p>　</p>
-
-## 防具(大門守衛者)
-替換15村不死熱風防具
-
 |戒指|項鍊|玩偶|
 |:-:|:-:|:-:|
 |{% inlineImg https://i.imgur.com/cBrnZOc.png 48px %} >>{% inlineImg https://i.imgur.com/k2OnMwe.png 48px %}|{% inlineImg https://i.imgur.com/y5TJ6p5.png 48px %} >>{% inlineImg https://i.imgur.com/WcDk9sk.png 48px %}|{% inlineImg https://i.imgur.com/wc2zlH4.png 48px %} >>{% inlineImg https://i.imgur.com/xlVjB6s.png 48px %}|
 
-
-
 ### 製作需求
-**以下為單一件所需要的量，全做需要x3**
 
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![文件](https://i.imgur.com/55LncBB.png) |  ![報告書](https://i.imgur.com/t6ZTftc.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) |
-|:-:|:-:|:-:|:-:|:-:|
-|5,000,000|20 個|100 個|500 個|500 個|
+|裝備| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![文件](https://i.imgur.com/55LncBB.png) |  ![報告書](https://i.imgur.com/t6ZTftc.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|模組|10,000,000|40 個|200 個|1,000 個|1,000 個|
+|護盾|5,000,000|20 個|100 個|500 個|500 個|
+
+<p>　</p>
 
 
 ---
@@ -523,7 +511,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}普通強化器燃料|2|3|4
 |{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|1|2|2
 |{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|1|1|1
-|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}高級D零件：時裝|||2
+|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}高級D零件：時裝||1|2
 |{% inlineImg /img/material/real_platinum_driver.png 40px %}真實鉑金驅動器|1|2|2
 </div>
 <div class="childDiv">
