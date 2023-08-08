@@ -339,7 +339,7 @@ sticky: 2
 - [團隊增益](/datasets/spec/teambuff/)
 - [稀有與輝煌時裝](/datasets/spec/synthesis/)
 - [覺醒PNA](/datasets/spec/awakenPNA/)
-- [突變PNA](/datasets/mutantPNA/)
+- [突變PNA](/datasets/spec/mutantPNA/)
 - [增幅PNA](/datasets/spec/ampPNA/)
 - [基礎與特殊PNA](/datasets/spec/basicPNA/)
 - [重鑄](/datasets/spec/tuning/)
