@@ -3,7 +3,7 @@ title: 戰力提升：飾品
 date: 2023-02-09 11:25:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
-cover: https://i.imgur.com/bF7eDfD.png
+cover: https://i.imgur.com/8fFjIDf.png
 description: "能力飾品資料整理"
 ---
 
@@ -31,6 +31,7 @@ description: "能力飾品資料整理"
 
 |軍團長|道具圖|能力值|
 |:-:|:-|:-|
+| 火焰王 | {% inlineImg https://i.imgur.com/Gqd1khg.png 32px %}{% inlineImg https://i.imgur.com/W8cYj1Q.png 32px %}{% inlineImg https://i.imgur.com/8fFjIDf.png 32px %}{% inlineImg https://i.imgur.com/5r607Gn.png 32px %} | 物理/魔法攻擊力+400<br>物理/魔法爆傷+45%<br>業火增傷+10% |
 | 野獸王 | {% inlineImg https://i.imgur.com/XiMgiNw.png 32px %}{% inlineImg https://i.imgur.com/0VaY1sl.png 32px %}{% inlineImg https://i.imgur.com/luPj9ua.png 32px %} | 物理/魔法攻擊力+350<br>物理/魔法爆傷+40%<br>野生增傷+10% |
 | 機械王 | {% inlineImg https://i.imgur.com/32MiorG.png 32px %}安娜貝爾的反重力模組<br>{% inlineImg https://i.imgur.com/bF7eDfD.png 32px %}格莫莉的天線絲帶<br>{% inlineImg https://i.imgur.com/pRibBVh.png 32px %}洛夫克拉夫特之錘 | 物理/魔法攻擊力+300<br>物理/魔法爆傷+35%<br>前腦增傷+10% |
 | 深海王 | {% inlineImg https://i.imgur.com/Lrj8V1L.png 32px %}波洛芙的飄揚腿部裝飾<br>{% inlineImg https://i.imgur.com/7NxcuSR.png 32px %}戴維約翰的燧發槍<br>{% inlineImg https://i.imgur.com/eUoR3Ni.png 32px %}羅蕾萊的神聖守護符 | 物理/魔法攻擊力+250<br>物理/魔法爆傷+30%<br>深海增傷+10% |

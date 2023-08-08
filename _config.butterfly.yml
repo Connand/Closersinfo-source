@@ -871,6 +871,7 @@ css_prefix: true
 inject:
   head:
     - <link rel="stylesheet" href="/css/tag-diy.css">
+    - <link rel="stylesheet" href="/css/splitted-div.css">
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
     - <script src="/schedule.js"></script>

@@ -159,6 +159,37 @@ PLV: 220 (史詩240)
 
 ---
 
+# 能力飾品
+
+|臉上|臉下|腿部|腰部
+|:-:|:-:|:-:|:-:
+|{% inlineImg https://i.imgur.com/5r607Gn.png 48px %}|{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}|{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}|{% inlineImg https://i.imgur.com/8fFjIDf.png 48px %}
+
+
+<div class="container">
+<div class="childDiv50">
+
+**<font size=5>單件製作材料</font>**
+|{% inlineImg https://i.imgur.com/bRFx7v6.png 40px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 40px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 40px %}
+|:-:|:-:|:-:
+|30,000,000|200|400
+</div>
+<div class="childDiv50">
+
+**<font size=5>能力值</font>**
+- 2件效果：
+  - 物理/魔法攻擊力 200
+  - 物理/魔法暴擊傷害 25%
+- 3件效果：
+  - 物理/魔法攻擊力 200
+  - 物理/魔法暴擊傷害 20%
+  - 業火型增傷 10%
+</div>
+</div>
+
+
+---
+
 <style>
   .title table td:not(:nth-child(1)) {
     vertical-align: top;
