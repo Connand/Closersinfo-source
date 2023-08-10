@@ -11,6 +11,12 @@ description: "平衡資訊整合"
 
 [巴哈板精華區](https://forum.gamer.com.tw/G1.php?bsn=23655&parent=659)：上面有2020/6/25起的平衡翻譯
 
+# [2023/07/13](https://forum.gamer.com.tw/G2.php?bsn=23655&parent=659&sn=803&lorder=22&ptitle=%E3%80%90%E9%9F%93%E7%89%88%E3%80%912020%2F6%2F25%E8%B5%B7%E6%8A%80%E8%83%BD%E5%B9%B3%E8%A1%A1%E8%B3%87%E8%A8%8A)
+
+- 平衡對象：李雪菲
+
+技能連接性、傷害跟判定均做明顯提升
+
 # [2023/06/29](https://forum.gamer.com.tw/G2.php?bsn=23655&parent=659&sn=800&lorder=21&ptitle=%E3%80%90%E9%9F%93%E7%89%88%E3%80%912020%2F6%2F25%E8%B5%B7%E6%8A%80%E8%83%BD%E5%B9%B3%E8%A1%A1%E8%B3%87%E8%A8%8A)
 
 - 平衡對象：李世河、李雪菲、J、納塔、白、賽特

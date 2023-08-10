@@ -22,6 +22,7 @@ tags:
     - 金徹斯
     - 銀河
     - 露西
+    - 愛里
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/ExxqHn9h.jpg
 description: "Dear Crescent"
@@ -103,6 +104,9 @@ description: "Dear Crescent"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/9vpePlUh.jpg)](https://i.imgur.com/9vpePlU.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/EyKgkp7h.png)](https://i.imgur.com/EyKgkp7.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -164,6 +168,9 @@ description: "Dear Crescent"
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/YkboCbIh.jpg)](https://i.imgur.com/YkboCbI.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/kZimNRGh.png)](https://i.imgur.com/kZimNRG.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -227,6 +234,9 @@ description: "Dear Crescent"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/RIqWnUAh.png)](https://i.imgur.com/RIqWnUA.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/gSCD1uEh.png)](https://i.imgur.com/gSCD1uE.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -288,6 +298,9 @@ description: "Dear Crescent"
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/5mF3lqlh.png)](https://i.imgur.com/5mF3lql.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/3kmgz1uh.png)](https://i.imgur.com/3kmgz1u.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

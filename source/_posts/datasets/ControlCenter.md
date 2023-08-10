@@ -567,9 +567,9 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 |星期|BOSS|獎勵箱|內容物1|內容物2|內容物3|內容物4
 |:-:|:-:|:-|:-:|:-:|:-:|:-:
-|一|鏡者尼托克莉絲|{% inlineImg https://i.imgur.com/t9JN12W.png 40px %}新首爾分部常用材料箱子|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}58|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}58| |
-|二|汙染超能尤德|{% inlineImg https://i.imgur.com/WM6KFO2.png 40px %}新首爾分部裝備重鑄箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}2|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %}2|{% inlineImg https://i.imgur.com/TmHFFrJ.png 40px %}1
-|三|雷獸基頓|{% inlineImg https://i.imgur.com/gvOyR60.png 40px %}新首爾分部時裝重鑄箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}2|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}2|{% inlineImg https://i.imgur.com/iVGZwbH.png 40px %}1
+|一|鏡者尼托克莉絲|{% inlineImg https://i.imgur.com/t9JN12W.png 40px %}新首爾分部共用材料箱子|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}58|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}58| |
+|二|汙染超能尤德|{% inlineImg https://i.imgur.com/gvOyR60.png 40px %}新首爾分部裝備重鑄箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}2|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %}2|{% inlineImg https://i.imgur.com/TmHFFrJ.png 40px %}1
+|三|雷獸基頓|{% inlineImg https://i.imgur.com/WM6KFO2.png 40px %}新首爾分部時裝重鑄箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}2|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}2|{% inlineImg https://i.imgur.com/iVGZwbH.png 40px %}1
 |四|汙染超能尤德|{% inlineImg https://i.imgur.com/NvD4XPQ.png 40px %}新首爾分部馬列克水晶箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg /img/material/malek_crysyal.png 40px %}10|{% inlineImg /img/material/malek_crysyal.png 40px %}30|{% inlineImg /img/material/malek_crysyal.png 40px %}100
 |五|鏡者尼托克莉絲|{% inlineImg https://i.imgur.com/72r1vbB.png 40px %}新首爾分部強化支援箱子|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}2|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}10|{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %}1|
 |六|汙染超能尤德|{% inlineImg https://i.imgur.com/bxZUEBm.png 40px %}新首爾分部晶片支援箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg /img/material/chip_slot_change.png 40px %}2|{% inlineImg /img/material/platinum_driver.png 40px %}1|{% inlineImg /img/material/real_color_driver.png 40px %}1
