@@ -36,6 +36,8 @@ PNA/突變改版
 
 VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材料
 
+{% btn 'https://forum.gamer.com.tw/C.php?bsn=23655&snA=9365',副本攻略,far fa-hand-point-right,outline blue larger %}
+
 |難度|戰力|裝備等級
 |:-:|:-:|:-|
 |NORMAL|25,000,000|180|

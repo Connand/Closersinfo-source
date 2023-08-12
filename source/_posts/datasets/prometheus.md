@@ -33,6 +33,8 @@ description: "火焰王裝備資訊"
 每場約掉落新材料：20 x {% inlineImg https://i.imgur.com/iRfp4za.png 48px %}、10 x {% inlineImg https://i.imgur.com/5qvueVT.png 48px %}
 BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 
+{% btn 'https://forum.gamer.com.tw/C.php?bsn=23655&snA=9364',副本攻略,far fa-hand-point-right,outline blue larger %}
+
 |副本|裝備等級|建議戰力
 |:-:|:-:|:-:
 |監視者之房|180|2500萬
