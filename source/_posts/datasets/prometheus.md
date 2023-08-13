@@ -30,7 +30,7 @@ description: "火焰王裝備資訊"
 ## 火焰的悲劇
 
 角色等級需求92、各每日入場一次
-每場約掉落新材料：20 x {% inlineImg https://i.imgur.com/iRfp4za.png 48px %}、10 x {% inlineImg https://i.imgur.com/5qvueVT.png 48px %}
+每場約掉落新材料：10-40 x {% inlineImg https://i.imgur.com/iRfp4za.png 48px %}、10 x {% inlineImg https://i.imgur.com/5qvueVT.png 48px %}
 BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 
 {% btn 'https://forum.gamer.com.tw/C.php?bsn=23655&snA=9364',副本攻略,far fa-hand-point-right,outline blue larger %}
@@ -118,13 +118,13 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 |**<font color=red>保底總和</font>**|450萬|450|450|40|20|50|25|246|
 
 {% note info simple %}
-獎勵表： **悲劇材料保底完成需 13 日、喜劇材料保底完成需 8 周**
+獎勵表： **悲劇材料保底完成需 13-25 日、喜劇材料保底完成需 8 周**
 {% endnote %}
 
 |獎勵|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|{% inlineImg https://i.imgur.com/iRfp4za.png 48px %}|{% inlineImg https://i.imgur.com/5qvueVT.png 48px %}|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|悲劇每場獎勵|-|-|-|-|20|10|
-|悲劇每日三場|-|-|-|-|60|30|
+|悲劇每場獎勵|-|-|-|-|10-40|10|
+|悲劇每日三場|-|-|-|-|30-120|30|
 |喜劇任務完成|206 個|105 個|210 個|210 個|-|-|
 |喜劇每周獎勵|105 個|105 個|210 個|210 個|-|-|
 {% endhideToggle %}
