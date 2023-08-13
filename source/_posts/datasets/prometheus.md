@@ -82,25 +82,52 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 
 # 超越材料
 
-> - **<font color=red size=3>彩罐</font>** 部分其餘材料請參考 **<font color=red size=3>升級</font>** ，並根據目標階段變更**材料1、材料2**
+> - **<font color=red size=3>彩罐</font>** 部分其餘材料請參考 **<font color=red size=3>升級</font>**
+> - **<font color=red size=3>升級</font>** 不同階段時會消耗不同的新材料。前面：{% inlineImg https://i.imgur.com/iRfp4za.png 48px %}{% inlineImg https://i.imgur.com/5qvueVT.png 48px %}、後面：{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}
 
-|階數|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|材料1|材料2|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|**<font color=red size=3>升級</font>**|500,000|50|50|10|5|
-|**<font color=red size=3>保底</font>**| | | |{% inlineImg https://i.imgur.com/iRfp4za.png 48px %}|{% inlineImg https://i.imgur.com/5qvueVT.png 48px %}|
-|武器 L1|5,000,000|500|500|100|50|
-|武器 L5|7,500,000|750|750|150|75|
-|模組 L5|12,500,000|1250|1250|250|125|
-|**後續階段**| | | |{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|
-|武器 L6|10,000,000|1000|1000|200|100|
-|武器 L7|12,500,000|1250|1250|250|125|
-|模組 L7|22,500,000|2250|2250|450|225|
-|接收器 L7|22,500,000|2250|2250|450|225|
-|**<font color=red size=3>彩罐</font>**|{% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}|**<font color=red size=3>彩罐</font>**|{% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}|**<font color=red size=3>彩罐</font>**|{% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}|
-|武器 L1|9|模組 L5|24|接收器 L7|44| |
-|武器 L5|14|模組 L7|44| | | |
-|武器 L6|19| | | | | |
-|武器 L7|24| | | | | |
+|階數|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/iRfp4za.png 48px %}|{% inlineImg https://i.imgur.com/5qvueVT.png 48px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**<font color=red size=3>升級</font>**|500,000|50|50|**(10)**|**(5)**|**(10)**|**(5)**|
+|**<font color=red size=3>保底</font>**| | | | | | | |
+|武器 L1|5,000,000|500|500|100|50|-|-|
+|武器 L5|7,500,000|750|750|150|75|-|-|
+|武器 L6|10,000,000|1000|1000|-|-|200|100|
+|武器 L7|12,500,000|1250|1250|-|-|250|125|
+|模組 L5|12,500,000|1250|1250|250|125|-|-|
+|模組 L7|22,500,000|2250|2250|-|-|450|225|
+|接收器 L7|22,500,000|2250|2250|-|-|450|225|
+|**<font color=red size=3>彩罐</font>**|{% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}|**<font color=red size=3>彩罐</font>**|{% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}|**<font color=red size=3>彩罐</font>**|{% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}| | |
+|武器 L1|9|模組 L5|24|接收器 L7|44| | | |
+|武器 L5|14|模組 L7|44| | | | | |
+|武器 L6|19| | | | | | | |
+|武器 L7|24| | | | | | | |
+
+{% hideToggle 保底計算 %}
+
+|方法|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/iRfp4za.png 48px %}|{% inlineImg https://i.imgur.com/5qvueVT.png 48px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|{% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|武器保底|3500萬|3500|3500|250|125|450|225|-|
+|模組保底|3500萬|3500|3500|250|125|450|225|-|
+|<font color=blue>兩件模組</font>|7000萬|7000|7000|500|250|900|550|-|
+|接收器保底|2250萬|2250|2250|-|-|450|225|-|
+|**<font color=red>保底總和</font>**|12750萬|12750|12750|750|375|1800|1100|-|
+|武器彩罐|200萬|200|200|20|10|20|10|66|
+|模組彩罐|100萬|100|100|10|5|10|5|68|
+|<font color=blue>兩件模組</font>|200萬|200|200|20|10|20|10|136|
+|接收器彩罐|50萬|50|50|-|-|10|5|44|
+|**<font color=red>保底總和</font>**|450萬|450|450|40|20|50|25|246|
+
+{% note info simple %}
+獎勵表： **悲劇材料保底完成需 13 日、喜劇材料保底完成需 8 周**
+{% endnote %}
+
+|獎勵|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|{% inlineImg https://i.imgur.com/iRfp4za.png 48px %}|{% inlineImg https://i.imgur.com/5qvueVT.png 48px %}|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|悲劇每場獎勵|-|-|-|-|20|10|
+|悲劇每日三場|-|-|-|-|60|30|
+|喜劇任務完成|206 個|105 個|210 個|210 個|-|-|
+|喜劇每周獎勵|105 個|105 個|210 個|210 個|-|-|
+{% endhideToggle %}
 
 ---
 
