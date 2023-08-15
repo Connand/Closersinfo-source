@@ -161,7 +161,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ### 製作需求
 
-|裝備| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![文件](https://i.imgur.com/55LncBB.png) |  ![報告書](https://i.imgur.com/t6ZTftc.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) |
+|裝備| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} |  {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |模組|10,000,000|40 個|200 個|1,000 個|1,000 個|
 |護盾|5,000,000|20 個|100 個|500 個|500 個|
@@ -176,13 +176,13 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 {% tabs 大門守衛者超越 %}
 
 <!-- tab 賭狗-->
-| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
+| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|
 |500,000|50 個|30 個|2 個|10 個|
 <!-- endtab -->
 
 <!-- tab 保底法-->
-|階段| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
+|階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |模組L1|12,500,000|1250 個|1250 個|50 個|250 個|
 |模組L2|16,700,000|1670 個|1670 個|67 個|330 個|
@@ -193,7 +193,8 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 <!-- endtab -->
 
 <!-- tab 彩罐法-->
-|階段| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![彩罐](https://i.imgur.com/6qBUfOf.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
+
+|階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |模組L1|500,000|28 個|50 個|50 個|2 個|10 個|
 |模組L2|500,000|37 個|50 個|50 個|2 個|10 個|
@@ -208,7 +209,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 **<font color=#f00 size=4>約 37 場4人版Gate Wave(以{% inlineImg https://i.imgur.com/55LncBB.png 32px %}數量計算)</font>**
 **<font color=#f00 size=4>(含製作則 49 場)</font>**
 
-|| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
+|| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |模組|29,200,000|2920 個|2920 個|117 個|580 個|
 |護盾|14,550,000|1455 個|1455 個|58 個|295 個|
@@ -222,7 +223,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 **<font color=#f00 size=4>約 2 場4人版Gate Wave(以{% inlineImg https://i.imgur.com/55LncBB.png 32px %}數量計算)</font>**
 **<font color=#f00 size=4>(含製作則 15 場)</font>**
 
-|| ![金幣](https://i.imgur.com/bRFx7v6.png) | ![彩罐](https://i.imgur.com/6qBUfOf.png) | ![大彩](https://i.imgur.com/XSUcWuc.png) | ![大光](https://i.imgur.com/uUaELFR.png) | ![文件](https://i.imgur.com/55LncBB.png) | ![報告書](https://i.imgur.com/t6ZTftc.png) |
+|| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |模組|1,000,000|65 個|100 個|100 個|4 個|20 個|
 |護盾|1,000,000|32 個|100 個|100 個|4 個|20 個|
@@ -361,7 +362,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 **<白色兔子>** 開啟方式：
 
-1. 調查等級到四等
+1. ~~調查等級到四等~~ **不用到四等**
 2. 選擇小關 {% inlineImg https://i.imgur.com/W3AyMi3.png 48px %}
 3. 在小關內等待約 1 分鐘，會出現**計時器**
 4. 再等待計時 30 秒結束
@@ -383,7 +384,17 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 入場票可從Gate Wave的**危險度3**獎勵獲得{%inlineImg https://i.imgur.com/ZauopIm.png 64px%}
 **<font color=#900>復活次數：2。第30層為3次</font>**
 {% tabs 副本資訊, -1 %}
-<!-- tab 樓層資訊-->
+<!-- tab 種族數量統計-->
+|種族|數量|分布
+|:-|:-:|:-:
+|{%inlineImg https://i.imgur.com/8ONbMJo.png 48px%} 野生型|3|1、8、11
+|{%inlineImg https://i.imgur.com/HoxQxvb.png 48px%} 食蟲型|3|2、20、28
+|{%inlineImg https://i.imgur.com/KOAPxLX.png 48px%} 人類型|11|3、4、9、13、14、15、19、21、22、24、29
+|{%inlineImg https://i.imgur.com/t8j9844.png 48px%} 使徒型|3|5、26、30
+|{%inlineImg https://i.imgur.com/FWfg4L0.png 48px%} 魔龍型|5|6、12、17、23、27
+|{%inlineImg https://i.imgur.com/gdXdckN.png 48px%} 特異型|5|7、10、16、18、25
+<!-- endtab -->
+<!-- tab 樓層BOSS資訊-->
 |層數|建議戰力|關卡BOSS|類型|
 |:-:|:-:|:-:|:-:|
 |1|2200萬| 馬列克 + 基頓|{%inlineImg https://i.imgur.com/8ONbMJo.png 40px%}

@@ -22,15 +22,11 @@ sticky: 2
 
 ---
 
-# <font color=red>轉移/事前預約與直升獎勵選擇</font>
+# 直升獎勵選擇
 
-**<font size=4 color=blue>紅字表示高價物，請謹慎使用</font>**
+**<font size=4 color=red>[直升箱子] 可共倉，打開後內容物不可共倉！！！<br>建議給直升角色使用</font>**
 
-**<font size=4 color=purple>1. 直升獎勵</font>**
-
-**<font size=4 color=red>[Brand New直升箱子] 可共倉，打開後內容物不可共倉！！！<br>建議給直升角色使用</font>**
-
-- 觸發器： **紅海任務會給綠色(遊戲套)，可以考慮其他顏色**
+- 觸發器： **紅海任務會給綠色(遊戲套)，可以考慮其他顏色 (例如紅色，建議不要黑色)**
 
 - 狂風模組： **致命**
 
@@ -52,21 +48,19 @@ sticky: 2
 
 # 角色選擇
 
-**<font size=4>主要是自己看喜歡的即可</font>**
-
-{% note info simple %}
-可以先參考[【攻略】新手該選什麼角色？伺服器選擇？全職業介紹及各問題整理](https://forum.gamer.com.tw/C.php?bsn=23655&snA=8240&tnum=7&subbsn=8&bPage=2)簡單了解個角色的特質等等屬性
-{% endnote %}
-
-再來可以點下方表格各角色去看巴哈上面對應角色的詳細玩法攻略
-但是有些文章的技能功能可能因為平衡並非完全相同，建議利用 **<訓練場>** 練習測試
+> **<font size=4>原則還是自己看喜歡的即可</font>**
 
 {% note warning simple %}
 **<font color=red>注意</font>** ：
 - **<font color=red>感謝每一篇文章/影片的作者細心製作！</font>**
-- 部分文章可能未包含五轉技能
+- 部分文章可能未包含五轉技能或因平衡而有變化，建議利用 **<訓練場>** 練習測試
 - 日期前面標註 "T" 則表示此文章為陸版貼吧(Tieba)文章
 - 日期前面標註 "C" 則表示此文章為韓版打[Conquest Program](/datasets/ControlCenter/#Conquest-Program)的影片 (~~尚無對應的文章，拿影片來頂著~~)
+{% endnote %}
+
+{% note info simple %}
+有關技能點法，可參考[這個Excel](https://docs.google.com/spreadsheets/d/1M1Qvw8TALxd2zZjTEd6Rq8p_UpCDswCcV-wf7tpDCrE/edit#gid=735145887)
+由群內玩家 憲兵多拉 提供
 {% endnote %}
 
 |黑羊小隊|紅狼小隊|夜梟小隊|嚙鼠小隊
@@ -78,22 +72,19 @@ sticky: 2
 |[米斯特汀](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9281&tnum=1) <br>**芯繫c** 2023/04/16|[薇歐莉特](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9055&tnum=1&bPage=4) <br>**史迪** 2023/04/27|[賽特](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9356&tnum=1) <br>**雲落炩** 2023/07/07|[愛里](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9285&tnum=1) <br>**Sakura** 2023/04/18
 
 {% hideToggle 額外參考 %}
-[封印者全角色PVE攻略](https://tieba.baidu.com/home/main?id=tb.1.c63e10b1.zuxqZuR820CSNU2xTPrgbg?t=1536394254&fr=pb) T2019年：包含除嚙鼠小隊外15隻角色的玩法，但由於是2019年的文章，內容可能已經與實際情況大幅改變了
-[白](https://tieba.baidu.com/p/8016335815?pn=1)：[玩法](https://docs.qq.com/doc/DWkpRbFhmZ0JPQU5Q) [技能](https://docs.qq.com/sheet/DWldzUUhKd0hERXZV?tab=BB08J2) T2023/01/03
-[徹斯](https://tieba.baidu.com/p/7789656101) T2023/03/27
-[徐維莉](https://youtu.be/sl1k5r-faFA) C2023/03/28
-[露西](https://youtu.be/EGHdOGy6KUg) 韓版20層 C2023/03/06
-[未來](https://youtu.be/Hdwtpz6zx7w) 韓版28層 C2023/03/1
-[納塔](https://youtu.be/KD7E4ilaDCQ) 韓版30層 C2023/04/16
-[賽特](https://youtu.be/L5bPZjx61gc) 韓版27層 C2023/03/21
-[銀河](https://tieba.baidu.com/p/7216785049) 陸版文章 T2021/02/04
-[愛里](https://youtu.be/OG405QwOniU) C2023/02/10
+1. 可以先參考[【攻略】新手該選什麼角色？伺服器選擇？全職業介紹及各問題整理](https://forum.gamer.com.tw/C.php?bsn=23655&snA=8240&tnum=7&subbsn=8&bPage=2)簡單了解個角色的特質等等屬性
+1. [韓版2022年攻略集](https://closers.nexon.com/events2021/1209/KingOfTargeting)
+1. [封印者全角色PVE攻略](https://tieba.baidu.com/home/main?id=tb.1.c63e10b1.zuxqZuR820CSNU2xTPrgbg?t=1536394254&fr=pb) T2019年：包含除嚙鼠小隊外15隻角色的玩法，但由於是2019年的文章，內容可能已經與實際情況大幅改變了
+1. [白](https://tieba.baidu.com/p/8016335815?pn=1)：[玩法](https://docs.qq.com/doc/DWkpRbFhmZ0JPQU5Q) [技能](https://docs.qq.com/sheet/DWldzUUhKd0hERXZV?tab=BB08J2) T2023/01/03
+1. [徹斯](https://tieba.baidu.com/p/7789656101) T2023/03/27
+1. [徐維莉](https://youtu.be/sl1k5r-faFA) C2023/03/28
+1. [露西](https://youtu.be/EGHdOGy6KUg) 韓版20層 C2023/03/06
+1. [未來](https://youtu.be/Hdwtpz6zx7w) 韓版28層 C2023/03/1
+1. [納塔](https://youtu.be/KD7E4ilaDCQ) 韓版30層 C2023/04/16
+1. [賽特](https://youtu.be/L5bPZjx61gc) 韓版27層 C2023/03/21
+1. [銀河](https://tieba.baidu.com/p/7216785049) 陸版文章 T2021/02/04
+1. [愛里](https://youtu.be/OG405QwOniU) C2023/02/10
 {% endhideToggle %}
-
-{% note info simple %}
-有關技能點法，可參考[這個Excel](https://docs.google.com/spreadsheets/d/1M1Qvw8TALxd2zZjTEd6Rq8p_UpCDswCcV-wf7tpDCrE/edit#gid=735145887)
-由群內玩家 憲兵多拉 提供
-{% endnote %}
 
 {% hideToggle 角色攻擊屬性：會影響重鑄目標、以及史詩裝備(紅裝)選擇等問題 %}
 
@@ -123,11 +114,11 @@ sticky: 2
     1. **帳號**內需擁有90等以上角色
     2. **角色**創建時間達360小時(15日)以上
     3. **角色**通關副本300次以上
-- 拍賣場為每分鐘更新一次，利用/time可以確認伺服器時間來對時
 - 丟至拍賣場的道具，約需要10 ~ 30分鐘才會上架
+- 拍賣場為每分鐘更新一次，利用/time可以確認伺服器時間來對時
 - 點選類別後直接搜尋，可以搜尋此類別中的所有道具
-如下圖，點選**時裝**後直接按下**搜尋(或者按Enter)** ，即可搜尋所有時裝
-若再選擇下面的**角色：<font color=#ff40af>李雪菲</font>** 後，透過此技巧可搜尋 **<font color=#ff40af>李雪菲</font>的所有時裝**
+如下圖，點選**時裝**後直接按下**搜尋 (或者按Enter)** ，即可搜尋所有時裝
+若先選擇下面的**角色例如<font color=#ff40af>李雪菲</font>** 後，透過此技巧可搜尋 **<font color=#ff40af>李雪菲</font>的所有時裝**
 
 {%inlineImg /img/new_ret_tip/market_tip.gif 350px%}
 
@@ -175,11 +166,12 @@ sticky: 2
 - [基礎與特殊PNA](/datasets/spec/basicPNA/)
 - [增幅機制](/datasets/spec/ampPNA/)
 - [突變](/datasets/spec/mutantPNA/)
+- [覺醒PNA](/datasets/spec/awakenPNA/)
 
     1. **基礎與特殊PNA**基本上照著文中的建議升級與配置
     2. **增幅機制**最基本只要能將**隱藏序列**排出來即可
     3. **<font color=red>突變</font>** 最優先練等目標為**野生型**與**魔龍型**，並且 **<font color=red>將Lv. 20的右邊因素重組至最高</font>**
-前者為了台版之後最新進度[野獸王](/datasets/behemoth/)至少可以跟團，後者為了[龍之刑場與極刑場](/datasets/dragon/)，但是極刑場可以推遲製作
+    前者為了台版之後最新進度[野獸王](/datasets/behemoth/)至少可以跟團，後者為了[龍之刑場與極刑場](/datasets/dragon/)，但是極刑場可以推遲製作
 
 ---
 
@@ -201,6 +193,7 @@ sticky: 2
 
 僅簡單提點，完整攻略請參考連結中的文章 **(均為巴哈大佬們撰寫的文章)**
 
+{% hideToggle 攻略提點 %}
 - [野獸王：貝西摩斯](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9196)
     - **建議至少戰力達2500萬，突變增傷達160%以上(會以2500/160簡稱)**
 
@@ -220,7 +213,7 @@ sticky: 2
 55血印章攻擊，請將印章引導至機械王，能夠長時間滯空者則可以保持在機械王上空，加快此機制速度\
 **20血推方塊，請依照左上角隊伍排序至對應的"列"來推方塊**
 第三階段綁人，請經過連接電線來救隊友
-
+{% endhideToggle %}
 
 
 ---
@@ -263,10 +256,10 @@ sticky: 2
 對於多數玩家未配置PVP技能的情況下，可以點擊**PVP標籤**來確認目前SP上限 **<font color=red>可能有些預設技能記得取消</font>**
 <div style="text-align: center">{% inlineImg /img/new_ret_tip/SP_limit.png 400px %}</div>
 
-目前等級上限90等，最高SP點如下 (若是韓版92等，則是再加上20點)
-- 黑羊、紅狼、夜梟角色： **<font color=red>959點</font>**
-- 嚙鼠角色： **<font color=red>889點</font>**
-- 愛里： **<font color=red>899點</font>**
+目前等級上限 92 等，最高SP點如下
+- 黑羊、紅狼、夜梟角色： **<font color=red>979點</font>**
+- 嚙鼠角色： **<font color=red>909點</font>**
+- 愛里： **<font color=red>919點</font>**
 
 {% hideToggle 如果缺少SP的話 %}
 1. 請先從各村莊<font color=red>販賣機</font>中 點數商店(D)->貢獻度 底下確認是否已經購買經驗之書
@@ -279,17 +272,17 @@ sticky: 2
 3. <font color=red>主線任務</font>。尤其黑羊、紅狼、夜梟角色的主線到 **獵者之夜(12村)** 或 **釜山-南浦洞(13村)** 的最後一個任務還會有經驗之書
 ~~反正要解5轉還是得把主線推到 **賽騰城(14村)** 完成~~
 
+5. <font color=red>PNA</font>。所有開格子 (基礎、增幅) 會有SP點
+
 4. <font color=red>支線任務</font>。例如 **軍需工廠上空** 的 **<風雲再起>**
 <div style="text-align: center">{% inlineImg /img/new_ret_tip/SP_get2.png 300px %}</div>
-
-5. <font color=red>PNA</font>。所有開格子會有SP點
 {% endhideToggle %}
 
 <p>　</p>
 
 - ## 怎麼開啟另一個路西法副本
 1. **白夜的要塞** 中，完成任務 **<平原的追悼>普通：吉娜·葛蕾絲** {% inlineImg /img/new_ret_tip/mission_lucifer.png 70px %}
-2. 接著完成前置任務 {% inlineImg /img/new_ret_tip/mission_lucifer2.png 200px %}
+2. 接著完成前置任務<br>{% inlineImg /img/new_ret_tip/mission_lucifer2.png 200px %}
 
 <p>　</p>
 
@@ -298,10 +291,7 @@ sticky: 2
 目前台版的畢業裝備為機械 + 白夜要塞(15村) + 龍極刑場接收器
 機械 與 15村裝備是團隊副本，可以~~用躺的~~來製作，
 極刑為單人副本，而且難度為目前版本最高
-相關內容參考
-- [白夜要塞裝備](/datasets/nightfortress/)
-- [軍團長：貝爾菲格裝備](/datasets/belphegor/)
-- [龍之刑場](/datasets/dragon/)
+相關內容請參考 [各式資料連結](#%E5%90%84%E5%BC%8F%E8%B3%87%E6%96%99%E9%80%A3%E7%B5%90)
 
 {% note blue 'fas fa-question-circle' simple %}
 請參考這張裝備流程圖 <a target="_blank" rel="noopener external nofollow noreferrer" href="/img/new_ret_tip/gearflow_v3.png">(點此看大圖)</a>
