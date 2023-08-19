@@ -245,15 +245,15 @@ description: "白夜要塞裝備資訊"
 
 ---
 
-# 至高圓盤(新覺醒)
+# 至高圓盤 (超能覺醒)
 ![](https://i.imgur.com/CP4HSRA.png)
 開放路西法後同時添加新系統，更強的覺醒 - 至高圓盤
 裝備後會有一個新技能，需放到技能欄上在副本內使用 (VI階持續30秒，冷卻3分鐘)
 每次使用需要消耗新膠囊 1 個{% inlineImg https://i.imgur.com/v7rRMCd.png 64px %}
 製作材料(角色每日3次)：{% inlineImg https://i.imgur.com/bRFx7v6.png 64px %}200,000 + {% inlineImg https://i.imgur.com/PUokuSV.png 64px %}1 (路西法每場3個)
-如果不夠 5 個時，每日重製會補到 5 個，最多可持有 30 個
+> 如果不足 5 個時，每日重置會補充到 5 個，最多可持有 30 個
 
-{% tabs 至高圓盤 %}
+{% tabs 至高圓盤,6 %}
 <!-- tab I階-->
 {% inlineImg https://i.imgur.com/EM4TBaH.png 64px %} 最大HP +500
 相關任務解完即可獲得

@@ -280,7 +280,8 @@ sticky: 2
 
 <p>　</p>
 
-- ## 怎麼開啟另一個路西法副本
+- ## 怎麼開啟 另一個路西法 (LCF) 副本
+> **<div style="text-align:center"><font size=3 color=red>注意：LCF需要農[超能覺醒](/datasets/nightfortress/#%E8%87%B3%E9%AB%98%E5%9C%93%E7%9B%A4-%E8%B6%85%E8%83%BD%E8%A6%BA%E9%86%92)，以便之後為[火焰的悲劇](/datasets/prometheus/)副本做準備</font></div>**
 1. **白夜的要塞** 中，完成任務 **<平原的追悼>普通：吉娜·葛蕾絲** {% inlineImg /img/new_ret_tip/mission_lucifer.png 70px %}
 2. 接著完成前置任務<br>{% inlineImg /img/new_ret_tip/mission_lucifer2.png 200px %}
 
