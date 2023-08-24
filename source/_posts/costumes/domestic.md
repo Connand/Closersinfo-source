@@ -22,6 +22,7 @@ tags:
     - 金徹斯
     - 銀河
     - 露西
+    - 愛里
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/sq6qyr8h.jpg
 description: "Maid&Butler"
@@ -123,6 +124,9 @@ description: "Maid&Butler"
 [![](https://i.imgur.com/1yn491Ah.jpg)](https://i.imgur.com/1yn491A.jpg)
 [![](https://i.imgur.com/efpqxRHh.png)](https://i.imgur.com/efpqxRH.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/SYQ1SCnh.png)](https://i.imgur.com/SYQ1SCn.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -204,6 +208,9 @@ description: "Maid&Butler"
 [![](https://i.imgur.com/Ht44DMJh.jpg)](https://i.imgur.com/Ht44DMJ.jpg)
 [![](https://i.imgur.com/i1ccGtDh.png)](https://i.imgur.com/i1ccGtD.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/m8GjZGph.png)](https://i.imgur.com/m8GjZGp.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -284,6 +291,9 @@ description: "Maid&Butler"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/HYRPnd9h.jpg)](https://i.imgur.com/HYRPnd9.jpg)
 [![](https://i.imgur.com/WdfWFmsh.png)](https://i.imgur.com/WdfWFms.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/IY0VoHch.png)](https://i.imgur.com/IY0VoHc.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -384,6 +394,9 @@ description: "Maid&Butler"
 [![](https://i.imgur.com/356zMFth.jpg)](https://i.imgur.com/356zMFt.jpg)
 [![](https://i.imgur.com/FA4Qis9h.png)](https://i.imgur.com/FA4Qis9.png)
 {%youtube XYxFKKyWu4M %}
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/nOLj3vdh.png)](https://i.imgur.com/nOLj3vd.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
