@@ -397,6 +397,7 @@ description: "Maid&Butler"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/nOLj3vdh.png)](https://i.imgur.com/nOLj3vd.png)
+{%youtube arjxyDmPd2w %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

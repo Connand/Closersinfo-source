@@ -412,7 +412,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |13|4600萬|兔兔醬 + 惡魔兔兔醬|{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}
 |14|4800萬|**－－<font color=#64668d>銀河</font> + <font color=#ff40af>李雪菲</font>－－**|{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}
 |15|5000萬|吉娜 + 歐梅嘉騎士|{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}
-|16|5200萬|卡波克 + 歐梅嘉騎士|{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}
+|16|5200萬|卡波克 + 女王之蛹|{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}
 |17|5400萬|阿施塔特 + 阿施塔特武器|{%inlineImg https://i.imgur.com/FWfg4L0.png 40px%}
 |18|5600萬|賽特 + 安娜|{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}
 |19|5800萬|納塔 + 李正|{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}
