@@ -1,6 +1,10 @@
 - class_name: 友站鏈接
   class_desc: 一些跟遊戲相關有用的連結
   link_list:
+    - name: 立繪查詢系統
+      link: https://gallery.closersinfo.xyz/
+      avatar: https://i.imgur.com/lrezp9Y.png
+      descr: 自製立繪查詢系統
     - name: 角色配點參考
       link: https://docs.google.com/spreadsheets/d/1M1Qvw8TALxd2zZjTEd6Rq8p_UpCDswCcV-wf7tpDCrE/edit#gid=735145887
       avatar: https://i.imgur.com/dQ3dyFz.png
