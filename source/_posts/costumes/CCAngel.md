@@ -1,5 +1,5 @@
 ---
-title: 棉花糖天使(暫譯)
+title: 棉花糖天使
 date: 2023-02-22 12:09:15
 tags:
     - 立繪時裝
@@ -21,8 +21,9 @@ description: "Cotton Candy Angel"
 
 **注意**：立繪僅分一般和特殊，模組分3型
 
-部位：髮型、上衣、下衣、手套、鞋子、{% label 腿部 green %}、{% label 特效 green %}
+部位：髮型、上衣、 **另類上衣(沒有外套)** 、下衣、手套、鞋子、{% label 腿部 green %}、{% label 特效 green %}
 
+[台版宣傳頁面](https://www.closers.com.tw/news/211)
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_CCAngel_230223_0F522B3C3BB6FFAC.zip)
 
@@ -70,6 +71,30 @@ description: "Cotton Candy Angel"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/TKZSORXh.png)](https://i.imgur.com/TKZSORX.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+
+<!-- tab 模組圖 -->
+{% tabs 模組圖 %}
+<!-- tab 李雪菲(Seulbi)-->
+[![](https://imgur.com/3XEAKNIh.png)](https://imgur.com/3XEAKNI.png)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+[![](https://imgur.com/Q0vZOdhh.png)](https://imgur.com/Q0vZOdh.png)
+<!-- endtab -->
+<!-- tab 賽特(Seth)-->
+[![](https://imgur.com/4Z77DxMh.png)](https://imgur.com/4Z77DxM.png)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://imgur.com/SD7nWQMh.png)](https://imgur.com/SD7nWQM.png)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://imgur.com/f2Lmxf1h.png)](https://imgur.com/f2Lmxf1.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/lTTRD8oh.png)](https://imgur.com/lTTRD8o.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
