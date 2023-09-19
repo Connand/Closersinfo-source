@@ -197,7 +197,7 @@ T2鉑金：65點、23w/每片
 - 模組：次優先
 - 護盾：最低考量，顏色晶片可使用介於T2~T3之間，比T3便宜許多的 **伯爾戴布系列**
 - 接收器：除非要上 **<font class="rainbow-text">T4鉑金</font>** 不然建議使用 **提亞瑪特(女王)系列**
-- **額外參考：[傷害公式與暴抗表](/datasets/damage_calculation/)。主要探討武器的 <font color=red>紅色</font> 與 <font color=blue>藍色</font> 位置的選擇(可使用 <font color=black>黑色</font> 或 <font color=#888>白色</font> 或 <font color=purple>紫色</font> )**
+- **額外參考：[傷害公式與暴抗表](/datasets/damage_calculation/#%E5%9F%BA%E5%82%B7-vs-%E6%9A%B4%E5%82%B7)。主要探討武器的 <font color=red>紅色</font> 與 <font color=blue>藍色</font> 位置的選擇(可使用 <font color=black>黑色</font> 或 <font color=#888>白色</font> 或 <font color=purple>紫色</font> )**
 
 |裝備|物理|魔法|混合
 |:-:|:-:|:-:|:-:
