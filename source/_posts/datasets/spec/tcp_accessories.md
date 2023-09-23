@@ -3,7 +3,7 @@ title: 戰力提升：飾品
 date: 2023-02-09 11:25:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
-cover: https://i.imgur.com/8fFjIDf.png
+cover: https://i.imgur.com/JlogtYH.png
 description: "能力飾品資料整理"
 ---
 
