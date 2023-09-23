@@ -15,7 +15,7 @@ description: "火焰王裝備資訊"
 
 
 
-# 前言(注意)
+> # 前言(注意)
 
 **<font size=5 color=#ff0000>機械紅（史詩）模組可強化轉移至業火橘（傳奇）模組</font>**
 
@@ -25,7 +25,7 @@ description: "火焰王裝備資訊"
 
 ---
 
-# 副本資訊
+> # 副本資訊
 
 ## 火焰的悲劇
 
@@ -64,9 +64,19 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 |任務完成|206 個|105 個|210 個|210 個
 |每周獎勵|105 個|105 個|210 個|210 個
 
+## 火焰的終局(大團圓)
+角色等級需求92
+裝備等級210， **<font color=red>建議戰力6000萬</font>**
+入場需求{% inlineImg https://i.imgur.com/7aQwuvb.png 48px %} x1
+{% inlineImg https://i.imgur.com/7aQwuvb.png 48px %}取得方式：[火焰的悲劇]機率掉落、[火焰的喜劇]獎勵
+
+固定掉落物：{% inlineImg https://i.imgur.com/jh8M4EU.png 48px %}[燃燒的跳動心臟]x5
+稀有掉落物：{% inlineImg https://i.imgur.com/JlogtYH.png 48px %}臉上{% inlineImg https://i.imgur.com/llHDcNL.png 48px %}手臂{% inlineImg https://i.imgur.com/I7EIGWh.png 48px %}腰部
+
+
 ---
 
-# 裝備取得
+> # 裝備取得
 
 製作獲得
 - 模組分為三種條件(暴)傷害各一顆：{% inlineImg https://i.imgur.com/tyJNFKL.png 48px %}空中、{% inlineImg https://i.imgur.com/cQchsOp.png 48px %}背擊、{% inlineImg https://i.imgur.com/vkXT8c7.png 48px %}浮空
@@ -80,7 +90,7 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 
 ---
 
-# 超越材料
+> # 超越材料
 
 > - **<font color=red size=3>彩罐</font>** 部分其餘材料請參考 **<font color=red size=3>升級</font>**
 > - **<font color=red size=3>升級</font>** 不同階段時會消耗不同的新材料。前面：{% inlineImg https://i.imgur.com/iRfp4za.png 48px %}{% inlineImg https://i.imgur.com/5qvueVT.png 48px %}、後面：{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}
@@ -131,11 +141,12 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 
 ---
 
-# 能力比較
+> # 能力比較
+
+{% hideToggle 平衡紀錄 %}
 
 - [2023/08/10能力上調](https://closers.nexon.com/News/Notice/View?n4ArticleSN=141891)
 
-{% hideToggle 詳細內容 %}
 |裝備|能力|調整前|調整後
 |:-|:-:|:-:|:-:
 |武器|技能冷卻時間減少<br>戰鬥效果|-|10%<br>攻擊力 +2500
@@ -143,6 +154,13 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 |傳說接收器|副暴傷<br>戰鬥效果|100%<br>-|150%<br>暴擊傷害抵抗 -30%
 |史詩接收器|副暴傷<br>戰鬥效果|150%<br>-|200%<br>暴擊傷害抵抗 -30%
 |野獸史詩武器|主暴傷|200%|250%
+
+- [2023/09/21能力上調](https://closers.nexon.com/News/Notice/View?n4ArticleSN=142276)
+
+|裝備|能力|調整前|調整後
+|:-|:-:|:-:|:-:
+|混合模組|攻擊力<br>暴擊傷害<br>套裝效果：攻擊力|1530<br>157%<br>2550|1620<br>167%<br>2700
+
 {% endhideToggle %}
 
 ## 武器
@@ -171,13 +189,13 @@ PLV: 220
 
 |詞條|{% inlineImg https://i.imgur.com/tyJNFKL.png 48px %}<br><font color=red>物理</font>|{% inlineImg https://i.imgur.com/d1M6CpE.png 48px %}<br><font color=blue>魔法</font>|{% inlineImg https://i.imgur.com/yLM0SDP.png 48px %}<br><font color=purple>混合</font>
 |:-|:-:|:-:|:-:
-|攻擊力(49%)|1800|1800|1530
+|攻擊力(49%)|1800|1800|1620
 |--- <font color=#8B8000>以下黃字數值</font>|---|---|---
-|暴擊傷害|185%|185%|157%
+|暴擊傷害|185%|185%|167%
 |條件暴擊傷害|110%|110%|110%
 |條件增傷|50%|50%|50%
 |--- <font color=red>以下兩件套裝效果</font>|---|---|---
-|攻擊力|3000|3000|2550
+|攻擊力|3000|3000|2700
 |暴擊率|50%|50%|50%
 
 ## 接收器
@@ -195,7 +213,7 @@ PLV: 220 (史詩240)
 |條件增傷|80%|90%
 |(被動)綜合戰鬥訓練| +3| +3
 |三轉一般技能等級| +1| +1
-|**五轉一般技能等級**|| **<font color=red>+1</font>**
+|**<font color=red>五轉一般技能等級</font>**|| **<font color=red>+1</font>**
 |--- <font color=red>以下特殊能力</font>|---|
 |攻擊時攻擊力增加<br>冷卻 20 秒|3500|4500
 |攻擊時暴擊傷害抵抗減少|30%|30%
@@ -204,7 +222,7 @@ PLV: 220 (史詩240)
 
 ---
 
-# 能力飾品
+> # 火焰的喜劇：飾品
 
 |臉上|臉下|腿部|腰部
 |:-:|:-:|:-:|:-:
@@ -232,6 +250,75 @@ PLV: 220 (史詩240)
 </div>
 </div>
 
+---
+
+> # 火焰的終局(大團圓)
+
+- ## 能力飾品
+
+臉上
+
+|臉上|腰部|手臂
+|:-:|:-:|:-:
+|{% inlineImg https://i.imgur.com/JlogtYH.png 48px %}|{% inlineImg https://i.imgur.com/I7EIGWh.png 48px %}|{% inlineImg https://i.imgur.com/llHDcNL.png 48px %}
+
+
+<div class="container">
+<div class="childDiv50">
+
+**<font size=5>製作材料</font>**
+|星數|{% inlineImg https://i.imgur.com/bRFx7v6.png 40px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/jh8M4EU.png 48px %}
+|:-:|:-:|:-:|:-:|:-:
+|一星|10,000,000|20|20|150
+|二星|20,000,000|30|30|225
+|三星|30,000,000|50|50|375
+|單件完成|60,000,000|100|100|750
+|**三件完成**|180,000,000|300|300|2250
+
+小計：一場掉落{% inlineImg https://i.imgur.com/jh8M4EU.png 48px %}x5，故需要 450 場
+</div>
+<div class="childDiv50">
+
+**<font size=5>能力值</font>**
+- 單件效果：
+  - 臉上：空中暴擊傷害 10%
+  - 腰部：背擊暴擊傷害 10%
+  - 手臂：浮空暴擊傷害 10%
+- 2件效果：
+  - 物理/魔法攻擊力 300
+  - 空中/背擊/浮空暴擊傷害 21%
+- 3件效果：
+  - 物理/魔法攻擊力 200
+  - 物理/魔法暴擊傷害 21%
+  - 追加物品掉落 25%
+  - 打擊時回復超能力 15% (冷卻時間 10 秒)
+</div>
+
+</div>
+
+- ## 外觀部件
+
+可以利用{% inlineImg https://i.imgur.com/jh8M4EU.png 48px %} x10 來製作{% inlineImg https://i.imgur.com/j8MymgK.png 48px %}
+此箱子可以隨機獲得{% inlineImg https://i.imgur.com/jh8M4EU.png 48px %} x1~500 或 {% inlineImg https://i.imgur.com/3Nvw2wI.png 48px %} x1
+持有{% inlineImg https://i.imgur.com/3Nvw2wI.png 48px %} x1 時，可以製作公仔動作{% inlineImg https://i.imgur.com/qJct1dr.png 48px %}
+
+{% hideToggle 動作預覽 %}
+![](https://i.imgur.com/Kndy49Y.png)
+{% endhideToggle %}
+
+- ## 成就
+|場數|獎勵|
+|:-:|:-:|
+|1| {% inlineImg https://i.imgur.com/jh8M4EU.png 48px %} x5 |
+|10| {% inlineImg https://i.imgur.com/QLWa7JG.png 48px %}讀取框 |
+|?| |
+|?| |
+|?| |
+|?| |
+
+{% hideToggle 名牌與讀取框預覽 %}
+![](https://i.imgur.com/vcY5nl0.png)
+{% endhideToggle %}
 
 ---
 

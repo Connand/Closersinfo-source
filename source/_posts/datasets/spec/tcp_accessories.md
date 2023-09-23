@@ -7,6 +7,20 @@ cover: https://i.imgur.com/8fFjIDf.png
 description: "能力飾品資料整理"
 ---
 
+# 套裝效果組合表
+
+|強度|臉上|手臂|臉下|腰部|腿部|連身
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|T0|{% inlineImg https://i.imgur.com/JlogtYH.png 48px %}|{% inlineImg https://i.imgur.com/llHDcNL.png 48px %}|{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}|{% inlineImg https://i.imgur.com/I7EIGWh.png 48px %}|{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}|{% inlineImg https://i.imgur.com/fpuLmaj.png 48px %}{% inlineImg https://i.imgur.com/uXVHunT.png 48px %}|
+|T1-1|{% inlineImg https://i.imgur.com/L5J2PUl.png 48px %}|{% inlineImg https://i.imgur.com/qJ55LVW.png 48px %}|{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}|{% inlineImg https://i.imgur.com/8fFjIDf.png 48px %}|{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}|{% inlineImg https://i.imgur.com/eq0ZfOa.png 48px %}{% inlineImg https://i.imgur.com/4khmgZK.png 48px %}|
+|T1-2|{% inlineImg https://i.imgur.com/agZl0zT.png 48px %}|{% inlineImg https://i.imgur.com/rrpQ2gb.png 48px %}|||||
+|T2|{% inlineImg https://i.imgur.com/Gcq581T.png 48px %}|{% inlineImg https://i.imgur.com/Ey363sm.png 48px %}|{% inlineImg https://i.imgur.com/XiMgiNw.png 48px %}|{% inlineImg https://i.imgur.com/0VaY1sl.png 48px %}|{% inlineImg https://i.imgur.com/luPj9ua.png 48px %}|{% inlineImg https://i.imgur.com/fSK8eom.png 48px %}{% inlineImg https://i.imgur.com/hPyWrDa.png 48px %}|
+|T3|||{% inlineImg https://i.imgur.com/32MiorG.png 48px %}|{% inlineImg https://i.imgur.com/bF7eDfD.png 48px %}|{% inlineImg https://i.imgur.com/pRibBVh.png 48px %}||
+
+
+
+---
+
 # 組合時裝
 
 由製作取得，建議可直接做 **深海王連身** (大淨化連身為直升角色送的部分)
@@ -28,26 +42,33 @@ description: "能力飾品資料整理"
 
 {% tabs 軍團長飾品 %}
 <!-- tab 能力-->
+<div class="dec">
 
 |軍團長|道具圖|能力值|
 |:-:|:-|:-|
+| 火焰王上位 | {% inlineImg https://i.imgur.com/JlogtYH.png 32px %}{% inlineImg https://i.imgur.com/I7EIGWh.png 32px %}{% inlineImg https://i.imgur.com/llHDcNL.png 32px %} | 物理/魔法攻擊力+500<br>物理/魔法爆傷+21%<br>三暴傷+31%<br>追加物品掉落+25%<br>打擊時回復超能力 15% (冷卻時間 10 秒) |
 | 火焰王 | {% inlineImg https://i.imgur.com/Gqd1khg.png 32px %}{% inlineImg https://i.imgur.com/W8cYj1Q.png 32px %}{% inlineImg https://i.imgur.com/8fFjIDf.png 32px %}{% inlineImg https://i.imgur.com/5r607Gn.png 32px %} | 物理/魔法攻擊力+400<br>物理/魔法爆傷+45%<br>業火增傷+10% |
 | 野獸王 | {% inlineImg https://i.imgur.com/XiMgiNw.png 32px %}{% inlineImg https://i.imgur.com/0VaY1sl.png 32px %}{% inlineImg https://i.imgur.com/luPj9ua.png 32px %} | 物理/魔法攻擊力+350<br>物理/魔法爆傷+40%<br>野生增傷+10% |
 | 機械王 | {% inlineImg https://i.imgur.com/32MiorG.png 32px %}安娜貝爾的反重力模組<br>{% inlineImg https://i.imgur.com/bF7eDfD.png 32px %}格莫莉的天線絲帶<br>{% inlineImg https://i.imgur.com/pRibBVh.png 32px %}洛夫克拉夫特之錘 | 物理/魔法攻擊力+300<br>物理/魔法爆傷+35%<br>前腦增傷+10% |
 | 深海王 | {% inlineImg https://i.imgur.com/Lrj8V1L.png 32px %}波洛芙的飄揚腿部裝飾<br>{% inlineImg https://i.imgur.com/7NxcuSR.png 32px %}戴維約翰的燧發槍<br>{% inlineImg https://i.imgur.com/eUoR3Ni.png 32px %}羅蕾萊的神聖守護符 | 物理/魔法攻擊力+250<br>物理/魔法爆傷+30%<br>深海增傷+10% |
 | 蒼蠅王 | {% inlineImg https://i.imgur.com/3iw8ZrA.png 32px %}舒菲德的項鍊<br>{% inlineImg https://i.imgur.com/l8fnkO7.png 32px %}德瑪托比亞的手槍<br>{% inlineImg https://i.imgur.com/FzN4lOh.png 32px %}暮斯卡的鋸齒劍 | 物理/魔法攻擊力+200<br>物理/魔法爆傷+27% |
 
+</div>
 <!-- endtab -->
 
 <!-- tab 取得-->
+<div class="dec">
 
 |軍團長|道具圖|取得方式|
 |:-:|:-:|:-:|
+| 火焰王上位 | {% inlineImg https://i.imgur.com/JlogtYH.png 32px %}{% inlineImg https://i.imgur.com/I7EIGWh.png 32px %}{% inlineImg https://i.imgur.com/llHDcNL.png 32px %} | [火焰的終局](/datasets/prometheus/#%E7%81%AB%E7%84%B0%E7%9A%84%E7%B5%82%E5%B1%80-%E5%A4%A7%E5%9C%98%E5%9C%93-1) |
+| 火焰王 | {% inlineImg https://i.imgur.com/Gqd1khg.png 32px %}{% inlineImg https://i.imgur.com/W8cYj1Q.png 32px %}{% inlineImg https://i.imgur.com/8fFjIDf.png 32px %}{% inlineImg https://i.imgur.com/5r607Gn.png 32px %} | [火焰的喜劇](/datasets/prometheus/#%E7%81%AB%E7%84%B0%E7%9A%84%E5%96%9C%E5%8A%87%EF%BC%9A%E9%A3%BE%E5%93%81) |
 | 野獸王 | {% inlineImg https://i.imgur.com/XiMgiNw.png 32px %}{% inlineImg https://i.imgur.com/0VaY1sl.png 32px %}{% inlineImg https://i.imgur.com/luPj9ua.png 32px %} | [保底製作](/datasets/behemoth/#取得方式) |
 | 機械王 | {% inlineImg https://i.imgur.com/32MiorG.png 32px %}{% inlineImg https://i.imgur.com/bF7eDfD.png 32px %}{% inlineImg https://i.imgur.com/pRibBVh.png 32px %} | 保底製作、成就10階(250場)、調查隊、上位副本(3000) |
 | 深海王 | {% inlineImg https://i.imgur.com/0ItwifH.png 32px %}{% inlineImg https://i.imgur.com/kyn2g4L.png 32px %}{% inlineImg https://i.imgur.com/2hPXx0l.png 32px %} | 成就10階(250場)、調查隊(紅藍)、紅石板 |
 | 蒼蠅王 | {% inlineImg https://i.imgur.com/3iw8ZrA.png 32px %}{% inlineImg https://i.imgur.com/l8fnkO7.png 32px %}{% inlineImg https://i.imgur.com/FzN4lOh.png 32px %} | 保底製作、成就10階(250場)、御體(征服，含激昂御體)、調查隊 |
 
+</div>
 <!-- endtab -->
 {% endtabs %}
 
@@ -60,6 +81,7 @@ description: "能力飾品資料整理"
 
 {% tabs 主線飾品 %}
 <!-- tab 能力-->
+<div class="dec">
 
 |區域|道具圖|能力值|
 |:-:|:-:|:-|
@@ -71,9 +93,11 @@ description: "能力飾品資料整理"
 | 獵者之夜 | {% inlineImg https://i.imgur.com/VykF2Yq.png 32px %}{% inlineImg https://i.imgur.com/mGHH7BP.png 32px %}{% inlineImg https://i.imgur.com/9WS0eoJ.png 32px %}<br>臉下 腿部 腰部 | 2件：總物理及魔法攻擊力2%、雙爆傷6%<br>3件：總物理及魔法攻擊力2%、雙爆傷6% |
 | UNION臨時總部 | {% inlineImg https://i.imgur.com/ibOx1b2.png 32px %}{% inlineImg https://i.imgur.com/EdwCVkX.png 32px %}{% inlineImg https://i.imgur.com/n31n01R.png 32px %}{% inlineImg https://i.imgur.com/LprBfC2.png 32px %}{% inlineImg https://i.imgur.com/z8J3aIz.png 32px %}<br>臉下 腿部 腰部<br><font color=#f00>手臂 臉上</font> | 3件：總物理及魔法攻擊力2%、雙爆傷6%<br>5件：攻擊速度2%、掉寶6%、移動速度(%)10% |
 
+</div>
 <!-- endtab -->
 
 <!-- tab 取得-->
+<div class="dec">
 
 |區域|道具圖|取得方式|
 |:-:|:-:|:-|
@@ -85,6 +109,7 @@ description: "能力飾品資料整理"
 | 獵者之夜 | {% inlineImg https://i.imgur.com/VykF2Yq.png 32px %}{% inlineImg https://i.imgur.com/mGHH7BP.png 32px %}{% inlineImg https://i.imgur.com/9WS0eoJ.png 32px %}<br>臉下 腿部 腰部 | - 臉下：<br>地下研究室、夜梟之城、必殺程式<br>- 腰部：<br>獵人的殿堂、午夜的古城、霍夫曼的研究室、人工培養室、瘋狂的產物<br>- 腿部：<br>地下實驗室、夜梟之城、必殺程式 |
 | UNION臨時總部 | {% inlineImg https://i.imgur.com/ibOx1b2.png 32px %}{% inlineImg https://i.imgur.com/EdwCVkX.png 32px %}{% inlineImg https://i.imgur.com/n31n01R.png 32px %}{% inlineImg https://i.imgur.com/LprBfC2.png 32px %}{% inlineImg https://i.imgur.com/z8J3aIz.png 32px %}<br>臉下 腿部 腰部<br><font color=#f00>手臂 臉上</font> | [貢獻度-特別] 商店<br>UNION臨時總部 副本 |
 
+</div>
 <!-- endtab -->
 {% endtabs %}
 
@@ -92,29 +117,29 @@ description: "能力飾品資料整理"
 
 <style>
 
-  table {
+  .dec table {
     text-align: center;
     font-weight: bold;
     font-size: 8px;
 	  width: 100%;
   }
 
-  table th {
+  .dec table th {
     white-space: nowrap; /*表头内容强制在一行显示*/
     border: 1px solid;
   }
 
-  table td {
+  .dec table td {
     border: 1px solid;
   }
 
-  table th:nth-of-type(1){
+  .dec table th:nth-of-type(1){
     width: 10%;
   }
-  table th:nth-of-type(2){
+  .dec table th:nth-of-type(2){
     width: 30%;
   }
-  table th:nth-of-type(3){
+  .dec table th:nth-of-type(3){
     width: 60%;
   }
 
