@@ -13,7 +13,7 @@ description: "能力飾品資料整理"
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |T0|{% inlineImg https://i.imgur.com/JlogtYH.png 48px %}|{% inlineImg https://i.imgur.com/llHDcNL.png 48px %}|{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}|{% inlineImg https://i.imgur.com/I7EIGWh.png 48px %}|{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}|{% inlineImg https://i.imgur.com/fpuLmaj.png 48px %}{% inlineImg https://i.imgur.com/uXVHunT.png 48px %}|
 |T1-1|{% inlineImg https://i.imgur.com/L5J2PUl.png 48px %}|{% inlineImg https://i.imgur.com/qJ55LVW.png 48px %}|{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}|{% inlineImg https://i.imgur.com/8fFjIDf.png 48px %}|{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}|{% inlineImg https://i.imgur.com/eq0ZfOa.png 48px %}{% inlineImg https://i.imgur.com/4khmgZK.png 48px %}|
-|T1-2|{% inlineImg https://i.imgur.com/agZl0zT.png 48px %}|{% inlineImg https://i.imgur.com/rrpQ2gb.png 48px %}|||||
+|T1-2|{% inlineImg https://i.imgur.com/rrpQ2gb.png 48px %}|{% inlineImg https://i.imgur.com/agZl0zT.png 48px %}|||||
 |T2|{% inlineImg https://i.imgur.com/Gcq581T.png 48px %}|{% inlineImg https://i.imgur.com/Ey363sm.png 48px %}|{% inlineImg https://i.imgur.com/XiMgiNw.png 48px %}|{% inlineImg https://i.imgur.com/0VaY1sl.png 48px %}|{% inlineImg https://i.imgur.com/luPj9ua.png 48px %}|{% inlineImg https://i.imgur.com/fSK8eom.png 48px %}{% inlineImg https://i.imgur.com/hPyWrDa.png 48px %}|
 |T3|||{% inlineImg https://i.imgur.com/32MiorG.png 48px %}|{% inlineImg https://i.imgur.com/bF7eDfD.png 48px %}|{% inlineImg https://i.imgur.com/pRibBVh.png 48px %}||
 
