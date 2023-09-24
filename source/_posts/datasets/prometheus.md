@@ -67,7 +67,7 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 ## 火焰的終局(大團圓)
 角色等級需求92
 裝備等級210， **<font color=red>建議戰力6000萬</font>**
-入場需求{% inlineImg https://i.imgur.com/7aQwuvb.png 48px %} x1
+入場需求{% inlineImg https://i.imgur.com/7aQwuvb.png 48px %} x2
 {% inlineImg https://i.imgur.com/7aQwuvb.png 48px %}取得方式：[火焰的悲劇]機率掉落、[火焰的喜劇]獎勵
 
 固定掉落物：{% inlineImg https://i.imgur.com/jh8M4EU.png 48px %}[燃燒的跳動心臟]x5
