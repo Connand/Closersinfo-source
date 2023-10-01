@@ -16,6 +16,7 @@ tags:
     - 未來
     - 銀河
     - 露西
+    - 愛里
 category: [時裝, 有立繪, 限定角色]
 cover: https://imgur.com/FwVIfo4h.jpg
 description: "YOHO"
@@ -33,7 +34,7 @@ description: "YOHO"
 
 
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Yoho_200114_bauy.zip)
+[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Yoho_230921_C3CEC41B6ECA7C5B.zip)
 
 ---
 
@@ -68,6 +69,7 @@ description: "YOHO"
 <!-- tab 露娜(Luna)-->
 [![](https://i.imgur.com/bkuOMjgh.jpg)](https://i.imgur.com/bkuOMjg.jpg)
 [![](https://i.imgur.com/1nKTtGIh.png)](https://i.imgur.com/1nKTtGI.png)
+<!-- endtab -->
 <!-- tab 索瑪(Soma)-->
 [![](https://i.imgur.com/R98GIhph.jpg)](https://i.imgur.com/R98GIhp.jpg)
 [![](https://i.imgur.com/FC9sdqPh.png)](https://i.imgur.com/FC9sdqP.png)
@@ -91,6 +93,10 @@ description: "YOHO"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/ud5wljNh.jpg)](https://i.imgur.com/ud5wljN.jpg)
 [![](https://i.imgur.com/ygZUIkLh.png)](https://i.imgur.com/ygZUIkL.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/yKLLBn7h.jpg)](https://imgur.com/yKLLBn7.jpg)
+[![](https://imgur.com/RGKykSzh.png)](https://imgur.com/RGKykSz.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -136,6 +142,9 @@ description: "YOHO"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/WYapy9Dh.jpg)](https://i.imgur.com/WYapy9D.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/CCwDxDXh.jpg)](https://imgur.com/CCwDxDX.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -180,6 +189,9 @@ description: "YOHO"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/ePKrNC5h.jpg)](https://i.imgur.com/ePKrNC5.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/s5cvOyth.jpg)](https://imgur.com/s5cvOyt.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -223,6 +235,9 @@ description: "YOHO"
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/yg7kbNSh.jpg)](https://i.imgur.com/yg7kbNS.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/RyfJXLQh.jpg)](https://imgur.com/RyfJXLQ.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
