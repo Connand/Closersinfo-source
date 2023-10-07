@@ -259,3 +259,19 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 [官網資料](https://cs.nexon.com/helpBoard/popuphelpview/27112)
 
 ---
+
+> # 練等方法
+{% note blue 'fas fa-question-circle' modern %}
+如何增加練突變PNA效率？
+{% endnote %}
+因為PNA經驗僅可透過熊本獲得，而且每一等都擴充到75等，所需經驗量是非常可觀的。
+因此在如何提高練等效率的重要性就凸顯出來了，以下表列是增加獲得PNA經驗的方法。
+
+|道具/增益|取得方法|效果|
+|:-:|:-:|:-:|
+|異能雙重護符(學業護符+財運護符)|商城<br>活動|**學業護符**<br>獲得經驗值+20%<br>**<font color=#ff0000>獲得PNA經驗+20%</font>**<br>**財運護符**<br>獲得金幣+20%|
+|UNION特製PNA雙倍經驗藥水|UNION會員點數商店<br>轉換器<br>活動|**<font color=#ff0000>獲得PNA經驗+150%</font>**|
+|戰鬥之極(增益)|平原之門\[英雄的火爐\]<br>**持續5小時**|物理/魔法爆擊傷害+10%<br>獲得金幣/道具/經驗+5%<br>**<font color=#ff0000>獲得PNA經驗+5%</font>**|
+|博士的完美PNA教室(帳號稱號)|成就->作戰區域->高級作戰區域<br>->**通關格莫瑞科學設施成就6階段：<br>通關100場(普通/溫和都算入)**|獲得經驗值+30%<br>**<font color=#ff0000>獲得PNA經驗+30%</font>**|
+|[團隊增益](/datasets/spec/teambuff/)|配置最後一條|**滿180時**：<br>獲得金幣+15%<br>獲得道具+30%<br>獲得經驗值+15%<br>**<font color=#ff0000>獲得PNA經驗+15%</font>**|
+|[寵物](/datasets/spec/pets/)|**<迷你楊秀妍>**|**覺醒時被動**：<br>增加最大生命值2000<br>增加最大魔法值2000<br>物理/魔法防禦穿透率20%<br>**<font color=#d60>追加經驗值20%</font>**<br>**<font color=red>追加PNA經驗值20%</font>**|

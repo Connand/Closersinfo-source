@@ -1,11 +1,13 @@
 ---
-title: 變異PNA
+title: 變異PNA(過時)
 date: 2021-09-07 11:54:31
 tags: 資料紀錄
 category: [遊戲資料,PNA]
 cover: https://i.imgur.com/wHiKj7qh.png
 description: "突變 變異PNA系統介紹(Mutant PNA)"
 ---
+
+> **<div style="text-align:center"><font size=3 color=red>此文大部分內容已經因[PNA重製](/datasets/spec/awakenPNA/)而失效<br>建議與上述連結頁面一起參考</font></div>**
 
 # 種族傷害PNA系統：突變PNA(Mutant PNA)
 ## 此文章由[虛擬小草](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9063&tnum=1)協助整理資料製作的

@@ -22,6 +22,7 @@ tags:
     - 徹斯
     - 銀河
     - 露西
+    - 愛里
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/ciLMJEdh.jpg
 description: ""
@@ -101,6 +102,9 @@ description: ""
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/7ACFCmwh.jpg)](https://i.imgur.com/7ACFCmw.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/YvFN0GKh.png)](https://i.imgur.com/YvFN0GK.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -162,6 +166,9 @@ description: ""
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/CcEoWZZh.jpg)](https://i.imgur.com/CcEoWZZ.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/EDwlwYIh.png)](https://i.imgur.com/EDwlwYI.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -225,6 +232,9 @@ description: ""
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/VD6WYlUh.jpg)](https://i.imgur.com/VD6WYlU.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/478M2NRh.png)](https://i.imgur.com/478M2NR.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -286,6 +296,9 @@ description: ""
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/NSGTWnTh.jpg)](https://i.imgur.com/NSGTWnT.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/cVLUcdih.png)](https://i.imgur.com/cVLUcdi.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
