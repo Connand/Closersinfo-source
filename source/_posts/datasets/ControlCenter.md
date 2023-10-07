@@ -56,7 +56,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |Gate Wave(小本)|90|2000~4000萬| 170~190 | 10 |角色3次<br>(每日補充3次、最多累積6次)|限制1人|1 次|
 |Gate Wave(4人副本)|90|2700萬| 177 | 10 |角色1次|建議4人|1 次|
 |Night Maze|92|浮動戰力<br>**<font color=#ff0000>2000~4000萬</font>**| - | 10 | - |限制1人|<font color=red>0 次</font>|
-|**<font color=#f00>Conquest Program</font>**|92|**<font color=#ff0000>2200~8000萬</font>**| - | 10 | {%inlineImg https://i.imgur.com/ZauopIm.png 48px%}[入場票1張](#Conquest-Program) |限制1人|2 次|
+|**<font color=#f00>征服項目</font>**|92|**<font color=#ff0000>2200~8000萬</font>**| - | 10 | {%inlineImg https://i.imgur.com/ZauopIm.png 48px%}[入場票1張](#Conquest-Program) |限制1人|2 次|
 
 {% hideToggle <font color=#ff0000><b>16村副本詳細內容</b></font> %}
 {% tabs 副本資訊 %}
@@ -376,7 +376,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ---
 
-# Conquest Program
+# 征服項目
 難度最高的挑戰副本，共分30層
 **從韓版2023/02/09更新開放至03/29，才有首位玩家通關30層**
 [陸版首通30層](https://www.bilibili.com/video/BV14L411y7MX/?share_source=copy_web)
