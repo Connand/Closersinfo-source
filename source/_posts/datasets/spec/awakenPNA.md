@@ -253,7 +253,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |類型|說明
 |:-|:-
 |**<font color=green>超能爆發A：壓倒</font>**<br>**<font color=green>強制阻斷A：壓制</font>**<br>**<font color=green>跳躍A：急墜</font>**|最高可在同一時間獲得物理/魔法暴傷 520%、條件暴傷 90%、空暴 130%<br>**總共920%暴傷的組合**，但由於超能爆發的冷卻時間很長，屬於短時間爆發型<br>(**可以利用死亡後復活重置冷卻時間**)|
-|**<font color=blue>跳躍B：鬥志</font>**<br>**<font color=green>強制阻斷A：壓制</font>**<br>**<font color=green>跳躍A：急墜</font>**|只要記得每15秒進行 **[跳躍]** 的動作以及每30秒施放 **[強制阻斷]** ，即可獲得非常好的BUFF覆蓋率<br>(跳躍接近100%，強斷約18/30=60%)|
+|**<font color=blue>跳躍B：鬥志</font>**<br>**<font color=green>強制阻斷A：壓制</font>**<br>**<font color=green>跳躍A：急墜</font>**|只要記得每15秒進行 **[跳躍]** 的動作以及每30秒施放 **[強制阻斷]** ，即可獲得非常好的BUFF覆蓋率<br>(跳躍接近100%，強斷約18/30=60%)<br>**提示**：實際觸發方式只要在空中利用方向鍵移動即可([參考影片](https://www.bilibili.com/video/BV1Gs4y1F7E3/?spm_id_from=333.337.search-card.all.click&vd_source=1bd1868c2bc23b927f9a8e805b4ddadb))|
 |**<font color=green>超能爆發A：壓倒</font>**<br>**<font color=blue>超能爆發B：氣魄</font>**<br>**<font color=purple>超能爆發C：崛興</font>**|終極短時間爆發型，復活流的極致<br>~~較屬娛樂型，較不建議~~ {% hideInline <img src="https://i.imgur.com/RqkuTkp.png">,?,#FF7242,#fff %}
 
 [官網資料](https://cs.nexon.com/helpBoard/popuphelpview/27112)
