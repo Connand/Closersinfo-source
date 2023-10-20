@@ -166,6 +166,13 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |模組|10,000,000|40 個|200 個|1,000 個|1,000 個|
 |護盾|5,000,000|20 個|100 個|500 個|500 個|
 
+{% hideToggle 2023/10/19韓版調整後 %}
+|裝備| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} |  {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|模組|10,000,000|40 個|200 個|**<font color=red>400 個</font>**|**<font color=red>400 個</font>**|
+|護盾|5,000,000|20 個|100 個|**<font color=red>200 個</font>**|**<font color=red>200 個</font>**|
+{% endhideToggle %}
+
 <p>　</p>
 
 
@@ -190,6 +197,17 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |護盾L1|6,250,000|625 個|625 個|25 個|125 個|
 |護盾L2|8,300,000|830 個|830 個|33 個|170 個|
 |<font color=red>小結</font>|14,550,000|1455 個|1455 個|58 個|295 個|
+
+{% hideToggle 2023/10/19韓版調整後 %}
+|階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|模組L1|12,500,000|**<font color=red>500 個</font>**|**<font color=red>500 個</font>**|50 個|250 個|
+|模組L2|16,700,000|**<font color=red>670 個</font>**|**<font color=red>670 個</font>**|67 個|330 個|
+|<font color=red>小結</font>|29,200,000|**<font color=red>1170 個</font>**|**<font color=red>1170 個</font>**|117 個|580 個|
+|護盾L1|6,250,000|**<font color=red>250 個</font>**|**<font color=red>250 個</font>**|25 個|125 個|
+|護盾L2|8,300,000|**<font color=red>330 個</font>**|**<font color=red>330 個</font>**|33 個|170 個|
+|<font color=red>小結</font>|14,550,000|**<font color=red>580 個</font>**|**<font color=red>580 個</font>**|58 個|295 個|
+{% endhideToggle %}
 <!-- endtab -->
 
 <!-- tab 彩罐法-->
@@ -216,6 +234,16 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |護盾3件|43,650,000|4365 個|4365 個|174 個|885 個|
 |**總和**|72,850,000|7285 個|7285 個|291 個|1465 個|
 |**<font color=#f00>含製作</font>**|97,850,000|9785 個|9785 個|391 個|1965 個|
+
+{% hideToggle 2023/10/19韓版調整後 %}
+|| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|模組|29,200,000|**<font color=red>1170 個</font>**|**<font color=red>1170 個</font>**|117 個|580 個|
+|護盾|14,550,000|**<font color=red>580 個</font>**|**<font color=red>580 個</font>**|58 個|295 個|
+|護盾3件|43,650,000|**<font color=red>1740 個</font>**|**<font color=red>1740 個</font>**|174 個|885 個|
+|**總和**|72,850,000|**<font color=red>2910 個</font>**|**<font color=red>2910 個</font>**|291 個|1465 個|
+|**<font color=#f00>含製作</font>**|97,850,000|**<font color=red>3910 個</font>**|**<font color=red>3910 個</font>**|391 個|1965 個|
+{% endhideToggle %}
 <!-- endtab -->
 
 <!-- tab 彩罐法總和-->
@@ -379,6 +407,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 # 征服項目
 難度最高的挑戰副本，共分30層
 **從韓版2023/02/09更新開放至03/29，才有首位玩家通關30層**
+[2023/10/19 新增31-35層](https://closers.nexon.com/News/Notice/View?n4ArticleSN=142467)
 [陸版首通30層](https://www.bilibili.com/video/BV14L411y7MX/?share_source=copy_web)
 從建議戰力2200萬開始，每一層加上200萬
 入場票可從Gate Wave的**危險度3**獎勵獲得{%inlineImg https://i.imgur.com/ZauopIm.png 64px%}
@@ -389,10 +418,11 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |:-|:-:|:-:
 |{%inlineImg https://i.imgur.com/8ONbMJo.png 48px%} 野生型|3|1、8、11
 |{%inlineImg https://i.imgur.com/HoxQxvb.png 48px%} 食蟲型|3|2、20、28
-|{%inlineImg https://i.imgur.com/KOAPxLX.png 48px%} 人類型|11|3、4、9、13、14、15、19、21、22、24、29
+|{%inlineImg https://i.imgur.com/KOAPxLX.png 48px%} 人類型|13|3、4、9、13、14、15、19、21、22、24、29、33、34	
 |{%inlineImg https://i.imgur.com/t8j9844.png 48px%} 使徒型|3|5、26、30
 |{%inlineImg https://i.imgur.com/FWfg4L0.png 48px%} 魔龍型|5|6、12、17、23、27
-|{%inlineImg https://i.imgur.com/gdXdckN.png 48px%} 特異型|5|7、10、16、18、25
+|{%inlineImg https://i.imgur.com/gdXdckN.png 48px%} 特異型|7|7、10、16、18、25、31、35
+|{%inlineImg https://i.imgur.com/3FV9pDB.png 48px%} 業火行|1|32
 <!-- endtab -->
 <!-- tab 樓層BOSS資訊-->
 |層數|建議戰力|關卡BOSS|類型|
@@ -427,6 +457,11 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |28|7600萬|霍夫曼 + 德瑪托比亞|{%inlineImg https://i.imgur.com/HoxQxvb.png 40px%}
 |29|7800萬|露西 + 蕾比雅|{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}
 |30|8000萬|熱風達斯特 + 覺醒另一個路西法|{%inlineImg https://i.imgur.com/t8j9844.png 40px%}
+|31|8200萬|莉莉姆 + 尤德|{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}
+|32|8400萬|歐梅嘉女王 + 尼托克莉絲|{%inlineImg https://i.imgur.com/3FV9pDB.png 40px%}
+|33|8600萬|未來 + 金徹斯|{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}
+|34|8800萬|徐維莉 + 薇歐莉特|{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}
+|35|9000萬|姜俊誠 + 維羅尼卡|{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}
 <!-- endtab -->
 <!-- tab 樓層獎勵-->
 <div class="arranged_table">
@@ -457,14 +492,19 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |20|6000萬|{% inlineImg /img/material/fuel16.PNG 40px %}強化燃料 +16|50|3
 |21|6200萬|{% inlineImg /img/material/awaken_effect.png 40px %}超能覺醒特效自選|70|4
 |22|6400萬|{% inlineImg https://i.imgur.com/WxaqM1W.png 40px %} SS確定D零件：裝備|70|4
-|23|6600萬|攻克項目角色等級框<br>{% inlineImg https://i.imgur.com/G6G50dv.png 100px %}|70|4
+|23|6600萬|名字標籤券：榮譽征服者勳章<br>{% inlineImg https://i.imgur.com/G6G50dv.png 100px %}|70|4
 |24|6800萬|{% inlineImg /img/chip/T4_platinum.png 40px %}T4鉑金自選|70|4
 |25|7000萬|{% inlineImg /img/material/fuel17.PNG 40px %}強化燃料 +17|70|4
 |26|7200萬|{% inlineImg /img/material/dance_effect.png 40px %}跳舞特效動作自選|100|5
 |27|7400萬|{% inlineImg https://i.imgur.com/YWwwVtP.png 40px %} SS確定D零件：時裝|100|5
-|28|7600萬|攻克項目讀取框<br>{% inlineImg https://i.imgur.com/L2MyRPX.gif 150px %}|100|5
+|28|7600萬|外觀編織券：演算勝利的迴路<br>{% inlineImg https://i.imgur.com/L2MyRPX.gif 150px %}|100|5
 |29|7800萬|{% inlineImg https://i.imgur.com/yDlYKup.png 40px %}菁英寵物自選|100|5
 |30|8000萬|攻克項目威嚴<br>{% inlineImg https://i.imgur.com/tEZKpit.gif 150px %}|100|5
+|31|8200萬|{% inlineImg /img/material/awaken_effect.png 40px %}超能覺醒特效自選|130|6
+|32|8400萬|{% inlineImg /img/material/fuel17.PNG 40px %}強化燃料 +17|130|6
+|33|8600萬|{% inlineImg https://i.imgur.com/k0eqGKK.png 40px %}名字標籤券：到達極地的征服者勳章<br>{% inlineImg https://i.imgur.com/AwFwi6G.png 100px %}|130|6
+|34|8800萬|{% inlineImg https://i.imgur.com/asciy3F.png 40px %}菁英寵物自選|130|6
+|35|9000萬|{% inlineImg https://i.imgur.com/SjD8DwZ.png 40px %}姜俊誠與維羅尼卡立繪臂章<br>[{% inlineImg https://i.imgur.com/1J1j3MN.png 200px %}](https://i.imgur.com/1J1j3MN.png)|130|6
 
 </div>
 <!-- endtab -->

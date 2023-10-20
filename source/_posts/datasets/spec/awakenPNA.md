@@ -20,7 +20,7 @@ PNA/突變改版
 - 已消耗變異材料返還
 - 新PNA[覺醒機制]
 - 突變等級上限提高至75等
-- 新增[表達體]系統
+- 新增[發現體]系統
 - **<font color=red>上修及調整為僅可透過格莫瑞相關副本（熊本）獲得PNA經驗值</font>**
 - 更新前期熊本征服度及掉落獎勵
 
@@ -101,16 +101,16 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 
 ---
 
-> # 表達體
+> # 發現體
 
-**<font size=4>以所有**突變等級總和**來判斷會開啟的表達體數量</font>**
+**<font size=4>以所有**突變等級總和**來判斷會開啟的發現體數量</font>**
 
 **<font color=red>重製以後，以前的突變因素將會移除，並且返還已使用的突變膠囊數量</font>**
 - 突變對應的種族增傷變更如下
 	- 20等前：每等級提升 13.5%，20等時為 270%
 	- 20等後：每等級提升 1%，75等時 325%
 
-觀察圖片右邊，每一格均有重鑄等級標示，代表表達體的能力可以進行重鑄
+觀察圖片右邊，每一格均有重鑄等級標示，代表發現體的能力可以進行重鑄
 重鑄消耗 **<font color=red>{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材料</font>**
 且每一格 **<font color=red>每次重鑄消耗 50 變異材料，可重鑄 10 次</font>**
 當到達次數上限時， **<font color=red>需要使用{% inlineImg https://i.imgur.com/ofbuOah.png 40px %}將可重鑄次數回復為最大值</font>**
@@ -252,9 +252,9 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 
 |類型|說明
 |:-|:-
-|**<font color=green>超能爆發A：壓倒</font>**<br>**<font color=green>強制阻斷A：壓制</font>**<br>**<font color=green>跳躍A：急墜</font>**|最高可在同一時間獲得物理/魔法暴傷 520%、條件暴傷 90%、空暴 130%<br>**總共920%暴傷的組合**，但由於超能爆發的冷卻時間很長，屬於短時間爆發型<br>(**可以利用死亡後復活重置冷卻時間**)|
+|**<font color=green>超能爆發A：壓制</font>**<br>**<font color=green>強制阻斷A：壓制</font>**<br>**<font color=green>跳躍A：急墜</font>**|最高可在同一時間獲得物理/魔法暴傷 520%、條件暴傷 90%、空暴 130%<br>**總共920%暴傷的組合**，但由於超能爆發的冷卻時間很長，屬於短時間爆發型<br>(**可以利用死亡後復活重置冷卻時間**)|
 |**<font color=blue>跳躍B：鬥志</font>**<br>**<font color=green>強制阻斷A：壓制</font>**<br>**<font color=green>跳躍A：急墜</font>**|只要記得每15秒進行 **[跳躍]** 的動作以及每30秒施放 **[強制阻斷]** ，即可獲得非常好的BUFF覆蓋率<br>(跳躍接近100%，強斷約18/30=60%)<br>**提示**：實際觸發方式只要在空中利用方向鍵移動即可([參考影片](https://www.bilibili.com/video/BV1Gs4y1F7E3/?spm_id_from=333.337.search-card.all.click&vd_source=1bd1868c2bc23b927f9a8e805b4ddadb))|
-|**<font color=green>超能爆發A：壓倒</font>**<br>**<font color=blue>超能爆發B：氣魄</font>**<br>**<font color=purple>超能爆發C：崛興</font>**|終極短時間爆發型，復活流的極致<br>~~較屬娛樂型，較不建議~~ {% hideInline <img src="https://i.imgur.com/RqkuTkp.png">,?,#FF7242,#fff %}
+|**<font color=green>超能爆發A：壓制</font>**<br>**<font color=blue>超能爆發B：氣魄</font>**<br>**<font color=purple>超能爆發C：決心</font>**|終極短時間爆發型，復活流的極致<br>~~較屬娛樂型，較不建議~~ {% hideInline <img src="https://i.imgur.com/RqkuTkp.png">,?,#FF7242,#fff %}
 
 [官網資料](https://cs.nexon.com/helpBoard/popuphelpview/27112)
 
