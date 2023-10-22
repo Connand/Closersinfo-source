@@ -97,6 +97,9 @@ description: ""
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/gl76VgRh.jpg)](https://i.imgur.com/gl76VgR.jpg)
 <!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/Pcums07h.png)](https://i.imgur.com/Pcums07.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
