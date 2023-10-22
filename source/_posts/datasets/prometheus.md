@@ -123,6 +123,7 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 {% hideToggle 2023/10/19韓版調整後 %}
 |階數|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/iRfp4za.png 48px %}|{% inlineImg https://i.imgur.com/5qvueVT.png 48px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**<font color=red size=3>升級</font>**|500,000|**<font color=red>20</font>**|**<font color=red>20</font>**|**(10)**|**(5)**|**(10)**|**(5)**|
 |**<font color=red size=3>保底</font>**| | | | | | | |
 |武器 L1|5,000,000|**<font color=red>200</font>**|**<font color=red>200</font>**|100|50|-|-|
 |武器 L5|7,500,000|**<font color=red>300</font>**|**<font color=red>300</font>**|150|75|-|-|
