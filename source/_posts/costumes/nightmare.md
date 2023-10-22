@@ -22,6 +22,7 @@ tags:
     - 徹斯
     - 銀河
     - 露西
+    - 愛里
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/gl76VgRh.jpg
 description: ""
@@ -97,7 +98,7 @@ description: ""
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/gl76VgRh.jpg)](https://i.imgur.com/gl76VgR.jpg)
 <!-- endtab -->
-<!-- tab 露西(Lucy)-->
+<!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/Pcums07h.png)](https://i.imgur.com/Pcums07.png)
 <!-- endtab -->
 {% endtabs %}
