@@ -343,8 +343,8 @@ PLV: 220 (史詩240)
 |:-:|:-:|
 |1| {% inlineImg https://i.imgur.com/jh8M4EU.png 48px %} x5 |
 |10| {% inlineImg https://i.imgur.com/QLWa7JG.png 48px %}讀取框 |
-|?| |
-|?| |
+|30| {% inlineImg https://i.imgur.com/j8MymgK.png 48px %} x5|
+|60| {% inlineImg https://i.imgur.com/jh8M4EU.png 48px %} x20|
 |?| |
 |?| |
 

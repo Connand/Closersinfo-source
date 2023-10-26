@@ -101,7 +101,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 
 ---
 
-> # 發現體
+> # 表現體
 
 **<font size=4>以所有**突變等級總和**來判斷會開啟的發現體數量</font>**
 
@@ -118,6 +118,14 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 ~~其他先看圖，之後再用文字寫~~
 
 ![](https://i.imgur.com/JFn7JZL.png)
+
+## 表現體主要能力表
+
+|每個種族|平均需要|三十三等|才能開啟|所有格子
+|:-:|:-:|:-:|:-:|:-:
+|**Lv. 60**<br>背擊時暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 120**<br>空中時暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 180**<br>浮空時暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 200**<br>攻擊速度<br>{% inlineImg img/tuning/tuningSS.png 24px %} 2%{% inlineImg img/tuning/tuningS.png 24px %} 1%|**Lv. 220**<br>總物理攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%
+|**Lv. 220**<br>總魔法攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%|**Lv. 230**<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 240**<br>攻擊速度<br>{% inlineImg img/tuning/tuningSS.png 24px %} 2%{% inlineImg img/tuning/tuningS.png 24px %} 1%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 260**<br>物理暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 260**<br>魔法暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%
+|**Lv. 280**<br>背擊時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 280**<br>空中時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 280**<br>浮空時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 300**<br>總物理攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%<br>物理暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 300**<br>總魔法攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%<br>魔法暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%
 
 ---
 
