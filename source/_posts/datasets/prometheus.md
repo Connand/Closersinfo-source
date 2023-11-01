@@ -201,7 +201,7 @@ PLV: 230
 
 |詞條|{% inlineImg https://i.imgur.com/L74nNUW.png 48px %}<br><font color=red>長劍</font>|{% inlineImg https://i.imgur.com/WCtD9ox.png 48px %}<br><font color=red>槌子</font>|{% inlineImg https://i.imgur.com/2SRRUUZ.png 48px %}<br><font color=blue>權杖</font>|{% inlineImg https://i.imgur.com/sNyNomI.png 48px %}<br><font color=blue>燈籠</font>|{% inlineImg https://i.imgur.com/N0BBqrl.png 48px %}<br><font color=purple>鞭子</font>|{% inlineImg https://i.imgur.com/E1dgLmi.png 48px %}<br><font color=purple>鐮刀</font>
 |:-|:-:|:-:|:-:|:-:|:-:|:-:
-|攻擊力(49%)|4750|4750|4750|4750|4750|4750
+|**<font color=red>攻擊力(100%)</font>**|6895|6895|6895|6895|6895|6895
 |攻擊速度|1|1|1|1|1|1
 |暴擊率|35%|-|35%|-|35%|-
 |防禦穿透率|-|40%|-|40%|-|40%
@@ -221,7 +221,7 @@ PLV: 220
 
 |詞條|{% inlineImg https://i.imgur.com/tyJNFKL.png 48px %}<br><font color=red>物理</font>|{% inlineImg https://i.imgur.com/d1M6CpE.png 48px %}<br><font color=blue>魔法</font>|{% inlineImg https://i.imgur.com/yLM0SDP.png 48px %}<br><font color=purple>混合</font>
 |:-|:-:|:-:|:-:
-|攻擊力(49%)|1800|1800|1620
+|**<font color=red>攻擊力(100%)</font>**|2613|2613|2351
 |--- <font color=#8B8000>以下黃字數值</font>|---|---|---
 |暴擊傷害|185%|185%|167%
 |條件暴擊傷害|110%|110%|110%
@@ -239,7 +239,7 @@ PLV: 220 (史詩240)
 
 |詞條|{% inlineImg https://i.imgur.com/8DI8880.png 48px %}<br>**超越**|{% inlineImg https://i.imgur.com/mZL3pXx.png 48px %}<br>**<font color=red>史詩</font>**
 |:-|:-:|:-:
-|條件額外傷害(49%)|10000|15000
+|**<font color=red>條件額外傷害(100%)</font>**|18573|27860
 |攻擊力|3000|4000
 |條件暴擊傷害|150%|200%
 |條件增傷|80%|90%
@@ -342,11 +342,11 @@ PLV: 220 (史詩240)
 |場數|獎勵|
 |:-:|:-:|
 |1| {% inlineImg https://i.imgur.com/jh8M4EU.png 48px %} x5 |
-|10| {% inlineImg https://i.imgur.com/QLWa7JG.png 48px %}讀取框 |
+|10| {% inlineImg https://i.imgur.com/QLWa7JG.png 48px %} 讀取框 |
 |30| {% inlineImg https://i.imgur.com/j8MymgK.png 48px %} x5|
 |60| {% inlineImg https://i.imgur.com/jh8M4EU.png 48px %} x20|
 |?| |
-|?| |
+|150| {% inlineImg https://i.imgur.com/LpA3V3p.png 48px %} 名牌 |
 
 {% hideToggle 名牌與讀取框預覽 %}
 ![](https://i.imgur.com/vcY5nl0.png)
