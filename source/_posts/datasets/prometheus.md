@@ -345,7 +345,7 @@ PLV: 220 (史詩240)
 |10| {% inlineImg https://i.imgur.com/QLWa7JG.png 48px %} 讀取框 |
 |30| {% inlineImg https://i.imgur.com/j8MymgK.png 48px %} x5|
 |60| {% inlineImg https://i.imgur.com/jh8M4EU.png 48px %} x20|
-|?| |
+|100|  {% inlineImg https://i.imgur.com/j8MymgK.png 48px %} x15|
 |150| {% inlineImg https://i.imgur.com/LpA3V3p.png 48px %} 名牌 |
 
 {% hideToggle 名牌與讀取框預覽 %}
