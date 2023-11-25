@@ -126,6 +126,7 @@ description: "Maid&Butler"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/SYQ1SCnh.png)](https://i.imgur.com/SYQ1SCn.png)
+[![](https://i.imgur.com/9r7bs3Lh.png)](https://i.imgur.com/9r7bs3L.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -210,6 +211,7 @@ description: "Maid&Butler"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/m8GjZGph.png)](https://i.imgur.com/m8GjZGp.png)
+[![](https://i.imgur.com/4ddzul2h.png)](https://i.imgur.com/4ddzul2.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -294,6 +296,7 @@ description: "Maid&Butler"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/IY0VoHch.png)](https://i.imgur.com/IY0VoHc.png)
+[![](https://i.imgur.com/SGrmscZh.png)](https://i.imgur.com/SGrmscZ.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -308,7 +311,7 @@ description: "Maid&Butler"
 <!-- tab 李雪菲(Seulbi)-->
 [![](https://i.imgur.com/BpprJvkh.jpg)](https://i.imgur.com/BpprJvk.jpg)
 [![](https://i.imgur.com/28Acqrkh.png)](https://i.imgur.com/28Acqrk.png)
-{%youtube TffRCMQQ2DI %}
+{%youtube OmZXiLbZe1E %}
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
 [![](https://i.imgur.com/RW8ydGFh.jpg)](https://i.imgur.com/RW8ydGF.jpg)
@@ -397,6 +400,7 @@ description: "Maid&Butler"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/nOLj3vdh.png)](https://i.imgur.com/nOLj3vd.png)
+[![](https://i.imgur.com/3N3Xwrxh.png)](https://i.imgur.com/3N3Xwrx.png)
 {%youtube arjxyDmPd2w %}
 <!-- endtab -->
 {% endtabs %}

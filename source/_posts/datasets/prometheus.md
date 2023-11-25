@@ -43,7 +43,7 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 
 ## 火焰的喜劇
 
-**先鋒隊系統(VANGUARD)：6人組隊**
+**先鋒隊系統(VANGUARD)：~~6人組隊~~ <font color=red>於[2023/11/16更新](https://closers.nexon.com/News/Notice/View?n4PageNo=2&n4ArticleSN=142663)時修改為 4 人組隊</font>** 
 角色等級需求92
 裝備等級210，建議戰力4500萬
 每周獎勵次數： 1 次
@@ -51,13 +51,24 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 {% hideToggle 副本系統說明 %}
 1. 復活次數限制： 2 次
 2. 藥水使用限制： 10 次
-3. 副本技能
-  - 伊織靜：復活 1 次(不使用復活次數)
-  - 楊秀妍：絕對無敵 10 秒
-  - 維羅妮卡：解除DEBUFF，60 秒內對業火型增傷 100%
-  - 黑智秀：扣除敵人最大血量 5%
-  - 閔秀賢：使吉達和普羅米修斯無力化
+3. 副本技能點數增加量
+|動作|點數量
+|:-|:-:
+|使用一般技能時|3
+|使用必殺技能時|10
+|使用寵物主動／自動技能時|10
+|消滅怪物時|5
+|隊員死亡時|50
+|使用終極技能時|50
+4. 副本技能
+  - {% inlineImg https://i.imgur.com/7VUddgp.png 40px %}伊織靜 (1500點)：復活 1 次(不使用復活次數)
+  - {% inlineImg https://i.imgur.com/ivBR9Cj.png 40px %}楊秀妍 (1000點)：絕對無敵 10 秒
+  - {% inlineImg https://i.imgur.com/vbgUVAp.png 40px %}維羅妮卡 (700點)：解除DEBUFF，60 秒內對業火型增傷 100%
+  - {% inlineImg https://i.imgur.com/WIeeDB3.png 40px %}黑智秀 (2000點)：扣除敵人最大血量 5%
+  - {% inlineImg https://i.imgur.com/K5CPzkS.png 40px %}閔秀賢 (2000點)：使吉達和普羅米修斯無力化
 {% endhideToggle %}
+
+<p>　</p>
 
 |獎勵|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|
 |:-:|:-:|:-:|:-:|:-:|
@@ -70,9 +81,10 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 入場需求{% inlineImg https://i.imgur.com/7aQwuvb.png 48px %} x2
 {% inlineImg https://i.imgur.com/7aQwuvb.png 48px %}取得方式：[火焰的悲劇]機率掉落、[火焰的喜劇]獎勵
 
-固定掉落物：{% inlineImg https://i.imgur.com/jh8M4EU.png 48px %}[燃燒的跳動心臟]x5
+固定掉落物：{% inlineImg https://i.imgur.com/jh8M4EU.png 48px %}**[燃燒的跳動心臟]** x5 、 {% inlineImg https://i.imgur.com/3teZg6G.png 48px %}**[業火的歐帕茲箱子]** x1
 稀有掉落物：{% inlineImg https://i.imgur.com/JlogtYH.png 48px %}臉上{% inlineImg https://i.imgur.com/llHDcNL.png 48px %}手臂{% inlineImg https://i.imgur.com/I7EIGWh.png 48px %}腰部
 
+　{% inlineImg https://i.imgur.com/3teZg6G.png 40px %}可能獲得內容物： **<font color=red>史詩接收器</font> 、終局飾品** 、腳印飾品、威嚴飾品、燃燒的跳動心臟
 
 ---
 
@@ -81,6 +93,7 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 製作獲得
 - 模組分為三種條件(暴)傷害各一顆：{% inlineImg https://i.imgur.com/tyJNFKL.png 48px %}空中、{% inlineImg https://i.imgur.com/cQchsOp.png 48px %}背擊、{% inlineImg https://i.imgur.com/vkXT8c7.png 48px %}浮空
 - 選擇其中兩種做成套裝效果
+- **<font color=red size=4>請注意</font>：同樣副傷只能裝備一顆，例如只能空中+背擊，不能空中+空中。**
 
 |箱子|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/iRfp4za.png 48px %}|{% inlineImg https://i.imgur.com/5qvueVT.png 48px %}|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -148,7 +161,7 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 |<font color=blue>兩件模組</font>|200萬|200|200|20|10|20|10|136|
 |接收器彩罐|50萬|50|50|-|-|10|5|44|
 |**<font color=red>保底總和</font>**|450萬|450|450|40|20|50|25|246|
-
+<p>　</p>
 {% hideToggle 2023/10/19韓版調整後 %}
 |方法|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/iRfp4za.png 48px %}|{% inlineImg https://i.imgur.com/5qvueVT.png 48px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|{% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -183,8 +196,8 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 |:-|:-:|:-:|:-:
 |武器|技能冷卻時間減少<br>戰鬥效果|-|10%<br>攻擊力 +2500
 |模組|主暴傷<br>副暴傷|170% (144%)<br>100%|185% (157%)<br>110%
-|傳說接收器|副暴傷<br>戰鬥效果|100%<br>-|150%<br>暴擊傷害抵抗 -30%
-|史詩接收器|副暴傷<br>戰鬥效果|150%<br>-|200%<br>暴擊傷害抵抗 -30%
+|傳說接收器|副暴傷<br>戰鬥效果<br>戰鬥效果|100%<br>-<br>攻擊力增加+3500|150%<br>暴擊傷害抵抗 -30%<br>攻擊力增加+4000
+|史詩接收器|副暴傷<br>戰鬥效果<br>戰鬥效果|150%<br>-<br>攻擊力增加+4500|200%<br>暴擊傷害抵抗 -30%<br>攻擊力增加+5000
 |野獸史詩武器|主暴傷|200%|250%
 
 - [2023/09/21能力上調](https://closers.nexon.com/News/Notice/View?n4ArticleSN=142276)
@@ -217,6 +230,8 @@ PLV: 230
 
 ## 模組
 
+- **<font color=red size=4>請注意</font>：同樣副傷只能裝備一顆，例如只能空中+背擊，不能空中+空中。**
+
 PLV: 220
 
 |詞條|{% inlineImg https://i.imgur.com/tyJNFKL.png 48px %}<br><font color=red>物理</font>|{% inlineImg https://i.imgur.com/d1M6CpE.png 48px %}<br><font color=blue>魔法</font>|{% inlineImg https://i.imgur.com/yLM0SDP.png 48px %}<br><font color=purple>混合</font>
@@ -224,8 +239,8 @@ PLV: 220
 |**<font color=red>攻擊力(100%)</font>**|2613|2613|2351
 |--- <font color=#8B8000>以下黃字數值</font>|---|---|---
 |暴擊傷害|185%|185%|167%
-|條件暴擊傷害|110%|110%|110%
-|條件增傷|50%|50%|50%
+|(**選擇**) 條件暴擊傷害|110%|110%|110%
+|(**選擇**) 條件增傷|50%|50%|50%
 |--- <font color=red>以下兩件套裝效果</font>|---|---|---
 |攻擊力|3000|3000|2700
 |暴擊率|50%|50%|50%
@@ -247,7 +262,7 @@ PLV: 220 (史詩240)
 |三轉一般技能等級| +1| +1
 |**<font color=red>五轉一般技能等級</font>**|| **<font color=red>+1</font>**
 |--- <font color=red>以下特殊能力</font>|---|
-|攻擊時攻擊力增加<br>冷卻 20 秒|3500|4500
+|攻擊時攻擊力增加<br>冷卻 20 秒|4000|5000
 |攻擊時暴擊傷害抵抗減少|30%|30%
 
 - 詳細裝備能力值可以參考[官網公告](https://closers.nexon.com/News/Notice/View?n4ArticleSN=141603)
