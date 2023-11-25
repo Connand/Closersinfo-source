@@ -11,7 +11,7 @@ description: "紀錄那些超級歐洲人"
 > **<div style="text-align:center"><font size=3 color=red>回歸更新，但是僅做計數，不再詳細記錄</font></div>**
 
 # 目前記錄已掉落數量
-**<font size=4 color=#000000>526件 = 14火焰 + 706野獸 + 260機械 + 73深海</font>**
+**<font size=4 color=#000000>1053件 = 14火焰 + 706野獸 + 260機械 + 73深海</font>**
 
 **<font size=3 color=red>2023/11/23 22:16 火焰 空氣放大器+追蹤器 一次2顆</font>**
 **<font size=3 color=red>2023/11/23 15:31 【台服第一件】火焰 追蹤器</font>**
