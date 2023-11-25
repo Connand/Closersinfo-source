@@ -1,7 +1,7 @@
 ---
 title: 史詩裝備掉落紀錄(回歸更新)
 date: 2021-09-07 14:45:59
-updated: 2023-07-07 14:45:59
+updated: 2023-11-25 14:45:59
 tags: 資料紀錄
 category: [遊戲資料,其他]
 cover: https://i.imgur.com/iP8sRLGh.jpg
@@ -45,6 +45,7 @@ description: "紀錄那些超級歐洲人"
 ## 取得方式
 {% hideToggle 取得方式 %}
 - 火焰的喜劇直接掉落
+- 火焰的終局：歐帕茲箱子開啟獲得
 {% endhideToggle %}
 
 ---
