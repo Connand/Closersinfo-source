@@ -30,7 +30,7 @@ description: "火焰王裝備資訊"
 ## 火焰的悲劇
 
 角色等級需求92、各每日入場一次
-每場約掉落新材料：10-40 x {% inlineImg https://i.imgur.com/iRfp4za.png 48px %}、10 x {% inlineImg https://i.imgur.com/5qvueVT.png 48px %}
+每場約掉落新材料：10-40 x {% inlineImg https://i.imgur.com/iRfp4za.png 48px %}、10 x {% inlineImg https://i.imgur.com/5qvueVT.png 48px %}、 **機率性掉落** {% inlineImg https://i.imgur.com/7aQwuvb.png 48px %}
 BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 
 {% btn 'https://forum.gamer.com.tw/C.php?bsn=23655&snA=9364',副本攻略,far fa-hand-point-right,outline blue larger %}
@@ -70,10 +70,10 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 
 <p>　</p>
 
-|獎勵|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|
-|:-:|:-:|:-:|:-:|:-:|
-|任務完成|206 個|105 個|210 個|210 個
-|每周獎勵|105 個|105 個|210 個|210 個
+|獎勵|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|{% inlineImg https://i.imgur.com/7aQwuvb.png 48px %}|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|任務完成|206 個|105 個|210 個|210 個|-
+|每周獎勵|105 個|105 個|210 個|210 個|3 張
 
 ## 火焰的終局(大團圓)
 角色等級需求92
@@ -81,7 +81,7 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 入場需求{% inlineImg https://i.imgur.com/7aQwuvb.png 48px %} x2
 {% inlineImg https://i.imgur.com/7aQwuvb.png 48px %}取得方式：[火焰的悲劇]機率掉落、[火焰的喜劇]獎勵
 
-固定掉落物：{% inlineImg https://i.imgur.com/jh8M4EU.png 48px %}**[燃燒的跳動心臟]** x5 、 {% inlineImg https://i.imgur.com/3teZg6G.png 48px %}**[業火的歐帕茲箱子]** x1
+固定掉落物：{% inlineImg https://i.imgur.com/jh8M4EU.png 40px %}**[燃燒的跳動心臟]** x5 、 {% inlineImg https://i.imgur.com/3teZg6G.png 40px %}**[業火的歐帕茲箱子]** x1
 稀有掉落物：{% inlineImg https://i.imgur.com/JlogtYH.png 48px %}臉上{% inlineImg https://i.imgur.com/llHDcNL.png 48px %}手臂{% inlineImg https://i.imgur.com/I7EIGWh.png 48px %}腰部
 
 　{% inlineImg https://i.imgur.com/3teZg6G.png 40px %}可能獲得內容物： **<font color=red>史詩接收器</font> 、終局飾品** 、腳印飾品、威嚴飾品、燃燒的跳動心臟
