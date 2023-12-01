@@ -232,7 +232,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
 |**<font color=green>A</font>**|**<font color=green>壓制</font>**|**[完美迴避]** 時 最大HP+3600、物理/魔法暴傷 +30%（最多5層）<br>**冷卻時間降低 <font color=red><23/11/30韓版平衡></font>**|6秒<br>**1秒**
-|**<font color=blue>B<font>**|**<font color=blue>氣魄</font>**|**[完美迴避]** 時 10秒內物理/魔法攻擊力 +3000<br>****[完美迴避]** 時 10秒內物理/魔法攻擊力 +4000 <font color=red><23/11/30韓版平衡></font>**|10秒<br>**1秒**
+|**<font color=blue>B<font>**|**<font color=blue>氣魄</font>**|**[完美迴避]** 時 10秒內物理/魔法攻擊力 +3000<br>****[完美迴避]** 時 20秒內物理/魔法攻擊力 +4000 <font color=red><23/11/30韓版平衡></font>**|10秒<br>**1秒**
 |**<font color=purple>C</font>**|**<font color=purple>不撓</font>**|**[完美迴避]** 時 無敵時間 +3秒<br>**冷卻時間降低 <font color=red><23/11/30韓版平衡></font>**|10秒<br>**1秒**
 
 ### 強制阻斷
@@ -240,7 +240,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |:-:|:-:|:-|:-:
 |**<font color=green>A</font>**|**<font color=green>壓制</font>**|使用 **[強制阻斷]** 時 條件暴傷 +90% 持續18秒|30秒
 |**<font color=blue>B<font>**|**<font color=blue>速戰速決</font>**|使用 **[強制阻斷]** 時 二轉/解決師大招CD-60秒|30秒
-|**<font color=purple>C</font>**|**<font color=purple>逆襲</font>**|使用 **[強制阻斷]** 時 周圍敵人18秒內受傷害量 +30%<br>**使用 **[強制阻斷]** 時 周圍敵人18秒內受傷害量 +45% <font color=red><23/11/30韓版平衡></font>**|30秒
+|**<font color=purple>C</font>**|**<font color=purple>逆襲</font>**|使用 **[強制阻斷]** 時 周圍敵人18秒內受傷害量 +30%<br>**使用 **[強制阻斷]** 時 周圍敵人60秒內受傷害量 +45% <font color=red><23/11/30韓版平衡></font>**|30秒
 
 ### 跳躍
 |類型|名稱|能力|冷卻時間
