@@ -324,7 +324,7 @@ description: "重點寵物能力資料"
 <!-- endtab -->
 
 <!-- tab <img class="inline-img" src="https://i.imgur.com/3FV9pDB.png" style="height:32px">業火型-->
-{% inlineImg https://i.imgur.com/asciy3F.png 48px %}**<迷你吉達>**
+{% inlineImg https://i.imgur.com/asciy3F.png 48px %}**<迷你吉妲>**
 
 <div class="altop">
 

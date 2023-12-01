@@ -198,7 +198,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |數量|能力
 |:-:|:-
 |2顆|物理/魔法防禦力 +15%、物理/魔法暴擊傷害 +20%
-|3顆|總HP +10%、物理/魔法防禦力 +1200、攻擊速度 +5%
+|3顆|總HP +10%、物理/魔法防禦力 +1200、攻擊速度 +5%<br>**替換為：總物理與魔法的攻擊力+3% / 攻撃速度 +5% <font color=red><23/11/30韓版平衡></font>**
 
 ## 覺醒因數能力表
 
@@ -207,7 +207,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 ### 攻擊
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>重擊</font>**|攻擊時 5%機率 25 億固定傷害|5秒
+|**<font color=green>A</font>**|**<font color=green>重擊</font>**|攻擊時 5%機率 25 億固定傷害<br>**攻擊時 5%機率 50 億固定傷害 <font color=red><23/11/30韓版平衡></font>**|5秒
 |**<font color=blue>B<font>**|**<font color=blue>神速</font>**|攻擊時 5%機率 5轉技能CD -1秒|5秒
 |**<font color=purple>C</font>**|**<font color=purple>再生</font>**|攻擊時 5%機率 HP/MP/超能力 +8%|5秒
 
@@ -215,15 +215,15 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
 |**<font color=green>A</font>**|**<font color=green>壓制</font>**|使用 **[超能爆發]** 後10秒內 物理/魔法暴傷 +520%|75秒
-|**<font color=blue>B<font>**|**<font color=blue>氣魄</font>**|使用 **[超能爆發]** 後10秒內 物理/魔法攻擊力 +6000|75秒
-|**<font color=purple>C</font>**|**<font color=purple>決心</font>**|使用 **[超能爆發]** 後10秒內 總物理/魔法攻擊力 +40%|75秒
+|**<font color=blue>B<font>**|**<font color=blue>氣魄</font>**|使用 **[超能爆發]** 後10秒內 物理/魔法攻擊力 +6000<br>**使用 **[超能爆發]** 後10秒內 物理/魔法攻擊力 +10000 <font color=red><23/11/30韓版平衡></font>**|75秒
+|**<font color=purple>C</font>**|**<font color=purple>決心</font>**|使用 **[超能爆發]** 後10秒內 總物理/魔法攻擊力 +40%<br>**使用 **[超能爆發]** 後10秒內 總物理/魔法攻擊力 +70% <font color=red><23/11/30韓版平衡></font>**|75秒
 
 ### 全天候
 * **[各種行動]** ：被擊中、跳躍、強制取消、緊急迴避、覺醒、使用特殊技能（預設鍵V）
 
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>重擊</font>**| **[各種行動]** 時15%機率 造成 25 億固定傷害|5秒
+|**<font color=green>A</font>**|**<font color=green>重擊</font>**| **[各種行動]** 時15%機率 造成 25 億固定傷害<br>****[各種行動]** 時15%機率 造成 50 億固定傷害 <font color=red><23/11/30韓版平衡></font>**|5秒
 |**<font color=blue>B<font>**|**<font color=blue>神速</font>**| **[各種行動]** 時15%機率 5轉技能CD -1秒|5秒
 |**<font color=purple>C</font>**|**<font color=purple>再生</font>**| **[各種行動]** 時15%機率 HP/MP/超能力 +8%|5秒
 
@@ -231,28 +231,28 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 ### 閃避
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>壓制</font>**|**[完美迴避]** 時 最大HP+3600、物理/魔法暴傷 +30%（最多5層）|6秒
-|**<font color=blue>B<font>**|**<font color=blue>氣魄</font>**|**[完美迴避]** 時 10秒內物理/魔法攻擊力 +3000|10秒
-|**<font color=purple>C</font>**|**<font color=purple>不撓</font>**|**[完美迴避]** 時 無敵時間 +3秒|10秒
+|**<font color=green>A</font>**|**<font color=green>壓制</font>**|**[完美迴避]** 時 最大HP+3600、物理/魔法暴傷 +30%（最多5層）<br>**冷卻時間降低 <font color=red><23/11/30韓版平衡></font>**|6秒<br>**1秒**
+|**<font color=blue>B<font>**|**<font color=blue>氣魄</font>**|**[完美迴避]** 時 10秒內物理/魔法攻擊力 +3000<br>****[完美迴避]** 時 10秒內物理/魔法攻擊力 +4000 <font color=red><23/11/30韓版平衡></font>**|10秒<br>**1秒**
+|**<font color=purple>C</font>**|**<font color=purple>不撓</font>**|**[完美迴避]** 時 無敵時間 +3秒<br>**冷卻時間降低 <font color=red><23/11/30韓版平衡></font>**|10秒<br>**1秒**
 
 ### 強制阻斷
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
 |**<font color=green>A</font>**|**<font color=green>壓制</font>**|使用 **[強制阻斷]** 時 條件暴傷 +90% 持續18秒|30秒
 |**<font color=blue>B<font>**|**<font color=blue>速戰速決</font>**|使用 **[強制阻斷]** 時 二轉/解決師大招CD-60秒|30秒
-|**<font color=purple>C</font>**|**<font color=purple>逆襲</font>**|使用 **[強制阻斷]** 時 周圍敵人18秒內受傷害量 +30%|30秒
+|**<font color=purple>C</font>**|**<font color=purple>逆襲</font>**|使用 **[強制阻斷]** 時 周圍敵人18秒內受傷害量 +30%<br>**使用 **[強制阻斷]** 時 周圍敵人18秒內受傷害量 +45% <font color=red><23/11/30韓版平衡></font>**|30秒
 
 ### 跳躍
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>急墜</font>**|**[跳躍]** 時 15秒內空暴 +130%|15秒
-|**<font color=blue>B<font>**|**<font color=blue>鬥志</font>**|**[跳躍]** 時 15秒內傷害量 +30%|15秒
-|**<font color=purple>C</font>**|**<font color=purple>氣魄</font>**|**[跳躍]** 時 15秒內物理/魔法攻擊力 +1500|15秒
+|**<font color=green>A</font>**|**<font color=green>急墜</font>**|**[跳躍]** 時 15秒內空暴 +130%<br>****[跳躍]** 時 25秒內空暴 +130% <font color=red><23/11/30韓版平衡></font>**|15秒
+|**<font color=blue>B<font>**|**<font color=blue>鬥志</font>**|**[跳躍]** 時 15秒內傷害量 +30%<br>****[跳躍]** 時 25秒內傷害量 +60% <font color=red><23/11/30韓版平衡></font>**|15秒
+|**<font color=purple>C</font>**|**<font color=purple>氣魄</font>**|**[跳躍]** 時 15秒內物理/魔法攻擊力 +1500<br>****[跳躍]** 時 25秒內物理/魔法攻擊力 +3000 <font color=red><23/11/30韓版平衡></font>**|15秒
 
 ### 特殊技能
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>重擊</font>**|使用 **[特殊技能]** 時 給周圍敵人 25 億的固定損失|5秒
+|**<font color=green>A</font>**|**<font color=green>重擊</font>**|使用 **[特殊技能]** 時 給周圍敵人 25 億的固定損失<br>**使用 **[特殊技能]** 時 給周圍敵人 50 億的固定損失 <font color=red><23/11/30韓版平衡></font>**|5秒
 |**<font color=blue>B<font>**|**<font color=blue>神速</font>**|使用 **[特殊技能]** 時 5轉技能CD-1秒|5秒
 |**<font color=purple>C</font>**|**<font color=purple>再生</font>**|使用 **[特殊技能]** 時 HP/MP/超能力 +8%|5秒
 
