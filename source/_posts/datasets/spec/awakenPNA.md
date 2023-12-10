@@ -258,11 +258,17 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 
 ## 組合推薦參考
 
+<div class="arranged_table">
+
 |類型|說明
 |:-|:-
+|**<font color=blue>跳躍B：鬥志</font>**<br>**<font color=green>強制阻斷A：壓制</font>**<br>**<font color=green>跳躍A：急墜</font>**|只要記得每15秒進行 **[跳躍]** 的動作以及每30秒施放 **[強制阻斷]** ，即可獲得非常好的BUFF覆蓋率<br>(跳躍接近100%，強斷約18/30=60%)<br>第 1 顆也可以利用 **<font color=purple>跳躍C：氣魄</font>** 來替換<br>**提示**：跳躍系列的實際觸發方式只要在空中利用方向鍵移動即可 ([參考影片](https://www.bilibili.com/video/BV1Gs4y1F7E3/?spm_id_from=333.337.search-card.all.click&vd_source=1bd1868c2bc23b927f9a8e805b4ddadb))|
+|**<font color=blue>強制阻斷B：速戰速決</font>**<br>**<font color=green>強制阻斷A：壓制</font>**<br>**<font color=green>跳躍A：急墜</font>**|運用強制阻斷系列取得共**270%暴傷**以及**2大CD重置**以達成爆發性的輸出<br>第 3 顆也可以替換為 **<font color=green>超能爆發A：壓制</font>** 以保持綠色兩件的組合效果|
 |**<font color=green>超能爆發A：壓制</font>**<br>**<font color=green>強制阻斷A：壓制</font>**<br>**<font color=green>跳躍A：急墜</font>**|最高可在同一時間獲得物理/魔法暴傷 520%、條件暴傷 90%、空暴 130%<br>**總共920%暴傷的組合**，但由於超能爆發的冷卻時間很長，屬於短時間爆發型<br>(**可以利用死亡後復活重置冷卻時間**)|
-|**<font color=blue>跳躍B：鬥志</font>**<br>**<font color=green>強制阻斷A：壓制</font>**<br>**<font color=green>跳躍A：急墜</font>**|只要記得每15秒進行 **[跳躍]** 的動作以及每30秒施放 **[強制阻斷]** ，即可獲得非常好的BUFF覆蓋率<br>(跳躍接近100%，強斷約18/30=60%)<br>**提示**：實際觸發方式只要在空中利用方向鍵移動即可([參考影片](https://www.bilibili.com/video/BV1Gs4y1F7E3/?spm_id_from=333.337.search-card.all.click&vd_source=1bd1868c2bc23b927f9a8e805b4ddadb))|
 |**<font color=green>超能爆發A：壓制</font>**<br>**<font color=blue>超能爆發B：氣魄</font>**<br>**<font color=purple>超能爆發C：決心</font>**|終極短時間爆發型，復活流的極致<br>~~較屬娛樂型，較不建議~~ {% hideInline <img src="https://i.imgur.com/RqkuTkp.png">,?,#FF7242,#fff %}
+|**<font color=blue>跳躍B：鬥志</font>**<br>**<font color=green>強制阻斷A：壓制</font>**<br>**<font color=purple>強制阻斷C：逆襲</font>**|**<font color=red><平衡後推薦></font>由於第 3 顆的持續時間大幅提升且效果提升，因此可以納入考量範圍**<br>**對於相對高戰力的玩家較推薦**<br>由於高戰力造成之後暴傷與基傷的增益量減少，但是增傷仍是相當固定的數值，因此增傷系列能夠提供較穩定的輸出提升。<br>但是第 3 顆由於範圍限制，所以建議確實靠近目標再觸發。以及增傷遞減的關係，若多人配戴此因素會使其效益變低。|
+|**<font color=green>跳躍A：急墜</font>**<br>**<font color=blue>跳躍B：鬥志</font>**<br>**<font color=purple>跳躍C：氣魄</font>**|**<font color=red><平衡後推薦></font>由於持續時間提高讓BUFF能夠不間斷，因此可以納入考量範圍**<br>能夠持續不間斷的組合，對於長時間戰鬥表現非常突出|
+</div>
 
 [官網資料](https://cs.nexon.com/helpBoard/popuphelpview/27112)
 
@@ -283,3 +289,9 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |博士的完美PNA教室(帳號稱號)|成就->作戰區域->高級作戰區域<br>->**通關格莫瑞科學設施成就6階段：<br>通關100場(普通/溫和都算入)**|獲得經驗值+30%<br>**<font color=#ff0000>獲得PNA經驗+30%</font>**|
 |[團隊增益](/datasets/spec/teambuff/)|配置最後一條|**滿180時**：<br>獲得金幣+15%<br>獲得道具+30%<br>獲得經驗值+15%<br>**<font color=#ff0000>獲得PNA經驗+15%</font>**|
 |[寵物](/datasets/spec/pets/)|**<迷你楊秀妍>**|**覺醒時被動**：<br>增加最大生命值2000<br>增加最大魔法值2000<br>物理/魔法防禦穿透率20%<br>**<font color=#d60>追加經驗值20%</font>**<br>**<font color=red>追加PNA經驗值20%</font>**|
+
+<style>
+	.arranged_table table th:nth-of-type(1){
+		width: 25%;
+	}
+</style>

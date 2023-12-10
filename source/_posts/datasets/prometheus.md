@@ -269,7 +269,9 @@ PLV: 220 (史詩240)
 
 ---
 
-> # 火焰的喜劇：飾品
+> # 火焰的喜劇獎勵
+
+- ## 能力飾品
 
 |臉上|臉下|腿部|腰部
 |:-:|:-:|:-:|:-:
@@ -297,9 +299,19 @@ PLV: 220 (史詩240)
 </div>
 </div>
 
+- ## 成就
+|場數|獎勵|
+|:-:|:-:|
+|1| {% inlineImg https://i.imgur.com/eeQVgHU.png 48px %} 吉妲立繪臂章 (3天) |
+|30| {% inlineImg https://i.imgur.com/L0KFH3u.png 48px %} 普羅米修斯立繪臂章 (3天) |
+|60| {% inlineImg https://i.imgur.com/yRs6b4b.png 48px %} x10|
+|90| {% inlineImg https://i.imgur.com/5tkCla1.png 48px %} 銘刻的火焰烙印威嚴 (3天)|
+|120|  {% inlineImg https://i.imgur.com/h7gOKL5.png 48px %} 火神的炙熱腳印 (3天)|
+|150| {% inlineImg https://i.imgur.com/h0nhmhU.png 48px %} x10 |
+
 ---
 
-> # 火焰的終局(大團圓)
+> # 火焰的終局獎勵 (大團圓)
 
 - ## 能力飾品
 
