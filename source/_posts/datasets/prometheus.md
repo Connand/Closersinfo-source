@@ -147,7 +147,7 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 |接收器 L7|22,500,000|**<font color=red>900</font>**|**<font color=red>900</font>**|-|-|450|225|
 {% endhideToggle %}
 
-{% hideToggle 保底計算(未包含製作) %}
+{% hideToggle 保底計算 %}
 
 |方法|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/iRfp4za.png 48px %}|{% inlineImg https://i.imgur.com/5qvueVT.png 48px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|{% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -156,6 +156,7 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 |<font color=blue>兩件模組</font>|7000萬|7000|7000|500|250|900|450|-|
 |接收器保底|2250萬|2250|2250|-|-|450|225|-|
 |**<font color=red>保底總和</font>**|12750萬|12750|12750|750|375|1800|900|-|
+|**<font color=red>包含製作</font>**|16000萬|16000|16000|1500|650|1800|900|-|
 |武器彩罐|200萬|200|200|20|10|20|10|66|
 |模組彩罐|100萬|100|100|10|5|10|5|68|
 |<font color=blue>兩件模組</font>|200萬|200|200|20|10|20|10|136|
@@ -170,6 +171,7 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 |<font color=blue>兩件模組</font>|7000萬|**<font color=red>2800</font>**|**<font color=red>2800</font>**|500|250|900|450|-|
 |接收器保底|2250萬|**<font color=red>900</font>**|**<font color=red>900</font>**|-|-|450|225|-|
 |**<font color=red>保底總和</font>**|12750萬|**<font color=red>5100</font>**|**<font color=red>5100</font>**|750|375|1800|900|-|
+|**<font color=red>包含製作</font>**|16000萬|**<font color=red>6400</font>**|**<font color=red>6400</font>**|1500|650|1800|900|-|
 {% endhideToggle %}
 
 {% note info simple %}
