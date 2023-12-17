@@ -1,17 +1,16 @@
 ---
 title: 史詩裝備掉落紀錄(回歸更新)
 date: 2021-09-07 14:45:59
-updated: 2023-11-25 14:45:59
 tags: 資料紀錄
 category: [遊戲資料,其他]
-cover: https://i.imgur.com/iP8sRLGh.jpg
+cover: https://i.imgur.com/nFooolnh.png
 description: "紀錄那些超級歐洲人"
 ---
 
 > **<div style="text-align:center"><font size=3 color=red>回歸更新，但是僅做計數，不再詳細記錄</font></div>**
 
 # 目前記錄已掉落數量
-**<font size=4 color=#000000>1053件 = 14火焰 + 706野獸 + 260機械 + 73深海</font>**
+**<font size=4 color=#000000>1214件 = 58火焰 + 8232野獸 + 260機械 + 73深海</font>**
 
 **<font size=3 color=red>2023/11/23 22:16 火焰 空氣放大器+追蹤器 一次2顆</font>**
 **<font size=3 color=red>2023/11/23 15:31 【台服第一件】火焰 追蹤器</font>**
@@ -30,10 +29,10 @@ description: "紀錄那些超級歐洲人"
 ---
 
 # <font color=red>火焰</font>史詩裝備相關
-## 掉落數：14
+## 掉落數：58
 |空氣放大器<br><font color=red>空中</font>|增強器<br><font color=red>背擊</font>|追蹤器<br><font color=red>浮空</font>|
 |:-:|:-:|:-:|
-|**3**|**4**|**7**|
+|**21**|**16**|**21**|
 
 ## 裝備說明文
 {% hideToggle 裝備說明文 %}
@@ -51,12 +50,12 @@ description: "紀錄那些超級歐洲人"
 ---
 
 # <font color=red>野獸</font>史詩裝備相關
-## 掉落數：706
+## 掉落數：823
 |種類|繼承者<br><font color=red>貓武</font>|篡奪者<br><font color=red>醜武</font>|審視者<br><font color=red>花武</font>|守護者<br><font color=red>王武</font>|
 |:-:|:-:|:-:|:-:|:-:|
-|物理長劍|**91**|**16**|**17**|**112**|
-|魔法權杖|**62**|**24**|**19**|**114**|
-|雙傷鐮刀|**77**|**18**|**29**|**127**|
+|物理長劍|**104**|**19**|**17**|**129**|
+|魔法權杖|**88**|**26**|**20**|**133**|
+|雙傷鐮刀|**90**|**20**|**31**|**146**|
 
 ## 裝備說明文
 {% hideToggle 裝備說明文 %}
