@@ -141,10 +141,10 @@ description: "Demonic Heartbeat"
 [![](https://i.imgur.com/iLxcVAkh.jpg)](https://i.imgur.com/iLxcVAk.jpg)
 <!-- endtab -->
 <!-- tab J-->
-[![](https://i.imgur.com/hiKDXhXh.jpg)](https://i.imgur.com/hiKDXhX.jpg)
+[![](https://i.imgur.com/4Z4Ho5Zh.jpg)](https://i.imgur.com/4Z4Ho5Z.jpg)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-[![](https://i.imgur.com/4Z4Ho5Zh.jpg)](https://i.imgur.com/4Z4Ho5Z.jpg)
+[![](https://i.imgur.com/hiKDXhXh.jpg)](https://i.imgur.com/hiKDXhX.jpg)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
 [![](https://i.imgur.com/Z7su9wwh.jpg)](https://i.imgur.com/Z7su9ww.jpg)
