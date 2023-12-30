@@ -1,5 +1,5 @@
 ---
-title: 火焰王—普羅米修斯(Prometheus)裝備資訊(建置中)
+title: 火焰王—普羅米修斯(Prometheus)裝備資訊
 date: 2023-07-13 16:09:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
@@ -380,6 +380,19 @@ PLV: 220 (史詩240)
 {% hideToggle 名牌與讀取框預覽 %}
 ![](https://i.imgur.com/vcY5nl0.png)
 {% endhideToggle %}
+
+---
+
+- # 臂章立繪預覽
+
+{% tabs 立繪 %}
+<!-- tab 吉妲-->
+![](https://i.imgur.com/vEUFxy8.png)
+<!-- endtab -->
+<!-- tab 普羅米修斯-->
+![](https://i.imgur.com/NRgOwHC.png)
+<!-- endtab -->
+{% endtabs %}
 
 ---
 

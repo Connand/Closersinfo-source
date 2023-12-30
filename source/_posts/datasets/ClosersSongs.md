@@ -41,10 +41,10 @@ description: "官方發布的各式主題曲"
 | {% btn 'https://youtu.be/J3BqQKb2aQg', 天堂,fas fa-music,outline blue %} | {% btn 'https://youtu.be/A2_RyCKUUx8', Running out,fas fa-music,outline pink %} | {% btn 'https://youtu.be/0KU3LmvCc1A',Shadow,fas fa-music,outline %} | {% btn 'https://youtu.be/RJ9k-1Z8q60',我小小的救贖祈禱,fas fa-music,outline orange %} | {% btn 'https://youtu.be/QJJbQxmFOtE', 孩子,fas fa-music,outline blue %} |
 | {% btn 'https://youtu.be/5CXr51F741A', 楽園,fas fa-music,outline blue %} | {% btn 'https://youtu.be/_pUkoqaZasA', 日語版,fas fa-music,outline pink %} | {% btn 'https://youtu.be/yKvxNTV2Eos',日語版,fas fa-music,outline %} | {% btn 'https://youtu.be/Dwijmjdkm-w',小さな救いへの祈り,fas fa-music,outline orange %} | {% btn 'https://youtu.be/YdLfnof1Z-c',アイ,fas fa-music,outline blue %} |
 ### 主題曲
-| 2017 | 2019 | 2020 | 2021 | 2022 |
-| :--------: | :--------: | :--------: | :--------: | :--------: | 
-| {% btn 'https://youtu.be/jj9pgIUzitw',Close the World,fas fa-music,outline blue %} | {% btn 'https://youtu.be/GGCbVSETqk0', Untouchable,fas fa-music,outline blue %} | {% btn 'https://youtu.be/yAW-k7eNDuQ', We summer,fas fa-music,outline blue %} | {% btn 'https://youtu.be/lxwhsF334eg', ICE CREAM,fas fa-music,outline blue %} | {% btn 'https://youtu.be/VSyNr7H7hCM',Rest in White,fas fa-music,outline blue %} |
-| {% btn 'https://youtu.be/W5P1cWIniUA', Closer To Your Side,fas fa-music,outline blue %} || {% btn 'https://youtu.be/Xv_Q_dQDypI', 日語版,fas fa-music,outline blue %} | {% btn 'https://youtu.be/IYI2xBhZJHk', We Winter,fas fa-music,outline blue %} | {% btn 'https://youtu.be/K01FcoQ6NMU', Be yourself,fas fa-music,outline blue %} |
+| 2017 | 2019 | 2020 | 2021 | 2022 | 2023 |
+| :--------: | :--------: | :--------: | :--------: | :--------: |  :--------: | 
+| {% btn 'https://youtu.be/jj9pgIUzitw',Close the World,fas fa-music,outline blue %} | {% btn 'https://youtu.be/GGCbVSETqk0', Untouchable,fas fa-music,outline blue %} | {% btn 'https://youtu.be/yAW-k7eNDuQ', We summer,fas fa-music,outline blue %} | {% btn 'https://youtu.be/lxwhsF334eg', ICE CREAM,fas fa-music,outline blue %} | {% btn 'https://youtu.be/VSyNr7H7hCM',Rest in White,fas fa-music,outline blue %} | {% btn 'https://youtu.be/w8uFYwBpkQ8',Catch Your Heart,fas fa-music,outline red %} |
+| {% btn 'https://youtu.be/W5P1cWIniUA', Closer To Your Side,fas fa-music,outline blue %} || {% btn 'https://youtu.be/Xv_Q_dQDypI', 日語版,fas fa-music,outline blue %} | {% btn 'https://youtu.be/IYI2xBhZJHk', We Winter,fas fa-music,outline blue %} | {% btn 'https://youtu.be/K01FcoQ6NMU', Be yourself,fas fa-music,outline blue %} | {% btn 'https://youtu.be/YDcxbljcbfA',Flames of War,fas fa-music,outline red %} |
 ||||{% btn 'https://youtu.be/0MDtYNMZAQw', Rushing In,fas fa-music,outline blue %}| {% btn 'https://youtu.be/67-8B4OoaiE', Paradise,fas fa-music,outline blue %}
 ||||| {% btn 'https://youtu.be/hAAyZAUTj0I', アイスクリーム,fas fa-music,outline blue %}
 
@@ -142,5 +142,9 @@ description: "官方發布的各式主題曲"
 2023/05：[Closers RT：New Order結尾曲 - Closer](https://youtu.be/Wfi_SMMKvNY)
 
 2023/05/26：[日版愛里主題曲 -  i (アイ)](https://youtu.be/YdLfnof1Z-c)
+
+2023/12/13：[2023冬季更新主題曲 -  Catch Your Heart](https://youtu.be/w8uFYwBpkQ8)
+
+2023/12/27：[第四季主線主題曲 -  Flames of War](https://youtu.be/YDcxbljcbfA)
 
 ---

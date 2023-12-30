@@ -184,7 +184,7 @@ description: "2018泳裝系列"
 <!-- tab 白(Bai)-->
 [![](https://i.imgur.com/jJclC4ah.jpg)](https://i.imgur.com/jJclC4a.jpg)
 [![](https://i.imgur.com/DaHcAbkh.jpg)](https://i.imgur.com/DaHcAbk.jpg)
-[![](https://i.imgur.com/HJr3s5Mh.png)](https://i.imgur.com/HJr3s5M.png)
+[![](https://i.imgur.com/CuU1Mdeh.png)](https://i.imgur.com/CuU1Mde.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -258,8 +258,8 @@ description: "2018泳裝系列"
 <!-- endtab -->
 <!-- tab 白(Bai)-->
 [![](https://i.imgur.com/DJf9f3Ph.jpg)](https://i.imgur.com/DJf9f3P.jpg)
-[![](https://i.imgur.com/cJBEeQ4h.jpg)](https://i.imgur.com/cJBEeQ4.jpg)
-[![](https://i.imgur.com/CuU1Mdeh.png)](https://i.imgur.com/CuU1Mde.png)
+[![](https://i.imgur.com/1Pvt36Dh.jpg)](https://i.imgur.com/1Pvt36D.jpg)
+[![](https://i.imgur.com/HJr3s5Mh.png)](https://i.imgur.com/HJr3s5M.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

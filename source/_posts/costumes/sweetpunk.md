@@ -22,6 +22,7 @@ tags:
     - 徹斯
     - 銀河
     - 露西
+    - 愛里
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/0E4ZsBah.jpg
 description: "Sweety Punk"
@@ -101,6 +102,9 @@ description: "Sweety Punk"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/0fHvjjHh.jpg)](https://i.imgur.com/0fHvjjH.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/mWj6jPjh.jpg)](https://i.imgur.com/mWj6jPj.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -162,6 +166,9 @@ description: "Sweety Punk"
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/abuBSqZh.jpg)](https://i.imgur.com/abuBSqZ.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/YubEPqJh.jpg)](https://i.imgur.com/YubEPqJ.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
