@@ -31,11 +31,11 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 **新材料**
 + {% inlineImg https://i.imgur.com/NHsNGzN.png 48px %} 新首爾災難分析檔案
 	> 透過**Flame Wave**獲得
-	> **4人副本固定獲得8個**
+	> **4人副本固定獲得 8 個**
 	> <font color=#ff0000> **不可共倉、不可交易** </font>
 + {% inlineImg https://i.imgur.com/0QwNmJf.png 48px %} 新首爾受害分析報告
 	> 透過**Flame Wave**獲得
-	> **單人副本有機率刷出 2張 或 12張 的獎勵**
+	> **單人副本有機率刷出 2 張或 12 張的獎勵**
 	> <font color=#ff0000> **可共倉、可交易** </font>
 
 
@@ -45,12 +45,10 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 |副本|等級|建議戰力|裝備等級|消耗疲勞|入場限制|人數|復活限制
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Gate Wave(小本)|90|2000~4000萬| 170~190 | 10 |角色3次<br>(每日補充3次、最多累積6次)|限制1人|1 次|
-|Gate Wave(4人副本)|90|2700萬| 177 | 10 |角色1次|建議4人|1 次|
-|Night Maze|92|浮動戰力<br>**<font color=#ff0000>2000~4000萬</font>**| - | 10 | - |限制1人|<font color=red>0 次</font>|
-|**<font color=#f00>征服項目</font>**|92|**<font color=#ff0000>2200~9000萬</font>**| - | 10 | {%inlineImg https://i.imgur.com/ZauopIm.png 48px%}[入場票1張](#Conquest-Program) |限制1人|2 次|
+|Flame Wave(單人)|90|3000~4000萬| 180~190 | 10 |角色3次<br>(每日補充3次、最多累積6次)|限制1人|1 次|
+|Flame Wave(四人)|90|3000萬| 180 | 10 |角色1次|建議4人|1 次|
 
-{% hideToggle <font color=#ff0000><b>16村副本詳細內容</b></font> %}
+{% hideToggle <font color=#ff0000><b>17村副本詳細內容其實與16村的Gate Wave類似 (<del>所以裡面的東西暫時懶得改</del>)</b></font> %}
 {% tabs 副本資訊 %}
 <!-- tab Gate Wave(單人)-->
 + **難度分為三種，獎勵也會隨難度增加有不同**
@@ -140,30 +138,23 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 # 裝備製作
 
-替換15村
-模組一樣有4種能力供選擇： 速度、超能、致命、漂浮
+替換16村與野獸王護盾
+**<font color=red>護盾總共有 9 種供選擇並替換掉 6 格護盾格</font>**
 
 |物理|魔法|混合|
 |:-:|:-:|:-:|
-|{% inlineImg https://i.imgur.com/rCcZfdZ.png 48px %} >>{% inlineImg https://i.imgur.com/JKsWa4G.png 48px %}|{% inlineImg https://i.imgur.com/QnjyTVK.png 48px %} >>{% inlineImg https://i.imgur.com/eU2ditv.png 48px %}|{% inlineImg https://i.imgur.com/nmwHa3X.png 48px %} >>{% inlineImg https://i.imgur.com/jpHeRLl.png 48px %}|
+|{% inlineImg https://i.imgur.com/JKsWa4G.png 48px %} >>{% inlineImg https://i.imgur.com/GiTSth0.png 48px %}|{% inlineImg https://i.imgur.com/eU2ditv.png 48px %} >>{% inlineImg https://i.imgur.com/eMSyWMw.png 48px %}|{% inlineImg https://i.imgur.com/jpHeRLl.png 48px %} >>{% inlineImg https://i.imgur.com/ZW2BfFm.png 48px %}|
 
-|戒指|項鍊|玩偶|
-|:-:|:-:|:-:|
-|{% inlineImg https://i.imgur.com/cBrnZOc.png 48px %} >>{% inlineImg https://i.imgur.com/k2OnMwe.png 48px %}|{% inlineImg https://i.imgur.com/y5TJ6p5.png 48px %} >>{% inlineImg https://i.imgur.com/WcDk9sk.png 48px %}|{% inlineImg https://i.imgur.com/wc2zlH4.png 48px %} >>{% inlineImg https://i.imgur.com/xlVjB6s.png 48px %}|
+|大門守護者、野獸王|鏡中次元、獨眼傑克、淨化者|
+|:-:|:-:|
+|{% inlineImg https://i.imgur.com/k2OnMwe.png 48px %}{% inlineImg https://i.imgur.com/WcDk9sk.png 48px %}{% inlineImg https://i.imgur.com/xlVjB6s.png 48px %}<br>{% inlineImg https://i.imgur.com/ohOSDmn.png 48px %}{% inlineImg https://i.imgur.com/OWE5NCc.png 48px %}{% inlineImg https://i.imgur.com/zQbL61T.png 48px %} | {% inlineImg https://i.imgur.com/fqgh2Mw.png 48px %}{% inlineImg https://i.imgur.com/lEVtkuZ.png 48px %}{% inlineImg https://i.imgur.com/hi2OEOG.png 48px %}<br>{% inlineImg https://i.imgur.com/ERRbkyR.png 48px %}{% inlineImg https://i.imgur.com/va1851F.png 48px %}{% inlineImg https://i.imgur.com/iZl5aGk.png 48px %}<br>{% inlineImg https://i.imgur.com/o1Bhosg.png 48px %}{% inlineImg https://i.imgur.com/79JJO90.png 48px %}{% inlineImg https://i.imgur.com/NcL6bIz.png 48px %}|
 
 ### 製作需求
 
-|裝備| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} |  {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} |
+|裝備| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/NHsNGzN.png 48px %} |  {% inlineImg https://i.imgur.com/0QwNmJf.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|模組|10,000,000|40 個|200 個|1,000 個|1,000 個|
-|護盾|5,000,000|20 個|100 個|500 個|500 個|
-
-{% hideToggle 2023/10/19韓版調整後 %}
-|裝備| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} |  {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|模組|10,000,000|40 個|200 個|**<font color=red>400 個</font>**|**<font color=red>400 個</font>**|
-|護盾|5,000,000|20 個|100 個|**<font color=red>200 個</font>**|**<font color=red>200 個</font>**|
-{% endhideToggle %}
+|模組|8,000,000|32 個|96 個|400 個|400 個|
+|護盾|4,000,000|16 個|48 個|200 個|200 個|
 
 <p>　</p>
 
@@ -172,85 +163,40 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 # 超越材料
 
-{% tabs 大門守衛者超越 %}
+**目前僅需超越一次，未來可能會再擴增超越**
 
-<!-- tab 賭狗-->
-|| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|調整前|500,000|50 個|30 個|2 個|10 個|
-|**<font color=red>2023/10/19韓版調整後</font>**|500,000|**<font color=red>20 個</font>**|**<font color=red>20 個</font>**|2 個|10 個|
-<!-- endtab -->
-
-<!-- tab 保底法-->
-|階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|模組L1|12,500,000|1250 個|1250 個|50 個|250 個|
-|模組L2|16,700,000|1670 個|1670 個|67 個|330 個|
-|<font color=red>小結</font>|29,200,000|2920 個|2920 個|117 個|580 個|
-|護盾L1|6,250,000|625 個|625 個|25 個|125 個|
-|護盾L2|8,300,000|830 個|830 個|33 個|170 個|
-|<font color=red>小結</font>|14,550,000|1455 個|1455 個|58 個|295 個|
-
-{% hideToggle 2023/10/19韓版調整後 %}
-|階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|模組L1|12,500,000|**<font color=red>500 個</font>**|**<font color=red>500 個</font>**|50 個|250 個|
-|模組L2|16,700,000|**<font color=red>670 個</font>**|**<font color=red>670 個</font>**|67 個|330 個|
-|<font color=red>小結</font>|29,200,000|**<font color=red>1170 個</font>**|**<font color=red>1170 個</font>**|117 個|580 個|
-|護盾L1|6,250,000|**<font color=red>250 個</font>**|**<font color=red>250 個</font>**|25 個|125 個|
-|護盾L2|8,300,000|**<font color=red>330 個</font>**|**<font color=red>330 個</font>**|33 個|170 個|
-|<font color=red>小結</font>|14,550,000|**<font color=red>580 個</font>**|**<font color=red>580 個</font>**|58 個|295 個|
-{% endhideToggle %}
-<!-- endtab -->
-
-<!-- tab 彩罐法-->
-
-|階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
+|方法| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/NHsNGzN.png 48px %} | {% inlineImg https://i.imgur.com/0QwNmJf.png 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|模組L1|500,000|28 個|50 個|50 個|2 個|10 個|
-|模組L2|500,000|37 個|50 個|50 個|2 個|10 個|
-|<font color=red>小結</font>|1,000,000|65 個|100 個|100 個|4 個|20 個|
-|護盾L1|500,000|14 個|50 個|50 個|2 個|10 個|
-|護盾L2|500,000|18 個|50 個|50 個|2 個|10 個|
-|<font color=red>小結</font>|1,000,000|32 個|100 個|100 個|4 個|20 個|
-<!-- endtab -->
+|升級|500,000|25 個|25 個|2 個|6 個| - |
+|模組保底|12,000,000|600 個|600 個|48 個|144 個|
+|護盾保底|6,000,000|300 個|300 個|24 個|72 個| - |
+|模組彩罐|500,000|25 個|25 個|2 個|6 個|24 個|
+|護盾彩罐|500,000|25 個|25 個|2 個|6 個|12 個|
+
+{% tabs 大門守衛者超越 %}
 
 <!-- tab 農保底總和-->
 
-**<font color=#f00 size=4>約 37 場4人版Gate Wave(以{% inlineImg https://i.imgur.com/55LncBB.png 32px %}數量計算)</font>**
-**<font color=#f00 size=4>(含製作則 49 場)</font>**
+**<font color=#f00 size=4>約 40 場4人版Flame Wave(以{% inlineImg https://i.imgur.com/NHsNGzN.png 32px %}數量計算)</font>**
 
-|| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
+|方法| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/NHsNGzN.png 48px %} | {% inlineImg https://i.imgur.com/0QwNmJf.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|模組|29,200,000|2920 個|2920 個|117 個|580 個|
-|護盾|14,550,000|1455 個|1455 個|58 個|295 個|
-|護盾3件|43,650,000|4365 個|4365 個|174 個|885 個|
-|**總和**|72,850,000|7285 個|7285 個|291 個|1465 個|
-|**<font color=#f00>含製作</font>**|97,850,000|9785 個|9785 個|391 個|1965 個|
-
-{% hideToggle 2023/10/19韓版調整後 %}
-|| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|模組|29,200,000|**<font color=red>1170 個</font>**|**<font color=red>1170 個</font>**|117 個|580 個|
-|護盾|14,550,000|**<font color=red>580 個</font>**|**<font color=red>580 個</font>**|58 個|295 個|
-|護盾3件|43,650,000|**<font color=red>1740 個</font>**|**<font color=red>1740 個</font>**|174 個|885 個|
-|**總和**|72,850,000|**<font color=red>2910 個</font>**|**<font color=red>2910 個</font>**|291 個|1465 個|
-|**<font color=#f00>含製作</font>**|97,850,000|**<font color=red>3910 個</font>**|**<font color=red>3910 個</font>**|391 個|1965 個|
-{% endhideToggle %}
+|模組保底|20,000,000|1000 個|1000 個|80 個|240 個|
+|護盾保底|10,000,000|500 個|500 個|40 個|120 個|
+|護盾六件|60,000,000|3000 個|3000 個|240 個|720 個|
+|**總和**|80,000,000|4000 個|4000 個|320 個|960 個|
 <!-- endtab -->
 
 <!-- tab 彩罐法總和-->
 
-**<font color=#f00 size=4>約 2 場4人版Gate Wave(以{% inlineImg https://i.imgur.com/55LncBB.png 32px %}數量計算)</font>**
-**<font color=#f00 size=4>(含製作則 15 場)</font>**
+**<font color=#f00 size=4>約 18 場4人版Flame Wave(以{% inlineImg https://i.imgur.com/NHsNGzN.png 32px %}數量計算)</font>**
 
-|| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
+|方法| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/NHsNGzN.png 48px %} | {% inlineImg https://i.imgur.com/0QwNmJf.png 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|模組|1,000,000|65 個|100 個|100 個|4 個|20 個|
-|護盾|1,000,000|32 個|100 個|100 個|4 個|20 個|
-|護盾3件|3,000,000|96 個|300 個|300 個|12 個|60 個|
-|**總和**|4,000,000|161 個|400 個|400 個|16 個|80 個|
-|**<font color=#f00>含製作</font>**|29,000,000|161 個|2900 個|2900 個|116 個|580 個|
+|模組彩罐|8,500,000|425 個|425 個|34 個|102 個|24 個|
+|護盾彩罐|4,500,000|225 個|225 個|18 個|54 個|12 個|
+|護盾六件|27,000,000|1350 個|1350 個|108 個|325 個|72 個|
+|**總和**|35,500,000|1775 個|1775 個|142 個|426 個|96 個|
 <!-- endtab -->
 {% endtabs %}
 

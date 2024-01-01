@@ -33,12 +33,13 @@ description: "Blooming Romance"
 ---
 ## Blooming Romance
 
-**注意**：立繪僅分一般和特殊，模組分2型
+**注意**：立繪僅分一般和特殊，模組分3型
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉中 green %}、{% label 特效 green %}
 
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [宣傳頁面](https://closers.nexon.com/Events2023/0420/Costume)
+[台版公告](https://www.closers.com.tw/news/KFpL5Z344)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_BloomingRomance_230420_99249F6BBD3CE197.zip)
 
 ---
@@ -171,6 +172,71 @@ description: "Blooming Romance"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/SoI7eJYh.png)](https://i.imgur.com/SoI7eJY.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+<!-- tab 模組圖-->
+{% tabs 模組 %}
+<!-- tab 李世河(Seha)-->
+[![](https://i.imgur.com/4BJkvyuh.jpg)](https://i.imgur.com/4BJkvyu.jpg)
+<!-- endtab -->
+<!-- tab 李雪菲(Seulbi)-->
+[![](https://i.imgur.com/GHW09Eah.jpg)](https://i.imgur.com/GHW09Ea.jpg)
+<!-- endtab -->
+<!-- tab 徐維莉(Yuri)-->
+[![](https://i.imgur.com/XcKUyyQh.jpg)](https://i.imgur.com/XcKUyyQ.jpg)
+<!-- endtab -->
+<!-- tab J-->
+[![](https://i.imgur.com/Ud7wjJGh.jpg)](https://i.imgur.com/Ud7wjJG.jpg)
+<!-- endtab -->
+<!-- tab 米斯特汀(Tein)-->
+[![](https://i.imgur.com/UKgcBIyh.jpg)](https://i.imgur.com/UKgcBIy.jpg)
+<!-- endtab -->
+<!-- tab 納塔(Nata)-->
+[![](https://i.imgur.com/Jbf2uwOh.jpg)](https://i.imgur.com/Jbf2uwO.jpg)
+<!-- endtab -->
+<!-- tab 蕾比雅(Levia)-->
+[![](https://i.imgur.com/lTLuZZkh.jpg)](https://i.imgur.com/lTLuZZk.jpg)
+<!-- endtab -->
+<!-- tab 哈比(Harpy)-->
+[![](https://i.imgur.com/1p0y0QSh.jpg)](https://i.imgur.com/1p0y0QS.jpg)
+<!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+[![](https://i.imgur.com/bENquMxh.jpg)](https://i.imgur.com/bENquMx.jpg)
+<!-- endtab -->
+<!-- tab 薇歐莉特(Violet)-->
+[![](https://i.imgur.com/0C2J0U7h.jpg)](https://i.imgur.com/0C2J0U7.jpg)
+<!-- endtab -->
+<!-- tab 沃爾夫姜(Wolfgang)-->
+[![](https://i.imgur.com/GW2tOrDh.jpg)](https://i.imgur.com/GW2tOrD.jpg)
+<!-- endtab -->
+<!-- tab 露娜(Luna)-->
+[![](https://i.imgur.com/QeileFJh.jpg)](https://i.imgur.com/QeileFJ.jpg)
+<!-- endtab -->
+<!-- tab 索瑪(Soma)-->
+[![](https://i.imgur.com/dUULdrvh.jpg)](https://i.imgur.com/dUULdrv.jpg)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+[![](https://i.imgur.com/ohSGT87h.jpg)](https://i.imgur.com/ohSGT87.jpg)
+<!-- endtab -->
+<!-- tab 賽特(Seth)-->
+[![](https://i.imgur.com/LYJ1Tfxh.jpg)](https://i.imgur.com/LYJ1Tfx.jpg)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/Wp9fE68h.jpg)](https://i.imgur.com/Wp9fE68.jpg)
+<!-- endtab -->
+<!-- tab 徹斯(Chulsoo)-->
+[![](https://i.imgur.com/8XsgGjjh.jpg)](https://i.imgur.com/8XsgGjj.jpg)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/UvM8fInh.jpg)](https://i.imgur.com/UvM8fIn.jpg)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/h0t4rC2h.jpg)](https://i.imgur.com/h0t4rC2.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/ZEvNIxjh.jpg)](https://i.imgur.com/ZEvNIxj.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
