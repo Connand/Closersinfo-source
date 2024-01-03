@@ -43,9 +43,9 @@ description: "官方發布的各式主題曲"
 ### 主題曲
 | 2017 | 2019 | 2020 | 2021 | 2022 | 2023 |
 | :--------: | :--------: | :--------: | :--------: | :--------: |  :--------: | 
-| {% btn 'https://youtu.be/jj9pgIUzitw',Close the World,fas fa-music,outline blue %} | {% btn 'https://youtu.be/GGCbVSETqk0', Untouchable,fas fa-music,outline blue %} | {% btn 'https://youtu.be/yAW-k7eNDuQ', We summer,fas fa-music,outline blue %} | {% btn 'https://youtu.be/lxwhsF334eg', ICE CREAM,fas fa-music,outline blue %} | {% btn 'https://youtu.be/VSyNr7H7hCM',Rest in White,fas fa-music,outline blue %} | {% btn 'https://youtu.be/w8uFYwBpkQ8',Catch Your Heart,fas fa-music,outline red %} |
-| {% btn 'https://youtu.be/W5P1cWIniUA', Closer To Your Side,fas fa-music,outline blue %} || {% btn 'https://youtu.be/Xv_Q_dQDypI', 日語版,fas fa-music,outline blue %} | {% btn 'https://youtu.be/IYI2xBhZJHk', We Winter,fas fa-music,outline blue %} | {% btn 'https://youtu.be/K01FcoQ6NMU', Be yourself,fas fa-music,outline blue %} | {% btn 'https://youtu.be/YDcxbljcbfA',Flames of War,fas fa-music,outline red %} |
-||||{% btn 'https://youtu.be/0MDtYNMZAQw', Rushing In,fas fa-music,outline blue %}| {% btn 'https://youtu.be/67-8B4OoaiE', Paradise,fas fa-music,outline blue %}
+| {% btn 'https://youtu.be/jj9pgIUzitw',Close the World,fas fa-music,outline blue %} | {% btn 'https://youtu.be/GGCbVSETqk0', Untouchable,fas fa-music,outline blue %} | {% btn 'https://youtu.be/yAW-k7eNDuQ', We summer,fas fa-music,outline blue %} | {% btn 'https://youtu.be/lxwhsF334eg', ICE CREAM,fas fa-music,outline blue %} | {% btn 'https://youtu.be/VSyNr7H7hCM',Rest in White,fas fa-music,outline blue %} | {% btn 'https://youtu.be/DAwVVeoZdRc',Dance Now,fas fa-music,outline red %} |
+| {% btn 'https://youtu.be/W5P1cWIniUA', Closer To Your Side,fas fa-music,outline blue %} || {% btn 'https://youtu.be/Xv_Q_dQDypI', 日語版,fas fa-music,outline blue %} | {% btn 'https://youtu.be/IYI2xBhZJHk', We Winter,fas fa-music,outline blue %} | {% btn 'https://youtu.be/K01FcoQ6NMU', Be yourself,fas fa-music,outline blue %} | {% btn 'https://youtu.be/w8uFYwBpkQ8',Catch Your Heart,fas fa-music,outline red %} |
+||||{% btn 'https://youtu.be/0MDtYNMZAQw', Rushing In,fas fa-music,outline blue %}| {% btn 'https://youtu.be/67-8B4OoaiE', Paradise,fas fa-music,outline blue %} | {% btn 'https://youtu.be/YDcxbljcbfA',Flames of War,fas fa-music,outline red %} |
 ||||| {% btn 'https://youtu.be/hAAyZAUTj0I', アイスクリーム,fas fa-music,outline blue %}
 
 # 發布時間紀錄
@@ -142,6 +142,8 @@ description: "官方發布的各式主題曲"
 2023/05：[Closers RT：New Order結尾曲 - Closer](https://youtu.be/Wfi_SMMKvNY)
 
 2023/05/26：[日版愛里主題曲 -  i (アイ)](https://youtu.be/YdLfnof1Z-c)
+
+2023/07/12：[2023泳裝更新主題曲 -  Dance Now](https://youtu.be/DAwVVeoZdRc)
 
 2023/12/13：[2023冬季更新主題曲 -  Catch Your Heart](https://youtu.be/w8uFYwBpkQ8)
 

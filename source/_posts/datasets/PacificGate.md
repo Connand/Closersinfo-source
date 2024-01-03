@@ -145,7 +145,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |:-:|:-:|:-:|
 |{% inlineImg https://i.imgur.com/JKsWa4G.png 48px %} >>{% inlineImg https://i.imgur.com/GiTSth0.png 48px %}|{% inlineImg https://i.imgur.com/eU2ditv.png 48px %} >>{% inlineImg https://i.imgur.com/eMSyWMw.png 48px %}|{% inlineImg https://i.imgur.com/jpHeRLl.png 48px %} >>{% inlineImg https://i.imgur.com/ZW2BfFm.png 48px %}|
 
-|大門守護者、野獸王|鏡中次元、獨眼傑克、淨化者|
+|舊護盾：大門守護者、野獸王|新護盾：鏡中次元、獨眼傑克、淨化者|
 |:-:|:-:|
 |{% inlineImg https://i.imgur.com/k2OnMwe.png 48px %}{% inlineImg https://i.imgur.com/WcDk9sk.png 48px %}{% inlineImg https://i.imgur.com/xlVjB6s.png 48px %}<br>{% inlineImg https://i.imgur.com/ohOSDmn.png 48px %}{% inlineImg https://i.imgur.com/OWE5NCc.png 48px %}{% inlineImg https://i.imgur.com/zQbL61T.png 48px %} | {% inlineImg https://i.imgur.com/fqgh2Mw.png 48px %}{% inlineImg https://i.imgur.com/lEVtkuZ.png 48px %}{% inlineImg https://i.imgur.com/hi2OEOG.png 48px %}<br>{% inlineImg https://i.imgur.com/ERRbkyR.png 48px %}{% inlineImg https://i.imgur.com/va1851F.png 48px %}{% inlineImg https://i.imgur.com/iZl5aGk.png 48px %}<br>{% inlineImg https://i.imgur.com/o1Bhosg.png 48px %}{% inlineImg https://i.imgur.com/79JJO90.png 48px %}{% inlineImg https://i.imgur.com/NcL6bIz.png 48px %}|
 
@@ -207,76 +207,65 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 {% tabs 大門守衛者裝備能力 %}
 <!-- tab 模組-->
 
+{% inlineImg https://i.imgur.com/GiTSth0.png 48px %}{% inlineImg https://i.imgur.com/eMSyWMw.png 48px %}{% inlineImg https://i.imgur.com/ZW2BfFm.png 48px %}
 
-|詞條 | 白夜L2 | L0 | L1 | L2 |
+|詞條 | 大門L2 | L0 | L1 | L2 |
 |:-:|:-:|:-:|:-:|:-:|
-|攻擊力(單/混)|+1150/981|+1310/+1120 | +1440/+1230 | +1600/+1360 |
-|爆擊傷害|+163%/+138%|+185%/+160%| +200%/+170% | +225%/+195% |
-|3條件爆擊傷害|+25%|+30%| +35% | +40% |
-|**速度** 攻擊/移動速度|+13%|+15%|+17%|+20%|
-|**超能** <br>超能凝聚速度 / 覺醒時間 / 覺醒傷害 |<br>+19% / +19秒 / +25%|<br>+21% / +21秒 / +27% |<br>+23% / +23秒 / +29% |<br>+25% / +25秒 / +33%|
-|**致命** 物理/魔法爆擊傷害 |+28%|+30%|+32%|+36%|
-|**漂浮** 掉寶/金幣 |+19%|+21%|+23%|+25%|
+|攻擊力(單/混)| +1600 / +1360 | +1900 / +1700 | +2100 / +1890 |  |
+|爆擊傷害| +225% / +195% | +285% / +257%| +315% / +284% |  |
+|3條件爆擊傷害| +40% |+38%| +42% |  |
+|**速度** 攻擊/移動速度| +20% | | | |
+|**超能** <br>超能凝聚速度 / 覺醒時間 / 覺醒傷害 |<br>+25% / +25秒 / +33% | | | |
+|**致命** 物理/魔法爆擊傷害 |+36%| | | |
+|**漂浮** 掉寶/金幣 |+25%| | | |
 
 <!-- endtab -->
-<!-- tab 戒指-->
+<!-- tab <b>L0護盾</b>-->
 
-|詞條|白夜L2| L0 | L1 | L2 |
++ {% inlineImg https://i.imgur.com/fqgh2Mw.png 48px %}{% inlineImg https://i.imgur.com/lEVtkuZ.png 48px %}{% inlineImg https://i.imgur.com/hi2OEOG.png 48px %}**鏡中次元護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv+1</font>**
++ {% inlineImg https://i.imgur.com/ERRbkyR.png 48px %}{% inlineImg https://i.imgur.com/va1851F.png 48px %}{% inlineImg https://i.imgur.com/iZl5aGk.png 48px %}**獨眼傑克護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv+2</font>**
+
+|裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP |
 |:-:|:-:|:-:|:-:|:-:|
-|總攻擊力|+10%/+7%| +11%/+9%| +12%/+10% | +13%/+11% |
-|爆擊傷害|+115%/+100%| +130%/+113%| +145%/+126% | +160%/+139% |
-|最大HP|+2475|+2722| +2995 | +3400 |
+|鏡中次元/獨眼傑克環| +1700 / +1530 | +17% / +15.3% | **(1)** +221% / +199% | +3400 |
+|鏡中次元/獨眼傑克項鍊| +680 / +612 | +17% / +15.3% | **(2)** +102% | +3400 |
+|鏡中次元/獨眼傑克娃娃| +3910 / +3519 | - | **(1)** +102% / +92%<br>**(2)** +51% | +3400 |
+
++ {% inlineImg https://i.imgur.com/NcL6bIz.png 48px %}**淨化者娃娃特殊效果：<font color=red>對所有類型增加傷害 +51%</font>**
+{% inlineImg https://i.imgur.com/o1Bhosg.png 48px %}{% inlineImg https://i.imgur.com/79JJO90.png 48px %}
+
+|裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP | 攻擊速度|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|淨化者環| +2890 / +2601 | - | **(1)** +306% / +275% | +3400 | +8.5% |
+|淨化者項鍊| +1870 / +1683 | - | **(2)** +136% | +3400 | +8.5% |
+|**<font color=red>淨化者娃娃</font>**| +1700 / +1530 | +34% / +30.6% | - | - | - |
 
 <!-- endtab -->
-<!-- tab 項鍊-->
+<!-- tab <b>L1護盾</b>-->
 
-|詞條|白夜L2| L0 | L1 | L2 |
++ {% inlineImg https://i.imgur.com/fqgh2Mw.png 48px %}{% inlineImg https://i.imgur.com/lEVtkuZ.png 48px %}{% inlineImg https://i.imgur.com/hi2OEOG.png 48px %}**鏡中次元護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv+1</font>**
++ {% inlineImg https://i.imgur.com/ERRbkyR.png 48px %}{% inlineImg https://i.imgur.com/va1851F.png 48px %}{% inlineImg https://i.imgur.com/iZl5aGk.png 48px %}**獨眼傑克護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv+2</font>**
+
+|裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP |
 |:-:|:-:|:-:|:-:|:-:|
-|攻擊力|+1650/+1403|+1815/+1543| +1996/+1697 | +2255/+1917 |
-|爆擊傷害|+16%/+13%|+17%/+14%| +18%/+15% | +20%/+17% |
-|3條件爆擊傷害|+83%|+91%| +100% | +113% |
-|最大HP|+2475|+2722| +2995 | +3385 |
+|超：鏡中次元/獨眼傑克環| +1900 / +1710 | +19% / +17.1% | **(1)** +247% / +222% | +3800 |
+|超：鏡中次元/獨眼傑克項鍊| +760 / +684 | +19% / +17.1% | **(2)** +114% | +3800 |
+|超：鏡中次元/獨眼傑克娃娃| +4370 / +3933 | - | **(1)** +114% / +103%<br>**(2)** +57% | +3800 |
 
-<!-- endtab -->
-<!-- tab 玩偶-->
++ {% inlineImg https://i.imgur.com/NcL6bIz.png 48px %}**淨化者娃娃特殊效果：<font color=red>對所有類型增加傷害 +57% </font>**
+{% inlineImg https://i.imgur.com/o1Bhosg.png 48px %}{% inlineImg https://i.imgur.com/79JJO90.png 48px %}
 
-|詞條|白夜L2| L0 | L1 | L2 |
-|:-:|:-:|:-:|:-:|:-:|
-|攻擊力|+990/+840|+1089/+924| +1198/+1016 | +1353/+1150 |
-|爆擊傷害|+33%/+28%|+36%/+30%| +39%/+33% | +44%/+37% |
-|3條件傷害|+66%|+72%| +79% | +90% |
+|裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP | 攻擊速度|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|超：淨化者環| +3230 / +2907 | - | **(1)** +342% / +308% | +3800 | +9.5% |
+|超：淨化者項鍊| +2090 / +1881 | - | **(2)** +152% | +3800 | +9.5% |
+|**<font color=red>超：淨化者娃娃</font>**| +1900 / +1710 | +38% / +34.2% | - | - | - |
 
-<!-- endtab -->
-<!-- tab <b>套裝效果</b>-->
-
-+ 兩件套裝效果
-
-|詞條|白夜L2| L0 | L1 | L2 |
-|:-:|:-:|:-:|:-:|:-:|
-|攻擊力|+825/+700| +907/+770| +997/+847 | +1126/+957 |
-|爆擊率|+66%| +72%| +79% | +90% |
-|3條件爆擊傷害|+50%|+55%| +60% | +67% |
-|覺醒傷害|+50%|+55%| +60% | +67% |
-
-+ 三件套裝效果
-
-|詞條|白夜L2|  L0 | L1 | L2 |
-|:-:|:-:|:-:|:-:|:-:|
-|總攻擊力|+16%/+14%|+18%/+15%| +20%/+16.5% | +23%/+18.6% |
-|爆擊傷害|+83%/+71%|+91%/+78%| +100%/+85% | +113%/+96% |
-|攻擊速度|+8.3%|+9.1%| +10% | +11.3% |
-
-特殊效果：**被攻擊時,機率獲得【警覺心】,持續3秒**
-**【警覺心】**
-+ 三件套時可發動
-+ 此效果每0.5秒可發動
-+ 雙防+500
-+ 強斷CD-5s
 <!-- endtab -->
 {% endtabs %}
 
 ---
-# 飾品與連身
+# 飾品與連身 (目前尚無)
 ## 飾品部位(三件套)
 
 |夢幻潛行者的護目鏡<br><font color=#f00>臉上</font>|夢幻潛行者的技術臂袋<br><font color=#f00>手臂</font>|夢幻潛行者的科技腰刀<br><font color=#f00>腰部</font>
@@ -305,7 +294,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 + 攻擊速度+3%
 
 ---
-# 稱號
+# 稱號 (目前尚無)
 + 透過掉落、購買、成就獲得
 
 || {% inlineImg https://i.imgur.com/to0HmOD.png 64px %}  | {% inlineImg https://i.imgur.com/ZMtHyR8.png 64px %}  | {% inlineImg https://i.imgur.com/jhhaZ4o.png 64px %}  | {% inlineImg https://i.imgur.com/jhhaZ4o.png 64px %}  |  | 
@@ -315,7 +304,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |素質|總物攻/魔攻+6%<br>物理/魔法爆擊傷害+66%<br>攻速+6%<br>超能爆發狀態增傷+66%| 總物攻/魔攻+5%<br>物理/魔法爆擊傷害+60%<br>攻速+4%<br>超能爆發狀態增傷+60% |總物攻/魔攻+4%<br>物理/魔法爆擊傷害+44%<br>攻速+4%<br>超能爆發狀態增傷+44%|HP+2500<br>總物攻/魔攻+4%<br>物理/魔法爆擊傷害+25%<br>超能爆發狀態增傷+70%|追加金幣20%<br>追加道具掉落率20%<br>追加經驗值20%<br>追加PNA經驗值20%|
 
 ---
-# 讀取框(成就)
+# 讀取框 (目前尚無)
 + 可透過**成就獲得**
 
 ||![](https://i.imgur.com/YSNNKFS.png) |![](https://i.imgur.com/Op4fZ1u.png) |
@@ -340,114 +329,6 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 {%youtube 0yDfyHwZ9Gw %}
 
 {% endhideToggle %}
-
----
-
-# 征服項目
-難度最高的挑戰副本，共分30層
-**從韓版2023/02/09更新開放至03/29，才有首位玩家通關30層**
-[2023/10/19 新增31-35層](https://closers.nexon.com/News/Notice/View?n4ArticleSN=142467)
-[陸版首通30層](https://www.bilibili.com/video/BV14L411y7MX/?share_source=copy_web)
-從建議戰力2200萬開始，每一層加上200萬
-入場票可從Gate Wave的**危險度3**獎勵獲得{%inlineImg https://i.imgur.com/ZauopIm.png 64px%}
-**<font color=#900>復活次數：2。第30層為3次</font>**
-{% tabs 副本資訊, -1 %}
-<!-- tab 種族數量統計-->
-|種族|數量|分布
-|:-|:-:|:-:
-|{%inlineImg https://i.imgur.com/8ONbMJo.png 48px%} 野生型|3|1、8、11
-|{%inlineImg https://i.imgur.com/HoxQxvb.png 48px%} 食蟲型|3|2、20、28
-|{%inlineImg https://i.imgur.com/KOAPxLX.png 48px%} 人類型|13|3、4、9、13、14、15、19、21、22、24、29、33、34	
-|{%inlineImg https://i.imgur.com/t8j9844.png 48px%} 使徒型|3|5、26、30
-|{%inlineImg https://i.imgur.com/FWfg4L0.png 48px%} 魔龍型|5|6、12、17、23、27
-|{%inlineImg https://i.imgur.com/gdXdckN.png 48px%} 特異型|7|7、10、16、18、25、31、35
-|{%inlineImg https://i.imgur.com/3FV9pDB.png 48px%} 業火型|1|32
-<!-- endtab -->
-<!-- tab 樓層BOSS資訊-->
-|層數|建議戰力|關卡BOSS|
-|:-:|:-:|:-:|
-|1|2200萬{%inlineImg https://i.imgur.com/8ONbMJo.png 40px%}| 馬列克 + 基頓
-|2|2400萬{%inlineImg https://i.imgur.com/HoxQxvb.png 40px%}| 骷髏女王 + 瑪力埃利亞 (蟲小王) 
-|3|2600萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}| 肌肉Ranger 5人組
-|4|2800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}| 哈比 + 曼巴
-|5|3000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}| 艾茜 + 達斯特(舊型態)
-|6|3200萬{%inlineImg https://i.imgur.com/FWfg4L0.png 40px%}|庫勒魔 x 2
-|7|3400萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|卡波克 + 女王之繭
-|8|3600萬{%inlineImg https://i.imgur.com/8ONbMJo.png 40px%}|5色食人鬼
-|9|3800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|沃爾夫姜 + 白
-|10|4000萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|懲罰者伊莉娜 + 至高審判者傑拉德
-|11|4200萬{%inlineImg https://i.imgur.com/8ONbMJo.png 40px%}|巴伊泰斯 + 烏伽爾魯
-|12|4400萬{%inlineImg https://i.imgur.com/FWfg4L0.png 40px%}|庫里札 + 800小龍
-|13|4600萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|兔兔醬 + 惡魔兔兔醬
-|14|4800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|**－－<font color=#64668d>銀河</font> + <font color=#ff40af>李雪菲</font>－－**
-|15|5000萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|吉娜 + 歐梅嘉騎士
-|16|5200萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|卡波克 + 女王之蛹
-|17|5400萬{%inlineImg https://i.imgur.com/FWfg4L0.png 40px%}|阿施塔特 + 阿施塔特武器
-|18|5600萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|賽特 + 安娜
-|19|5800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|納塔 + 李正
-|20|6000萬{%inlineImg https://i.imgur.com/HoxQxvb.png 40px%}|舒菲德 + 慕斯卡
-|21|6200萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|倉月青 + 宋恩伊
-|22|6400萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|不可捉摸者 + 張美莎
-|23|6600萬{%inlineImg https://i.imgur.com/FWfg4L0.png 40px%}|露西 + 赫克頓蓋爾
-|24|6800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|索瑪 + 哈比
-|25|7000萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|墮落審判者傑拉德 + 繼承者李世河
-|26|7200萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}|大行者2人組
-|27|7400萬{%inlineImg https://i.imgur.com/FWfg4L0.png 40px%}|烏伽爾魯 + 怒蛇 (古龍2隻小的)
-|28|7600萬{%inlineImg https://i.imgur.com/HoxQxvb.png 40px%}|霍夫曼 + 德瑪托比亞
-|29|7800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|露西 + 蕾比雅
-|30|8000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}|熱風達斯特 + 覺醒另一個路西法
-|31|8200萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|莉莉姆 + 尤德
-|32|8400萬{%inlineImg https://i.imgur.com/3FV9pDB.png 40px%}|歐梅嘉女王 + 尼托克莉絲
-|33|8600萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|未來 + 金徹斯
-|34|8800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|徐維莉 + 薇歐莉特
-|35|9000萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|姜俊誠 + 維羅尼卡
-<!-- endtab -->
-<!-- tab 樓層獎勵-->
-<div class="arranged_table">
-
-<font size=4>貼圖可至 <a target="_blank" href="https://drive.google.com/drive/folders/1jFK6bpar4oSDy2_DeNQ4wOqFaBHDhoJ7?usp=share_link">雲端</a> 下載</font>
-
-|層數|建議戰力|主獎勵|獎勵2<br>{% inlineImg https://i.imgur.com/eCOAypO.png 36px %}<br>寵物核心|獎勵3<br>{% inlineImg /img/material/malek_diamond.png 36px %}<br>馬列克鑽石|
-|:-:|:-:|:-:|:-:|:-:|
-|1|2200萬{%inlineImg https://i.imgur.com/8ONbMJo.png 40px%}|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}一般強化器燃料x5|5|1
-|2|2400萬{%inlineImg https://i.imgur.com/HoxQxvb.png 40px%}|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|5|1
-|3|2600萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|5|1
-|4|2800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg https://i.imgur.com/6PHDZf6.png 40px %}威嚴精隨|5|1
-|5|3000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}|{% inlineImg /img/material/fuel14.PNG 40px %}強化燃料 +14|5|1
-|6|3200萬{%inlineImg https://i.imgur.com/FWfg4L0.png 40px%}|格茉莉表情(哭)<br>{% inlineImg https://i.imgur.com/lxrq2VQ.gif 100px %}|10|1
-|7|3400萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %}高級D零件：裝備|10|1
-|8|3600萬{%inlineImg https://i.imgur.com/8ONbMJo.png 40px%}|{% inlineImg https://i.imgur.com/I0wVFM7.png 40px %}一般寵物自選|10|1
-|9|3800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}高級D零件：時裝|10|1
-|10|4000萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|{% inlineImg /img/material/fuel15.PNG 40px %}強化燃料 +15|10|1
-|11|4200萬{%inlineImg https://i.imgur.com/8ONbMJo.png 40px%}|格茉莉表情(生氣)<br>{% inlineImg https://i.imgur.com/RvjqIMz.gif 100px %}|30|2
-|12|4400萬{%inlineImg https://i.imgur.com/FWfg4L0.png 40px%}|{% inlineImg https://i.imgur.com/LE2TT8Q.png 40px %} S 確定D零件：裝備|30|2
-|13|4600萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg https://i.imgur.com/I0wVFM7.png 40px %}一般寵物自選|30|2
-|14|4800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg https://i.imgur.com/I62TyC9.png 40px %} S 確定D零件：時裝|30|2
-|15|5000萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg /img/material/fuel16.PNG 40px %}強化燃料 +16|30|2
-|16|5200萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|{% inlineImg /img/material/dance_effect.png 40px %}跳舞特效動作自選|50|3
-|17|5400萬{%inlineImg https://i.imgur.com/FWfg4L0.png 40px%}|{% inlineImg https://i.imgur.com/LE2TT8Q.png 40px %} S 確定D零件：裝備|50|3
-|18|5600萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|格茉莉表情(歡喜)<br>{% inlineImg https://i.imgur.com/6iGyKp9.gif 100px %}|50|3
-|19|5800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg /img/chip/chip_overclock.png 40px %} 超頻晶片50個|50|3
-|20|6000萬{%inlineImg https://i.imgur.com/HoxQxvb.png 40px%}|{% inlineImg /img/material/fuel16.PNG 40px %}強化燃料 +16|50|3
-|21|6200萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg /img/material/awaken_effect.png 40px %}超能覺醒特效自選|70|4
-|22|6400萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg https://i.imgur.com/WxaqM1W.png 40px %} SS確定D零件：裝備|70|4
-|23|6600萬{%inlineImg https://i.imgur.com/FWfg4L0.png 40px%}|名字標籤券：榮譽征服者勳章<br>{% inlineImg https://i.imgur.com/G6G50dv.png 100px %}|70|4
-|24|6800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg /img/chip/T4_platinum.png 40px %}T4鉑金自選|70|4
-|25|7000萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|{% inlineImg /img/material/fuel17.PNG 40px %}強化燃料 +17|70|4
-|26|7200萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}|{% inlineImg /img/material/dance_effect.png 40px %}跳舞特效動作自選|100|5
-|27|7400萬{%inlineImg https://i.imgur.com/FWfg4L0.png 40px%}|{% inlineImg https://i.imgur.com/YWwwVtP.png 40px %} SS確定D零件：時裝|100|5
-|28|7600萬{%inlineImg https://i.imgur.com/HoxQxvb.png 40px%}|外觀編織券：演算勝利的迴路<br>{% inlineImg https://i.imgur.com/L2MyRPX.gif 150px %}|100|5
-|29|7800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg https://i.imgur.com/yDlYKup.png 40px %}菁英寵物自選|100|5
-|30|8000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}|攻克項目威嚴<br>{% inlineImg https://i.imgur.com/tEZKpit.gif 150px %}|100|5
-|31|8200萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|{% inlineImg /img/material/awaken_effect.png 40px %}超能覺醒特效自選|130|6
-|32|8400萬{%inlineImg https://i.imgur.com/3FV9pDB.png 40px%}|{% inlineImg /img/material/fuel17.PNG 40px %}強化燃料 +17|130|6
-|33|8600萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg https://i.imgur.com/k0eqGKK.png 40px %}名字標籤券：到達極地的征服者勳章<br>{% inlineImg https://i.imgur.com/AwFwi6G.png 100px %}|130|6
-|34|8800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg https://i.imgur.com/asciy3F.png 40px %}菁英寵物自選|130|6
-|35|9000萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|{% inlineImg https://i.imgur.com/SjD8DwZ.png 40px %}姜俊誠與維羅尼卡立繪臂章<br>[{% inlineImg https://i.imgur.com/1J1j3MN.png 200px %}](https://i.imgur.com/1J1j3MN.png)|130|6
-
-</div>
-<!-- endtab -->
-{% endtabs %}
 
 ---
 

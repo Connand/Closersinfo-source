@@ -76,10 +76,10 @@ description: ""
 [![](https://i.imgur.com/teAetS1.png)](https://i.imgur.com/teAetS1.png)
 <!-- endtab -->
 <!-- tab J-->
-[![](https://i.imgur.com/VoXcQZw.png)](https://i.imgur.com/VoXcQZw.png)
+[![](https://i.imgur.com/3sW684L.png)](https://i.imgur.com/3sW684L.png)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-[![](https://i.imgur.com/3sW684L.png)](https://i.imgur.com/3sW684L.png)
+[![](https://i.imgur.com/VoXcQZw.png)](https://i.imgur.com/VoXcQZw.png)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
 [![](https://i.imgur.com/itp26z6.png)](https://i.imgur.com/itp26z6.png)
