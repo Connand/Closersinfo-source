@@ -332,104 +332,42 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ---
 
-# 附錄：單人GW獎勵表
+# 附錄：單人FW獎勵表 
 
-由[參考資料](https://closers.nexon.com/Community/Tip/View?n4ArticleSN=19640)翻譯
-表格中標題數字為 **危險度**
+由[參考資料](https://closers.nexon.com/Community/Tip/View?n4ArticleSN=19753)翻譯
+**(可能尚不完整)**
 
 {% note info simple %}
-{% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} 可能會與特定獎勵一同出現、{% inlineImg https://i.imgur.com/ZauopIm.png 48px %} 可能會與特定**危險度3**的獎勵一同出現
+{% inlineImg https://i.imgur.com/0QwNmJf.png 48px %} 可能會與特定獎勵一同出現：**普通關卡為一次 2 個、討伐關卡(王關)為一次 12 個**
 {% endnote %}
 
-<div class="container">
 
-<div class="childDiv">
-
-- 聖水大橋、BOSS：雷獸基頓
-
-|獎勵|1|2|3
-|:-|:-:|:-:|:-:
-|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶|110|160|214
-|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}彩虹次元精髓|115|172|229
-|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}普通強化器燃料|2|3|4
-|{% inlineImg /img/material/chip_slot_change.png 40px %}強化槽類型變更工具|1|2|2
-|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|1|2|2
-|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|1|1|1
-</div>
-<div class="childDiv">
-
-- 被毀的購物中心、BOSS：尤德
-
-|獎勵|1|2|3
-|:-|:-:|:-:|:-:
-|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶|6|8|11
-|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}穩定的次元裂痕|458|686|915
-|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}普通強化器燃料|2|3|4
-|{% inlineImg /img/material/chip_slot_change.png 40px %}強化槽類型變更工具|4||
-|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|1|2|2
-|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|1|1|1
-|{% inlineImg /img/material/platinum_driver.png 40px %}鉑金驅動器||2|
-|{% inlineImg /img/material/real_platinum_driver.png 40px %}真實鉑金驅動器|||1
-</div>
-<div class="childDiv">
-
-- 弘大街區 - 夜晚、BOSS：尼托克麗絲
-
-|獎勵|1|2|3
-|:-|:-:|:-:|:-:
-|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶|6|8|11
-|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}彩虹次元精髓|23|35|46
-|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}普通強化器燃料|2|3|4
-|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|1|2|2
-|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|1|1|1
-|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}高級D零件：時裝||1|2
-|{% inlineImg /img/material/real_platinum_driver.png 40px %}真實鉑金驅動器|1|2|2
-</div>
-<div class="childDiv">
-
-- 辛強高中校園 - 夜晚、新論峴
-
-|獎勵|1|2|3
-|:-|:-:|:-:|:-:
-|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶|27|40|54
-|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}穩定的次元裂痕|23|35|46
-|{% inlineImg /img/material/chip_slot_change.png 40px %}強化槽類型變更工具|1|2|2
-|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|1|2|2
-|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|1|1|1
-|{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %}強化器防護器|1|2|3
-</div>
-</div>
 
 <div class="container">
+
 <div class="childDiv">
 
-- 新首爾綜合棒球場 - 夜晚、辛強高中東館
-
-|獎勵|1|2|3
-|:-|:-:|:-:|:-:
-|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶|6|8|11
-|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}彩虹次元精髓|23|35|46
-|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}普通強化器燃料|10|15|
-|{% inlineImg /img/material/chip_slot_change.png 40px %}強化槽類型變更工具|1|2|2
-|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝|1|1|1
-|{% inlineImg https://i.imgur.com/TmHFFrJ.png 40px %}α重鑄等化器|1|2|3
-|{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %}強化器防護器|||1
+|獎勵|1|2|3|4
+|:-|:-:|:-:|:-:|:-:
+|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶| |30|50|100
+|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}彩虹次元精髓|50|70|100|175
+|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}穩定的次元裂痕|35|70|100|250
+|{% inlineImg https://i.imgur.com/HVxdbDJ.png 40px %}寵物核心|2|3|4|6
+|{% inlineImg https://i.imgur.com/8oCLggp.png 40px %}PNA成長活性劑|2|3|4|6
+|{% inlineImg /img/chip/T2_color.png 40px %}T2彩色晶片選擇箱子|3|5|6|10
 </div>
 <div class="childDiv">
 
-- 新首爾樂園 - 夜晚、雨中的地鐵站
-
-|獎勵|1|2|3
-|:-|:-:|:-:|:-:
-|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶|6|8|11
-|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}穩定的次元裂痕|23|35|46
-|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}普通強化器燃料|2|3|4
-|{% inlineImg /img/material/chip_slot_change.png 40px %}強化槽類型變更工具|1|2|2
-|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %}高級D零件：裝備|3|4|
-|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}高級D零件：時裝|2|3|5
-|{% inlineImg https://i.imgur.com/TmHFFrJ.png 40px %}α重鑄等化器|||1
+|獎勵|1|2|3|4
+|:-|:-:|:-:|:-:|:-:
+|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}普通強化器燃料|2|3|4|6
+|{% inlineImg https://i.imgur.com/ofbuOah.png 40px %}完美PNA進化套裝| | |2|3
+|{% inlineImg /img/chip/T1_platinum.png 40px %}T1鉑金晶片隨機箱子| | | |2
+|{% inlineImg /img/chip/chip_overclock.png 40px %}超頻晶片| | | |1
+|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|2|3|4|6
+|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝| | |2|3
+|{% inlineImg https://i.imgur.com/ZauopIm.png 40px %}項目生物認證金鑰| | | |1
 </div>
-
 </div>
 
 # 附錄：四人GW獎勵表
