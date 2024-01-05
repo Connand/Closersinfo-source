@@ -55,13 +55,12 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 + {% inlineImg https://i.imgur.com/ppuEeTR.png 64px %}**為小關**(類似平時打的IF副本)
 + {% inlineImg https://i.imgur.com/AMohfIj.png 64px %}**為王關**(會出現尤德、鏡者、雷獸)
 
-| 危險度 |圖示| 建議戰力 | 建議裝等 | 復活次數|
+| 難度 |圖示| 建議戰力 | 建議裝等 | 復活次數|
 |:-:|:-:|:-:|:-:|:-:|
-|危險度1|{% inlineImg https://i.imgur.com/ppuEeTR.png 64px %}{% inlineImg https://i.imgur.com/AMohfIj.png 64px %}|2000萬|170|不限次數|
-|危險度2|{% inlineImg https://i.imgur.com/xVcNao3.png 64px %}{% inlineImg https://i.imgur.com/IN6XGUe.png 64px %}|3000萬|180|復活一次|
-|危險度3|{% inlineImg https://i.imgur.com/DxsExlb.png 64px %}{% inlineImg https://i.imgur.com/dCIUm9E.png 64px %}|4000萬|190|復活一次|
+|普通|{% inlineImg https://i.imgur.com/xVcNao3.png 64px %}{% inlineImg https://i.imgur.com/IN6XGUe.png 64px %}|3000萬|180|復活一次|
+|困難|{% inlineImg https://i.imgur.com/DxsExlb.png 64px %}{% inlineImg https://i.imgur.com/dCIUm9E.png 64px %}|4000萬|190|復活一次|
 
-+ **Gate wave單人獎勵更新次數每次所需費用**
++ **Gate wave單人獎勵更新次數每次所需費用**：刷新10次需要330萬
 > 每日第一次：免費
 > 第2-3次：10萬
 > 第4-5次：30萬
@@ -71,7 +70,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 ![](https://i.imgur.com/rMdpLAA.png)
 
 {% note info simple %}
-獎勵表請至[下方](/datasets/ControlCenter/#%E9%99%84%E9%8C%84%EF%BC%9A%E5%96%AE%E4%BA%BAGW%E7%8D%8E%E5%8B%B5%E8%A1%A8)查看
+獎勵表請至[下方](/datasets/PacificGate/#%E9%99%84%E9%8C%84%EF%BC%9A%E5%96%AE%E4%BA%BAFW%E7%8D%8E%E5%8B%B5%E8%A1%A8)查看
 {% endnote %}
 
 <!-- endtab -->
@@ -93,40 +92,9 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 ![](https://i.imgur.com/JW8yoFo.png)
 
 <!-- endtab -->
-<!-- tab Night Maze-->
-
-[參考攻略](https://docs.google.com/presentation/d/16RSChND4x9FDJB7DX0W3K8ydlWFwelqQZND_LCeYrgw/edit?usp=sharing)
-
-+ 消耗{% inlineImg https://i.imgur.com/YYeSfOv.png 48px %} 睡眠誘導券x2入場
-+ 進入關卡後右上會有{% inlineImg https://i.imgur.com/j2hOwtK.png 64px %} 調查值
-調查值滿100%必出最終BOSS{% inlineImg https://i.imgur.com/QsfIgNP.png 64px %}捕食的噩夢看守者
-+ 內部關卡選擇分有<font color=#ff0000> **普通關卡與特殊關卡** </font>
-**1. 普通關卡**
-
-|圖示|關卡|關卡內容|
-|:-:|:-:|:-:|
-|{% inlineImg https://i.imgur.com/W3AyMi3.png 64px %}<br>{% inlineImg https://i.imgur.com/cPux3DO.png 64px %}|普通關卡<br>精銳關卡|小型Boss與小怪群|
-|{% inlineImg https://i.imgur.com/MBnUpe0.png 64px %}|挑戰|跳舞機/踩電球|
-|{% inlineImg https://i.imgur.com/Vvon6B8.png 64px %}|捷徑|躲雷射/躲電牆|
-|{% inlineImg https://i.imgur.com/DVZNdZ0.png 64px %}|BOSS|會出現特殊隱藏BOSS|
-
-**2.特殊關卡**
-+ {% inlineImg https://i.imgur.com/hwnGyDz.png 128px %}：生存關卡，會出現+25 J (黑色兔子)
-+ {% inlineImg https://i.imgur.com/BZTDJSt.png 128px %}：休息區，可獲得額外buff
-+ {% inlineImg https://i.imgur.com/pSidZ3L.png 128px %}：寶藏區，關卡內會出現大寶箱，打掉會獲得馬列克水晶
-+ {% inlineImg https://i.imgur.com/1cOFnwx.png 128px %}：神秘商人，可在內與神秘商人進行交易(有日常材料與<font color=#ff0000> **特殊物品** </font>)
-
-|米瑟莉推薦<br>(每日/每周重製)|噩夢的包裹<br>(不會重製次數)|
-|:-:|:-:|
-|![](https://i.imgur.com/Xo2gmQb.png)| ![](https://i.imgur.com/G07OcBl.png)|
-
-![](https://i.imgur.com/YnmcgNI.png)
-
-<!-- endtab -->
 <!-- tab 入場次數 -->
 + Gate Wave單人副本：每日增加 <font color=#ff0000> **三次** </font> 調查次數，最多可累積 <font color=#ff0000> **六次** </font>
 + Gate Wave四人副本：每日 <font color=#ff0000> **可獲取獎勵次數一次** </font>，不限入場次數
-+ Night Maze：只要有{% inlineImg https://i.imgur.com/YYeSfOv.png 64px %}即可進入
 
 ![](https://i.imgur.com/zjdSEM6.png)
 <!-- endtab -->
@@ -335,7 +303,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 # 附錄：單人FW獎勵表 
 
 由[參考資料](https://closers.nexon.com/Community/Tip/View?n4ArticleSN=19753)翻譯
-**(可能尚不完整)**
+**可能尚不完整、100水晶獎勵尚待確認**
 
 {% note info simple %}
 {% inlineImg https://i.imgur.com/0QwNmJf.png 48px %} 可能會與特定獎勵一同出現：**普通關卡為一次 2 個、討伐關卡(王關)為一次 12 個**
@@ -349,7 +317,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 |獎勵|1|2|3|4
 |:-|:-:|:-:|:-:|:-:
-|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶| |30|50|100
+|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶| |30|50|100?
 |{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}彩虹次元精髓|50|70|100|175
 |{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}穩定的次元裂痕|35|70|100|250
 |{% inlineImg https://i.imgur.com/HVxdbDJ.png 40px %}寵物核心|2|3|4|6
