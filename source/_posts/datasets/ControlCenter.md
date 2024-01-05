@@ -500,7 +500,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |27|7400萬{%inlineImg https://i.imgur.com/FWfg4L0.png 40px%}|{% inlineImg https://i.imgur.com/YWwwVtP.png 40px %} SS確定D零件：時裝|100|5
 |28|7600萬{%inlineImg https://i.imgur.com/HoxQxvb.png 40px%}|外觀編織券：演算勝利的迴路<br>{% inlineImg https://i.imgur.com/L2MyRPX.gif 150px %}|100|5
 |29|7800萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg https://i.imgur.com/yDlYKup.png 40px %}菁英寵物自選|100|5
-|30|8000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}|攻克項目威嚴<br>{% inlineImg https://i.imgur.com/tEZKpit.gif 150px %}|100|5
+|30|8000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}|威嚴：整頓長久孽緣的人<br>{% inlineImg https://i.imgur.com/tEZKpit.gif 150px %}|100|5
 |31|8200萬{%inlineImg https://i.imgur.com/gdXdckN.png 40px%}|{% inlineImg /img/material/awaken_effect.png 40px %}超能覺醒特效自選|130|6
 |32|8400萬{%inlineImg https://i.imgur.com/3FV9pDB.png 40px%}|{% inlineImg /img/material/fuel17.PNG 40px %}強化燃料 +17|130|6
 |33|8600萬{%inlineImg https://i.imgur.com/KOAPxLX.png 40px%}|{% inlineImg https://i.imgur.com/k0eqGKK.png 40px %}名字標籤券：到達極地的征服者勳章<br>{% inlineImg https://i.imgur.com/AwFwi6G.png 100px %}|130|6

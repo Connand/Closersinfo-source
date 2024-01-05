@@ -303,7 +303,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 # 附錄：單人FW獎勵表 
 
 由[參考資料](https://closers.nexon.com/Community/Tip/View?n4ArticleSN=19753)翻譯
-**可能尚不完整、100水晶獎勵尚待確認**
+**可能尚不完整、100水晶獎勵尚待確認、每個地圖的分布尚不寫入**
 
 {% note info simple %}
 {% inlineImg https://i.imgur.com/0QwNmJf.png 48px %} 可能會與特定獎勵一同出現：**普通關卡為一次 2 個、討伐關卡(王關)為一次 12 個**
