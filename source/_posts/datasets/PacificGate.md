@@ -70,7 +70,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 ![](https://i.imgur.com/rMdpLAA.png)
 
 {% note info simple %}
-獎勵表請至[下方](/datasets/PacificGate/#%E9%99%84%E9%8C%84%EF%BC%9A%E5%96%AE%E4%BA%BAFW%E7%8D%8E%E5%8B%B5%E8%A1%A8)查看
+獎勵表請至[下方](/datasets/PacificGate/#%E9%99%84%E9%8C%84%EF%BC%9A-Flame-Wave-%E7%8D%8E%E5%8B%B5%E8%A1%A8)查看
 {% endnote %}
 
 <!-- endtab -->
@@ -300,7 +300,9 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ---
 
-# 附錄：單人FW獎勵表 
+> # 附錄： Flame Wave 獎勵表 
+
+> ## 單人FW獎勵表 
 
 由[參考資料](https://closers.nexon.com/Community/Tip/View?n4ArticleSN=19753)翻譯
 **可能尚不完整、100水晶獎勵尚待確認、每個地圖的分布尚不寫入**
@@ -338,19 +340,33 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 </div>
 </div>
 
-# 附錄：四人GW獎勵表
+> ## 四人FW獎勵表
 
-- **每個箱子都是隨機抽取其中一種獎勵**
 
-|星期|BOSS|獎勵箱|內容物1|內容物2|內容物3|內容物4
-|:-:|:-:|:-|:-:|:-:|:-:|:-:
-|一|鏡者尼托克莉絲|{% inlineImg https://i.imgur.com/t9JN12W.png 40px %}新首爾分部共用材料箱子|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}58|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}58| |
-|二|汙染超能尤德|{% inlineImg https://i.imgur.com/gvOyR60.png 40px %}新首爾分部裝備重鑄箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}2|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %}2|{% inlineImg https://i.imgur.com/TmHFFrJ.png 40px %}1
-|三|雷獸基頓|{% inlineImg https://i.imgur.com/WM6KFO2.png 40px %}新首爾分部時裝重鑄箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}2|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}2|{% inlineImg https://i.imgur.com/iVGZwbH.png 40px %}1
-|四|汙染超能尤德|{% inlineImg https://i.imgur.com/NvD4XPQ.png 40px %}新首爾分部馬列克水晶箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg /img/material/malek_crysyal.png 40px %}10|{% inlineImg /img/material/malek_crysyal.png 40px %}30|{% inlineImg /img/material/malek_crysyal.png 40px %}100
-|五|鏡者尼托克莉絲|{% inlineImg https://i.imgur.com/72r1vbB.png 40px %}新首爾分部強化支援箱子|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}2|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}10|{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %}1|
-|六|汙染超能尤德|{% inlineImg https://i.imgur.com/bxZUEBm.png 40px %}新首爾分部晶片支援箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg /img/material/chip_slot_change.png 40px %}2|{% inlineImg /img/material/platinum_driver.png 40px %}1|{% inlineImg /img/material/real_color_driver.png 40px %}1
-|日|雷獸基頓|{% inlineImg https://i.imgur.com/NvD4XPQ.png 40px %}新首爾分部馬列克水晶箱子|{% inlineImg /img/material/malek_crysyal.png 40px %}7|{% inlineImg /img/material/malek_crysyal.png 40px %}10|{% inlineImg /img/material/malek_crysyal.png 40px %}30|{% inlineImg /img/material/malek_crysyal.png 40px %}100
+<div class="container">
+
+<div class="childDiv">
+
+- **獎勵內容為固定如下**
+
+|獎勵1|獎勵2|獎勵3
+|:-:|:-:|:-:
+|{% inlineImg https://i.imgur.com/jyAxYjX.png 40px %}2|{% inlineImg /img/material/malek_diamond.png 40px %}6|{% inlineImg https://i.imgur.com/NHsNGzN.png 40px %}8|
+</div>
+<div class="childDiv">
+
+- **其中{% inlineImg https://i.imgur.com/jyAxYjX.png 40px %}可隨機開啟內容如下**
+
+|{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %}1|{% inlineImg https://i.imgur.com/ofbuOah.png 40px %}1|{% inlineImg /img/chip/chip_overclock.png 40px %}1
+|:-:|:-:|:-:
+|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}20|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}20||
+|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}1|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}1||
+|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %}1|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}1||
+
+
+</div>
+</div>
+
 
 
 ---
