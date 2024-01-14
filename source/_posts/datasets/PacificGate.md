@@ -80,7 +80,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 > **星期二、五、日**：江臨
 > **星期一、三、六**：飛亨 (비형)
-> **星期四、**：十字路口 (江臨與飛亨隨機出場)
+> **星期四、**：十字路口 (江臨或飛亨隨機出場)
 ![](https://i.imgur.com/viKo217.png)
 
 <!-- endtab -->
@@ -298,7 +298,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 > ## 單人FW獎勵表 
 
 由[參考資料](https://closers.nexon.com/Community/Tip/View?n4ArticleSN=19753)翻譯
-**可能尚不完整、100水晶獎勵尚待確認、每個地圖的分布尚不寫入**
+**可能尚不完整、每個地圖的分布尚不寫入**
 
 {% note info simple %}
 {% inlineImg https://i.imgur.com/0QwNmJf.png 48px %} 可能會與特定獎勵一同出現：**普通關卡為一次 2 個、討伐關卡(王關)為一次 12 個**
@@ -312,7 +312,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 |獎勵|1|2|3|4
 |:-|:-:|:-:|:-:|:-:
-|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶| |30|50|100?
+|{% inlineImg /img/material/malek_crysyal.png 40px %}馬列克水晶| | |30|50
 |{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}彩虹次元精髓|50|70|100|175
 |{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}穩定的次元裂痕|35|70|100|250
 |{% inlineImg https://i.imgur.com/HVxdbDJ.png 40px %}寵物核心|2|3|4|6
