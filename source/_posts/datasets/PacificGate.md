@@ -48,19 +48,19 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |Flame Wave(單人)|90|3000~4000萬| 180~190 | 10 |角色3次<br>(每日補充3次、最多累積6次)|限制1人|1 次|
 |Flame Wave(四人)|90|3000萬| 180 | 10 |角色1次|建議4人|1 次|
 
-{% hideToggle <font color=#ff0000><b>17村副本詳細內容其實與16村的Gate Wave類似 (<del>所以裡面的東西暫時懶得改</del>)</b></font> %}
+{% hideToggle <font color=#ff0000><b>17村副本系統(Flame Wave)簡介</b></font> %}
 {% tabs 副本資訊 %}
-<!-- tab Gate Wave(單人)-->
+<!-- tab Flame Wave(單人)-->
 + **難度分為三種，獎勵也會隨難度增加有不同**
-+ {% inlineImg https://i.imgur.com/ppuEeTR.png 64px %}**為小關**(類似平時打的IF副本)
-+ {% inlineImg https://i.imgur.com/AMohfIj.png 64px %}**為王關**(會出現尤德、鏡者、雷獸)
++ {% inlineImg https://i.imgur.com/ppuEeTR.png 64px %}**為小關** (類似平時打的IF副本)
++ {% inlineImg https://i.imgur.com/AMohfIj.png 64px %}**為王關** (會出現江臨或飛亨)
 
 | 難度 |圖示| 建議戰力 | 建議裝等 | 復活次數|
 |:-:|:-:|:-:|:-:|:-:|
 |普通|{% inlineImg https://i.imgur.com/xVcNao3.png 64px %}{% inlineImg https://i.imgur.com/IN6XGUe.png 64px %}|3000萬|180|復活一次|
 |困難|{% inlineImg https://i.imgur.com/DxsExlb.png 64px %}{% inlineImg https://i.imgur.com/dCIUm9E.png 64px %}|4000萬|190|復活一次|
 
-+ **Gate wave單人獎勵更新次數每次所需費用**：刷新10次需要330萬
++ **Flame wave單人獎勵更新次數每次所需費用**：刷新10次需要330萬
 > 每日第一次：免費
 > 第2-3次：10萬
 > 第4-5次：30萬
@@ -74,27 +74,20 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 {% endnote %}
 
 <!-- endtab -->
-<!-- tab Gate Wave(四人)-->
+<!-- tab Flame Wave(四人)-->
 圖標 {% inlineImg https://i.imgur.com/I7ceohW.png 64px %}
 + **每日四人副本王皆不同，攻擊模式與單人本相同**
-> **星期一、五**：鏡者尼托克莉絲
-> **星期二、四、六**：汙染超能尤德
-> **星期三、日**：雷獸基頓
-![](https://i.imgur.com/OkCNJxs.png)
 
-+ **每日獎勵不同，但每日都有固定獎勵**
-> **周一**：新首爾支部常用材料箱x1
-> **周二**：新首爾支部裝備重鑄箱x1
-> **周三**：新首爾支部時裝重鑄箱x1
-> **周四、日**：新首爾支部馬列克水晶箱子x1
-> **周五**：新首爾支部強化箱x1
-> **周六**：新首爾支部晶片材料箱x1
-![](https://i.imgur.com/JW8yoFo.png)
+> **星期二、五、日**：江臨
+> **星期一、三、六**：飛亨 (비형)
+> **星期四、**：十字路口 (江臨與飛亨隨機出場)
+![](https://i.imgur.com/viKo217.png)
 
 <!-- endtab -->
 <!-- tab 入場次數 -->
-+ Gate Wave單人副本：每日增加 <font color=#ff0000> **三次** </font> 調查次數，最多可累積 <font color=#ff0000> **六次** </font>
-+ Gate Wave四人副本：每日 <font color=#ff0000> **可獲取獎勵次數一次** </font>，不限入場次數
++ **有登入紀錄時才會增加獎勵次數**
++ Flame Wave單人副本：每日增加 <font color=#ff0000> **三次** </font> 調查次數，最多可累積 <font color=#ff0000> **六次** </font>
++ Flame Wave四人副本：每日 <font color=#ff0000> **可獲取獎勵次數一次** </font>，不限入場次數
 
 ![](https://i.imgur.com/zjdSEM6.png)
 <!-- endtab -->
