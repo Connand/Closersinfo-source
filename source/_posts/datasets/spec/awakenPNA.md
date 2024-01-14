@@ -279,7 +279,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>擴散</font>**|攻擊時使敵人受到 150億 固定傷害|15秒
+|**<font color=green>A</font>**|**<font color=green>擴散</font>**|自身被攻擊時使敵人受到 150億 固定傷害|15秒
 |**<font color=blue>B<font>**|**<font color=blue>神速</font>**|攻擊時減少 二轉/解決師大招 冷卻時間 30 秒|15秒
 |**<font color=purple>C</font>**|**<font color=purple>決心</font>**|攻擊時15秒內 總(物理/魔法)攻擊力與防禦力 +15%|15秒
 
@@ -290,7 +290,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |**<font color=blue>B<font>**|**<font color=blue>絕境逆襲</font>**|每場戰鬥 1 次，復活時30秒內 攻擊速度/移動速度 +15%、物理/魔法攻擊力 +1500、總物理/魔法攻擊力 +30%、物理/魔法暴擊傷害 +60%|-
 |**<font color=purple>C</font>**|**<font color=purple>擴散</font>**|每場戰鬥 1 次，復活時使大範圍敵人受到傷害 +45%|-
 
-### 生存/復活封印
+### 生存/強制阻斷封印
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
 |**<font color=green>A</font>**|**<font color=green>嗜肉骨斷</font>**|666秒內 物理/魔法暴擊傷害 +130%、自身受到傷害 +60%，死亡後BUFF失效|-
