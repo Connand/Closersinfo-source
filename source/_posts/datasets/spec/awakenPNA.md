@@ -262,7 +262,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
 |**<font color=green>A</font>**|**<font color=green>追擊</font>**|**[落地]** 時 25秒內浮空暴擊傷害 +130%|15秒
-|**<font color=blue>B<font>**|**<font color=blue>鬥志</font>**|**[落地]** 時 25秒內傷害量 +30%|15秒
+|**<font color=blue>B<font>**|**<font color=blue>鬥志</font>**|**[落地]** 時 25秒內傷害量 +60%|15秒
 |**<font color=purple>C</font>**|**<font color=purple>決心</font>**|**[落地]** 時 25秒內總(物理/魔法)攻擊力與防禦力 +15%|15秒
 
 ### 火焰
