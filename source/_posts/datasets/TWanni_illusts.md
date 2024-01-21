@@ -138,7 +138,7 @@ description: "紀錄台版周年紀念使用過的官方/非官方立繪與登�
 <!-- endtab -->
 <!-- tab 立繪E(沙沙)-->
 繪師：沙沙
-[![](https://i.imgur.com/wWyA7Tz.png)](/img/anniversary/TW4th_illust_Tina_沙沙.png)
+[![](https://i.imgur.com/wWyA7Tzh.png)](/img/anniversary/TW4th_illust_Tina_沙沙.png)
 <!-- endtab -->
 {% endtabs %}
 {% endhideToggle %}

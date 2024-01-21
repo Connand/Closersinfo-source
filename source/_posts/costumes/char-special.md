@@ -262,13 +262,13 @@ description: "角色專屬時裝"
 {% endtabs %}
 <!-- endtab -->
 
-<!-- tab 愛里(Aeri)-Devilish Dream -->
+<!-- tab 愛里(Aeri)-惡魔之夢 -->
 部位：武器、髮型、上衣、下衣、手套、鞋子、{% label 瞳孔 green %}、{% label 特效(威嚴) green %}
 **飾品為單一型，其餘分3型
 <font color=#f00>7件可使用普通立繪</font>
 <font color=#f00>8件可使用特殊立繪</font>**
 
-{% tabs 愛里(Aeri)-Devilish Dream %}
+{% tabs 愛里(Aeri)-惡魔之夢 %}
 <!-- tab 普通立繪-->
 [![](https://i.imgur.com/eXf3RNeh.png)](https://i.imgur.com/eXf3RNe.png)
 <!-- endtab -->
