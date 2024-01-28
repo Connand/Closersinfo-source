@@ -7,13 +7,27 @@ cover: /img/titles/DLG_ACHIEVEMENT_TITLE_BELPHEGOR_2.PNG
 description: "重點稱號能力資料整合"
 ---
 
+# 能力稱號推薦表
+
+- **<font color=red>注意</font>** ：條件暴傷以全部發揮為主進行排序
+
+|強度|物理 / 魔法|混合|
+|:-:|:-:|:-:|
+|T0|**噩夢的囚徒**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|**噩夢的囚徒**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|
+|T1|**找到怠惰王渴望之人**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_BELPHEGOR_4.PNG 50px %}|**噩夢看守者**<br>{% inlineImg /img/titles/ZMtHyR8.png 50px %}|
+|T2|**噩夢看守者**<br>{% inlineImg /img/titles/ZMtHyR8.png 50px %}|**不死的誅戮者**|
+|T3|**不死的誅戮者**|**找到怠惰王渴望之人**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_BELPHEGOR_4.PNG 50px %}|
+|T4|**真正的繼承者**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_ANTARCTIC_BASE_2.PNG 50px %}|**真正的繼承者**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_ANTARCTIC_BASE_2.PNG 50px %}|
+|T5|**吶喊的提亞瑪特**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_2.PNG 50px %}|**吶喊的提亞瑪特**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_2.PNG 50px %}|
+|新手建議|**紅蠍總攻擊!**|新手推薦較易製作的能力稱號<br>需打 **釜山 - 南浦洞(13村)** 的<br>**張美沙(原始)** 來取得材料<br>[參考資料](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9314&tnum=1)|
+|新手建議|**奪回天空的人**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_414.PNG 50px %}|新手推薦較易製作的能力稱號<br>需打 **平原之門：深層(雷本)** 的<br>**各種關卡** 來取得材料<br>[參考資料](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9318&tnum=1)|
+
+
 ---
 
 > **取得方式**不一定會詳細寫出，僅寫出相關地區或成就
 **帳號**指此稱號是否帳號共通，Ｏ為共通，Ｘ為不共通(角色制)
 活動稱號並不包含於此
-
-ＯＸ
 
 ---
 
@@ -54,3 +68,5 @@ description: "重點稱號能力資料整合"
 |**不死的誅戮者**|Ｘ|總物理/魔法攻擊力+3%<br>物理/魔法暴擊傷害+80%<br>超能爆發狀態增傷+30%|白夜要塞<br>製作
 |**吶喊的提亞瑪特**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_2.PNG 50px %}|Ｘ|最大HP+2000<br>物理/魔法攻擊力+500<br>物理/魔法暴擊傷害+70%<br>超能爆發狀態增傷+20%|古龍遺跡地
 |**最後的火苗**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_CENTUMCITY_2.PNG 50px %}|Ｏ|物理/魔法攻擊力+500<br>空/背/浮爆傷+20%<br>**賽騰城護盾套效[藍新星]強化**|賽騰城<br>成就：歐梅嘉騎士通關100場
+|**奪回天空的人**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_414.PNG 50px %}|Ｘ|總物理/魔法攻擊力+2%<br>空/背/浮爆傷+15%|平原之門：深層<br>製作
+|**紅蠍總攻擊!**|Ｘ|物理/魔法攻擊力+500<br>物理/魔法爆傷+50%<br>超能力凝聚速度+25%<br>超能爆發持續時間+25秒|釜山 - 南浦洞<br>製作

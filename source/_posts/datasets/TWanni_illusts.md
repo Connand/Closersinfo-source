@@ -5,7 +5,7 @@ tags:
     - 資料紀錄
     - 周年
     - 繪圖
-category: [遊戲資料,繪圖]
+category: [遊戲資料,其他]
 cover: https://i.imgur.com/fufBHdDh.png
 description: "紀錄台版周年紀念使用過的官方/非官方立繪與登入圖等等"
 ---

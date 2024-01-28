@@ -344,7 +344,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 |獎勵1|獎勵2|獎勵3
 |:-:|:-:|:-:
-|{% inlineImg https://i.imgur.com/jyAxYjX.png 40px %}2|{% inlineImg /img/material/malek_diamond.png 40px %}6|{% inlineImg https://i.imgur.com/NHsNGzN.png 40px %}8|
+|{% inlineImg https://i.imgur.com/jyAxYjX.png 40px %}2|{% inlineImg /img/material/malek_diamond.png 40px %}7|{% inlineImg https://i.imgur.com/NHsNGzN.png 40px %}8|
 </div>
 <div class="childDiv">
 
