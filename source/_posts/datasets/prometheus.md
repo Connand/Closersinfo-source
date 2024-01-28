@@ -396,6 +396,76 @@ PLV: 220 (史詩240)
 
 ---
 
+- # 火花的終局動作預覽
+
+由[封印者攻略網Discord群](https://discord.gg/closersinfotw)內玩家們提供
+尚缺：米斯特汀、納塔、金徹斯
+
+{% tabs 模組圖 %}
+<!-- tab 李世河(Seha)-->
+[![](https://i.imgur.com/MyF0Z8Th.png)](https://i.imgur.com/MyF0Z8T.png)
+<!-- endtab -->
+<!-- tab 李雪菲(Seulbi)-->
+[![](https://i.imgur.com/EzPUyCKh.png)](https://i.imgur.com/EzPUyCK.png)
+<!-- endtab -->
+<!-- tab 徐維莉(Yuri)-->
+[![](https://i.imgur.com/5JhcWdSh.png)](https://i.imgur.com/5JhcWdS.png)
+<!-- endtab -->
+<!-- tab J-->
+[![](https://i.imgur.com/J8oxF29h.png)](https://i.imgur.com/J8oxF29.png)
+<!-- endtab -->
+<!-- tab 米斯特汀(Tein)-->
+
+<!-- endtab -->
+<!-- tab 納塔(Nata)-->
+[![](https://i.imgur.com/RIrtGB5h.png)](https://i.imgur.com/RIrtGB5.png)
+<!-- endtab -->
+<!-- tab 蕾比雅(Levia)-->
+[![](https://i.imgur.com/AVAF6hBh.png)](https://i.imgur.com/AVAF6hB.png)
+<!-- endtab -->
+<!-- tab 哈比(Harpy)-->
+[![](https://i.imgur.com/ragzNAn.hjpeg)](https://i.imgur.com/ragzNAn.jpeg)
+<!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+[![](https://i.imgur.com/5Vm8Pmjh.png)](https://i.imgur.com/5Vm8Pmj.png)
+<!-- endtab -->
+<!-- tab 薇歐莉特(Violet)-->
+[![](https://i.imgur.com/aVKAAgph.png)](https://i.imgur.com/aVKAAgp.png)
+<!-- endtab -->
+<!-- tab 沃爾夫姜(Wolfgang)-->
+[![](https://i.imgur.com/u8Zvagyh.png)](https://i.imgur.com/u8Zvagy.png)
+<!-- endtab -->
+<!-- tab 露娜(Luna)-->
+[![](https://i.imgur.com/YGt0KbKh.png)](https://i.imgur.com/YGt0KbK.png)
+<!-- endtab -->
+<!-- tab 索瑪(Soma)-->
+[![](https://i.imgur.com/orIF74dh.png)](https://i.imgur.com/orIF74d.png)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+[![](https://i.imgur.com/4dm7KSQh.png)](https://i.imgur.com/4dm7KSQ.png)
+<!-- endtab -->
+<!-- tab 賽特(Seth)-->
+[![](https://i.imgur.com/QgrpH0th.png)](https://i.imgur.com/QgrpH0t.png)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/IUSLakzh.png)](https://i.imgur.com/IUSLakz.png)
+<!-- endtab -->
+<!-- tab 徹斯(Chulsoo)-->
+
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/2TgPk6Ih.png)](https://i.imgur.com/2TgPk6I.png)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/iAzmuwBh.png)](https://i.imgur.com/iAzmuwB.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/Vqh5cKih.png)](https://i.imgur.com/Vqh5cKi.png)
+<!-- endtab -->
+{% endtabs %}
+
+---
+
 <style>
   .title table td:not(:nth-child(1)) {
     vertical-align: top;

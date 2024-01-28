@@ -15,9 +15,10 @@ tags:
     - 未來
     - 銀河
     - 露西
+    - 愛里
 category: [時裝, 有立繪, 限定角色]
 cover: https://imgur.com/qQUOjkwh.jpg
-description: ""
+description: "Good-Night Kiss"
 ---
 
 ![](https://imgur.com/qQUOjkwh.jpg)
@@ -27,13 +28,13 @@ description: ""
 
 第一次開放角色：李雪菲、徐維莉、米斯特汀、哈比、索瑪、白
 第二次開放角色：緹娜、薇歐莉特、露娜、未來、銀河
-**因第二次開放的角色尚無模組圖，點擊沒有圖片純屬正常現象**
+第三次開放角色：愛里
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Good_night_Kiss_ver200409.zip)
-[台版公告](https://cls.mangot5.com/game/cls/news/detail?contentNo=40853)
++ [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
++ [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_GNKiss_B2F39F98E930CEA4.zip)
++ [台版公告](https://www.closers.com.tw/news/TCjmHw56)
 ---
 {% tabs 類型 %}
 <!-- tab <font color=#6495ED><b>混合立繪</b></font>-->
@@ -70,6 +71,9 @@ description: ""
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
 [![](https://i.imgur.com/wNbWjwEh.png)](https://i.imgur.com/wNbWjwE.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/p8JAWzTh.png)](https://imgur.com/p8JAWzT.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -109,6 +113,9 @@ description: ""
 <!-- tab 銀河(Eunha)-->
 [![](https://i.imgur.com/bZdYkiBh.png)](https://i.imgur.com/bZdYkiB.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/6elaUg2h.png)](https://imgur.com/6elaUg2.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -127,13 +134,13 @@ description: ""
 [![](https://i.imgur.com/mmPxRcp.png)](https://i.imgur.com/mmPxRcp.png)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-
+[![](https://imgur.com/LJMGvNph.png)](https://imgur.com/LJMGvNp.png)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-
+[![](https://imgur.com/ofCqkNOh.png)](https://imgur.com/ofCqkNO.png)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-
+[![](https://imgur.com/dqgVjDgh.png)](https://imgur.com/dqgVjDg.png)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
 [![](https://i.imgur.com/4MP0zEF.png)](https://i.imgur.com/4MP0zEF.png)
@@ -142,10 +149,13 @@ description: ""
 [![](https://i.imgur.com/hUJgd5S.png)](https://i.imgur.com/hUJgd5S.png)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-
+[![](https://imgur.com/jHluw9Bh.png)](https://imgur.com/jHluw9B.png)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-
+[![](https://imgur.com/y6dI8nih.png)](https://imgur.com/y6dI8ni.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/c4EWg4Sh.png)](https://imgur.com/c4EWg4S.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -185,6 +195,9 @@ description: ""
 <!-- tab 銀河(Eunha)-->
 [![](https://i.imgur.com/4Xz7p86h.png)](https://i.imgur.com/4Xz7p86.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/QhQS3qhh.png)](https://imgur.com/QhQS3qh.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -203,13 +216,13 @@ description: ""
 [![](https://i.imgur.com/sdQGOTS.png)](https://i.imgur.com/sdQGOTS.png)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-
+[![](https://imgur.com/GekPiISh.png)](https://imgur.com/GekPiIS.png)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-
+[![](https://imgur.com/ZSfiuwxh.png)](https://imgur.com/ZSfiuwx.png)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-
+[![](https://imgur.com/R3ZfL4lh.png)](https://imgur.com/R3ZfL4l.png)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
 [![](https://i.imgur.com/VqrR7Zs.png)](https://i.imgur.com/VqrR7Zs.png)
@@ -218,10 +231,14 @@ description: ""
 [![](https://i.imgur.com/GepNQgh.png)](https://i.imgur.com/GepNQgh.png)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-
+[![](https://imgur.com/70eVGgvh.png)](https://imgur.com/70eVGgv.png)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
 
+[![](https://imgur.com/8ll30GAh.png)](https://imgur.com/8ll30GA.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/47bPNHRh.png)](https://imgur.com/47bPNHR.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -261,6 +278,9 @@ description: ""
 <!-- tab 銀河(Eunha)-->
 [![](https://i.imgur.com/z2XsGcBh.png)](https://i.imgur.com/z2XsGcB.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/VBdZZxdh.png)](https://imgur.com/VBdZZxd.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -279,13 +299,13 @@ description: ""
 [![](https://i.imgur.com/zuYhrlP.png)](https://i.imgur.com/zuYhrlP.png)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-
+[![](https://imgur.com/H1OiAv2h.png)](https://imgur.com/H1OiAv2.png)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-
+[![](https://imgur.com/8V87l4th.png)](https://imgur.com/8V87l4t.png)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-
+[![](https://imgur.com/Vzp2L15h.png)](https://imgur.com/Vzp2L15.png)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
 [![](https://i.imgur.com/wEvnv3E.png)](https://i.imgur.com/wEvnv3E.png)
@@ -294,10 +314,13 @@ description: ""
 [![](https://i.imgur.com/22HF0e1.png)](https://i.imgur.com/22HF0e1.png)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-
+[![](https://imgur.com/nQHM8ILh.png)](https://imgur.com/nQHM8IL.png)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-
+[![](https://imgur.com/KN5K8q4h.png)](https://imgur.com/KN5K8q4.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://imgur.com/QP1SGrwh.png)](https://imgur.com/QP1SGrw.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

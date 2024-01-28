@@ -286,9 +286,9 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 ### 復活
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>恩賜</font>**|每次復活觸發 1 次，對大範圍敵人造成 750億 固定傷害|-
-|**<font color=blue>B<font>**|**<font color=blue>絕境逆襲</font>**|每次復活觸發 1 次，30秒內 攻擊速度/移動速度 +15%、物理/魔法攻擊力 +1500、總物理/魔法攻擊力 +30%、物理/魔法暴擊傷害 +60%|-
-|**<font color=purple>C</font>**|**<font color=purple>擴散</font>**|每次復活觸發 1 次，使大範圍敵人受到傷害 +45%|-
+|**<font color=green>A</font>**|**<font color=green>恩賜</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，對大範圍敵人造成 750億 固定傷害|-
+|**<font color=blue>B<font>**|**<font color=blue>絕境逆襲</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，30秒內 攻擊速度/移動速度 +15%、物理/魔法攻擊力 +1500、總物理/魔法攻擊力 +30%、物理/魔法暴擊傷害 +60%|-
+|**<font color=purple>C</font>**|**<font color=purple>擴散</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，使大範圍敵人受到傷害 +45%|-
 
 ### 生存/強制阻斷封印
 |類型|名稱|能力|冷卻時間
