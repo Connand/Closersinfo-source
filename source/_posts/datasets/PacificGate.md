@@ -40,8 +40,9 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 
 # 副本資訊
-- 類型：{% inlineImg https://i.imgur.com/gdXdckN.png 48px %} 特異型
-- 新裝備裝備等級：148(賽騰城) -> 161 -> 177 -> 201(15村) -> 210 -> 215 -> 220(16村)
+- 類型：
+  - 江臨：{% inlineImg https://i.imgur.com/KOAPxLX.png 48px %} 人類型
+  - 飛亨：{% inlineImg https://i.imgur.com/3FV9pDB.png 48px %} 業火型
 
 |副本|等級|建議戰力|裝備等級|消耗疲勞|入場限制|人數|復活限制
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
