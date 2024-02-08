@@ -10,7 +10,7 @@ tags:
   - J
   - 米斯特汀
   - 納塔
-  - 蕾比亞
+  - 蕾比雅
   - 哈比
   - 緹娜
   - 薇歐莉特
@@ -23,6 +23,7 @@ tags:
   - 徹斯
   - 銀河
   - 露西
+  - 愛里
 category: [時裝, 輝煌時裝]
 cover: https://imgur.com/DtajMDvh.jpg
 description: "閃耀之星(Shining Star)"
@@ -193,6 +194,9 @@ description: "閃耀之星(Shining Star)"
 <!-- endtab -->
 <!-- tab 鍵盤手：露西(Lucy)-->
 [![](https://imgur.com/CZiVXvXh.jpg)](https://imgur.com/CZiVXvX.jpg)
+<!-- endtab -->
+<!-- tab 鼓手：愛里(Aeri)-->
+[![](https://imgur.com/aSyBm8dh.jpg)](https://imgur.com/aSyBm8d.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
