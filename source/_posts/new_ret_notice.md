@@ -295,7 +295,7 @@ sticky: 2
 相關內容請參考 [各式資料連結](#%E5%90%84%E5%BC%8F%E8%B3%87%E6%96%99%E9%80%A3%E7%B5%90)
 
 {% note blue 'fas fa-question-circle' simple %}
-請參考這張裝備流程圖 <a target="_blank" rel="noopener external nofollow noreferrer" href="/img/new_ret_tip/gearflow_v3.png">(點此看大圖)</a>
+請參考這張裝備流程圖 <a target="_blank" rel="noopener external nofollow noreferrer" href="/img/new_ret_tip/gearflow_v4.png">(點此看大圖)</a>
 {% endnote %}
 
 
