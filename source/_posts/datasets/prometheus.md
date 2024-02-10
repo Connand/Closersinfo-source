@@ -415,7 +415,7 @@ PLV: 220 (史詩240)
 [![](https://i.imgur.com/J8oxF29h.png)](https://i.imgur.com/J8oxF29.png)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-
+[![](https://imgur.com/VYOfuEIh.png)](https://imgur.com/VYOfuEI.png)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
 [![](https://i.imgur.com/RIrtGB5h.png)](https://i.imgur.com/RIrtGB5.png)
