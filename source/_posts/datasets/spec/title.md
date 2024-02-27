@@ -13,7 +13,7 @@ description: "重點稱號能力資料整合"
 
 |強度|物理 / 魔法|混合|
 |:-:|:-:|:-:|
-|T0|**噩夢的囚徒**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|**噩夢的囚徒**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|
+|T0|**噩夢的囚犯**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|**噩夢的囚徒**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|
 |T1|**找到怠惰王渴望之人**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_BELPHEGOR_4.PNG 50px %}|**噩夢看守者**<br>{% inlineImg /img/titles/ZMtHyR8.png 50px %}|
 |T2|**噩夢看守者**<br>{% inlineImg /img/titles/ZMtHyR8.png 50px %}|**不死的誅戮者**|
 |T3|**不死的誅戮者**|**找到怠惰王渴望之人**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_BELPHEGOR_4.PNG 50px %}|

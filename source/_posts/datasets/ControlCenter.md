@@ -372,7 +372,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 || {% inlineImg https://i.imgur.com/to0HmOD.png 64px %}  | {% inlineImg https://i.imgur.com/ZMtHyR8.png 64px %}  | {% inlineImg https://i.imgur.com/jhhaZ4o.png 64px %}  | {% inlineImg https://i.imgur.com/jhhaZ4o.png 64px %}  |  | 
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|名稱|**噩夢的囚徒**| **噩夢看守者**  | **噩夢征服者**  | **12次任務**  | **戰勝噩夢者**  |
+|名稱|**噩夢的囚犯**| **噩夢看守者**  | **噩夢征服者**  | **12次任務**  | **戰勝噩夢者**  |
 |獲得方式|Night Maze中機率獲得<br> <font color=#ff0000> 黑色兔子</font>掉落率較高| Night Maze中機率獲得<br> <font color=#ff0000> 看守者</font>掉落率較高 |於Night Maze中<br>與神秘商人購買|於Night Maze中<br>與神秘商人購買<br><font color=#ff0000> 購買須使用成就道具 </font>|擊敗噩夢看守者成就<br>(通關Night Maze 1次)|
 |素質|總物攻/魔攻+6%<br>物理/魔法爆擊傷害+66%<br>攻速+6%<br>超能爆發狀態增傷+66%| 總物攻/魔攻+5%<br>物理/魔法爆擊傷害+60%<br>攻速+4%<br>超能爆發狀態增傷+60% |總物攻/魔攻+4%<br>物理/魔法爆擊傷害+44%<br>攻速+4%<br>超能爆發狀態增傷+44%|HP+2500<br>總物攻/魔攻+4%<br>物理/魔法爆擊傷害+25%<br>超能爆發狀態增傷+70%|追加金幣20%<br>追加道具掉落率20%<br>追加經驗值20%<br>追加PNA經驗值20%|
 
