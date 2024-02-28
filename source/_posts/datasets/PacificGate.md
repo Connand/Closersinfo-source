@@ -297,7 +297,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}穩定的次元裂痕|35|70|100|250
 |{% inlineImg https://i.imgur.com/HVxdbDJ.png 40px %}寵物核心|2|3|4|6
 |{% inlineImg https://i.imgur.com/8oCLggp.png 40px %}PNA成長活性劑|2|3|4|6
-|{% inlineImg /img/chip/T2_color.png 40px %}T2彩色晶片選擇箱子|3|5|6|10
+|{% inlineImg /img/chip/T2_color.png 40px %}T2彩色晶片隨機箱子|3|5|6|10
 |{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}高級D零件：時裝| | | |2
 </div>
 <div class="childDiv">
