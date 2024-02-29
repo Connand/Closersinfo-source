@@ -10,6 +10,8 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ---
 
+> **<div style="text-align:center"><font size=4 color=red>注意：本文內容以韓服目前最新內容為主，與台服有一定程度差異</font></div>**
+
 # 前言
 [宣傳頁面](https://closers.nexon.com/Events2023/1228/Event)
 {% hideToggle <font color=#ff0000><b>注意：可能包含劇透內容</b></font> %}
@@ -58,7 +60,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 {% hideToggle <font color=#ff0000><b>17村副本系統(Flame Wave)簡介</b></font> %}
 {% tabs 副本資訊 %}
 <!-- tab Flame Wave(單人)-->
-+ **難度分為三種，獎勵也會隨難度增加有不同**
++ **難度分為 2 種，獎勵也會隨難度增加有不同**
 + {% inlineImg https://i.imgur.com/ppuEeTR.png 64px %}**為小關** (類似平時打的IF副本)
 + {% inlineImg https://i.imgur.com/AMohfIj.png 64px %}**為王關** (會出現江臨或飛亨)
 
@@ -334,8 +336,8 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 |{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %}1|{% inlineImg https://i.imgur.com/ofbuOah.png 40px %}1|{% inlineImg /img/chip/chip_overclock.png 40px %}1
 |:-:|:-:|:-:
-|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}20|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}20||
-|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}1|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}1||
+|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}50|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}50|{% inlineImg https://i.imgur.com/LE2TT8Q.png 40px %}1|
+|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}1|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}1|{% inlineImg https://i.imgur.com/I62TyC9.png 40px %}1|
 |{% inlineImg https://i.imgur.com/up3pmwN.png 40px %}1|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}1||
 
 
