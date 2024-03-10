@@ -399,7 +399,6 @@ PLV: 220 (史詩240)
 - # 火花的終局動作預覽
 
 由[封印者攻略網Discord群](https://discord.gg/closersinfotw)內玩家們提供
-尚缺：米斯特汀、納塔、金徹斯
 
 {% tabs 模組圖 %}
 <!-- tab 李世河(Seha)-->
@@ -415,16 +414,16 @@ PLV: 220 (史詩240)
 [![](https://i.imgur.com/J8oxF29h.png)](https://i.imgur.com/J8oxF29.png)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-[![](https://imgur.com/VYOfuEIh.png)](https://imgur.com/VYOfuEI.png)
+[![](https://i.imgur.com/VYOfuEIh.png)](https://i.imgur.com/VYOfuEI.png)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
-[![](https://i.imgur.com/RIrtGB5h.png)](https://i.imgur.com/RIrtGB5.png)
+[![](https://i.imgur.com/bThcGxe.png)](https://i.imgur.com/bThcGxe.png)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
 [![](https://i.imgur.com/AVAF6hBh.png)](https://i.imgur.com/AVAF6hB.png)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-[![](https://i.imgur.com/ragzNAn.hjpeg)](https://i.imgur.com/ragzNAn.jpeg)
+[![](https://i.imgur.com/ragzNAnh.jpeg)](https://i.imgur.com/ragzNAn.jpeg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
 [![](https://i.imgur.com/5Vm8Pmjh.png)](https://i.imgur.com/5Vm8Pmj.png)
@@ -451,7 +450,7 @@ PLV: 220 (史詩240)
 [![](https://i.imgur.com/IUSLakzh.png)](https://i.imgur.com/IUSLakz.png)
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-
+[![](https://i.imgur.com/D7TZCKhh.png)](https://i.imgur.com/D7TZCKh.png)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
 [![](https://i.imgur.com/2TgPk6Ih.png)](https://i.imgur.com/2TgPk6I.png)

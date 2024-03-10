@@ -20,9 +20,11 @@ description: "Sky Fleet"
 
 混合立繪：A
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉中 green %}
+2024/03/07 追加後續角色：賽特、未來、銀河、露西、愛里
 
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_captain.zip)
+[240307立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Captain_627FDEADA75DBE5E.zip)
 ---
 
 {% tabs 類型 %}
@@ -54,6 +56,21 @@ description: "Sky Fleet"
 <!-- endtab -->
 <!-- tab 白(Bai)-->
 [![](https://i.imgur.com/PmSu0O2h.jpg)](https://i.imgur.com/PmSu0O2.jpg)
+<!-- endtab -->
+<!-- tab 賽特(Seth)-->
+[![](https://i.imgur.com/QsQjNXlh.jpg)](https://i.imgur.com/QsQjNXl.jpg)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/B1LeCc5h.jpg)](https://i.imgur.com/B1LeCc5.jpg)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/DQSTiUph.jpg)](https://i.imgur.com/DQSTiUp.jpg)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/j7rMePCh.jpg)](https://i.imgur.com/j7rMePC.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/0gRDRy7h.jpg)](https://i.imgur.com/0gRDRy7.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -119,6 +136,21 @@ description: "Sky Fleet"
 <!-- tab 白(Bai)-->
 [![](https://i.imgur.com/QWqmFgIh.jpg)](https://i.imgur.com/QWqmFgI.jpg)
 <!-- endtab -->
+<!-- tab 賽特(Seth)-->
+[![](https://i.imgur.com/QVA55hAh.jpg)](https://i.imgur.com/QVA55hA.jpg)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/9XHIj8Wh.jpg)](https://i.imgur.com/9XHIj8W.jpg)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/ul9TS84h.jpg)](https://i.imgur.com/ul9TS84.jpg)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/0f4YXJ3h.jpg)](https://i.imgur.com/0f4YXJ3.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/jdS2KFTh.jpg)](https://i.imgur.com/jdS2KFT.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -182,6 +214,21 @@ description: "Sky Fleet"
 <!-- endtab -->
 <!-- tab 白(Bai)-->
 [![](https://i.imgur.com/VXzs5d8h.jpg)](https://i.imgur.com/VXzs5d8.jpg)
+<!-- endtab -->
+<!-- tab 賽特(Seth)-->
+[![](https://i.imgur.com/uXdW88jh.jpg)](https://i.imgur.com/uXdW88j.jpg)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/PIhSLsfh.jpg)](https://i.imgur.com/PIhSLsf.jpg)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/ARiS7WUh.jpg)](https://i.imgur.com/ARiS7WU.jpg)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://i.imgur.com/3dACz1Zh.jpg)](https://i.imgur.com/3dACz1Z.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/qEieFwnh.jpg)](https://i.imgur.com/qEieFwn.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
