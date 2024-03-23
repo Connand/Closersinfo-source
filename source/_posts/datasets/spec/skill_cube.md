@@ -1,5 +1,5 @@
 ---
-title: 技能核心與軍團程式(更新二大覺醒)
+title: 技能核心與軍團程式
 date: 2022-03-06 12:45:59
 tags: 資料紀錄
 category: [遊戲資料, 能力提升]
@@ -668,23 +668,40 @@ BUFF[不讓開嗎?]：爆擊傷害+30% (持續 10 秒)
 
 ---
 
-# 屬性核心 (尚未完成)
+# 屬性核心
 
 屬性核心就是可以提升一個技能傷害的核心
+**<font color=red>注意</font>** ：增傷數值實際作用不受[數值遞減](/datasets/new_guide/judge_and_stat/#%E8%83%BD%E5%8A%9B%E4%B8%8A%E9%99%90)影響
+- 例如：如果空中增傷為 99.5% 時，使用空中增傷 10% 的技能核心時，會使空中增傷上升為 109.5% 來進行傷害計算
 
+{% tabs 技能屬性核心 %}
+<!-- tab 一般技能-->
 |核心|能力|Lv.1|Lv.2|Lv.3|Lv.4
 |:-|:-|:-:|:-:|:-:|:-:
+|{% inlineImg https://i.imgur.com/WMIttiF.png 40px %} 空中/背後/追蹤傷害<br>**韓版2024/03/07新增**|空中增加傷害<br>背擊增加傷害<br>浮空增加傷害|5%<br>5%<br>5%|10%<br>10%<br>10%|15%<br>15%<br>15%|-
+|{% inlineImg https://i.imgur.com/2KkaCHM.png 40px %} 空中傷害<br>**韓版2024/03/07新增Lv. 5和Lv. 6**|**僅列出Lv. 5和Lv. 6**<br>空中增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
+|{% inlineImg https://i.imgur.com/knV9D9k.png 40px %} 背後傷害<br>**韓版2024/03/07新增Lv. 5和Lv. 6**|**僅列出Lv. 5和Lv. 6**<br>背擊增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
+|{% inlineImg https://i.imgur.com/S3sN4u0.png 40px %} 追蹤傷害<br>**韓版2024/03/07新增Lv. 5和Lv. 6**|**僅列出Lv. 5和Lv. 6**<br>浮空增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
 |{% inlineImg https://i.imgur.com/LQQ3LkH.png 40px %} 超能釋放/傷害|超能釋放時增加傷害<br>造成的傷害|6%<br>6%|9%<br>9%|12%<br>12%|15%<br>15%
 |{% inlineImg https://i.imgur.com/A5KnZVc.png 40px %} 物理暴擊/超能釋放|物理暴擊傷害<br>超能釋放時增加傷害|10%<br>9%|15%<br>12%|-|-
 |{% inlineImg https://i.imgur.com/A5KnZVc.png 40px %} 魔法暴擊/超能釋放|魔法暴擊傷害<br>超能釋放時增加傷害|10%<br>9%|15%<br>12%|-|-
 |{% inlineImg https://i.imgur.com/A5KnZVc.png 40px %} 混合暴擊/超能釋放|物理/魔法暴擊傷害<br>超能釋放時增加傷害|5%<br>9%|10%<br>12%|-|-
-|---**以下為必殺技使用**---|---|---|---|---|---
+<!-- endtab -->
+<!-- tab 必殺技能-->
+|核心|能力|Lv.1|Lv.2|Lv.3|Lv.4
+|:-|:-|:-:|:-:|:-:|:-:
+|{% inlineImg https://i.imgur.com/WMIttiF.png 40px %} [必殺] 空中/背後/追蹤傷害<br>**韓版2024/03/07新增**|空中增加傷害<br>背擊增加傷害<br>浮空增加傷害|5%<br>5%<br>5%|10%<br>10%<br>10%|15%<br>15%<br>15%|-
+|{% inlineImg https://i.imgur.com/2KkaCHM.png 40px %} [必殺] 空中傷害<br>**韓版2024/03/07新增Lv. 5和Lv. 6**|**僅列出Lv. 5和Lv. 6**<br>空中增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
+|{% inlineImg https://i.imgur.com/knV9D9k.png 40px %} [必殺] 背後傷害<br>**韓版2024/03/07新增Lv. 5和Lv. 6**|**僅列出Lv. 5和Lv. 6**<br>背擊增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
+|{% inlineImg https://i.imgur.com/S3sN4u0.png 40px %} [必殺] 追蹤傷害<br>**韓版2024/03/07新增Lv. 5和Lv. 6**|**僅列出Lv. 5和Lv. 6**<br>浮空增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
 |{% inlineImg https://i.imgur.com/LQQ3LkH.png 40px %} [必殺] 超能釋放/傷害|超能釋放時增加傷害<br>造成的傷害|8%<br>11%|12%<br>14%|16%<br>17%|20%<br>20%
 |{% inlineImg https://i.imgur.com/A5KnZVc.png 40px %} [必殺] 物理暴擊/超能釋放|物理暴擊傷害<br>超能釋放時增加傷害|10%<br>12%|15%<br>15%|-|-
 |{% inlineImg https://i.imgur.com/A5KnZVc.png 40px %} [必殺] 魔法暴擊/超能釋放|魔法暴擊傷害<br>超能釋放時增加傷害|10%<br>12%|15%<br>15%|-|-
 |{% inlineImg https://i.imgur.com/A5KnZVc.png 40px %} [必殺] 混合暴擊/超能釋放|物理/魔法暴擊傷害<br>超能釋放時增加傷害|5%<br>12%|10%<br>15%|-|-
+<!-- endtab -->
+{% endtabs %}
 
-(未完工)
+
 
 <style>
   .wave_reward table {
