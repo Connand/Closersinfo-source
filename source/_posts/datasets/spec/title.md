@@ -13,7 +13,8 @@ description: "重點稱號能力資料整合"
 
 |強度|物理 / 魔法|混合|
 |:-:|:-:|:-:|
-|T0|**噩夢的囚犯**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|**噩夢的囚徒**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|
+|T0 -A|**噩夢的囚犯**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|**噩夢的囚犯**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|
+|T0 -B|**劈開火花的異端者**<br>{% inlineImg https://i.imgur.com/l42EzGx.png 64px %}|**劈開火花的異端者**<br>{% inlineImg https://i.imgur.com/l42EzGx.png 64px %}|
 |T1|**找到怠惰王渴望之人**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_BELPHEGOR_4.PNG 50px %}|**噩夢看守者**<br>{% inlineImg /img/titles/ZMtHyR8.png 50px %}|
 |T2|**噩夢看守者**<br>{% inlineImg /img/titles/ZMtHyR8.png 50px %}|**不死的誅戮者**|
 |T3|**不死的誅戮者**|**找到怠惰王渴望之人**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_BELPHEGOR_4.PNG 50px %}|
@@ -58,6 +59,7 @@ description: "重點稱號能力資料整合"
 
 |名稱|帳號|能力|取得方式
 |:-:|:-:|:-|:-:
+|**劈開火花的異端者**<br>{% inlineImg https://i.imgur.com/l42EzGx.png 64px %}|Ｘ|總物攻/魔攻 +4.5%<br>物理/魔法爆擊傷害 +90%<br>超能爆發狀態增傷 +45%|[世界和平之門](/datasets/PacificGate/#%E7%A8%B1%E8%99%9F)
 |**噩夢的囚徒**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|Ｘ|總物攻/魔攻+6%<br>物理/魔法爆擊傷害+66%<br>攻速+6%<br>超能爆發狀態增傷+66%|[新首爾支部：作戰指揮室](/datasets/ControlCenter/#%E7%A8%B1%E8%99%9F)
 |**噩夢看守者**<br>{% inlineImg /img/titles/ZMtHyR8.png 50px %}|Ｘ|總物攻/魔攻+5%<br>物理/魔法爆擊傷害+60%<br>攻速+4%<br>超能爆發狀態增傷+60%|[新首爾支部：作戰指揮室](/datasets/ControlCenter/#%E7%A8%B1%E8%99%9F)
 |**找到怠惰王渴望之人**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_BELPHEGOR_4.PNG 50px %}|Ｘ|**<單傷>**<br>最大HP+1500<br>總攻擊力+2.75%<br>暴擊傷害+40%<br>空/背/浮爆傷+20%<br>—<br>**<混合>**<br>最大HP+1500<br>總物/魔攻+2.75%<br>物理/魔法爆傷+40%<br>空中爆傷+40%|[機械王](/datasets/belphegor/#%E7%A8%B1%E8%99%9F)<br>1. 機械王戰術分析室(3000)結算SSS獎勵機率獲得<br>2. 保底製作

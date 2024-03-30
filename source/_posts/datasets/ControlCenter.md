@@ -405,13 +405,16 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ---
 
-# 征服項目
+# 征服項目 (已關閉)
+
+> **<div style="text-align:center"><font size=4 color=red>此內容台版已於2024/03/28關閉，請參考 [此公告](https://www.closers.com.tw/news/czULSA436)</font></div>**
+
 難度最高的挑戰副本，共分30層
 **從韓版2023/02/09更新開放至03/29，才有首位玩家通關30層**
 [2023/10/19 新增31-35層](https://closers.nexon.com/News/Notice/View?n4ArticleSN=142467)
 [陸版首通30層](https://www.bilibili.com/video/BV14L411y7MX/?share_source=copy_web)
 從建議戰力2200萬開始，每一層加上200萬
-入場票可從Gate Wave的**危險度3**獎勵獲得{%inlineImg https://i.imgur.com/ZauopIm.png 64px%}
+入場票可從Gate Wave的**危險度3**獎勵獲得{%inlineImg https://i.imgur.com/ZauopIm.png 48px%}
 **<font color=#900>復活次數：2。第30層為3次</font>**
 {% tabs 副本資訊, -1 %}
 <!-- tab 種族數量統計-->
@@ -513,7 +516,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ---
 
-# 附錄：單人GW獎勵表
+# 附錄：單人GW獎勵表 (已關閉)
 
 由[參考資料](https://closers.nexon.com/Community/Tip/View?n4ArticleSN=19640)翻譯
 表格中標題數字為 **危險度**
@@ -613,7 +616,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 </div>
 
-# 附錄：四人GW獎勵表
+# 附錄：四人GW獎勵表 (已關閉)
 
 - **每個箱子都是隨機抽取其中一種獎勵**
 

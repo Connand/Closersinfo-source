@@ -10,8 +10,6 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ---
 
-> **<div style="text-align:center"><font size=4 color=red>注意：本文內容以韓服目前最新內容為主，與台服有一定程度差異</font></div>**
-
 # 前言
 [宣傳頁面](https://closers.nexon.com/Events2023/1228/Event)
 {% hideToggle <font color=#ff0000><b>注意：可能包含劇透內容</b></font> %}
@@ -266,10 +264,11 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 ---
 # 稱號
 + 透過製作機獲得 (**<font color=red>角色制</font>**)
+  - 最少需要 **<font color=red>125天</font>** 才可製作
 
 |圖片| {% inlineImg https://i.imgur.com/l42EzGx.png 64px %}  |
 |:-:|:-:|
-|名稱|**分裂火焰的異端**|
+|名稱|**劈開火花的異端者**|
 |製作材料|{% inlineImg https://i.imgur.com/R1opdqg.png 40px %}x500 + {% inlineImg https://i.imgur.com/KdGq7Qg.png 40px %}x500 + {% inlineImg https://i.imgur.com/NHsNGzN.png 40px %}x1000|
 |素質|總物攻/魔攻 +4.5%<br>物理/魔法爆擊傷害 +90%<br>超能爆發狀態增傷 +45%|
 
@@ -313,9 +312,11 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}一般D零件：裝備|2|3|4|6
 |{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}一般D零件：時裝| | |2|3
 |{% inlineImg https://i.imgur.com/up3pmwN.png 40px %}高級D零件：裝備 | | | |2
-|{% inlineImg https://i.imgur.com/ZauopIm.png 40px %}項目生物認證金鑰| | | |1
 </div>
 </div>
+
+**<div style="text-align:center">[RIP](https://www.closers.com.tw/news/czULSA436)<br>{% inlineImg https://i.imgur.com/ZauopIm.png 24px %} 項目生物認證金鑰<br>2023/08/10 ~ 2024/03/28</div>**
+
 
 > ## 四人FW獎勵表
 
@@ -326,13 +327,20 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 - **獎勵內容為固定如下**
 
-|{% inlineImg https://i.imgur.com/jyAxYjX.png 40px %}|{% inlineImg /img/material/malek_diamond.png 40px %}|{% inlineImg https://i.imgur.com/NHsNGzN.png 40px %}|{% inlineImg https://i.imgur.com/R1opdqg.png 40px %}或{% inlineImg https://i.imgur.com/KdGq7Qg.png 40px %}<br>**僅限困難模式**|
+|{% inlineImg https://i.imgur.com/jyAxYjX.png 40px %}(普通)<br>{% inlineImg https://i.imgur.com/Ll5YvaS.png 40px %}(困難)|{% inlineImg /img/material/malek_diamond.png 40px %}|{% inlineImg https://i.imgur.com/NHsNGzN.png 40px %}|{% inlineImg https://i.imgur.com/R1opdqg.png 40px %}或{% inlineImg https://i.imgur.com/KdGq7Qg.png 40px %}<br>**僅限困難模式**|
 |:-:|:-:|:-:|:-:|
 |1|4|4|4|
 </div>
 <div class="childDiv">
 
 - **其中{% inlineImg https://i.imgur.com/jyAxYjX.png 40px %}可隨機開啟內容如下**
+
+|{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %}1|{% inlineImg https://i.imgur.com/ofbuOah.png 40px %}1|{% inlineImg /img/chip/chip_overclock.png 40px %}1
+|:-:|:-:|:-:
+|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %}1|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}1|{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}20|
+|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}1|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}1|{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}20|
+
+- **其中{% inlineImg https://i.imgur.com/Ll5YvaS.png 40px %}可隨機開啟內容如下**
 
 |{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %}1|{% inlineImg https://i.imgur.com/ofbuOah.png 40px %}1|{% inlineImg /img/chip/chip_overclock.png 40px %}1
 |:-:|:-:|:-:
