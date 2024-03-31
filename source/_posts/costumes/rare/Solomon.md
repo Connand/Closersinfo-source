@@ -35,16 +35,19 @@ description: "第二套輝煌時裝(Unique costume)"
 ## 所羅門武裝(Solomon’s Vestments)
 所羅門武裝(Solomon’s Vestments)是基於前一年的閃耀之星，所接連出的第二套輝煌時裝(Unique costume)。於[AMAZING CLOSERS](https://www.youtube.com/watch?v=1ZKj7cuBx6Q)預告片中釋出
 
-23/03/23更新愛里
-[載點](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_230323_9D8CEC0ABD7D2E9A.zip)
-
 [台版介紹網頁](https://landing.mangot5.com/template/cls/event/211223_solomon/index.html)
-[韓版官網立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_210128.zip)
+[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_210128.zip)
 [修改後立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_220603.zip)(修改後的納塔立繪)
+23/03/23更新愛里：[載點](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_230323_9D8CEC0ABD7D2E9A.zip)
 
 所需十件套才可啟動立繪、語音、特效；動作擁有六件套即可
 十件套部位：部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 臉中 green %}、{% label 背部 green %}、{% label 瞳孔 green %}
 
+> ## 特殊功能
+- **啟動方式** ：完成十件套後，透過角色介面中的「**更改角色背景**」 -> 「**技能特效**」 -> 「**所羅門武裝**」
+- **觸發方式** ：使用{% inlineImg /img/common_skill/force_cancel.png 32px %} **強制阻斷**後，獲得{% inlineImg https://i.imgur.com/TyIvgRu.png 32px %} **所羅門的庇護** 與 {% inlineImg https://i.imgur.com/P03NFTG.png 32px %} **所羅門的疾風**
+- {% inlineImg https://i.imgur.com/TyIvgRu.png 32px %} <strong>所羅門的庇護</strong>：每秒恢復 HP/MP 4%。持續 5 秒。
+- {% inlineImg https://i.imgur.com/P03NFTG.png 32px %} <strong>所羅門的疾風</strong>：移動速度(%) +5%。持續 30 秒。
 
 {% tabs 類型 %}
 <!-- tab 黑羊小隊-->
