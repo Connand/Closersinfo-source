@@ -4,7 +4,7 @@ date: 2024-03-23 17:25:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
 cover: https://i.imgur.com/mkl4ALn.png
-description: "break_challenge"
+description: "Break Challenge"
 ---
 
 > **<div style="text-align:center"><font size=3 color=red>建置中，尚未完成</font><br>有關王關機制可以參考 [水門的文章](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9424&tnum=1)<br>![](https://i.imgur.com/v3iU262.png)</div>**
@@ -128,7 +128,7 @@ description: "break_challenge"
 |:-|:-:|:-:|:-:|:-:|
 |- **使用限制**|||||
 |補血膠囊使用次數限制|無限制|5<br>**350**|2<br>**500**|0<br>**700**|
-|復活膠囊使用次數限制|3|5<br>**350**|2<br>**500**|0<br>**700**|
+|復活膠囊使用次數限制|3|2<br>**350**|1<br>**500**|0<br>**700**|
 |挑戰時間限制|300秒|240秒<br>**450**|180秒<br>**650**|120秒<br>**900**|
 |緊急閃避|無限制|禁止使用<br>**750**|||
 |強制阻斷|無限制|禁止使用<br>**750**|||
@@ -194,7 +194,7 @@ description: "break_challenge"
 
   table {
     text-align: center;
-	  width: 85%;
+	  width: 80%;
   }
 
   .dec table {

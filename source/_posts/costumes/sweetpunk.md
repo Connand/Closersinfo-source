@@ -232,6 +232,9 @@ description: "Sweety Punk"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/8CNubxnh.jpg)](https://i.imgur.com/8CNubxn.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/B1EYadGh.png)](https://i.imgur.com/B1EYadG.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 

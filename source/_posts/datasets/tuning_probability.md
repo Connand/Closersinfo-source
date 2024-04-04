@@ -1,5 +1,5 @@
 ---
-title: 重鑄與福袋機率表
+title: 重鑄機率表
 date: 2021-09-03 14:01:31
 tags: 資料紀錄
 category: [遊戲資料,機率資料]
@@ -53,57 +53,18 @@ description: ""
 
 ---
 
-# 幸運福袋機率表
+# {% inlineImg https://i.imgur.com/ofbuOah.png 64px %}突變(PNA)發現體
 
-### {% inlineImg /img/material/syringe_bag.png 48px %} [強化器防護劑] 幸運福袋
+**每一格可重鑄 8 種能力**
+**每種能力機率平均分配**
 
-| 內容與數量 | 機率 |
-| :- | :-: |
-| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 7 | 83.54 % |
-| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 8 | 8.00 % |
-| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 9 | 4.86 % |
-| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 10 | 2.00 % |
-| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 15 | 1.00 % |
-| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 20 | 0.30 % |
-| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 30 | 0.20 % |
-| {% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %} 強化器防護劑 x 50 | 0.10 % |
-
-### {% inlineImg /img/material/elixir_bag.png 48px %} [超越秘藥] 幸運福袋
-
-| 內容與數量 | 機率 |
-| :- | :-: |
-| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 17 | 64.54 % |
-| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 18 | 19.00 % |
-| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 19 | 10.36 % |
-| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 20 | 4.00 % |
-| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 30 | 1.00 % |
-| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 40 | 0.50 % |
-| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 50 | 0.30 % |
-| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 70 | 0.20 % |
-| {% inlineImg /img/material/elixir.png 40px %} 超越秘藥 x 100 | 0.10 % |
-
-### 黑暗光輝飾品隨機箱子
-
-| 內容 | 機率 |
-| :- | :-: |
-| {% inlineImg https://i.imgur.com/j8l7M8H.png 40px %} 濃縮黑暗光輝眼線紋身[稀有] x 1 | 35.00 % |
-| {% inlineImg https://i.imgur.com/Dnm3PJT.png 40px %} 濃縮黑暗光輝頭飾[稀有] x 1 | 25.00 % |
-| {% inlineImg https://i.imgur.com/GAeSil7.png 40px %} 濃縮黑暗光輝翅膀[稀有] x 1 | 30.00 % |
-| {% inlineImg https://i.imgur.com/fiYIa5J.png 40px %} 濃縮黑暗光輝眼瞳[稀有] x 1 | 10.00 % |
-
-### +13/+14 燃料隨機箱子
-
-| 內容 | 機率 |
-| :- | :-: |
-| {% inlineImg /img/material/fuel13.PNG 40px %} 強化燃料 +13 x 1 | 99.00 % |
-| {% inlineImg /img/material/fuel14.PNG 40px %} 強化燃料 +14 x 1 | 1.00 % |
-
-### +14/+15 燃料隨機箱子
-
-| 內容 | 機率 |
-| :- | :-: |
-| {% inlineImg /img/material/fuel14.PNG 40px %} 強化燃料 +14 x 1 | 95.00 % |
-| {% inlineImg /img/material/fuel15.PNG 40px %} 強化燃料 +15 x 1 | 5.00 % |
+| 等級 | 機率 |
+| :-: | :-: |
+| SS | 0.40% |
+| S | 8.00% |
+| A | 30.00% |
+| B | 40.00% |
+| C | 21.60% |
 
 ---
 
