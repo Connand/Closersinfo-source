@@ -7,8 +7,7 @@ cover: /img/material/syringe_bag.png
 description: ""
 ---
 
-來源為韓版官方公布的機率表：https://closers.nexon.com/News/Notice/View?n4ArticleSN=133964
-韓版官方付費道具機率表：https://cs.nexon.com/helpBoard/popuphelpview/5032
+來源為韓版官方公布的機率表：https://closers.nexon.com/News/Guide/List?n4ArticleCategorySN=4#today
 
 **公告中提到：**
 - **<font color=#ef674d>所有機率均已通過遊戲記錄分析驗證，可正常運行。</font>**
@@ -217,6 +216,24 @@ description: ""
 ---
 
 # 幸運福袋機率表
+
+### [UMP] 普通強化器燃料箱子（1種）
+
+| 內容與數量 | 機率 |
+| :- | :-: |
+| {% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %} 一般強化器燃料 x 10 | 80.00 % |
+| {% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %} 一般強化器燃料 x 13 | 15.00 % |
+| {% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %} 一般強化器燃料 x 16 | 4.00 % |
+| {% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %} 一般強化器燃料 x 20 | 1.00 % |
+
+### [UMP] 幸運強化器燃料箱子（1種）
+
+| 內容與數量 | 機率 |
+| :- | :-: |
+| {% inlineImg /img/material/HQ_150101_RESOURCE_ENCHANT.PNG 40px %} 幸運強化器燃料 x 3 | 90.00 % |
+| {% inlineImg /img/material/HQ_150101_RESOURCE_ENCHANT.PNG 40px %} 幸運強化器燃料 x 4 | 7.00 % |
+| {% inlineImg /img/material/HQ_150101_RESOURCE_ENCHANT.PNG 40px %} 幸運強化器燃料 x 5 | 2.50 % |
+| {% inlineImg /img/material/HQ_150101_RESOURCE_ENCHANT.PNG 40px %} 幸運強化器燃料 x 6 | 0.50 % |
 
 ### {% inlineImg /img/material/syringe_bag.png 48px %} [強化器防護劑] 幸運福袋
 

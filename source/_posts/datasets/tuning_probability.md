@@ -7,8 +7,7 @@ cover: https://i.imgur.com/lC2WTk8.png
 description: ""
 ---
 
-來源為韓版官方公布的機率表：https://closers.nexon.com/News/Notice/View?n4ArticleSN=133964
-韓版官方付費道具機率表：https://cs.nexon.com/helpBoard/popuphelpview/5032
+來源為韓版官方公布的機率表：https://closers.nexon.com/News/Guide/List?n4ArticleCategorySN=4#today
 
 **公告中提到：**
 - **<font color=#ef674d>所有機率均已通過遊戲記錄分析驗證，可正常運行。</font>**
