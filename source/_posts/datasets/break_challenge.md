@@ -28,11 +28,12 @@ description: "Break Challenge"
 > # 新觸發器：無限暴食的執行
 
 > ## 取得管道
-1. 通關無限暴食之地可掉落 3 ~ 5 個{% inlineImg https://i.imgur.com/PTrj4u7.png 48px %}
-2. 通關無限暴食之地挑戰分數可取得{% inlineImg https://i.imgur.com/PTrj4u7.png 48px %}
-3. 透過突破挑戰相關材料{% inlineImg https://i.imgur.com/JQLC1Bo.png 48px %}可以製作{% inlineImg https://i.imgur.com/V6KYYfw.png 48px %}
+1. 通關**無限暴食之地**可掉落 3 ~ 5 個{% inlineImg https://i.imgur.com/PTrj4u7.png 40px %}
+2. 通關**無限暴食之地**挑戰分數可取得{% inlineImg https://i.imgur.com/PTrj4u7.png 40px %}
+3. 透過突破挑戰相關材料{% inlineImg https://i.imgur.com/JQLC1Bo.png 40px %}可以製作{% inlineImg https://i.imgur.com/V6KYYfw.png 40px %}
 
-{% inlineImg https://i.imgur.com/PTrj4u7.png 48px %}可以開啟傳說級觸發器。{% inlineImg https://i.imgur.com/V6KYYfw.png 48px %}可以隨機開啟菁英級或傳說級觸發器
+- {% inlineImg https://i.imgur.com/PTrj4u7.png 40px %}可以開啟{% inlineImg https://i.imgur.com/dIrIct9.png 40px %}傳說級觸發器。{% inlineImg https://i.imgur.com/V6KYYfw.png 40px %}可以隨機開啟{% inlineImg https://i.imgur.com/7FNsjt1.png 40px %}菁英級或{% inlineImg https://i.imgur.com/dIrIct9.png 40px %}傳說級觸發器
+- 可以利用{% inlineImg /img/material/costume_seal_new.png 40px %} **品質保證封印 x8/x24** 將觸發器包裝後透過帳號倉庫傳給其他角色使用
 
 > ## 能力值
 
@@ -43,8 +44,8 @@ description: "Break Challenge"
 取得時為未鑒定狀態，以鑒定系統來決定 **固定能力** 
 - 透過下方固定能力表來抽取
 - **固定能力** 可以重複，例如可以有 4 條 1 級 物理暴擊傷害
-- **{% inlineImg https://i.imgur.com/7FNsjt1.png 48px %}菁英級(紫色)可決定 3 條固定能力**
-- **{% inlineImg https://i.imgur.com/dIrIct9.png 48px %}傳說級(橘色)可決定 4 條固定能力**
+- **{% inlineImg https://i.imgur.com/7FNsjt1.png 48px %}菁英級(紫色)可決定<font color=red> 3 條固定能力</font>**
+- **{% inlineImg https://i.imgur.com/dIrIct9.png 48px %}傳說級(橘色)可決定<font color=red> 4 條固定能力</font>**
 
 > ## 重鑄轉移(建置中)
 
