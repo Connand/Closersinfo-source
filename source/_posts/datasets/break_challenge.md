@@ -1,5 +1,5 @@
 ---
-title: 突破挑戰(未完成)
+title: 突破挑戰
 date: 2024-03-23 17:25:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
@@ -7,9 +7,9 @@ cover: https://i.imgur.com/mkl4ALn.png
 description: "Break Challenge"
 ---
 
-> **<div style="text-align:center"><font size=3 color=red>建置中，尚未完成</font><br>有關王關機制可以參考 [水門的文章](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9424&tnum=1)<br>![](https://i.imgur.com/v3iU262.png)</div>**
+> **<div style="text-align:center"><font size=3 color=red>注意</font><br>有關王關機制與攻略可以參考 [水門的文章](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9424&tnum=1)<br>![](https://i.imgur.com/v3iU262.png)</div>**
 
-> # 副本內容(建置中)
+> # 副本內容
 
 > ## 副本組成
 

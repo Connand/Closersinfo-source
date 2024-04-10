@@ -1,5 +1,5 @@
 ---
-title: 四月貓咪、男僕
+title: 4月貓咪、男僕
 date: 2022-04-01 08:00:23
 tags:
     - 李世河
@@ -31,8 +31,9 @@ description: ""
 ## 4月貓咪&男僕
 
 愚人節所出的時裝，**男生男僕套裝為徐維莉女僕D型**
-**僅有女角有立繪**
-部位：{% label 武器(女角限定) green %}、髮型、上衣、下衣、手套、鞋子、{% label 臉下 green %}、{% label 腰部 green %}
+**僅有女角有立繪，且其餘部位分 3 型**
+部位：{% label 武器(女角限定，只有A型) green %}、髮型、上衣、下衣、手套、鞋子、{% label 臉下 green %}、{% label 腰部 green %}
+**<font color=red>注意</font>：女角需要將所有部位升至三星才可使用立繪**
 
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_catPackage_96s03.zip)
 [台版公告](http://cls.mangot5.com/game/cls/news/detail?contentNo=52020)
