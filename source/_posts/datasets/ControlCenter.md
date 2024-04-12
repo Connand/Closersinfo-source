@@ -173,6 +173,13 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |護盾|5,000,000|20 個|100 個|**<font color=red>200 個</font>**|**<font color=red>200 個</font>**|
 {% endhideToggle %}
 
+{% hideToggle 2024/03/07韓版調整後 %}
+|裝備| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} |  {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|模組|**<font color=red>5,000,000</font>**|40 個|200 個|**<font color=red>40 個</font>**|**<font color=red>40 個</font>**|
+|護盾|**<font color=red>2,500,000</font>**|20 個|100 個|**<font color=red>20 個</font>**|**<font color=red>20 個</font>**|
+{% endhideToggle %}
+
 <p>　</p>
 
 
@@ -187,6 +194,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |調整前|500,000|50 個|30 個|2 個|10 個|
 |**<font color=red>2023/10/19韓版調整後</font>**|500,000|**<font color=red>20 個</font>**|**<font color=red>20 個</font>**|2 個|10 個|
+|**<font color=red>2024/03/07韓版調整後</font>**|**<font color=red>250,000</font>**|**<font color=red>2 個</font>**|**<font color=red>2 個</font>**|2 個|10 個|
 <!-- endtab -->
 
 <!-- tab 保底法-->
@@ -202,12 +210,23 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 {% hideToggle 2023/10/19韓版調整後 %}
 |階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|模組L1|12,500,000|**<font color=red>500 個</font>**|**<font color=red>500 個</font>**|50 個|250 個|
-|模組L2|16,700,000|**<font color=red>670 個</font>**|**<font color=red>670 個</font>**|67 個|330 個|
+|模組L1|12,500,000|**<font color=red>50 個</font>**|**<font color=red>50 個</font>**|50 個|250 個|
+|模組L2|16,700,000|**<font color=red>67 個</font>**|**<font color=red>67 個</font>**|67 個|330 個|
 |<font color=red>小結</font>|29,200,000|**<font color=red>1170 個</font>**|**<font color=red>1170 個</font>**|117 個|580 個|
-|護盾L1|6,250,000|**<font color=red>250 個</font>**|**<font color=red>250 個</font>**|25 個|125 個|
-|護盾L2|8,300,000|**<font color=red>330 個</font>**|**<font color=red>330 個</font>**|33 個|170 個|
+|護盾L1|6,250,000|**<font color=red>25 個</font>**|**<font color=red>25 個</font>**|25 個|125 個|
+|護盾L2|8,300,000|**<font color=red>33 個</font>**|**<font color=red>33 個</font>**|33 個|170 個|
 |<font color=red>小結</font>|14,550,000|**<font color=red>580 個</font>**|**<font color=red>580 個</font>**|58 個|295 個|
+{% endhideToggle %}
+
+{% hideToggle 2024/03/07韓版調整後 %}
+|階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|模組L1|**<font color=red>6,250,000</font>**|**<font color=red>500 個</font>**|**<font color=red>500 個</font>**|50 個|250 個|
+|模組L2|**<font color=red>8,350,000</font>**|**<font color=red>670 個</font>**|**<font color=red>670 個</font>**|67 個|330 個|
+|<font color=red>小結</font>|**<font color=red>14,600,000</font>**|**<font color=red>117 個</font>**|**<font color=red>117 個</font>**|117 個|580 個|
+|護盾L1|**<font color=red>3,125,000</font>**|**<font color=red>250 個</font>**|**<font color=red>250 個</font>**|25 個|125 個|
+|護盾L2|**<font color=red>4,150,000</font>**|**<font color=red>330 個</font>**|**<font color=red>330 個</font>**|33 個|170 個|
+|<font color=red>小結</font>|**<font color=red>7,275,000</font>**|**<font color=red>58 個</font>**|**<font color=red>58 個</font>**|58 個|295 個|
 {% endhideToggle %}
 <!-- endtab -->
 
@@ -244,6 +263,16 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |護盾3件|43,650,000|**<font color=red>1740 個</font>**|**<font color=red>1740 個</font>**|174 個|885 個|
 |**總和**|72,850,000|**<font color=red>2910 個</font>**|**<font color=red>2910 個</font>**|291 個|1465 個|
 |**<font color=#f00>含製作</font>**|97,850,000|**<font color=red>3910 個</font>**|**<font color=red>3910 個</font>**|391 個|1965 個|
+{% endhideToggle %}
+
+{% hideToggle 2024/03/07韓版調整後 %}
+|| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|模組|**<font color=red>14,600,000</font>**|**<font color=red>117 個</font>**|**<font color=red>117 個</font>**|117 個|580 個|
+|護盾|**<font color=red>7,275,000</font>**|**<font color=red>58 個</font>**|**<font color=red>58 個</font>**|58 個|295 個|
+|護盾3件|**<font color=red>21,825,000</font>**|**<font color=red>174 個</font>**|**<font color=red>174 個</font>**|174 個|885 個|
+|**總和**|**<font color=red>36,425,000</font>**|**<font color=red>291 個</font>**|**<font color=red>291 個</font>**|291 個|1465 個|
+|**<font color=#f00>含製作</font>**|**<font color=red>48,925,000</font>**|**<font color=red>391 個</font>**|**<font color=red>391 個</font>**|391 個|1965 個|
 {% endhideToggle %}
 <!-- endtab -->
 

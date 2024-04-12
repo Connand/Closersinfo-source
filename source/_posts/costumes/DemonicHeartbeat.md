@@ -1,5 +1,5 @@
 ---
-title: 惡魔的心跳(Demonic Heartbeat)
+title: 惡魔悸動(Demonic Heartbeat)
 date: 2023-12-14 18:00:00
 tags:
     - 立繪時裝

@@ -1,5 +1,5 @@
 ---
-title: 永恆的漆黑薔薇(暫譯)
+title: 永恆黑玫瑰(Eternal Black Rose)
 date: 2022-09-07 12:09:15
 tags:
     - 立繪時裝
