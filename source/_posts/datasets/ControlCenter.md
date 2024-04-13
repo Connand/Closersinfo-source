@@ -210,24 +210,26 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 {% hideToggle 2023/10/19韓版調整後 %}
 |階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|模組L1|12,500,000|**<font color=red>50 個</font>**|**<font color=red>50 個</font>**|50 個|250 個|
-|模組L2|16,700,000|**<font color=red>67 個</font>**|**<font color=red>67 個</font>**|67 個|330 個|
+|模組L1|12,500,000|**<font color=red>500 個</font>**|**<font color=red>500 個</font>**|50 個|250 個|
+|模組L2|16,700,000|**<font color=red>670 個</font>**|**<font color=red>670 個</font>**|67 個|330 個|
 |<font color=red>小結</font>|29,200,000|**<font color=red>1170 個</font>**|**<font color=red>1170 個</font>**|117 個|580 個|
-|護盾L1|6,250,000|**<font color=red>25 個</font>**|**<font color=red>25 個</font>**|25 個|125 個|
-|護盾L2|8,300,000|**<font color=red>33 個</font>**|**<font color=red>33 個</font>**|33 個|170 個|
+|護盾L1|6,250,000|**<font color=red>250 個</font>**|**<font color=red>250 個</font>**|25 個|125 個|
+|護盾L2|8,300,000|**<font color=red>330 個</font>**|**<font color=red>330 個</font>**|33 個|170 個|
 |<font color=red>小結</font>|14,550,000|**<font color=red>580 個</font>**|**<font color=red>580 個</font>**|58 個|295 個|
 {% endhideToggle %}
 
 {% hideToggle 2024/03/07韓版調整後 %}
 |階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/55LncBB.png 48px %} | {% inlineImg https://i.imgur.com/t6ZTftc.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|模組L1|**<font color=red>6,250,000</font>**|**<font color=red>500 個</font>**|**<font color=red>500 個</font>**|50 個|250 個|
-|模組L2|**<font color=red>8,350,000</font>**|**<font color=red>670 個</font>**|**<font color=red>670 個</font>**|67 個|330 個|
+|模組L1|**<font color=red>6,250,000</font>**|**<font color=red>50 個</font>**|**<font color=red>50 個</font>**|50 個|250 個|
+|模組L2|**<font color=red>8,350,000</font>**|**<font color=red>67 個</font>**|**<font color=red>67 個</font>**|67 個|330 個|
 |<font color=red>小結</font>|**<font color=red>14,600,000</font>**|**<font color=red>117 個</font>**|**<font color=red>117 個</font>**|117 個|580 個|
-|護盾L1|**<font color=red>3,125,000</font>**|**<font color=red>250 個</font>**|**<font color=red>250 個</font>**|25 個|125 個|
-|護盾L2|**<font color=red>4,150,000</font>**|**<font color=red>330 個</font>**|**<font color=red>330 個</font>**|33 個|170 個|
+|護盾L1|**<font color=red>3,125,000</font>**|**<font color=red>25 個</font>**|**<font color=red>25 個</font>**|25 個|125 個|
+|護盾L2|**<font color=red>4,150,000</font>**|**<font color=red>33 個</font>**|**<font color=red>33 個</font>**|33 個|170 個|
 |<font color=red>小結</font>|**<font color=red>7,275,000</font>**|**<font color=red>58 個</font>**|**<font color=red>58 個</font>**|58 個|295 個|
 {% endhideToggle %}
+
+
 <!-- endtab -->
 
 <!-- tab 彩罐法-->
