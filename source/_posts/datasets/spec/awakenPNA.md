@@ -121,6 +121,8 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 
 ## 表現體主要能力表
 
+- 重鑄機率請參考[機率表](/datasets/tuning_probability/#%E7%AA%81%E8%AE%8A-PNA-%E7%99%BC%E7%8F%BE%E9%AB%94)
+
 |每個種族|平均需要|三十三等|才能開啟|所有格子
 |:-:|:-:|:-:|:-:|:-:
 |**Lv. 60**<br>背擊時暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 120**<br>空中時暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 180**<br>浮空時暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 200**<br>攻擊速度<br>{% inlineImg img/tuning/tuningSS.png 24px %} 2%{% inlineImg img/tuning/tuningS.png 24px %} 1%|**Lv. 220**<br>總物理攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%
