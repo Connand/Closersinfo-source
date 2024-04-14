@@ -26,24 +26,6 @@ description: "融合威嚴詳細內容說明"
 {% tabs 融合威嚴強化能力 %}
 <!-- tab +1到+10-->
 
-- **<font color=#ff0000>覺醒強化I</font>** ：每次覺醒獲得1 BUFF堆疊，最多10次。每BUFF堆疊有：物理/魔法爆擊傷害+1%、空中/背擊/浮空爆擊傷害+1%
-
-|等級|![金幣](https://i.imgur.com/bRFx7v6.png)|![時裝合成纖維](https://i.imgur.com/3MjLN14.png)|![燦爛超能纖維](https://i.imgur.com/UmkzgVE.png)|![威嚴精髓](https://i.imgur.com/6PHDZf6.png)|增加能力值|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|+1 |10,000,000|1 個|100 個|1 個|空中/背擊/浮空爆擊傷害 +5%|
-|+2 |15,000,000|3 個|150 個|2 個|攻擊/移動速度 +5%|
-|+3 |20,000,000|5 個|200 個|3 個|物理/魔法攻擊力 +100|
-|+4 |25,000,000|7 個|250 個|4 個|覺醒傷害 +10%|
-|+5 |35,000,000|10 個|350 個|5 個|**<font color=#ff0000>覺醒強化I</font>**|
-|+6 |35,000,000|12 個|450 個|6 個|空中/背擊/浮空傷害 +8%|
-|+7 |40,000,000|14 個|500 個|7 個|所有類型傷害 +5%|
-|+8 |45,000,000|16 個|550 個|8 個|物理/魔法爆擊傷害 +10%|
-|+9 |55,000,000|18 個|600 個|9 個|追加獲得道具 +10%|
-|+10|60,000,000|20 個|650 個|10 個|物理/魔法攻擊力 +300|
-|**合計**|**210,000,000**|**106 個**|**3800 個**|**55 個**|-|
-<!-- endtab -->
-<!-- tab +1到+10(調整後)-->
-
 - **<font color=#ff0000>覺醒強化I</font>** ：每次覺醒獲得1 BUFF堆疊，最多10次。每BUFF堆疊有：物理/魔法爆擊傷害+2%、空中/背擊/浮空爆擊傷害+2%
 
 |等級|![金幣](https://i.imgur.com/bRFx7v6.png)|![時裝合成纖維](https://i.imgur.com/3MjLN14.png)|![燦爛超能纖維](https://i.imgur.com/UmkzgVE.png)|![威嚴精髓](https://i.imgur.com/6PHDZf6.png)|增加能力值|
@@ -78,7 +60,99 @@ description: "融合威嚴詳細內容說明"
 |+20|200,000,000|40 個|650 個|20 個|物理/魔法攻擊力 +2000|
 |**合計**|**1,406,000,000**|**310 個**|**3800 個**|**155 個**|-|
 <!-- endtab -->
+<!-- tab +1到+10(舊版)-->
+
+- **<font color=#ff0000>覺醒強化I</font>** ：每次覺醒獲得1 BUFF堆疊，最多10次。每BUFF堆疊有：物理/魔法爆擊傷害+1%、空中/背擊/浮空爆擊傷害+1%
+
+|等級|![金幣](https://i.imgur.com/bRFx7v6.png)|![時裝合成纖維](https://i.imgur.com/3MjLN14.png)|![燦爛超能纖維](https://i.imgur.com/UmkzgVE.png)|![威嚴精髓](https://i.imgur.com/6PHDZf6.png)|增加能力值|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|+1 |10,000,000|1 個|100 個|1 個|空中/背擊/浮空爆擊傷害 +5%|
+|+2 |15,000,000|3 個|150 個|2 個|攻擊/移動速度 +5%|
+|+3 |20,000,000|5 個|200 個|3 個|物理/魔法攻擊力 +100|
+|+4 |25,000,000|7 個|250 個|4 個|覺醒傷害 +10%|
+|+5 |35,000,000|10 個|350 個|5 個|**<font color=#ff0000>覺醒強化I</font>**|
+|+6 |35,000,000|12 個|450 個|6 個|空中/背擊/浮空傷害 +8%|
+|+7 |40,000,000|14 個|500 個|7 個|所有類型傷害 +5%|
+|+8 |45,000,000|16 個|550 個|8 個|物理/魔法爆擊傷害 +10%|
+|+9 |55,000,000|18 個|600 個|9 個|追加獲得道具 +10%|
+|+10|60,000,000|20 個|650 個|10 個|物理/魔法攻擊力 +300|
+|**合計**|**210,000,000**|**106 個**|**3800 個**|**55 個**|-|
+<!-- endtab -->
 
 {% endtabs %}
 
 ---
+
+> # 威嚴取得方法整理
+
+> ## 暴食王系列
+{% inlineImg /img/effects/beel0.PNG 64px %}{% inlineImg /img/effects/beel1.PNG 64px %}{% inlineImg /img/effects/beel2.PNG 64px %}{% inlineImg /img/effects/beel3.PNG 64px %}{% inlineImg /img/effects/beel4.PNG 64px %}{% inlineImg /img/effects/beel5.PNG 64px %}
+<span> </span>
+<div class="get_eff">
+
+||說明|
+|:-|:-|
+| 總計 | 角色 6 個 |
+| 每件製作材料 | {% inlineImg https://i.imgur.com/bRFx7v6.png 40px %}1億 + {% inlineImg /img/material/beel_L7_resource.PNG 40px %}500 |
+| 製作材料取得方法與數量 | 暴食王征服度每階 30 個{% inlineImg /img/material/beel_L7_resource.PNG 40px %} |
+| 時間估算 | 約 9 階(1.5輪)可做 1 個 |
+</div>
+
+> ## UNION營地系列
+{% inlineImg /img/effects/camp0.PNG 64px %}{% inlineImg /img/effects/camp1.PNG 64px %}{% inlineImg /img/effects/camp2.PNG 64px %}{% inlineImg /img/effects/camp3.PNG 64px %}{% inlineImg /img/effects/camp4.PNG 64px %}{% inlineImg /img/effects/camp5.PNG 64px %}{% inlineImg /img/effects/camp6.PNG 64px %}
+<span> </span>
+<div class="get_eff">
+
+||說明|
+|:-|:-|
+| 總計 | **帳號** 6 個 |
+| 每件製作材料 | {% inlineImg https://i.imgur.com/bRFx7v6.png 40px %}9000萬 + {% inlineImg /img/material/camp_crystal.png 40px %}90 |
+| 製作材料取得方法與數量 | UNION營地每周製作 6 個{% inlineImg /img/material/camp_crystal.png 40px %} |
+| 時間估算 | 15 周可做 1 個 |
+</div>
+
+> ## 貢獻度系列
+{% inlineImg /img/effects/order0.PNG 64px %}{% inlineImg /img/effects/order1.PNG 64px %}{% inlineImg /img/effects/order2.PNG 64px %}{% inlineImg /img/effects/order3.PNG 64px %}{% inlineImg /img/effects/order4.PNG 64px %}{% inlineImg /img/effects/order5.PNG 64px %}
+<span> </span>
+<div class="get_eff">
+
+||說明|
+|:-|:-|
+| 總計 | **帳號** 19 個 |
+| 每件製作材料 | {% inlineImg https://i.imgur.com/bRFx7v6.png 40px %}600萬 + {% inlineImg /img/material/HQ_ICON_ORDER_POINT.PNG 40px %}9萬 |
+| 製作材料取得方法與數量 | 取得貢獻度 {% inlineImg /img/material/HQ_ICON_ORDER_POINT.PNG 40px %} (每周上限 2 萬) |
+| 時間估算 | 4.5 周可做 1 個 |
+</div>
+
+> ## 白夜的要塞
+{% inlineImg /img/effects/town15.PNG 64px %}
+<span> </span>
+<div class="get_eff">
+
+||說明|
+|:-|:-|
+| 總計 | 角色 1 個 |
+| 每件製作材料 | {% inlineImg https://i.imgur.com/bRFx7v6.png 40px %}1000萬 + {% inlineImg https://i.imgur.com/oZ9yEkN.png 40px %}8 |
+| 製作材料取得方法與數量 | 白夜的要塞相關副本與製作 {% inlineImg https://i.imgur.com/oZ9yEkN.png 40px %} (或者與玩家收購)，可以參考[白夜的要塞裝備](/datasets/nightfortress/) |
+</div>
+
+(尚未完成)
+
+---
+
+<style>
+
+  .get_eff table {
+    /* font-weight: bold; */
+	width: 70%;
+  }
+
+
+  .get_eff table th:nth-of-type(1){
+    width: 15%;
+  }
+  .get_eff table th:nth-of-type(2){
+    width: 20%;
+  }
+
+</style>

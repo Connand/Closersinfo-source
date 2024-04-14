@@ -258,8 +258,6 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |**<font color=blue>B<font>**|**<font color=blue>神速</font>**|使用 **[特殊技能]** 時 5轉技能CD-1秒|5秒
 |**<font color=purple>C</font>**|**<font color=purple>再生</font>**|使用 **[特殊技能]** 時 HP/MP/超能力 +8%|5秒
 
-> **<font size=4>以下為韓版[2024/01/11更新](https://closers.nexon.com/News/Notice/View?n4ArticleSN=143195)後新增(台版尚未開放)</font>**
-
 ### 落地
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
