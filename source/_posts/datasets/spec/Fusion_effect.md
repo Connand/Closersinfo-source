@@ -136,6 +136,33 @@ description: "融合威嚴詳細內容說明"
 | 製作材料取得方法與數量 | 白夜的要塞相關副本與製作 {% inlineImg https://i.imgur.com/oZ9yEkN.png 40px %} (或者與玩家收購)，可以參考[白夜的要塞裝備](/datasets/nightfortress/) |
 </div>
 
+> ## 劇場系列
+{% inlineImg /img/effects/dream0.PNG 64px %}
+<span> </span>
+<div class="get_eff">
+
+||說明|
+|:-|:-|
+| 總計 | 角色 1 + 1 個 |
+| 每件製作材料 | {% inlineImg https://i.imgur.com/UmkzgVE.png 40px %}50 + {% inlineImg /img/material/Dcoin.png 40px %}150 |
+| 每件製作材料（素材威嚴） | {% inlineImg https://i.imgur.com/UmkzgVE.png 40px %}100 + {% inlineImg /img/material/Dcoin.png 40px %}300 |
+| 製作材料取得方法與數量 | 夢幻劇場重複任務 3 個任務道具(3 場副本)交換 3 個{% inlineImg /img/material/Dcoin.png 40px %} |
+| 時間估算 | 300/150 場可做 1 個 |
+</div>
+
+{% inlineImg /img/effects/dream1.PNG 64px %}{% inlineImg /img/effects/dream2.PNG 64px %}{% inlineImg /img/effects/dream3.PNG 64px %}{% inlineImg /img/effects/dream4.PNG 64px %}{% inlineImg /img/effects/dream5.PNG 64px %}{% inlineImg /img/effects/dream6.PNG 64px %}
+<span> </span>
+<div class="get_eff">
+
+||說明|
+|:-|:-|
+| 總計 | 角色 4 + 2 個 |
+| 每件製作材料 | {% inlineImg https://i.imgur.com/UmkzgVE.png 40px %}60 + {% inlineImg /img/material/red_scissor.png 40px %}或{% inlineImg /img/material/blue_scissor.png 40px %}25 + {% inlineImg /img/material/Dcoin.png 40px %}300 |
+| 每件製作材料（素材威嚴） | {% inlineImg https://i.imgur.com/UmkzgVE.png 40px %}100 + {% inlineImg /img/material/red_scissor.png 40px %}或{% inlineImg /img/material/blue_scissor.png 40px %}8 + {% inlineImg /img/material/Dcoin.png 40px %}150 |
+| 製作材料取得方法與數量 | 目前尚無RVR活動，因此尚無管道可以獲得{% inlineImg /img/material/red_scissor.png 40px %}與{% inlineImg /img/material/blue_scissor.png 40px %} |
+| **注意** | 請單獨製作{% inlineImg /img/effects/dream1.PNG 40px %}{% inlineImg /img/effects/dream2.PNG 40px %}{% inlineImg /img/effects/dream4.PNG 40px %}{% inlineImg /img/effects/dream5.PNG 40px %}即可，不要合併為{% inlineImg /img/effects/dream3.PNG 40px %}{% inlineImg /img/effects/dream6.PNG 40px %} |
+</div>
+
 (尚未完成)
 
 ---
