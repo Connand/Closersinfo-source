@@ -80,7 +80,35 @@ description: "重點寵物能力資料"
 
 {% tabs 增傷寵物, -1 %}
 <!-- tab <img class="inline-img" src="https://i.imgur.com/I6BPtrp.png" style="height:32px">海底型-->
-1. {% inlineImg https://i.imgur.com/P1emmlZ.png 48px %}**<迷你阿斯莫德>**
+1. {% inlineImg https://i.imgur.com/iNlEJ3D.png 48px %}**<迷你鼻荊>**
+
+<div class="altop">
+
+|被動|戰鬥技能|主動技能|
+|:-:|:-:|:-:|
+|物理攻擊力1500<br>魔法攻擊力1500<br>技能冷卻時間30%<br>技能資源節約30%<br>追加金幣30%<br>追加獲得道具30%|<font color=#900>冷卻40秒</font><br><font color=#090>持續50秒</font><br>物理/魔法爆擊傷害100%<br>移動速度(%)10%|<font color=#900>冷卻40秒</font><br><font color=#090>- 持續40秒</font><br>物理攻擊力1000<br>魔法攻擊力1000<br>技能冷卻時間15%<br>技能資源節約15%<br>**<font color=#d60>海底型增傷100%</font>**<br><font color=#090>- 持續15秒</font><br>給予物理/魔法傷害量25%<br>每秒HP恢復10.00%<br>每秒MP恢復10.00%<br>超級裝甲等級: 2<br>傷害減少60%|
+
+</div>
+
+**強化能力**
+
+- 目前僅已知 5 星數值
+
+|詞條|0★|1★|2★|3★|4★|5★|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|HP|?|?|?|?|?|2000
+|MP|?|?|?|?|?|1000
+|物理/魔法攻擊力|?|?|?|?|?|700
+|物理/魔法防禦力|?|?|?|?|?|1000
+|物理/魔法爆擊傷害|-|65%|90%|115%|140%|165%
+|**<font color=#d60>海底型增傷</font>**|-|20%|40%|60%|80%|100%
+|總物理/魔法攻擊力|-|1.0%|2.0%|3.0%|4.0%|5.0%
+|道具自動使用欄位數量|-|-|1|2|3|4
+
+![](https://i.imgur.com/hhQ4JOR.png)
+
+---
+2. {% inlineImg https://i.imgur.com/P1emmlZ.png 48px %}**<迷你阿斯莫德>**
 
 <div class="altop">
 
@@ -106,7 +134,7 @@ description: "重點寵物能力資料"
 ![](https://i.imgur.com/kw68wmu.png)
 
 ---
-2. {% inlineImg https://i.imgur.com/A2wsXlS.png 48px %}**<迷你波洛芙>**
+3. {% inlineImg https://i.imgur.com/A2wsXlS.png 48px %}**<迷你波洛芙>**
 
 <div class="altop">
 
