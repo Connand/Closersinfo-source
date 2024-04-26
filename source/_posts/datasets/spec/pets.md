@@ -3,7 +3,7 @@ title: 寵物系統
 date: 2023-02-16 17:25:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
-cover: https://i.imgur.com/LFypndoh.png
+cover: https://i.imgur.com/hhQ4JORh.png
 description: "重點寵物能力資料"
 ---
 

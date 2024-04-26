@@ -13,6 +13,7 @@ menu:
   分類: /categories/ || fas fa-folder-open
   遊戲資料 || fas fa-book-open || hide:
     總覽: /categories/遊戲資料 || fas fa-book-open
+    角色介紹: /characters-introduction || fas fa-book-open
     新手指南: /categories/遊戲資料/新手指南/ || fas fa-shield-alt
     PNA資料: /categories/遊戲資料/PNA || fas fa-dna
     主線裝備: /categories/遊戲資料/裝備 || fas fa-book-open

@@ -34,7 +34,7 @@ description: "Conquest Program Ver. 2"
 |10|1億7000萬{%inlineImg https://i.imgur.com/HoxQxvb.png 40px%}| 島的主人
 |11|1億8000萬{%inlineImg https://i.imgur.com/3FV9pDB.png 40px%}| 提恩達洛斯
 |12|1億9000萬{%inlineImg https://i.imgur.com/8ONbMJo.png 40px%}| 赫爾巴斯
-|13|2億0000萬{%inlineImg https://i.imgur.com/I6BPtrp.png 40px%}| ???
+|13|2億0000萬{%inlineImg https://i.imgur.com/I6BPtrp.png 40px%}| 波洛芙
 |14|2億1000萬{%inlineImg https://i.imgur.com/I6BPtrp.png 40px%}| ???
 |15|2億2000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}| ???
 
@@ -77,7 +77,7 @@ description: "Conquest Program Ver. 2"
 |10|1億7000萬{%inlineImg https://i.imgur.com/HoxQxvb.png 40px%}| {% inlineImg /img/conquest2/HQ_1799000902_GUST_INVALID_NA.PNG 40px %}藏於影中的足跡|100|1
 |11|1億8000萬{%inlineImg https://i.imgur.com/3FV9pDB.png 40px%}| {% inlineImg /img/conquest2/HQ_180300_TITLE.PNG 40px %}征服項目的死敵<br>{% inlineImg /img/conquest2/DLG_TITLE_CONQUEST_VER2.PNG 80px %}|120|2
 |12|1億9000萬{%inlineImg https://i.imgur.com/8ONbMJo.png 40px%}| {% inlineImg /img/effects/HQ_799986916_GUST_INVALID_NA.PNG 40px %}小隊威嚴選擇箱|140|2
-|13|2億0000萬{%inlineImg https://i.imgur.com/I6BPtrp.png 40px%}| ?|?|?
+|13|2億0000萬{%inlineImg https://i.imgur.com/I6BPtrp.png 40px%}| {% inlineImg https://i.imgur.com/8hil0N8.png 40px %}寵物自選箱|160|3
 |14|2億1000萬{%inlineImg https://i.imgur.com/I6BPtrp.png 40px%}| ?|?|?
 |15|2億2000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}| ?|?|?
 
