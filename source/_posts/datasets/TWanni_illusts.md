@@ -38,7 +38,26 @@ description: "紀錄台版周年紀念使用過的官方/非官方立繪與登�
 
 ![](/img/cover_categories.png)
 <!-- endtab -->
-<!-- tab FB粉絲專業頭貼-->
+<!-- tab FB粉絲專頁頭貼-->
+
+**<font size=4>【台版封印者七週年紀念頭貼】</font>**
+
+- 各位玩家好，我是封印者攻略網站長梧夜，首先先恭喜台服營運已滿七週年，同時也是台服轉直營後的一週年。
+
+- 首先依照去年的慣例，我們委託了周年賀圖，這次包含的網站頭貼與封面圖。但是由於進度的關係，還沒辦法公開封面圖，因此將先公開我們的新頭貼，同時也祝李雪菲生日快樂！
+
+- 頭貼的部分由 sy 繪製，是聖三之輪的雪菲！雪菲用手比出了相機的手勢，意味著這七年來的點點滴滴都透過鏡頭給紀錄下來。聖三之輪的服裝代表與火焰勢力對戰的戰鬥服，希望未來能夠扭轉悲劇。
+
+{% note red 'fas fa-pen' simple %}
+**<font size=5>繪師：[sy](https://twitter.com/Singtsuisy)</font>**
+{% endnote %}
+
+{% inlineImg /img/ProfilePic_7th.png 300px %}
+
+---
+
+> **網站初版頭貼**
+
 {% note red 'fas fa-pen' simple %}
 **<font size=5>繪師：[煉銅術士](https://www.facebook.com/profile.php?id=100024698682237)</font>**
 {% endnote %}
