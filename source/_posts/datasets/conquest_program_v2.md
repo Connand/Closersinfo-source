@@ -79,7 +79,7 @@ description: "Conquest Program Ver. 2"
 |12|1億9000萬{%inlineImg https://i.imgur.com/8ONbMJo.png 40px%}| {% inlineImg /img/effects/HQ_799986916_GUST_INVALID_NA.PNG 40px %}小隊威嚴選擇箱|140|2
 |13|2億0000萬{%inlineImg https://i.imgur.com/I6BPtrp.png 40px%}| {% inlineImg https://i.imgur.com/8hil0N8.png 40px %}寵物自選箱|160|3
 |14|2億1000萬{%inlineImg https://i.imgur.com/I6BPtrp.png 40px%}| {% inlineImg /img/conquest2/HQ_1799001400_GUST_INVALID_NA.PNG 40px %}日落城市的復古燈光<br>{% inlineImg /img/conquest2/image8.gif 120px %}|180|3
-|15|2億2000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}| {% inlineImg /img/conquest2/HQ_930020_CONSUMABLE.PNG 40px %}名字標籤券：光榮的征服者勳章 Ver.2<br>{% inlineImg /img/conquest2/DLG_NAMETAG_CONQUEST_PROGRAM_VER2.PNG 80px %}|200?|3?
+|15|2億2000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}| {% inlineImg /img/conquest2/HQ_930020_CONSUMABLE.PNG 40px %}名字標籤券：光榮的征服者勳章 Ver.2<br>{% inlineImg /img/conquest2/DLG_NAMETAG_CONQUEST_PROGRAM_VER2.PNG 100px %}|200?|3?
 
 </div>
 <!-- endtab -->
