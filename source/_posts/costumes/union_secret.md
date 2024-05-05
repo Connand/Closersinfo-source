@@ -9,6 +9,12 @@ tags:
     - 沃爾夫姜
     - 露娜
     - 索瑪
+    - 蕾比雅
+    - 薇歐莉特
+    - 白
+    - 未來
+    - 銀河
+    - 愛里
 category: [時裝, 有立繪, 限定角色]
 cover: https://i.imgur.com/Wb9Udkgh.jpg
 description: "Union Secret"
@@ -17,15 +23,17 @@ description: "Union Secret"
 ![](https://ssl.nexon.com/s2/game/closers/2015/pds/035/1920x1080.jpg)
 
 ---
-# Union Secret
+# UNION特勤局 (Union Secret)
 
 混搭立繪：B
 部位：髮型、上衣、下衣、手套、鞋子、{% label 手臂 green %}
 
 [台版介紹公告](https://cls.mangot5.com/game/cls/news/detail?contentNo=39156)
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_secret.zip)
+[立繪下載(舊版)](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_secret.zip)
+[立繪下載(新版)](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_SecretService_BBE7800793299B3E.zip)
 
+2024/05/02 更新第 2 批：蕾比雅、薇歐莉特、白、未來、銀河、愛里
 
 ---
 {% tabs 類型 %}
@@ -48,6 +56,25 @@ description: "Union Secret"
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
 [![](https://i.imgur.com/c1yUi0Eh.jpg)](https://i.imgur.com/c1yUi0E.jpg)
+<!-- endtab -->
+
+<!-- tab 蕾比雅(Levia)-->
+[![](https://i.imgur.com/hb9VkYYh.jpg)](https://i.imgur.com/hb9VkYY.jpg)
+<!-- endtab -->
+<!-- tab 薇歐莉特(Violet)-->
+[![](https://i.imgur.com/D9SaG6lh.jpg)](https://i.imgur.com/D9SaG6l.jpg)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+[![](https://i.imgur.com/abJiLl8h.jpg)](https://i.imgur.com/abJiLl8.jpg)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/VysXF71h.jpg)](https://i.imgur.com/VysXF71.jpg)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/mYJh37uh.jpg)](https://i.imgur.com/mYJh37u.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/hbrvb5bh.jpg)](https://i.imgur.com/hbrvb5b.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -95,6 +122,25 @@ description: "Union Secret"
 <!-- tab 索瑪(Soma)-->
 [![](https://i.imgur.com/0rzu6rjh.jpg)](https://i.imgur.com/0rzu6rj.jpg)
 <!-- endtab -->
+
+<!-- tab 蕾比雅(Levia)-->
+[![](https://i.imgur.com/ovUBHPHh.jpg)](https://i.imgur.com/ovUBHPH.jpg)
+<!-- endtab -->
+<!-- tab 薇歐莉特(Violet)-->
+[![](https://i.imgur.com/f2hci4mh.jpg)](https://i.imgur.com/f2hci4m.jpg)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+[![](https://i.imgur.com/th2jtKbh.jpg)](https://i.imgur.com/th2jtKb.jpg)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/wSjDqpah.jpg)](https://i.imgur.com/wSjDqpa.jpg)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/SrOHbb1h.jpg)](https://i.imgur.com/SrOHbb1.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/vCoiyECh.jpg)](https://i.imgur.com/vCoiyEC.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -140,6 +186,25 @@ description: "Union Secret"
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
 [![](https://i.imgur.com/lpGCpIUh.jpg)](https://i.imgur.com/lpGCpIU.jpg)
+<!-- endtab -->
+
+<!-- tab 蕾比雅(Levia)-->
+[![](https://i.imgur.com/eHqrdkgh.jpg)](https://i.imgur.com/eHqrdkg.jpg)
+<!-- endtab -->
+<!-- tab 薇歐莉特(Violet)-->
+[![](https://i.imgur.com/LBs8lpIh.jpg)](https://i.imgur.com/LBs8lpI.jpg)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+[![](https://i.imgur.com/2dyGWosh.jpg)](https://i.imgur.com/2dyGWos.jpg)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://i.imgur.com/AJiFnDXh.jpg)](https://i.imgur.com/AJiFnDX.jpg)
+<!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/L5a53Nbh.jpg)](https://i.imgur.com/L5a53Nb.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/hhbKy5uh.jpg)](https://i.imgur.com/hhbKy5u.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
