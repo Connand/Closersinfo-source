@@ -1,5 +1,5 @@
 ---
-title: Noble Serenade(貴族小夜曲)
+title: 貴族小夜曲(Noble Serenade)
 date: 2024-01-11 20:30:15
 tags:
     - 立繪時裝
@@ -33,7 +33,7 @@ description: "Noble Serenade"
 部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 特效 green %}
 **注意：帽子雖然有分三個型號，但不影響立繪取得**
 
-
+- [台版宣傳頁面](https://www.closers.com.tw/news/lbm5Ss512)
 - [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 - [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Noble_240111_7EF3A641F822D4FB.zip)
 ---
@@ -87,6 +87,33 @@ description: "Noble Serenade"
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/vCmhjIxh.png)](https://i.imgur.com/vCmhjIx.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+
+<!-- tab 角色模組圖 -->
+{% tabs 模組 %}
+<!-- tab 李雪菲(Seulbi)-->
+[![](https://imgur.com/fTMCfAbh.png)](https://imgur.com/fTMCfAb.png)
+<!-- endtab -->
+<!-- tab 哈比(Harpy)-->
+[![](https://imgur.com/DZueyMdh.png)](https://imgur.com/DZueyMd.png)
+<!-- endtab -->
+<!-- tab 薇歐莉特(Violet)-->
+[![](https://imgur.com/kHURczZh.jpg)](https://imgur.com/kHURczZ.jpg)
+<!-- endtab -->
+<!-- tab 露娜(Luna)-->
+[![](https://imgur.com/SvZ9lPrh.png)](https://imgur.com/SvZ9lPr.png)
+<!-- endtab -->
+<!-- tab 白(Bai)-->
+[![](https://imgur.com/ACY4GJlh.png)](https://imgur.com/ACY4GJl.png)
+<!-- endtab -->
+<!-- tab 未來(Mirae)-->
+[![](https://imgur.com/Fz8Srsgh.png)](https://imgur.com/Fz8Srsg.png)
+<!-- endtab -->
+<!-- tab 露西(Lucy)-->
+[![](https://imgur.com/Y9JovKlh.png)](https://imgur.com/Y9JovKl.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
