@@ -288,7 +288,7 @@ description: "角色專屬時裝"
 <font color=#f00>7件可使用普通立繪、跳舞動作、語音</font>
 <font color=#f00>8件可使用特殊立繪</font>**
 
-{% tabs 伊莉雅(Ria)-Wanna be your love %}
+{% tabs 伊莉雅(Ria)-Wannabe your love %}
 <!-- tab 普通立繪-->
 [![](https://imgur.com/x6MNYOQ.png)](https://imgur.com/x6MNYOQ.png)
 <!-- endtab -->
