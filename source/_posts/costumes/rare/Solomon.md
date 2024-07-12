@@ -24,6 +24,7 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
 category: [時裝, 輝煌時裝]
 cover: https://i.imgur.com/85hinXsh.jpg
 description: "第二套輝煌時裝(Unique costume)"
@@ -36,9 +37,7 @@ description: "第二套輝煌時裝(Unique costume)"
 所羅門武裝(Solomon’s Vestments)是基於前一年的閃耀之星，所接連出的第二套輝煌時裝(Unique costume)。於[AMAZING CLOSERS](https://www.youtube.com/watch?v=1ZKj7cuBx6Q)預告片中釋出
 
 [台版介紹網頁](https://landing.mangot5.com/template/cls/event/211223_solomon/index.html)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_210128.zip)
-[修改後立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_220603.zip)(修改後的納塔立繪)
-23/03/23更新愛里：[載點](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_230323_9D8CEC0ABD7D2E9A.zip)
+[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_L50JRW0NEDOBZK5P.zip)
 
 所需十件套才可啟動立繪、語音、特效；動作擁有六件套即可
 十件套部位：部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 臉中 green %}、{% label 背部 green %}、{% label 瞳孔 green %}
@@ -68,6 +67,9 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
 [![](https://i.imgur.com/9B1FSn0h.jpg)](https://i.imgur.com/9B1FSn0.jpg)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://imgur.com/XEqnOIah.png)](https://imgur.com/XEqnOIa.png)
 <!-- endtab -->
 <!-- tab 動作(李世河~米斯特汀)-->
 {%youtube 7Sha1S2xXMM %}

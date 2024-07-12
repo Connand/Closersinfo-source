@@ -86,6 +86,7 @@ let birthdays = {
   "05/17":{name:"徐維莉",code:"RANGER"},
   "11/22":{name:"J",code:"FIGHTER"},
   "10/31":{name:"米斯特汀",code:"LANCER"}, 
+  "01/23":{name:"伊莉雅",code:"IDOL"}, 
   
   "07/16":{name:"納塔",code:"HUNTER"},
   "06/06":{name:"蕾比雅",code:"WITCH"},

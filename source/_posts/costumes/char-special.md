@@ -14,6 +14,7 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
 category: [時裝, 有立繪,]
 cover: https://i.imgur.com/JIDFPVU.jpg
 description: "角色專屬時裝"
@@ -28,7 +29,7 @@ description: "角色專屬時裝"
 
 **注意**：
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Launching_Costume_201215obuu.zip)
+[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Launching_AVMSP5KCGUW9P4AC.zip)
 ---
 
 {% tabs 類型 %}
@@ -277,6 +278,28 @@ description: "角色專屬時裝"
 <!-- endtab -->
 <!-- tab 模組圖片-->
 [![](https://i.imgur.com/8nubYWzh.png)](https://i.imgur.com/8nubYWz.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+<!-- tab 伊莉雅(Ria)-Wanna be your love -->
+部位：武器、髮型（外加另類）、上衣、下衣、手套、鞋子、{% label 臉中 green %}、{% label 特效(威嚴) green %}
+**飾品與另類髮型為單一型，其餘分3型
+<font color=#f00>7件可使用普通立繪、跳舞動作、語音</font>
+<font color=#f00>8件可使用特殊立繪</font>**
+
+{% tabs 伊莉雅(Ria)-Wanna be your love %}
+<!-- tab 普通立繪-->
+[![](https://imgur.com/x6MNYOQ.png)](https://imgur.com/x6MNYOQ.png)
+<!-- endtab -->
+<!-- tab 特殊立繪-->
+[![](https://imgur.com/VsFd1bx.png)](https://imgur.com/VsFd1bx.png)
+<!-- endtab -->
+<!-- tab 模組圖片-->
+[![](https://imgur.com/bxOKkdM.png)](https://imgur.com/bxOKkdM.png)
+<!-- endtab -->
+<!-- tab 跳舞動作-->
+{%youtube EFiekSACaH4 %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

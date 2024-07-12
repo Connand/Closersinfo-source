@@ -3,7 +3,7 @@ title: 稱號系統
 date: 2023-02-16 17:25:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
-cover: /img/titles/DLG_ACHIEVEMENT_TITLE_BELPHEGOR_2.PNG
+cover: /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_3.PNG
 description: "重點稱號能力資料整合"
 ---
 
@@ -14,7 +14,7 @@ description: "重點稱號能力資料整合"
 |強度|物理 / 魔法|混合|
 |:-:|:-:|:-:|
 |T0|**征服項目的死敵**<br>{% inlineImg /img/conquest2/DLG_TITLE_CONQUEST_VER2.PNG 64px %}|**征服項目的死敵**<br>{% inlineImg /img/conquest2/DLG_TITLE_CONQUEST_VER2.PNG 64px %}|
-|T1|**純粹惡的提亞瑪特**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_3.PNG 64px %}|**純粹惡的提亞瑪特**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_3.PNG 64px %}|
+|T1<br>**暫時**|**純粹惡的提亞瑪特**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_3.PNG 64px %}|**純粹惡的提亞瑪特**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_3.PNG 64px %}|
 |T2 - A|**噩夢的囚犯**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|**噩夢的囚犯**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|
 |T2 - B|**劈開火花的異端者**<br>{% inlineImg https://i.imgur.com/l42EzGx.png 64px %}|**劈開火花的異端者**<br>{% inlineImg https://i.imgur.com/l42EzGx.png 64px %}|
 |T3|**找到怠惰王渴望之人**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_BELPHEGOR_4.PNG 50px %}|**噩夢看守者**<br>{% inlineImg /img/titles/ZMtHyR8.png 50px %}|

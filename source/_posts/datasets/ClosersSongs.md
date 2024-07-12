@@ -24,9 +24,9 @@ description: "官方發布的各式主題曲"
 - ~~06/07上線，06/14宣布07/14關服~~
 
 ### 黑羊小隊
-| 李世河 | 李雪菲 | 徐維莉 |  J  | 米斯特汀 |
-| :--------: | :--------: | :--------: | :--------: | :--------: |
-| {% btn 'https://youtu.be/MTwZ-QME26U',My World,fas fa-music,outline blue %} | {% btn 'https://youtu.be/OLjANcDyFeQ',Once Again,fas fa-music,outline pink %} | {% btn 'https://youtu.be/wJiSZ0wiCm4',Sunlight,fas fa-music,outline %} | {% btn 'https://youtu.be/rTIuf_DNUBQ',J歌,fas fa-music,outline orange %} | {% btn 'https://youtu.be/L2Gi5Oi9XNQ',約定,fas fa-music,outline green %} |
+| 李世河 | 李雪菲 | 徐維莉 |  J  | 米斯特汀 | 伊莉雅 |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| {% btn 'https://youtu.be/MTwZ-QME26U',My World,fas fa-music,outline blue %} | {% btn 'https://youtu.be/OLjANcDyFeQ',Once Again,fas fa-music,outline pink %} | {% btn 'https://youtu.be/wJiSZ0wiCm4',Sunlight,fas fa-music,outline %} | {% btn 'https://youtu.be/rTIuf_DNUBQ',J歌,fas fa-music,outline orange %} | {% btn 'https://youtu.be/L2Gi5Oi9XNQ',約定,fas fa-music,outline green %} | {% btn 'https://youtu.be/3Enunmy9BPw',RUN AGAIN,fas fa-music,outline pink %} |
 ### 紅狼小隊
 | 納塔 | 蕾比亞 | 哈比 |  緹娜  | 薇歐莉特 | 
 | :--------: | :--------: | :--------: | :--------: | :--------: |
@@ -148,5 +148,7 @@ description: "官方發布的各式主題曲"
 2023/12/13：[2023冬季更新主題曲 -  Catch Your Heart](https://youtu.be/w8uFYwBpkQ8)
 
 2023/12/27：[第四季主線主題曲 -  Flames of War](https://youtu.be/YDcxbljcbfA)
+
+2024/07/10：[伊莉雅主題曲 -  RUN AGAIN](https://youtu.be/3Enunmy9BPw)
 
 ---

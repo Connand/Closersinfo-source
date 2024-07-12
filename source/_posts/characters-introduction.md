@@ -176,6 +176,37 @@ description: "台版官網寫不完整，於是就自己來補一個了"
 {% endtabs %}
 
 <!-- endtab -->
+
+<!-- tab 伊莉雅(Ria) {% inlineImg https://imgur.com/qpoNENf.png 32px %} -->
+
+**<font size=5 color=#FFB0C0>伊莉雅 (IDOL)</font>**  **<font size=4 color=#FFB0C0 style="float: right; padding-right: 50px">_Yoon Ria / 윤리아_</font>**
+
+正式開放日期：2024/07/11(韓版) 2024/08/08(台版)
+
+> 擁有超能力的女孩，可以自行產生聲波，並使用特製的武器操控聲波進行戰鬥。
+她曾是偶像團體「You Lovers」中最受歡迎的成員，但由於某種原因，她的超能力重新覺醒，並以特工的身份進行活動。當她被分發到江南時，她還不知道自己被分配到哪個小隊，直到一場次元災害發生在她面前。就像很久以前黑羊小隊的起點一樣…
+
+|角色資料|轉職立繪
+|:-|:-:
+|**年齡**：17歲 <br> **身高**：168cm <br> **體重**：49kg <br> **生日**：01月23日 <br> **喜歡的事物**：高熱量食物 <br> **興趣**：唱歌、跳舞、製作時尚飾品、健身訓練 |{% tabs 標籤區名稱 %}
+<!-- tab 訓練生/實習特工 -->
+![](https://imgur.com/JRjCD68.png)
+<!-- endtab -->
+<!-- tab 正式特工 -->
+![](https://imgur.com/9OtYISo.png)
+<!-- endtab -->
+<!-- tab 菁英特工(暫無) -->
+
+<!-- endtab -->
+<!-- tab 特遣隊(暫無) -->
+
+<!-- endtab -->
+<!-- tab 決戰特工(暫無) -->
+
+<!-- endtab -->
+{% endtabs %}
+
+<!-- endtab -->
 {% endtabs %}
 
 <!-- endtab -->
