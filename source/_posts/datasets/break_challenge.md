@@ -9,6 +9,15 @@ description: "Break Challenge"
 
 > **<div style="text-align:center"><font size=3 color=red>注意</font><br>有關王關機制與攻略可以參考 [水門的文章](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9424&tnum=1)<br>![](https://i.imgur.com/v3iU262.png)</div>**
 
+> # 副本調整說明
+
+[韓版2024/06/13更新](https://closers.nexon.com/News/Notice/View?n4ArticleSN=144408&n4ArticleCategorySN=2)降低了無限暴食之地的難度，具體如下：
+1. **無限制**的通關時間由 5 分鐘增加到 10 分鐘
+2. 所有怪物血量降低約 20%
+3. 所有怪物攻擊傷害降低
+
+台版也於07/11跟上[此更新](https://www.closers.com.tw/news/XJclqg592)
+
 > # 副本內容
 
 > ## 副本組成
@@ -21,7 +30,7 @@ description: "Break Challenge"
 |吟唱詭計的校園|4500萬|每周角色 1 次|10|無|無
 |吞食肉塊的街道|4500萬|每周角色 1 次|10|無|無
 |渴求強者之島|4500萬|每周角色 1 次|10|無|無
-|**<font color=red>無限暴食之地</font>**|7500萬|{% inlineImg https://i.imgur.com/hsCUWr4.png 48px %} x1|10|3|5分鐘
+|**<font color=red>無限暴食之地</font>**|7500萬|{% inlineImg https://i.imgur.com/hsCUWr4.png 48px %} x1|10|3|10分鐘
 
 ---
 
@@ -103,7 +112,7 @@ description: "Break Challenge"
 |- **使用限制**|||||
 |補血膠囊使用次數限制|無限制|5<br>**350**|2<br>**500**|0<br>**700**|
 |復活膠囊使用次數限制|3|2<br>**350**|1<br>**700**|0<br>**1500**|
-|挑戰時間限制|300秒|240秒<br>**450**|180秒<br>**650**|120秒<br>**900**|
+|挑戰時間限制|~~300秒~~<br>**600秒**|240秒<br>**450**|180秒<br>**650**|120秒<br>**900**|
 |緊急閃避|無限制|禁止使用<br>**1000**|||
 |強制阻斷|無限制|禁止使用<br>**750**|||
 |超能爆發|無限制|禁止使用<br>**1500**|||

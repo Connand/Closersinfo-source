@@ -188,7 +188,7 @@ description: "台版官網寫不完整，於是就自己來補一個了"
 
 |角色資料|轉職立繪
 |:-|:-:
-|**年齡**：17歲 <br> **身高**：168cm <br> **體重**：49kg<br>([PV](https://youtu.be/1LMX6JcT9rg?si=xJHldcXvY3Of4Qql)中標示「秘密！」) <br> **生日**：01月23日 <br> **喜歡的事物**：高熱量食物 <br> **興趣**：唱歌、跳舞、製作時尚飾品、健身訓練 |{% tabs 標籤區名稱 %}
+|**年齡**：17歲 <br> **身高**：168cm <br> **體重**：49kg<br>([PV](https://youtu.be/1LMX6JcT9rg?si=xJHldcXvY3Of4Qql)中標示「秘密！」) <br> **生日**：1月23日 <br> **喜歡的事物**：高熱量食物 <br> **興趣**：唱歌、跳舞、製作時尚飾品、健身訓練 |{% tabs 標籤區名稱 %}
 <!-- tab 訓練生/實習特工 -->
 ![](https://imgur.com/JRjCD68.png)
 <!-- endtab -->

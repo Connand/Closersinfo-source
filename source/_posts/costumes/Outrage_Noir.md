@@ -1,5 +1,5 @@
 ---
-title: 黑色狂怒(Outrage Noir)
+title: 極惡闇影(Outrage Noir)
 date: 2024-04-18 12:09:15
 tags:
     - 立繪時裝
