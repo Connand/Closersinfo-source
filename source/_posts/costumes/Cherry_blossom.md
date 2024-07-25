@@ -1,5 +1,5 @@
 ---
-title: 春櫻綻放
+title: 我的櫻花
 date: 2024-03-30 21:09:03
 tags:
     - 立繪時裝
@@ -13,7 +13,7 @@ description: "Cheey Blossom"
 ---
 ![](https://i.imgur.com/RRSh3Ych.jpg)
 
-# 花樣野餐
+# Cheey Blossom
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 特效 green %}
 - **注意**：立繪僅分一般和特殊，模組分 3 型 (頭髮單 1 型)
