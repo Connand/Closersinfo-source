@@ -195,14 +195,11 @@ description: "台版官網寫不完整，於是就自己來補一個了"
 <!-- tab 正式特工 -->
 ![](https://imgur.com/9OtYISo.png)
 <!-- endtab -->
-<!-- tab 菁英特工(暫無) -->
-
+<!-- tab 菁英特工 -->
+![](https://imgur.com/UjgJdgV.png)
 <!-- endtab -->
-<!-- tab 特遣隊(暫無) -->
-
-<!-- endtab -->
-<!-- tab 決戰特工(暫無) -->
-
+<!-- tab 決戰特工 -->
+![](https://imgur.com/Ls3AXbI.png)
 <!-- endtab -->
 {% endtabs %}
 
