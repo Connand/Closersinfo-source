@@ -1,5 +1,5 @@
 ---
-title: Love Holic(暫譯：憂鬱戀愛狂)
+title: 鬱鬱狂戀
 date: 2024-06-13 12:09:15
 tags:
     - 立繪時裝
@@ -17,7 +17,7 @@ description: "Love Holic"
 ![](https://imgur.com/ifWVJaS.jpg)
 
 ---
-## 憂鬱戀愛狂(Love Holic)
+## 鬱鬱狂戀(Love Holic)
 
 **注意**：立繪僅分一般和特殊，模組分3型
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉中 green %}、{% label 特效 green %}

@@ -183,7 +183,7 @@ description: ""
 
 ---
 
-# 輝煌時裝的包裝次數
+# 輝煌時裝的包裝數量
 
 輝煌時裝的相關包裝設定已於2023年07月變更並套用於所有版本上。
 目前輝煌時裝的包裝次數已調整為 **<font color=red>99次</font>** ，且包裝所需的封印數量已調整為如下
@@ -191,9 +191,11 @@ description: ""
 [日版參考公告](https://dmg.closers.naddicjapan.com/naddic_news/20230705_01/)
 [韓版參考公告](https://closers.nexon.com/News/Notice/View?n4PageNo=2&n4ArticleSN=141603)
 
+說明：台版於 [2024/07/11更新](https://www.closers.com.tw/news/IFpqoS571) 下修數量（變為原本的 0.4 倍）
+
 |品質保證封印|武器、手套、鞋子|頭髮、上衣、下衣|飾品
 |:-:|:-:|:-:|:-:
-|{% inlineImg /img/material/costume_seal_new.png 50px %}|<font size=4>180</font>|<font size=4>140</font>|<font size=4>100</font>
+|{% inlineImg /img/material/costume_seal_new.png 50px %}|<font size=4>~~180~~<br><font color=red>72</font>|<font size=4>~~140~~<br><font color=red>56</font>|<font size=4>~~100~~<br><font color=red>40</font>
 
 
 {% hideToggle 過時資訊 %}
