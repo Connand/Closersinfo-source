@@ -25,7 +25,7 @@ tags:
     - 愛里
     - 泳裝
 category: [時裝, 有立繪, 全角色]
-cover: https://imgur.com/rzULlGW.png
+cover: https://imgur.com/rzULlGWh.png
 description: "2023泳裝系列"
 ---
 
