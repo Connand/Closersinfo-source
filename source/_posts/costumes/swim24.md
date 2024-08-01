@@ -71,7 +71,8 @@ description: "2024泳裝系列"
 [![](https://i.imgur.com/cg05H9Zh.jpg)](https://i.imgur.com/cg05H9Z.jpg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-[![](https://i.imgur.com/WJ3DtJLh.jpg)](https://i.imgur.com/WJ3DtJL.jpg)
+~~好像被判定色情內容被刪掉過~~
+[![](https://i.imgur.com/4SGK9DAh.jpg)](https://i.imgur.com/4SGK9DA.jpg)
 <!-- endtab -->
 <!-- tab J-->
 [![](https://i.imgur.com/Wz6CCJsh.jpg)](https://i.imgur.com/Wz6CCJs.jpg)
