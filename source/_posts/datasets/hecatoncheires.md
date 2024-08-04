@@ -4,7 +4,7 @@ date: 2024-08-04 16:09:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
 cover: https://i.imgur.com/t1s2Qp4.png
-description: "火焰王裝備資訊"
+description: "魔龍王裝備資訊"
 ---
 
 > # 前言(尚無)
