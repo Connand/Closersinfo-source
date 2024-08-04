@@ -72,7 +72,7 @@ description: "2024泳裝系列"
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
 ~~好像被判定色情內容被刪掉過~~
-[![](https://i.imgur.com/Vnc7KHsh.jpg)](https://i.imgur.com/Vnc7KHs.jpg)
+![](/img/swim24/Yuri_normal.jpg)
 <!-- endtab -->
 <!-- tab J-->
 [![](https://i.imgur.com/Wz6CCJsh.jpg)](https://i.imgur.com/Wz6CCJs.jpg)
@@ -156,7 +156,7 @@ description: "2024泳裝系列"
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
 ~~好像被判定色情內容被刪掉過~~
-[![](https://i.imgur.com/bpIl5H3h.jpg)](https://i.imgur.com/bpIl5H3.jpg)
+![](/img/swim24/Harpy_special.jpg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
 [![](https://i.imgur.com/N5GOlKNh.jpg)](https://i.imgur.com/N5GOlKN.jpg)
