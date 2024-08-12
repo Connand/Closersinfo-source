@@ -7,7 +7,17 @@ cover: https://i.imgur.com/t1s2Qp4.png
 description: "魔龍王裝備資訊"
 ---
 
-> # 前言(尚無)
+> # 前言
+
+## 強化轉移路線懶人包
+
+- [參考資料](https://closers.nexon.com/News/Guide/View?n4ArticleSN=247&n4ArticleCategorySN=3)
+
+|裝備|舊裝備|目標|
+|:-:|:-:|:-:|
+|武器|火焰王武器<br>野獸王史詩武器|魔龍王武器|
+|武器|野獸王史詩武器|魔龍王史詩武器|
+|模組|火焰王模組|魔龍王模組|
 
 ---
 
@@ -268,8 +278,39 @@ PLV: 240
 
 > # 能力飾品 / 立繪臂章（待補）
 
+## 製作材料
+
+|飾品|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/fm10zrg.png 48px %}|
+|:-:|:-:|:-:|
+|**能力 / 外觀飾品**|50,000,000|120|
+|**立繪臂章飾品**|10,000,000|300|
+
+## 飾品
+
+|腰部|臉下|手臂|腿部|外觀：瞳孔|外觀：背部|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|{% inlineImg https://i.imgur.com/kkYqVKR.png 48px %}|{% inlineImg https://i.imgur.com/8eWz1HI.png 48px %}|{% inlineImg https://i.imgur.com/YYfSGGG.png 48px %}|{% inlineImg https://i.imgur.com/DLyLQcv.png 48px %}|{% inlineImg https://i.imgur.com/G9EvNe2.png 48px %}|{% inlineImg https://i.imgur.com/NQkMJmY.png 48px %}|
+
+
+|能力|兩件套|三件套|總和|
+|:-:|:-:|:-:|:-:|
+|物理 / 魔法攻擊力|300|300|600|
+|物理 / 魔法暴擊傷害|30%|30%|60%|
+|魔龍型傷害增加||30%|30%|
+
+## 立繪臂章
+
+{% tabs 立繪臂章 %}
+<!-- tab 阿施塔蒂-->
+![](https://i.imgur.com/53BSr56.png)
+<!-- endtab -->
+<!-- tab 赫克頓蓋爾-->
+![](https://i.imgur.com/pruwHSn.png)
+<!-- endtab -->
+{% endtabs %}
+
 ---
 
-> # 成就（尚無）
+> # 成就（待補）
 
 ---

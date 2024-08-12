@@ -11,11 +11,12 @@ description: "能力飾品資料整理"
 
 |強度|臉上|手臂|臉下|腰部|腿部|連身
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|T0|{% inlineImg https://i.imgur.com/JlogtYH.png 48px %}|{% inlineImg https://i.imgur.com/llHDcNL.png 48px %}|{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}|{% inlineImg https://i.imgur.com/I7EIGWh.png 48px %}|{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}|{% inlineImg https://i.imgur.com/fpuLmaj.png 48px %}{% inlineImg https://i.imgur.com/uXVHunT.png 48px %}|
-|T1-1|{% inlineImg https://i.imgur.com/L5J2PUl.png 48px %}|{% inlineImg https://i.imgur.com/qJ55LVW.png 48px %}|{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}|{% inlineImg https://i.imgur.com/8fFjIDf.png 48px %}|{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}|{% inlineImg https://i.imgur.com/eq0ZfOa.png 48px %}{% inlineImg https://i.imgur.com/4khmgZK.png 48px %}|
-|T1-2|{% inlineImg https://i.imgur.com/rrpQ2gb.png 48px %}|{% inlineImg https://i.imgur.com/agZl0zT.png 48px %}|||||
-|T2|{% inlineImg https://i.imgur.com/Gcq581T.png 48px %}|{% inlineImg https://i.imgur.com/Ey363sm.png 48px %}|{% inlineImg https://i.imgur.com/XiMgiNw.png 48px %}|{% inlineImg https://i.imgur.com/0VaY1sl.png 48px %}|{% inlineImg https://i.imgur.com/luPj9ua.png 48px %}|{% inlineImg https://i.imgur.com/fSK8eom.png 48px %}{% inlineImg https://i.imgur.com/hPyWrDa.png 48px %}|
-|T3|||{% inlineImg https://i.imgur.com/32MiorG.png 48px %}|{% inlineImg https://i.imgur.com/bF7eDfD.png 48px %}|{% inlineImg https://i.imgur.com/pRibBVh.png 48px %}||
+|T0|{% inlineImg https://i.imgur.com/JlogtYH.png 48px %}|{% inlineImg https://i.imgur.com/llHDcNL.png 48px %}|{% inlineImg https://i.imgur.com/8eWz1HI.png 48px %}|{% inlineImg https://i.imgur.com/I7EIGWh.png 48px %}|{% inlineImg https://i.imgur.com/DLyLQcv.png 48px %}|{% inlineImg https://i.imgur.com/fpuLmaj.png 48px %}{% inlineImg https://i.imgur.com/uXVHunT.png 48px %}|
+|T1|||{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}||{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}|{% inlineImg https://i.imgur.com/eq0ZfOa.png 48px %}{% inlineImg https://i.imgur.com/4khmgZK.png 48px %}|
+|T2-1|{% inlineImg https://i.imgur.com/L5J2PUl.png 48px %}|{% inlineImg https://i.imgur.com/qJ55LVW.png 48px %}|{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}|{% inlineImg https://i.imgur.com/8fFjIDf.png 48px %}|{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}|{% inlineImg https://i.imgur.com/fSK8eom.png 48px %}{% inlineImg https://i.imgur.com/hPyWrDa.png 48px %}|
+|T2-2|{% inlineImg https://i.imgur.com/rrpQ2gb.png 48px %}|{% inlineImg https://i.imgur.com/agZl0zT.png 48px %}|||||
+|T3|{% inlineImg https://i.imgur.com/Gcq581T.png 48px %}|{% inlineImg https://i.imgur.com/Ey363sm.png 48px %}|{% inlineImg https://i.imgur.com/XiMgiNw.png 48px %}|{% inlineImg https://i.imgur.com/0VaY1sl.png 48px %}|{% inlineImg https://i.imgur.com/luPj9ua.png 48px %}||
+|T4|||{% inlineImg https://i.imgur.com/32MiorG.png 48px %}|{% inlineImg https://i.imgur.com/bF7eDfD.png 48px %}|{% inlineImg https://i.imgur.com/pRibBVh.png 48px %}||
 
 
 
@@ -46,7 +47,8 @@ description: "能力飾品資料整理"
 
 |軍團長|道具圖|能力值|
 |:-:|:-|:-|
-| 火焰王上位 | {% inlineImg https://i.imgur.com/JlogtYH.png 32px %}{% inlineImg https://i.imgur.com/I7EIGWh.png 32px %}{% inlineImg https://i.imgur.com/llHDcNL.png 32px %} | 物理/魔法攻擊力+500<br>物理/魔法爆傷+21%<br>三暴傷+31%<br>追加物品掉落+25%<br>打擊時回復超能力 15% (冷卻時間 10 秒) |
+| 魔龍王 | {% inlineImg https://i.imgur.com/kkYqVKR.png 32px %}{% inlineImg https://i.imgur.com/8eWz1HI.png 32px %}{% inlineImg https://i.imgur.com/YYfSGGG.png 32px %}{% inlineImg https://i.imgur.com/DLyLQcv.png 32px %} | 物理/魔法攻擊力+600<br>物理/魔法爆傷+60%<br>魔龍增傷+30%
+| 火焰王上位 | {% inlineImg https://i.imgur.com/JlogtYH.png 32px %}{% inlineImg https://i.imgur.com/I7EIGWh.png 32px %}{% inlineImg https://i.imgur.com/llHDcNL.png 32px %} | 物理/魔法攻擊力+500<br>物理/魔法爆傷+21%<br>空中/背擊/浮空暴擊傷害+31%<br>追加物品掉落+25%<br>打擊時回復超能力 15% (冷卻時間 10 秒) |
 | 火焰王 | {% inlineImg https://i.imgur.com/Gqd1khg.png 32px %}{% inlineImg https://i.imgur.com/W8cYj1Q.png 32px %}{% inlineImg https://i.imgur.com/8fFjIDf.png 32px %}{% inlineImg https://i.imgur.com/5r607Gn.png 32px %} | 物理/魔法攻擊力+400<br>物理/魔法爆傷+45%<br>業火增傷+10% |
 | 野獸王 | {% inlineImg https://i.imgur.com/XiMgiNw.png 32px %}{% inlineImg https://i.imgur.com/0VaY1sl.png 32px %}{% inlineImg https://i.imgur.com/luPj9ua.png 32px %} | 物理/魔法攻擊力+350<br>物理/魔法爆傷+40%<br>野生增傷+10% |
 | 機械王 | {% inlineImg https://i.imgur.com/32MiorG.png 32px %}安娜貝爾的反重力模組<br>{% inlineImg https://i.imgur.com/bF7eDfD.png 32px %}格莫莉的天線絲帶<br>{% inlineImg https://i.imgur.com/pRibBVh.png 32px %}洛夫克拉夫特之錘 | 物理/魔法攻擊力+300<br>物理/魔法爆傷+35%<br>前腦增傷+10% |
@@ -61,6 +63,7 @@ description: "能力飾品資料整理"
 
 |軍團長|道具圖|取得方式|
 |:-:|:-:|:-:|
+| 魔龍王 | {% inlineImg https://i.imgur.com/kkYqVKR.png 32px %}{% inlineImg https://i.imgur.com/8eWz1HI.png 32px %}{% inlineImg https://i.imgur.com/YYfSGGG.png 32px %}{% inlineImg https://i.imgur.com/DLyLQcv.png 32px %} | [魔龍王](/datasets/hecatoncheires/#%E9%A3%BE%E5%93%81)
 | 火焰王上位 | {% inlineImg https://i.imgur.com/JlogtYH.png 32px %}{% inlineImg https://i.imgur.com/I7EIGWh.png 32px %}{% inlineImg https://i.imgur.com/llHDcNL.png 32px %} | [火焰的終局](/datasets/prometheus/#%E7%81%AB%E7%84%B0%E7%9A%84%E7%B5%82%E5%B1%80-%E5%A4%A7%E5%9C%98%E5%9C%93-1) |
 | 火焰王 | {% inlineImg https://i.imgur.com/Gqd1khg.png 32px %}{% inlineImg https://i.imgur.com/W8cYj1Q.png 32px %}{% inlineImg https://i.imgur.com/8fFjIDf.png 32px %}{% inlineImg https://i.imgur.com/5r607Gn.png 32px %} | [火焰的喜劇](/datasets/prometheus/#%E7%81%AB%E7%84%B0%E7%9A%84%E5%96%9C%E5%8A%87%EF%BC%9A%E9%A3%BE%E5%93%81) |
 | 野獸王 | {% inlineImg https://i.imgur.com/XiMgiNw.png 32px %}{% inlineImg https://i.imgur.com/0VaY1sl.png 32px %}{% inlineImg https://i.imgur.com/luPj9ua.png 32px %} | [保底製作](/datasets/behemoth/#取得方式) |
@@ -120,7 +123,7 @@ description: "能力飾品資料整理"
   .dec table {
     text-align: center;
     font-weight: bold;
-    font-size: 8px;
+    font-size: 10px;
 	  width: 100%;
   }
 

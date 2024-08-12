@@ -20,6 +20,7 @@ tags:
     - 賽特
     - 未來
     - 徹斯
+    - 伊莉雅
 category: [遊戲資料,其他]
 cover: https://i.imgur.com/zLWH2hkh.jpg
 description: "五轉介紹與資訊"
@@ -95,6 +96,7 @@ description: "五轉介紹與資訊"
 | 銀河 | 31200% + 280800% | 4680% + 42120% | 35880% + 322920% |
 | 露西 | **雙傷** 185895% | 27885% | **雙傷** 213780% |
 | 愛里 | **<font color=#FF0000>真傷</font>** 154752% + 43056% + 21840% + 31200% | 23212.8% + 6458.4% + 3276% + 4680% | **<font color=#FF0000>真傷</font>** 177964.8% + 49514.4% + 25116% + 35880% |
+| 伊莉雅 | 71500% + 14300% (**<font color=#FF0000>x5</font>**) + 143000% | 7150% + 1430% (**<font color=#FF0000>x5</font>**) + 14300% | 78650% + 15730% (**<font color=#FF0000>x5</font>**) + 157300% |
 {% endhideToggle %}
 **施放期間無法使用其他技能(一般無敵狀態)，並獲得永久BUFF：攻擊速度+5%、造成的傷害+5%、物理/魔法攻擊力+100**
 
@@ -208,6 +210,10 @@ description: "五轉介紹與資訊"
 <!-- tab 愛里(Aeri)-->
 ![](/img/decisive_illust/Aeri.png)
 {%youtube 5cVCA_0Ir0Y %}
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+![](/img/decisive_illust/Ria.jpg)
+{%youtube M4GQHo6Ns50 %}
 <!-- endtab -->
 {% endtabs %}
 
@@ -361,6 +367,12 @@ description: "五轉介紹與資訊"
 {% hideToggle 登入畫面(尚無) %}
 
 {% endhideToggle %}
+
+{% endtimenode %}
+
+{% timenode <font size=5>2024/07/25：伊莉雅</font> %}
+
+[宣傳頁面](https://closers.nexon.com/Events2024/0725/Update)
 
 {% endtimenode %}
 
