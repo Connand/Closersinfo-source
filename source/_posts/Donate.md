@@ -1,8 +1,10 @@
 ---
-title: 感恩大德區(贊助)
+title: 感恩大德區(贊助，暫時關閉)
 date: 2021-08-31 11:25:52
 tags: 贊助
 ---
+
+> **<div style="text-align:center"><font size=3 color=red>目前為暫時關閉狀態</font></div>**
 
 # 感謝您點進來看這邊
 

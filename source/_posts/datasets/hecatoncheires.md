@@ -15,13 +15,15 @@ description: "魔龍王裝備資訊"
 
 |裝備|舊裝備|目標|
 |:-:|:-:|:-:|
-|武器|火焰王武器<br>野獸王史詩武器|魔龍王武器|
-|武器|野獸王史詩武器|魔龍王史詩武器|
+|武器|火焰王武器|魔龍王武器|
+|武器|野獸王史詩武器|魔龍王武器<br>魔龍王史詩武器|
 |模組|火焰王模組|魔龍王模組|
 
 ---
 
 > # 副本資訊
+
+- BOSS類型：魔龍型 {% inlineImg https://i.imgur.com/FWfg4L0.png 48px %}
 
 ## 龍之前哨戰
 
@@ -29,14 +31,12 @@ description: "魔龍王裝備資訊"
 - 入場限制：各每日 1 次
 - 建議戰力與裝備等級：6000萬、210等
 - 每日可獲得新材料：10x {% inlineImg https://i.imgur.com/P05QV0U.png 48px %}
-- BOSS類型：魔龍型 {% inlineImg https://i.imgur.com/FWfg4L0.png 48px %}
 
 ## 龍之搖籃、魔龍統治的巴黎
 
 - 分「四人副本」 2 種與「單人副本」 2 種，共 4 種副本
 - 角色等級需求：95
 - 裝備等級限制：210等
-- BOSS類型：魔龍型 {% inlineImg https://i.imgur.com/FWfg4L0.png 48px %}
 - {% inlineImg https://i.imgur.com/S49Cjjp.png 48px %} 用於開啟史詩武器或升級史詩武器的材料 {% inlineImg https://i.imgur.com/Ixh5use.png 48px %} (每箱 1 個)
 
 |副本|建議戰力|獎勵限制|入場限制|復活限制|獎勵|
@@ -53,7 +53,7 @@ description: "魔龍王裝備資訊"
 
 - **<font color=red>共分為4種</font>，不分傷害類型（物理、魔法、混合通用）**
 - **保底週期： 5 周**
-- **<font color=red>L7武器可透過「史詩升級(100%)」升級為史詩武器，該週期（不含單人本）為 167 周</font>**
+- **<font color=red>L7武器可透過「史詩升級(100%)」升級為史詩武器，該週期（不含單人本與成就）為 167 周</font>**
 
 |階數|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/fm10zrg.png 48px %}|{% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}|{% inlineImg https://i.imgur.com/Ixh5use.png 48px %}|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -90,7 +90,7 @@ description: "魔龍王裝備資訊"
 
 ## 魔龍圓盤
 
-- **保底週期： 7 周 (含武器)**
+- **保底週期： 7 周 (含武器)、 3 周 (不含武器)**
 
 |階數|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/P05QV0U.png 48px %}|{% inlineImg https://i.imgur.com/fm10zrg.png 48px %}|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -146,6 +146,7 @@ PLV: 240
 ## 晶片
 
 - **說明**：僅能透過掉落獲得，只能裝備於魔龍圓盤上 (L3 以前為 1 格、 L4 以上為 2 格)
+- 並且同樣晶片只能裝備 1 個
 
 |能力|{% inlineImg https://i.imgur.com/d4aDPVF.png 48px %}<br><font color=red>紫色光芒先鋒隊長晶片</font>|{% inlineImg https://i.imgur.com/fHBCO1V.png 48px %}<br><font color=blue>不屈的守門隊長晶片</font>|{% inlineImg https://i.imgur.com/4VRvdnt.png 48px %}<br><font color=red>龍之妃阿師塔蒂晶片</font>|{% inlineImg https://i.imgur.com/PUsArLc.png 48px %}<br><font color=blue>龍王赫克頓蓋爾晶片</font>
 |:-|:-:|:-:|:-:|:-:|
@@ -300,7 +301,7 @@ PLV: 240
 
 ## 立繪臂章
 
-{% tabs 立繪臂章 %}
+{% tabs 立繪臂章, -1 %}
 <!-- tab 阿施塔蒂-->
 ![](https://i.imgur.com/53BSr56.png)
 <!-- endtab -->
@@ -311,6 +312,13 @@ PLV: 240
 
 ---
 
-> # 成就（待補）
+> # 成就
+
+- **赫克頓蓋爾與阿施塔蒂各一項成就，成就獎勵均相同（四人副本場數）**
+
+|階段|1 階|2 階|3 階|4 階|5 階|6 階|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|場數|1 場|10 場|30 場|60 場|100 場|150 場|
+|獎勵<br>均為{% inlineImg https://i.imgur.com/S49Cjjp.png 48px %}|1 箱|2 箱|4 箱|8 箱|16 箱|32 箱|
 
 ---

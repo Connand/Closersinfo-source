@@ -9,14 +9,18 @@ description: "能力飾品資料整理"
 
 # 套裝效果組合表
 
+- 通常是臉上 + 手臂使用 **主線系列** ，臉下 + 腰部 + 腿部使用 **軍團長系列** ，可依照自身所持有的飾品盡量湊滿套裝為主。
+
 |強度|臉上|手臂|臉下|腰部|腿部|連身
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |T0|{% inlineImg https://i.imgur.com/JlogtYH.png 48px %}|{% inlineImg https://i.imgur.com/llHDcNL.png 48px %}|{% inlineImg https://i.imgur.com/8eWz1HI.png 48px %}|{% inlineImg https://i.imgur.com/I7EIGWh.png 48px %}|{% inlineImg https://i.imgur.com/DLyLQcv.png 48px %}|{% inlineImg https://i.imgur.com/fpuLmaj.png 48px %}{% inlineImg https://i.imgur.com/uXVHunT.png 48px %}|
 |T1|||{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}||{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}|{% inlineImg https://i.imgur.com/eq0ZfOa.png 48px %}{% inlineImg https://i.imgur.com/4khmgZK.png 48px %}|
-|T2-1|{% inlineImg https://i.imgur.com/L5J2PUl.png 48px %}|{% inlineImg https://i.imgur.com/qJ55LVW.png 48px %}|{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}|{% inlineImg https://i.imgur.com/8fFjIDf.png 48px %}|{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}|{% inlineImg https://i.imgur.com/fSK8eom.png 48px %}{% inlineImg https://i.imgur.com/hPyWrDa.png 48px %}|
-|T2-2|{% inlineImg https://i.imgur.com/rrpQ2gb.png 48px %}|{% inlineImg https://i.imgur.com/agZl0zT.png 48px %}|||||
-|T3|{% inlineImg https://i.imgur.com/Gcq581T.png 48px %}|{% inlineImg https://i.imgur.com/Ey363sm.png 48px %}|{% inlineImg https://i.imgur.com/XiMgiNw.png 48px %}|{% inlineImg https://i.imgur.com/0VaY1sl.png 48px %}|{% inlineImg https://i.imgur.com/luPj9ua.png 48px %}||
-|T4|||{% inlineImg https://i.imgur.com/32MiorG.png 48px %}|{% inlineImg https://i.imgur.com/bF7eDfD.png 48px %}|{% inlineImg https://i.imgur.com/pRibBVh.png 48px %}||
+|T2 - A|{% inlineImg https://i.imgur.com/L5J2PUl.png 48px %}|{% inlineImg https://i.imgur.com/qJ55LVW.png 48px %}|{% inlineImg https://i.imgur.com/8eWz1HI.png 48px %}|{% inlineImg https://i.imgur.com/kkYqVKR.png 48px %}|{% inlineImg https://i.imgur.com/DLyLQcv.png 48px %}|{% inlineImg https://i.imgur.com/fSK8eom.png 48px %}{% inlineImg https://i.imgur.com/hPyWrDa.png 48px %}|
+|T2 - B|{% inlineImg https://i.imgur.com/rrpQ2gb.png 48px %}|{% inlineImg https://i.imgur.com/agZl0zT.png 48px %}|
+|T3|{% inlineImg https://i.imgur.com/Gcq581T.png 48px %}|{% inlineImg https://i.imgur.com/Ey363sm.png 48px %}|{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}|{% inlineImg https://i.imgur.com/8fFjIDf.png 48px %}|{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}||
+|T4|{% inlineImg https://i.imgur.com/TIYIPxX.png 48px %}|{% inlineImg https://i.imgur.com/T36l1xp.png 48px %}|{% inlineImg https://i.imgur.com/XiMgiNw.png 48px %}|{% inlineImg https://i.imgur.com/0VaY1sl.png 48px %}|{% inlineImg https://i.imgur.com/luPj9ua.png 48px %}||
+|T5|{% inlineImg https://i.imgur.com/JucHaXK.png 48px %}|{% inlineImg https://i.imgur.com/0hq1cbk.png 48px %}|{% inlineImg https://i.imgur.com/32MiorG.png 48px %}|{% inlineImg https://i.imgur.com/bF7eDfD.png 48px %}|{% inlineImg https://i.imgur.com/pRibBVh.png 48px %}||
+|T6|||{% inlineImg https://i.imgur.com/eUoR3Ni.png 48px %}|{% inlineImg https://i.imgur.com/7NxcuSR.png 48px %}|{% inlineImg https://i.imgur.com/Lrj8V1L.png 48px %}||
 
 
 
@@ -64,8 +68,8 @@ description: "能力飾品資料整理"
 |軍團長|道具圖|取得方式|
 |:-:|:-:|:-:|
 | 魔龍王 | {% inlineImg https://i.imgur.com/kkYqVKR.png 32px %}{% inlineImg https://i.imgur.com/8eWz1HI.png 32px %}{% inlineImg https://i.imgur.com/YYfSGGG.png 32px %}{% inlineImg https://i.imgur.com/DLyLQcv.png 32px %} | [魔龍王](/datasets/hecatoncheires/#%E9%A3%BE%E5%93%81)
-| 火焰王上位 | {% inlineImg https://i.imgur.com/JlogtYH.png 32px %}{% inlineImg https://i.imgur.com/I7EIGWh.png 32px %}{% inlineImg https://i.imgur.com/llHDcNL.png 32px %} | [火焰的終局](/datasets/prometheus/#%E7%81%AB%E7%84%B0%E7%9A%84%E7%B5%82%E5%B1%80-%E5%A4%A7%E5%9C%98%E5%9C%93-1) |
-| 火焰王 | {% inlineImg https://i.imgur.com/Gqd1khg.png 32px %}{% inlineImg https://i.imgur.com/W8cYj1Q.png 32px %}{% inlineImg https://i.imgur.com/8fFjIDf.png 32px %}{% inlineImg https://i.imgur.com/5r607Gn.png 32px %} | [火焰的喜劇](/datasets/prometheus/#%E7%81%AB%E7%84%B0%E7%9A%84%E5%96%9C%E5%8A%87%EF%BC%9A%E9%A3%BE%E5%93%81) |
+| 火焰王上位 | {% inlineImg https://i.imgur.com/JlogtYH.png 32px %}{% inlineImg https://i.imgur.com/I7EIGWh.png 32px %}{% inlineImg https://i.imgur.com/llHDcNL.png 32px %} | [火焰的終局](/datasets/prometheus/#%E7%81%AB%E7%84%B0%E7%9A%84%E7%B5%82%E5%B1%80%E7%8D%8E%E5%8B%B5-%E5%A4%A7%E5%9C%98%E5%9C%93) |
+| 火焰王 | {% inlineImg https://i.imgur.com/Gqd1khg.png 32px %}{% inlineImg https://i.imgur.com/W8cYj1Q.png 32px %}{% inlineImg https://i.imgur.com/8fFjIDf.png 32px %}{% inlineImg https://i.imgur.com/5r607Gn.png 32px %} | [火焰的喜劇](/datasets/prometheus/#%E7%81%AB%E7%84%B0%E7%9A%84%E5%96%9C%E5%8A%87%E7%8D%8E%E5%8B%B5) |
 | 野獸王 | {% inlineImg https://i.imgur.com/XiMgiNw.png 32px %}{% inlineImg https://i.imgur.com/0VaY1sl.png 32px %}{% inlineImg https://i.imgur.com/luPj9ua.png 32px %} | [保底製作](/datasets/behemoth/#取得方式) |
 | 機械王 | {% inlineImg https://i.imgur.com/32MiorG.png 32px %}{% inlineImg https://i.imgur.com/bF7eDfD.png 32px %}{% inlineImg https://i.imgur.com/pRibBVh.png 32px %} | 保底製作、成就10階(250場)、調查隊、上位副本(3000) |
 | 深海王 | {% inlineImg https://i.imgur.com/0ItwifH.png 32px %}{% inlineImg https://i.imgur.com/kyn2g4L.png 32px %}{% inlineImg https://i.imgur.com/2hPXx0l.png 32px %} | 成就10階(250場)、調查隊(紅藍)、紅石板 |
