@@ -143,6 +143,7 @@ description: "晶片系統內容說明"
 ## 超頻倍率參考值
 
 根據超頻等級，攻擊力/爆擊傷害會依照 "0等數值 X 對應倍率" 來成長
+僅供參考，可能滿多不正確數值
 {% hideToggle 超頻倍率 %}
 <div class="chipOC_exp">
 
@@ -174,18 +175,21 @@ description: "晶片系統內容說明"
 
 ---
 
-# 經驗、材料與費用
+# 超頻經驗與成本
 
-T1單色：1點、1w/每片
-T2單色：4點、2.5w/每片
-T1鉑金：30點、10w/每片
-T2鉑金：65點、23w/每片
-早期鉑金：15點、15w/每片
-古龍單色：100點、50w/每片
+- **注意** ：超頻自[韓版2024/05/16更新](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=593)後，就不再需要消耗遊戲幣
 
-能力提升：
-綠色T1：(武器)爆傷+0.48% / Lv.
-藍色T2：(武器)基傷+6 / Lv.
+| 晶片 | {% inlineImg https://i.imgur.com/bRFx7v6.png 32px %}製作費 | 經驗值 | 每經驗成本 | <font color=red>備註</font> |
+|---|---|---|---|---|
+| T1顏色 | 0 | 2 | 0  | 相同顏色 |
+| T2顏色 | 15萬 | 8 | 18,750  | 使用刑場珠子、並且使用相同顏色 |
+| T3顏色 | 1000萬 | 30 | 333,333  | 相同顏色 |
+| <font class="rainbow-text">T1鉑金</font> | 0 | 60 | 0  |  |
+| <font class="rainbow-text">T2鉑金</font> | 250萬 | 130 | 19,230  | 使用刑場手銬 |
+| <font class="rainbow-text">T2鉑金</font> | 2000萬 | 130 | 153,846  |  |
+| 早期鉑金 | 0 | 30 | 0  |  |
+| 超頻 | 200萬 | 100 | 20,000  |  |
+| 提亞瑪特系列 / 攻速 | 2000萬 | 200 | 100,000  | 相同顏色 |
 
 ---
 
@@ -209,6 +213,8 @@ T2鉑金：65點、23w/每片
 ---
 
 # 晶片製作材料
+
+- **注意** ：此區~~因為我怠惰~~尚未更新，部分內容與遊戲內設定不同。
 
 {% hideToggle 部分材料取得方式 %}
 {% inlineImg https://i.imgur.com/y0zaCqB.png 40px %}未知的物體：蒼蠅王的御體跟IF關卡。一場大關8個、一場小關6~10個
@@ -397,16 +403,16 @@ T2鉑金：65點、23w/每片
 
 > {% inlineImg /img/chip/HQ_5_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_15_CHIP.PNG 50px %} **<font color=red>紅色</font><font color=blue>藍色</font>** {% inlineImg /img/chip/HQ_6_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_16_CHIP.PNG 50px %}
 
-|-|T1|T2|蒼蠅王|T3|T4
-|:-:|:-:|:-:|:-:|:-:|:-:
-|攻擊力|2|4|5<br>防禦力 300|6|8
+|-|T1|T2|蒼蠅王|T3|T4|太初的提亞瑪特{% inlineImg /img/chip/HQ_21_NEW_CHIP.PNG 50px %}
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+|攻擊力|2|4|5<br>防禦力 300|6|8|<font color=red>100</font><br>魔龍增傷 3%
 <p>　</p>
 
 > {% inlineImg /img/chip/HQ_25_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_35_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_45_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_55_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_605_NEW_CHIP.PNG 50px %} **<font color=#aa0>黃色</font><font color=green>綠色</font><font color=purple>紫色</font><font color=black>黑色</font><font color=#888>白色</font>** {% inlineImg /img/chip/HQ_26_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_36_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_46_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_56_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_611_NEW_CHIP.PNG 50px %}
 
-|-|T1|T2|蒼蠅王|T3|T4
-|:-:|:-:|:-:|:-:|:-:|:-:
-|暴擊傷害|1%|2%|2.5%|3%|4%
+|-|T1|T2|蒼蠅王|T3|T4|太初的提亞瑪特{% inlineImg /img/chip/HQ_321_NEW_CHIP.PNG 50px %}
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+|暴擊傷害|1%|2%|2.5%|3%|4%|<font color=red>10%</font><br>魔龍增傷 3%
 |額外效果|-|-|**<div style="text-align:left"><font color=#aa0>黃色</font><font color=green>綠色</font> 技能消耗減少 3%<br><font color=purple>紫色</font> 追加金幣 4%<br><font color=black>黑色</font> 追加獲得道具 5%<br><font color=#888>白色</font> 追加經驗值 7%</div>**|-
 <p>　</p>
 
