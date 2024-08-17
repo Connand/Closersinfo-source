@@ -77,6 +77,19 @@ description: "晶片系統內容說明"
 <!-- endtab -->
 {% endtabs %}
 
+{% hideToggle 晶片轉移所需晶片保護裝置數量 %}
+| 晶片 | 所需晶片保護裝置數量 |
+|---|---|
+| T2顏色 | 2 |
+| T3顏色 | 3 |
+| T4顏色 | 5 |
+| <font class="rainbow-text">T1鉑金</font> | 6 |
+| <font class="rainbow-text">T2鉑金</font> | 9 |
+| <font class="rainbow-text">T3鉑金</font> | 12 |
+| <font class="rainbow-text">T4鉑金</font> | 15 |
+| 提亞瑪特 | 9 |
+{% endhideToggle %}
+
 ---
 
 # 超頻經驗表
@@ -184,10 +197,10 @@ description: "晶片系統內容說明"
 | T1顏色 | 0 | 2 | 0  | 相同顏色 |
 | T2顏色 | 15萬 | 8 | 18,750  | 使用刑場珠子、並且使用相同顏色 |
 | T3顏色 | 1000萬 | 30 | 333,333  | 相同顏色 |
-| <font class="rainbow-text">T1鉑金</font> | 0 | 60 | 0  |  |
-| <font class="rainbow-text">T2鉑金</font> | 250萬 | 130 | 19,230  | 使用刑場手銬 |
-| <font class="rainbow-text">T2鉑金</font> | 2000萬 | 130 | 153,846  |  |
-| 早期鉑金 | 0 | 30 | 0  |  |
+| <font class="rainbow-text">T1鉑金</font> | 0 | 60 | 0  | 對鉑金使用 |
+| <font class="rainbow-text">T2鉑金</font> | 250萬 | 130 | 19,230  | 使用刑場手銬、並且對鉑金使用 |
+| <font class="rainbow-text">T2鉑金</font> | 2000萬 | 130 | 153,846  | 對鉑金使用 |
+| 早期鉑金 | 0 | 30 | 0  | 對鉑金使用 |
 | 超頻 | 200萬 | 100 | 20,000  |  |
 | 提亞瑪特系列 / 攻速 | 2000萬 | 200 | 100,000  | 相同顏色 |
 
