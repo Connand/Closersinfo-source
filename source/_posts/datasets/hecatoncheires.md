@@ -53,7 +53,7 @@ description: "魔龍王裝備資訊"
 
 - **<font color=red>共分為4種</font>，不分傷害類型（物理、魔法、混合通用）**
 - **保底週期： 5 周**
-- **<font color=red>L7武器可透過「史詩升級(100%)」升級為史詩武器，該週期（不含單人本與成就）為 167 周</font>**
+- **L7武器可透過「史詩升級(100%)」升級為史詩武器，該週期（<font color=red>不含單人本與成就</font>）為 167 周**
 
 |階數|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/fm10zrg.png 48px %}|{% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}|{% inlineImg https://i.imgur.com/Ixh5use.png 48px %}|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -145,7 +145,7 @@ PLV: 240
 
 ## 晶片
 
-- **說明**：僅能透過掉落獲得，只能裝備於魔龍圓盤上 (L3 以前為 1 格、 L4 以上為 2 格)
+- **說明**：僅能透過掉落獲得，只能裝備於魔龍圓盤上 (僅能裝備 1 格)
 - 並且同樣晶片只能裝備 1 個
 
 |能力|{% inlineImg https://i.imgur.com/d4aDPVF.png 48px %}<br><font color=red>紫色光芒先鋒隊長晶片</font>|{% inlineImg https://i.imgur.com/fHBCO1V.png 48px %}<br><font color=blue>不屈的守門隊長晶片</font>|{% inlineImg https://i.imgur.com/4VRvdnt.png 48px %}<br><font color=red>龍之妃阿師塔蒂晶片</font>|{% inlineImg https://i.imgur.com/PUsArLc.png 48px %}<br><font color=blue>龍王赫克頓蓋爾晶片</font>
@@ -192,7 +192,7 @@ PLV: 240
 </tr>
 <tr>
     <td align="left">{% inlineImg https://i.imgur.com/t5vPkWO.png 40px %}<strong><font color=red>掐脖子</font></strong></td>
-    <td align="left">使用終極技時，40 秒內總攻擊力 +40%。</td>
+    <td align="left">使用終極技時，20 秒內總攻擊力 +40%。</td>
 </tr>
 
 <tbody>
