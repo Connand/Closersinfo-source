@@ -190,7 +190,7 @@ description: "晶片系統內容說明"
 
 # 超頻經驗與成本
 
-- **注意** ：超頻自[韓版2024/05/16更新](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=593)後，就不再需要消耗遊戲幣
+- **注意** ：自[韓版2024/05/16更新](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=593)後，超頻就不再需要消耗遊戲幣
 
 | 晶片 | {% inlineImg https://i.imgur.com/bRFx7v6.png 32px %}製作費 | 經驗值 | 每經驗成本 | <font color=red>備註</font> |
 |---|---|---|---|---|
