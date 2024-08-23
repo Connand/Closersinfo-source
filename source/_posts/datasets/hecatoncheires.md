@@ -176,7 +176,7 @@ PLV: 240
 - **說明**：僅能透過掉落獲得，只能裝備於魔龍圓盤上 (僅能裝備 1 格)
 - 並且同樣晶片只能裝備 1 個
 
-|能力|{% inlineImg https://i.imgur.com/d4aDPVF.png 48px %}<br><font color=red>紫色光芒先鋒隊長晶片</font>|{% inlineImg https://i.imgur.com/fHBCO1V.png 48px %}<br><font color=blue>不屈的守門隊長晶片</font>|{% inlineImg https://i.imgur.com/4VRvdnt.png 48px %}<br><font color=red>龍之妃阿師塔蒂晶片</font>|{% inlineImg https://i.imgur.com/PUsArLc.png 48px %}<br><font color=blue>龍王赫克頓蓋爾晶片</font>
+|能力|{% inlineImg https://i.imgur.com/d4aDPVF.png 48px %}<br><font color=red>紫光先鋒晶片</font>|{% inlineImg https://i.imgur.com/fHBCO1V.png 48px %}<br><font color=blue>不屈門將晶片</font>|{% inlineImg https://i.imgur.com/4VRvdnt.png 48px %}<br><font color=red>龍妃阿師塔蒂晶片</font>|{% inlineImg https://i.imgur.com/PUsArLc.png 48px %}<br><font color=blue>龍王赫克頓蓋爾晶片</font>
 |:-|:-:|:-:|:-:|:-:|
 |物理/魔法暴擊傷害|55%|-|80%|-|
 |空中/背擊/浮空暴擊傷害|-|20%|-|30%|
