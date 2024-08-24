@@ -33,7 +33,6 @@ description: "魔龍王裝備資訊"
 
 {% hideToggle 副本血量 %}
 
-BOSS資訊：
 |血量|暴擊傷害抵抗|減傷
 |:-:|:-:|:-:
 |14000億|2000%|30%
@@ -231,7 +230,7 @@ PLV: 240
 </tr>
 <tr>
     <td align="left">{% inlineImg https://i.imgur.com/VaeFQgH.png 40px %}<strong><font color=red>智慧閃光</font></strong></td>
-    <td align="left"><strong>智慧之光</strong> 發動時，於使用者周圍產生一區域對敵人造成傷害。此傷害受增傷 / 減傷 / 暴擊影響。</td>
+    <td align="left"><strong>智慧之光</strong> 發動時，於使用者周圍產生一區域對敵人造成傷害。此傷害為<strong>真實傷害</strong>，並且受增傷 / 暴擊影響。<br>煮水補充：基礎傷害值為 150 萬。</td>
 </tr>
 
 <tbody>
