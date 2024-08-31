@@ -9,6 +9,22 @@ description: "魔龍王裝備資訊"
 
 > # 前言
 
+## 防禦穿透提升方法
+
+由於 **赫克頓蓋爾** 副本環境會在入場時給玩家增加 DEBUFF **龍之意志** ，會使玩家的 **<font color=red>總防禦穿透減少 80%</font>**
+並且因為還沒有機制可以解除 DEBUFF 的情況下，使開場時的傷害會變得非常低，因此建議會建議在入場時能 **將所有防禦穿透總和超過 500%（主 + 空 + 背 + 浮 >= 500%）**
+能夠在開場時仍然能保持100%的防禦穿透，以下根據參考影片以文字簡單整理的穿透數值來源：
+1. 武器晶片（及所有裝備的鉑金晶片）
+2. 社團用品：拳擊俠
+3. 基礎PNA：攻擊 - 結合因數
+4. 特殊PNA
+5. 被動
+6. 增幅PNA
+7. 稱號：超越不死者（完成狂風達斯特 100 場）
+8. 護盾重鑄
+
+[參考影片](https://www.bilibili.com/video/BV176WaeuEDU/?share_source=copy_web&vd_source=2426657ea8060a3b8d41a50bede67b85)
+
 ## 強化轉移路線懶人包
 
 - [參考資料](https://closers.nexon.com/News/Guide/View?n4ArticleSN=247&n4ArticleCategorySN=3)

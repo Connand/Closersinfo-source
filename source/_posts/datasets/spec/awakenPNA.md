@@ -350,7 +350,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |戰鬥之極(增益)|平原之門\[英雄的火爐\]<br>**持續5小時**|物理/魔法爆擊傷害+10%<br>獲得金幣/道具/經驗+5%<br>**<font color=#ff0000>獲得PNA經驗+5%</font>**|
 |博士的完美PNA教室(帳號稱號)|成就->作戰區域->高級作戰區域<br>->**通關格莫瑞科學設施成就6階段：<br>通關100場(普通/溫和都算入)**|獲得經驗值+30%<br>**<font color=#ff0000>獲得PNA經驗+30%</font>**|
 |[團隊增益](/datasets/spec/teambuff/)|配置最後一條|**滿180時**：<br>獲得金幣+15%<br>獲得道具+30%<br>獲得經驗值+15%<br>**<font color=#ff0000>獲得PNA經驗+15%</font>**|
-|[寵物](/datasets/spec/pets/)|**<迷你楊秀妍>**|**覺醒時被動**：<br>增加最大生命值2000<br>增加最大魔法值2000<br>物理/魔法防禦穿透率20%<br>**<font color=#d60>追加經驗值20%</font>**<br>**<font color=red>追加PNA經驗值20%</font>**|
+|[寵物](/datasets/spec/pets/)|**<迷你楊秀妍><br><迷你成年格莫瑞>**|**覺醒時被動**：<br>增加最大生命值2000<br>增加最大魔法值2000<br>物理/魔法防禦穿透率20%<br>**<font color=#d60>追加經驗值20%</font>**<br>**<font color=red>追加PNA經驗值20%/30%</font>**|
 
 <style>
 	.arranged_table table th:nth-of-type(1){

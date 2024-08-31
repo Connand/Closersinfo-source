@@ -410,24 +410,11 @@ PLV: 220 (史詩240)
 
 ---
 
-- # 臂章立繪預覽
-
-{% tabs 立繪 %}
-<!-- tab 吉妲-->
-![](https://i.imgur.com/vEUFxy8.png)
-<!-- endtab -->
-<!-- tab 普羅米修斯-->
-![](https://i.imgur.com/NRgOwHC.png)
-<!-- endtab -->
-{% endtabs %}
-
----
-
 - # 火花的終局動作預覽
 
 由[封印者攻略網Discord群](https://discord.gg/closersinfotw)內玩家們提供
 
-{% tabs 模組圖 %}
+{% tabs 模組圖,-1 %}
 <!-- tab 李世河(Seha)-->
 [![](https://i.imgur.com/MyF0Z8Th.png)](https://i.imgur.com/MyF0Z8T.png)
 <!-- endtab -->
@@ -487,6 +474,19 @@ PLV: 220 (史詩240)
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/Vqh5cKih.png)](https://i.imgur.com/Vqh5cKi.png)
+<!-- endtab -->
+{% endtabs %}
+
+---
+
+- # 臂章立繪預覽
+
+{% tabs 立繪,-1 %}
+<!-- tab 吉妲-->
+![](https://i.imgur.com/vEUFxy8.png)
+<!-- endtab -->
+<!-- tab 普羅米修斯-->
+![](https://i.imgur.com/NRgOwHC.png)
 <!-- endtab -->
 {% endtabs %}
 

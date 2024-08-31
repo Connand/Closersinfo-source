@@ -84,6 +84,9 @@ description: "Conquest Program Ver. 2"
 </div>
 <!-- endtab -->
 <!-- tab BOSS血量-->
+
+- 減傷可能隨機制變化，並不準確
+
 |層數|BOSS|血量(億)|暴擊傷害抵抗(%)|減傷(%)|
 |:-:|:-:|:-:|:-:|:-:|
 |1| 閃電魔女卡蜜拉 {%inlineImg https://i.imgur.com/KOAPxLX.png 40px%} | 14000 | 2100 | 30 | 
