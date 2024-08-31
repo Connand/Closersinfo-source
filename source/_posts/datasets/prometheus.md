@@ -41,6 +41,16 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 |幻想的木偶劇|190|3000萬
 |狂氣的黃昏|195|3500萬
 
+{% hideToggle 副本血量 %}
+
+|副本|血量|暴擊傷害抵抗|減傷
+|:-:|:-:|:-:|:-:
+|監視者之房|2600億|2500%|20%
+|幻想的木偶劇|3100億|2500%|20%
+|狂氣的黃昏|3700億|2500%|20%
+
+{% endhideToggle %}
+
 ## 火焰的喜劇
 
 **先鋒隊系統(VANGUARD)：~~6人組隊~~ <font color=red>於[2023/11/16更新](https://closers.nexon.com/News/Notice/View?n4PageNo=2&n4ArticleSN=142663)時修改為 4 人組隊</font>** 
@@ -48,7 +58,20 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 裝備等級210，建議戰力4500萬
 每周獎勵次數： 1 次
 
-{% hideToggle 副本系統說明 %}
+|獎勵|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|{% inlineImg https://i.imgur.com/7aQwuvb.png 48px %}|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|任務完成|206 個|105 個|210 個|210 個|-
+|每周獎勵|105 個|105 個|210 個|210 個|3 張
+
+<p>　</p>
+
+{% hideToggle 副本血量與系統說明 %}
+
+|BOSS|血量|暴擊傷害抵抗|減傷
+|:-:|:-:|:-:|:-:
+|吉達|20500億|2500%|50%
+|[普羅米修斯](https://www.bilibili.com/video/BV1dW421F7Hc)|42100億|2500%|大多0%
+
 1. 復活次數限制： 2 次
 2. 藥水使用限制： 10 次
 3. 副本技能點數增加量
@@ -68,13 +91,6 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
   - {% inlineImg https://i.imgur.com/K5CPzkS.png 40px %}閔秀賢 (2000點)：使吉達和普羅米修斯無力化
 {% endhideToggle %}
 
-<p>　</p>
-
-|獎勵|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg https://i.imgur.com/yRs6b4b.png 48px %}|{% inlineImg https://i.imgur.com/h0nhmhU.png 48px %}|{% inlineImg https://i.imgur.com/7aQwuvb.png 48px %}|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|任務完成|206 個|105 個|210 個|210 個|-
-|每周獎勵|105 個|105 個|210 個|210 個|3 張
-
 ## 火焰的終局(大團圓)
 角色等級需求92
 裝備等級210， **<font color=red>建議戰力6000萬</font>**
@@ -85,6 +101,17 @@ BOSS類型：業火型 {% inlineImg https://i.imgur.com/3FV9pDB.png 48px %}
 稀有掉落物：{% inlineImg https://i.imgur.com/JlogtYH.png 48px %}臉上{% inlineImg https://i.imgur.com/llHDcNL.png 48px %}手臂{% inlineImg https://i.imgur.com/I7EIGWh.png 48px %}腰部
 
 　{% inlineImg https://i.imgur.com/3teZg6G.png 40px %}可能獲得內容物： **<font color=red>史詩接收器</font> 、終局飾品** 、腳印飾品、威嚴飾品、燃燒的跳動心臟
+
+{% hideToggle 副本血量 %}
+
+此副本為浮動血量，每多 1 人，血量會增加 80%，具體如下（暴抗與減傷參考喜劇部分）。
+
+|BOSS|1人|2人|3人|4人
+|:-:|:-:|:-:|:-:|:-:
+|吉達|15000億|27000億|39000億|51000億
+|[普羅米修斯](https://www.bilibili.com/video/BV1dW421F7Hc)|18000億|32400億|43200億|61200億
+
+{% endhideToggle %}
 
 ---
 

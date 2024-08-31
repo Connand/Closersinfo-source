@@ -36,7 +36,7 @@ description: "Conquest Program Ver. 2"
 |12|1億9000萬{%inlineImg https://i.imgur.com/8ONbMJo.png 40px%}| 赫爾巴斯
 |13|2億0000萬{%inlineImg https://i.imgur.com/I6BPtrp.png 40px%}| 波洛芙
 |14|2億1000萬{%inlineImg https://i.imgur.com/I6BPtrp.png 40px%}| 戴維·約翰
-|15|2億2000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}| 赤色死神？
+|15|2億2000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}| 赤色死神
 
 - 種族分布
 
@@ -58,7 +58,7 @@ description: "Conquest Program Ver. 2"
 <font size=4>貼圖可至 <a target="_blank" href="https://drive.google.com/drive/folders/1jFK6bpar4oSDy2_DeNQ4wOqFaBHDhoJ7?usp=share_link">雲端</a> 下載</font>
 - 第 1 層至第 7 層的 **獎勵3** 為{% inlineImg /img/material/malek_diamond.png 40px %}馬列克鑽石
 - 第 8 層以後的 **獎勵3** 為{% inlineImg /img/material/conquest2_coin.PNG 40px %}征服項目代幣：可用於兌換稀有道具
-- 第 11 層通關獎勵稱號{% inlineImg /img/conquest2/DLG_TITLE_CONQUEST_VER2.PNG 60px %}征服項目的死敵能力：
+- 第 11 層通關獎勵稱號{% inlineImg /img/conquest2/DLG_TITLE_CONQUEST_VER2.PNG 60px %}稱霸征服項目的英雄稱號：
   - 物理/魔法總攻擊力 +7.5%
   - 物理/魔法暴擊傷害 +110%
   - 超能爆發時增加傷害 +65%
@@ -75,13 +75,32 @@ description: "Conquest Program Ver. 2"
 |8|1億4000萬{%inlineImg https://i.imgur.com/8ONbMJo.png 40px%}| 諾亞表情 (驚嚇)<br>{% inlineImg /img/emotes/EMT_NOAH_3.PNG 100px %}|80|{% inlineImg /img/material/conquest2_coin.PNG 36px %}1
 |9|1億5000萬{%inlineImg https://i.imgur.com/HoxQxvb.png 40px%}| {% inlineImg /img/material/HQ_ICON_ORDER_POINT.PNG 40px %}貢獻度 30,000|90|1
 |10|1億7000萬{%inlineImg https://i.imgur.com/HoxQxvb.png 40px%}| {% inlineImg /img/conquest2/HQ_1799000902_GUST_INVALID_NA.PNG 40px %}藏於影中的足跡|100|1
-|11|1億8000萬{%inlineImg https://i.imgur.com/3FV9pDB.png 40px%}| {% inlineImg /img/conquest2/HQ_180300_TITLE.PNG 40px %}征服項目的死敵<br>{% inlineImg /img/conquest2/DLG_TITLE_CONQUEST_VER2.PNG 80px %}|120|2
+|11|1億8000萬{%inlineImg https://i.imgur.com/3FV9pDB.png 40px%}| {% inlineImg /img/conquest2/HQ_180300_TITLE.PNG 40px %}稱霸征服項目的英雄稱號<br>{% inlineImg /img/conquest2/DLG_TITLE_CONQUEST_VER2.PNG 80px %}|120|2
 |12|1億9000萬{%inlineImg https://i.imgur.com/8ONbMJo.png 40px%}| {% inlineImg /img/effects/HQ_799986916_GUST_INVALID_NA.PNG 40px %}小隊威嚴選擇箱|140|2
 |13|2億0000萬{%inlineImg https://i.imgur.com/I6BPtrp.png 40px%}| {% inlineImg https://i.imgur.com/8hil0N8.png 40px %}寵物自選箱|160|3
-|14|2億1000萬{%inlineImg https://i.imgur.com/I6BPtrp.png 40px%}| {% inlineImg /img/conquest2/HQ_1799001400_GUST_INVALID_NA.PNG 40px %}日落城市的復古燈光<br>{% inlineImg /img/conquest2/image8.gif 120px %}|180|3
-|15|2億2000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}| {% inlineImg /img/conquest2/HQ_930020_CONSUMABLE.PNG 40px %}名字標籤券：光榮的征服者勳章 Ver.2<br>{% inlineImg /img/conquest2/DLG_NAMETAG_CONQUEST_PROGRAM_VER2.PNG 100px %}|200?|3?
+|14|2億1000萬{%inlineImg https://i.imgur.com/I6BPtrp.png 40px%}| {% inlineImg /img/conquest2/HQ_1799001400_GUST_INVALID_NA.PNG 40px %}日暮都市的懷舊威嚴<br>{% inlineImg /img/conquest2/image8.gif 120px %}|180|3
+|15|2億2000萬{%inlineImg https://i.imgur.com/t8j9844.png 40px%}| {% inlineImg /img/conquest2/HQ_930020_CONSUMABLE.PNG 40px %}名字標籤券：光榮的征服者勳章 Ver.2<br>{% inlineImg /img/conquest2/DLG_NAMETAG_CONQUEST_PROGRAM_VER2.PNG 100px %}|200|4
 
 </div>
+<!-- endtab -->
+<!-- tab BOSS血量-->
+|層數|BOSS|血量(億)|暴擊傷害抵抗(%)|減傷(%)|
+|:-:|:-:|:-:|:-:|:-:|
+|1| 閃電魔女卡蜜拉 {%inlineImg https://i.imgur.com/KOAPxLX.png 40px%} | 14000 | 2100 | 30 | 
+|2| 伊莉娜 {%inlineImg https://i.imgur.com/KOAPxLX.png 40px%} | 17000 | 2200 | 30 | 
+|3| 傑拉德 {%inlineImg https://i.imgur.com/gdXdckN.png 40px%} | 20000 | 2300 | 30 | 
+|4| 馬克沁 {%inlineImg https://i.imgur.com/FWfg4L0.png 40px%} | 24000 | 2400 | 30 | 
+|5| 模偶神莫拉克 {%inlineImg https://i.imgur.com/acS6rsI.png 40px%} | 31000 | 2500 | 30 | 
+|6| 巨魔突擊隊長 {%inlineImg https://i.imgur.com/8ONbMJo.png 40px%} | 35000 | 2600 | 30 | 
+|7| 愛娜溫 {%inlineImg https://i.imgur.com/8ONbMJo.png 40px%} | 43000 | 2600 | 30 | 
+|8| 巴伊泰斯 {%inlineImg https://i.imgur.com/8ONbMJo.png 40px%} | 52000 | 2600 | 30 | 
+|9| 不可接觸者 {%inlineImg https://i.imgur.com/HoxQxvb.png 40px%} | 62000 | 2700 | 30 | 
+|10| 島的主人 {%inlineImg https://i.imgur.com/HoxQxvb.png 40px%} | 71000 | 2700 | 30 | 
+|11| 提恩達洛斯 {%inlineImg https://i.imgur.com/3FV9pDB.png 40px%} | 81000 | 2800 | 30 | 
+|12| 赫爾巴斯 {%inlineImg https://i.imgur.com/8ONbMJo.png 40px%} | 95000 | 2900 | 30 | 
+|13| 波洛芙 {%inlineImg https://i.imgur.com/I6BPtrp.png 40px%} | 101000 | 2900 | 30 | 
+|14| 戴維·約翰 {%inlineImg https://i.imgur.com/I6BPtrp.png 40px%} | 120000 | 2900 | 30 | 
+|15| 赤色死神 {%inlineImg https://i.imgur.com/t8j9844.png 40px%} | 130000 | 3000 | 30 | 
 <!-- endtab -->
 {% endtabs %}
 
