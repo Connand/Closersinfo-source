@@ -145,6 +145,18 @@ BOSS資訊：
 |**L7升級(100%)**|24,000,000|600|600|-|60|
 |**<font color=red size=3>總和</font>**|84,000,000|2100|2100|60|150|
 
+## 武器轉換
+
+- [韓版 2024/09/05 更新](https://closers.nexon.com/News/Notice/View?n4ArticleSN=144986)時新增
+- 於升級介面中使用
+- 消耗特定材料可以進行轉換
+- **<font color=red>史詩轉換</font>** 只能用於綁定武器，可交易武器無法使用
+
+|階數|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/fm10zrg.png 48px %}|{% inlineImg https://i.imgur.com/Ixh5use.png 48px %}|
+|:-:|:-:|:-:|:-:|
+|**L7轉換**|20,000,000|60|-|
+|**<font color=red>史詩轉換</font>**|50,000,000|-|200|
+
 ---
 
 > # 相關內容能力值
@@ -152,6 +164,8 @@ BOSS資訊：
 ## 武器
 
 PLV: 240(傳說) / 260(史詩)
+
+{% hideToggle 武器能力 %}
 
 |詞條|傳說|<font color=red>史詩</font>
 |:-|:-:|:-:
@@ -164,9 +178,13 @@ PLV: 240(傳說) / 260(史詩)
 |空中/背擊/浮空增加傷害|80%|90%
 |**<font color=red>特殊能力 (下面說明)</font><br>權杖<br>鞭子<br>燈籠<br>雙劍**|<br>**[魔法]<br>[螺旋]<br>[智慧之光]<br>[多重切割]**|包含傳說武器的效果並追加<br>**<font color=red>[黑魔法]<br>[掐脖子]<br>[智慧閃光]<br>[無限之刃]</font>**
 
+{% endhideToggle %}
+
 ## 模組
 
 PLV: 240
+
+{% hideToggle 模組能力 %}
 
 |詞條|{% inlineImg https://i.imgur.com/p6EoamX.png 48px %}{% inlineImg https://i.imgur.com/Mf2wYXM.png 48px %}<br><font color=red>物理</font> / <font color=blue>魔法</font>|{% inlineImg https://i.imgur.com/c9GbsJP.png 48px %}<br><font color=purple>混合</font>
 |:-|:-:|:-:
@@ -177,6 +195,8 @@ PLV: 240
 |--- <font color=red>以下兩件套裝效果</font>|---|---
 |攻擊力|3300|2970
 |暴擊率|50%|50%
+
+{% endhideToggle %}
 
 ## 圓盤
 
@@ -207,6 +227,8 @@ PLV: 240
 
 ## 武器特殊能力
 
+- [韓版 2024/09/05 更新](https://closers.nexon.com/News/Notice/View?n4ArticleSN=144986)時調整部分能力
+
 <div class="table-wrap"><table>
 <thead>
     <tr>
@@ -231,18 +253,18 @@ PLV: 240
 <tr>
     <td rowspan = "2" align="center"><strong>鞭子</strong><br></td>
     <td align="left">{% inlineImg https://i.imgur.com/DGcv4qu.png 40px %}<strong>螺旋</strong></td>
-    <td align="left">使用必殺技時，20 秒內攻擊力 +1000 （最多 4 層）。</td>
+    <td align="left">使用必殺技時，30 秒內攻擊力 +1000 （最多 4 層）。</td>
 </tr>
 <tr>
     <td align="left">{% inlineImg https://i.imgur.com/t5vPkWO.png 40px %}<strong><font color=red>掐脖子</font></strong></td>
-    <td align="left">使用終極技時，20 秒內總攻擊力 +40%。</td>
+    <td align="left">使用終極技結束後，20 秒內總攻擊力 +40%。</td>
 </tr>
 
 <tbody>
 <tr>
     <td rowspan = "2" align="center"><strong>燈籠</strong><br></td>
     <td align="left">{% inlineImg https://i.imgur.com/0dkUfdd.png 40px %}<strong>智慧之光</strong></td>
-    <td align="left">超能爆發時，40 秒內隨機條件暴擊傷害 +200%。</td>
+    <td align="left">超能爆發時，40 秒內隨機條件暴擊傷害 +200% （可刷新）。</td>
 </tr>
 <tr>
     <td align="left">{% inlineImg https://i.imgur.com/VaeFQgH.png 40px %}<strong><font color=red>智慧閃光</font></strong></td>
@@ -253,11 +275,11 @@ PLV: 240
 <tr>
     <td rowspan = "2" align="center"><strong>雙刀</strong><br></td>
     <td align="left">{% inlineImg https://i.imgur.com/ShYn2PG.png 40px %}<strong>多重切割</strong></td>
-    <td align="left">攻擊時，5 秒內物理 / 魔法暴擊傷害 +4%（最多 40 層）。</td>
+    <td align="left">攻擊時，10 秒內物理 / 魔法暴擊傷害 +4%（最多 40 層）。</td>
 </tr>
 <tr>
     <td align="left">{% inlineImg https://i.imgur.com/RHpLViT.png 40px %}<strong><font color=red>無限之刃</font></strong></td>
-    <td align="left">攻擊時，5 秒內使目標暴擊傷害抵抗 -2%（最多 40 層）。</td>
+    <td align="left">攻擊時，10 秒內使目標暴擊傷害抵抗 -2%（最多 40 層）。</td>
 </tr>
 
 </tbody></table></div>

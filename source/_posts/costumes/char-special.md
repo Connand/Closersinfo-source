@@ -290,16 +290,35 @@ description: "角色專屬時裝"
 
 {% tabs 伊莉雅(Ria)-偷心 %}
 <!-- tab 普通立繪-->
-[![](https://imgur.com/x6MNYOQ.png)](https://imgur.com/x6MNYOQ.png)
+[![](https://imgur.com/x6MNYOQh.png)](https://imgur.com/x6MNYOQ.png)
 <!-- endtab -->
 <!-- tab 特殊立繪-->
-[![](https://imgur.com/VsFd1bx.png)](https://imgur.com/VsFd1bx.png)
+[![](https://imgur.com/VsFd1bxh.png)](https://imgur.com/VsFd1bx.png)
 <!-- endtab -->
 <!-- tab 模組圖片-->
-[![](https://imgur.com/bxOKkdM.png)](https://imgur.com/bxOKkdM.png)
+[![](https://imgur.com/bxOKkdMh.png)](https://imgur.com/bxOKkdM.png)
 <!-- endtab -->
 <!-- tab 跳舞動作-->
 {%youtube EFiekSACaH4 %}
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+<!-- tab 伊莉雅(Ria)-闇歌女巫 -->
+部位：武器、髮型（外加另類）、上衣、下衣、手套、鞋子、{% label 臉中 green %}、{% label 特效(威嚴) green %}
+**飾品與另類髮型為單一型，其餘分3型
+<font color=#f00>7件可使用普通立繪</font>
+<font color=#f00>8件可使用特殊立繪</font>**
+
+{% tabs 伊莉雅(Ria)-闇歌女巫 %}
+<!-- tab 普通立繪-->
+[![](https://imgur.com/nHeudfuh.jpg)](https://imgur.com/nHeudfu.jpg)
+<!-- endtab -->
+<!-- tab 特殊立繪-->
+[![](https://imgur.com/4yC4XYNh.jpg)](https://imgur.com/4yC4XYN.jpg)
+<!-- endtab -->
+<!-- tab 模組圖片-->
+[![](https://imgur.com/wN35A8Mh.jpg)](https://imgur.com/wN35A8M.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
