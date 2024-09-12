@@ -9,6 +9,8 @@ description: "魔龍王裝備資訊"
 
 > # 前言
 
+> **<div style="text-align:center"><font size=3 color=red>注意</font><br>有關赫克頓蓋爾的機制與攻略可以參考 [水門的文章](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9455&tnum=2)<br>![](https://i.imgur.com/v3iU262.png)</div>**
+
 ## 防禦穿透提升方法
 
 由於 **赫克頓蓋爾** 副本環境會在入場時給玩家增加 DEBUFF **龍之意志** ，會使玩家的 **<font color=red>總防禦穿透減少 80%</font>**
