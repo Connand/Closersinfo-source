@@ -11,8 +11,7 @@ description: "覺醒PNA與相關內容及PNA重製內容介紹(Awaken PNA)"
 
 韓版於 2023/06/15 對PNA系統進行大幅度改動並新增內容，簡略說明如下：
 當日維修時間：**凌晨3點至下午6點(台灣時間，共15小時)，實際延長2小時**
-
-PNA/突變改版
+{% hideToggle 改版詳細 %}
 - PNA帳號化
 - PNA攻擊/防禦/輔助/增幅、全部格子開放
 - 全角色保有的特殊因子統合並且變更為可分解
@@ -23,6 +22,7 @@ PNA/突變改版
 - 新增[發現體]系統
 - **<font color=red>上修及調整為僅可透過格莫瑞相關副本（熊本）獲得PNA經驗值</font>**
 - 更新前期熊本征服度及掉落獎勵
+{% endhideToggle %}
 
 ---
 
@@ -275,7 +275,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 ### 特殊技能
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>重擊</font>**|使用 **[特殊技能]** 時 給周圍敵人 25 億的固定損失<br>**使用 **[特殊技能]** 時 給周圍敵人 50 億的固定損失 <font color=red><平衡後></font>**|5秒
+|**<font color=green>A</font>**|**<font color=green>重擊</font>**|使用 **[特殊技能]** 時 給周圍敵人 25 億的固定傷害<br>**使用 **[特殊技能]** 時 給周圍敵人 50 億的固定傷害 <font color=red><平衡後></font>**|5秒
 |**<font color=blue>B<font>**|**<font color=blue>神速</font>**|使用 **[特殊技能]** 時 5轉技能CD-1秒|5秒
 |**<font color=purple>C</font>**|**<font color=purple>再生</font>**|使用 **[特殊技能]** 時 HP/MP/超能力 +8%|5秒
 
