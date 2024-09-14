@@ -178,7 +178,7 @@ PLV: 240(傳說) / 260(史詩)
 |物理/魔法暴擊傷害|210%|250%
 |空中/背擊/浮空暴擊傷害|105%|125%
 |空中/背擊/浮空增加傷害|80%|90%
-|**<font color=red>特殊能力 (下面說明)</font><br>權杖<br>鞭子<br>燈籠<br>雙劍**|<br>**[魔法]<br>[螺旋]<br>[智慧之光]<br>[多重切割]**|包含傳說武器的效果並追加<br>**<font color=red>[黑魔法]<br>[掐脖子]<br>[智慧閃光]<br>[無限之刃]</font>**
+|**<font color=red>特殊能力 (下面說明)</font><br>權杖<br>鞭子<br>燈籠<br>雙劍**|<br>**[魔法]<br>[盤繞]<br>[智慧之光]<br>[多重斬擊]**|包含傳說武器的效果並追加<br>**<font color=red>[黑魔法]<br>[纏頸]<br>[智慧閃光]<br>[無限斬擊]</font>**
 
 {% endhideToggle %}
 
@@ -254,11 +254,11 @@ PLV: 240
 <tbody>
 <tr>
     <td rowspan = "2" align="center"><strong>鞭子</strong><br></td>
-    <td align="left">{% inlineImg https://i.imgur.com/DGcv4qu.png 40px %}<strong>螺旋</strong></td>
+    <td align="left">{% inlineImg https://i.imgur.com/DGcv4qu.png 40px %}<strong>盤繞</strong></td>
     <td align="left">使用必殺技時，30 秒內攻擊力 +1000 （最多 4 層）。</td>
 </tr>
 <tr>
-    <td align="left">{% inlineImg https://i.imgur.com/t5vPkWO.png 40px %}<strong><font color=red>掐脖子</font></strong></td>
+    <td align="left">{% inlineImg https://i.imgur.com/t5vPkWO.png 40px %}<strong><font color=red>纏頸</font></strong></td>
     <td align="left">使用終極技結束後，20 秒內總攻擊力 +40%。</td>
 </tr>
 
@@ -276,11 +276,11 @@ PLV: 240
 <tbody>
 <tr>
     <td rowspan = "2" align="center"><strong>雙刀</strong><br></td>
-    <td align="left">{% inlineImg https://i.imgur.com/ShYn2PG.png 40px %}<strong>多重切割</strong></td>
+    <td align="left">{% inlineImg https://i.imgur.com/ShYn2PG.png 40px %}<strong>多重斬擊</strong></td>
     <td align="left">攻擊時，10 秒內物理 / 魔法暴擊傷害 +4%（最多 40 層）。</td>
 </tr>
 <tr>
-    <td align="left">{% inlineImg https://i.imgur.com/RHpLViT.png 40px %}<strong><font color=red>無限之刃</font></strong></td>
+    <td align="left">{% inlineImg https://i.imgur.com/RHpLViT.png 40px %}<strong><font color=red>無限斬擊</font></strong></td>
     <td align="left">攻擊時，10 秒內使目標暴擊傷害抵抗 -2%（最多 40 層）。</td>
 </tr>
 
