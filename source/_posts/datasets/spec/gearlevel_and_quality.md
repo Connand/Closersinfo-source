@@ -7,9 +7,7 @@ cover: /img/material/gearquality_refresh.png
 description: "裝備等級跟裝備品級的說明"
 ---
 
-{% inlineImg /img/material/gearquality_refresh.png 40px %}
-
-# 裝備品級
+> # 裝備品級{% inlineImg /img/material/gearquality_refresh.png 40px %}
 
 裝備品級 (或品質) 會顯示在裝備的右上角 (如圖 <font color=#00ffdf>藍色</font> 圈起來部分)
 ![](https://i.imgur.com/nS1q5Tk.png)
@@ -22,21 +20,25 @@ description: "裝備等級跟裝備品級的說明"
 
 - 裝備品級會影響裝備基礎白色數值 (請參考下圖 **<font color=red>紅色</font>** 方框數字)
 
-|品級49%|品級100%
+|品級0%<br>從拍賣或升級預覽|品級100%
 |:-:|:-:
 |![](https://i.imgur.com/rI3pofo.png)|![](https://i.imgur.com/emczcUJ.png)
 
-# 怎麼洗裝備品級
+## 怎麼洗裝備品級
 
 - 需要使用{% inlineImg /img/material/gearquality_refresh.png 40px %} Union裝備品級潤滑劑， **使用後裝備品級將變成隨機的 % 數 (機率為平均分布)**
 **一般來說，取得方式為活動或副本掉落，也可從拍賣購買**
 **<font color=red>建議將武器核心與模組的品級洗到究極 (90%) 以上，當然越高越好</font>**
+<br>{% inlineImg https://i.imgur.com/KQwaY0W.png 300px %}
 
-{% inlineImg https://i.imgur.com/KQwaY0W.png 350px %}
+## 注意事項
+
+- 武器品質 (0%-100%) 的白字數值 **<font color=red>並不會受到總攻擊力加成</font>**
+- 模組品質 (0%-100%) 的白字數值 **<font color=red>會受到總攻擊力加成</font>**
 
 ---
 
-# 裝備等級
+> # 裝備等級
 
 - 裝備等級 (簡稱裝等) 是一個類似限制入場的一種機制 (如圖的 "平均 LV")
 每件裝備均會標註 "超能裝備等級" (可參考上面圖片)
@@ -47,7 +49,7 @@ description: "裝備等級跟裝備品級的說明"
 ## 關卡裝備等級
 
 - 大多數關卡會標示 "裝備等級" 
-**<font color=green>若高於標示的裝備等級，則進入副本會獲得增傷BUFF</font>；<font color=red>若低於則會有減傷以及被擊傷害增加的DEBUFF，且不能使用 "尋找組隊F6" 功能</font>**
+**<font color=green>若高於標示的裝備等級，則進入副本會獲得增傷BUFF</font>；若低於則~~會有減傷以及被擊傷害增加的DEBUFF，且~~<font color=red>不能使用 "尋找組隊F6" 功能</font>** (已於[韓版2024/06/13更新](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=595)時刪除DEBUFF效果)
 
 |<font color=green>當裝等足夠時</font>|<font color=red>當裝等不足時</font>
 |:-:|:-:
@@ -88,7 +90,8 @@ description: "裝備等級跟裝備品級的說明"
 </div>
 <div class="childDiv">
 
-- <font color=red>低於標示的裝備等級的DEBUFF數值</font>
+- 已經被刪除的設定，僅供參考
+- 低於標示的裝備等級的DEBUFF數值
 
 |低於等級|對敵人傷害減少|被攻擊傷害增加
 |:-:|:-:|:-:
@@ -114,32 +117,15 @@ description: "裝備等級跟裝備品級的說明"
 ## 強化提升裝備等級
 
 強化會提升一部份的裝備等級
++20 以後均不會增加裝備等級
 
-<div style="width: 50%;">
+|強化等級|+1|+2|+3|+4|+5|+6|+7|+8|+9|+10|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|裝備等級提升|0|0|1|1|1|2|2|2|3|3|
 
-|強化等級|裝備等級提升
-|:-:|:-:
-|+1|0
-|+2|0
-|+3|1
-|+4|1
-|+5|1
-|+6|2
-|+7|2
-|+8|2
-|+9|3
-|+10|3
-|+11|4
-|+12|5
-|+13|9
-|+14|14
-|+15|20
-|+16|26
-|+17|32
-|+18|38
-|+19|44
-|+20|50
-</div>
+|強化等級|+11|+12|+13|+14|+15|+16|+17|+18|+19|+20|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|裝備等級提升|4|5|9|14|20|26|32|38|44|50|
 
 
 ---

@@ -11,6 +11,9 @@ description: ""
 ![](https://i.imgur.com/QHkTxik.jpg)
 
 ---
+
+> **<div style="text-align:center"><font size=3 color=red>以下團隊增益所需等級均於[韓版2024/06/13更新](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=595)後全數砍半</font><br>下文中所有相關所需等級數值均可以砍半作參考 ~~懶得一個個修改~~</div>**
+
 # 團隊增益
 
 為提升戰力的重要手段之一，需要練許多角色，放進"團隊合作增益"欄位中
@@ -55,8 +58,8 @@ description: ""
 
 |種類|階段五滿<br>最低所需等級|示意圖|
 |:-:|:-:|:-:|
-|小隊系列<br>![](https://i.imgur.com/12kPnmR.png)|一隻85等小隊角色+一之90等小隊角色<br>或小隊角色等級加起來等於175等|![](https://i.imgur.com/6JUT7Rh.png)|
-|轉職系列<br>![](https://i.imgur.com/FMLqhGu.png)|一隻大於等於75等的轉職隊角色|![](https://i.imgur.com/DQ7nlz3.png)|
-|UNION系列<br>![](https://i.imgur.com/J29xqcF.png)|五隻等級等於90等的任意角色|![](https://i.imgur.com/Ede8ID7.png)|
-|UNION系列<br>![](https://i.imgur.com/E2Bnuyi.png)|一隻大於等於85等的任意角色|![](https://i.imgur.com/R3Kk57M.png)
-|UNION系列<br>![](https://i.imgur.com/TQ0jZ3F.png)|兩隻等級等於90等的角色<br>或任意角色等級相加超過180等|![](https://i.imgur.com/shFzWDU.png)
+|小隊系列<br>![](https://i.imgur.com/12kPnmR.png)|一隻 85 等小隊角色 + 一隻 90 等小隊角色<br>或小隊角色等級加起來等於 175 等|![](https://i.imgur.com/6JUT7Rh.png)|
+|轉職系列<br>![](https://i.imgur.com/FMLqhGu.png)|一隻大於等於 75 等的轉職隊角色|![](https://i.imgur.com/DQ7nlz3.png)|
+|UNION系列<br>![](https://i.imgur.com/J29xqcF.png)|五隻等級等於 90 等的任意角色|![](https://i.imgur.com/Ede8ID7.png)|
+|UNION系列<br>![](https://i.imgur.com/E2Bnuyi.png)|一隻大於等於 85 等的任意角色|![](https://i.imgur.com/R3Kk57M.png)
+|UNION系列<br>![](https://i.imgur.com/TQ0jZ3F.png)|兩隻等級等於 90 等的角色<br>或任意角色等級相加超過 180 等|![](https://i.imgur.com/shFzWDU.png)
