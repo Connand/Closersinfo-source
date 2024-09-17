@@ -475,6 +475,9 @@ PLV: 220 (史詩240)
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/Vqh5cKih.png)](https://i.imgur.com/Vqh5cKi.png)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/tbeqeZ0h.png)](https://i.imgur.com/tbeqeZ0.png)
+<!-- endtab -->
 {% endtabs %}
 
 ---
