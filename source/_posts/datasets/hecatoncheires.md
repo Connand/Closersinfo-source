@@ -307,13 +307,13 @@ PLV: 240
     <td colspan = "2" align="left"><strong>魔法</strong> 造成的傷害增加 60 億</td>
 </tr>
 <tr>
-    <td colspan = "2" align="left"><strong>螺旋</strong> 額外增加攻擊力 500 點</td>
+    <td colspan = "2" align="left"><strong>盤繞</strong> 額外增加攻擊力 500 點</td>
 </tr>
 <tr>
     <td colspan = "2" align="left"><strong>智慧之光</strong> 額外增加暴擊傷害 100%</td>
 </tr>
 <tr>
-    <td colspan = "2" align="left"><strong>多重切割</strong> 疊層上限增加 20 層（共 60 層）</td>
+    <td colspan = "2" align="left"><strong>多重斬擊</strong> 疊層上限增加 20 層（共 60 層）</td>
 </tr>
 
 <tr>
@@ -325,13 +325,13 @@ PLV: 240
     <td align="left"><strong><font color=red>黑魔法</font></strong> 可額外發動 1 次，該次傷害為原本的 50%</td>
 </tr>
 <tr>
-    <td align="left"><strong><font color=red>掐脖子</font></strong> 額外增加總攻擊力 20%</td>
+    <td align="left"><strong><font color=red>纏頸</font></strong> 額外增加總攻擊力 20%</td>
 </tr>
 <tr>
     <td align="left"><strong><font color=red>智慧閃光</font></strong> 的傷害增加 50%</td>
 </tr>
 <tr>
-    <td align="left"><strong><font color=red>無限之刃</font></strong> 疊層上限增加 20 層（共 60 層）</td>
+    <td align="left"><strong><font color=red>無限斬擊</font></strong> 疊層上限增加 20 層（共 60 層）</td>
 </tr>
 
 <tr>
