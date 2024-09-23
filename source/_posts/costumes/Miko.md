@@ -173,10 +173,10 @@ description: ""
 [![](https://i.imgur.com/p5kueXkh.png)](https://i.imgur.com/p5kueXk.png)
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-[![](https://i.imgur.com/g6syh5Dh.png)](https://i.imgur.com/g6syh5D.png)
+[![](https://i.imgur.com/juOW1CLh.png)](https://i.imgur.com/juOW1CL.png)
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
-[![](https://i.imgur.com/juOW1CLh.png)](https://i.imgur.com/juOW1CL.png)
+[![](https://i.imgur.com/g6syh5Dh.png)](https://i.imgur.com/g6syh5D.png)
 <!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/EEd8E4zh.png)](https://i.imgur.com/EEd8E4z.png)
