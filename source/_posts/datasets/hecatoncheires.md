@@ -67,7 +67,7 @@ description: "魔龍王裝備資訊"
 |副本|建議戰力|獎勵限制|入場限制|復活限制|獎勵|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |**四人副本**|80,000,000|每周共 2 次|無| 1 次|共 70x {% inlineImg https://i.imgur.com/fm10zrg.png 48px %} 、 6x {% inlineImg https://i.imgur.com/S49Cjjp.png 48px %}|
-|**單人副本**|120,000,000|無|由四人副本取得<br>{% inlineImg https://i.imgur.com/AxgFkeD.png 48px %}{% inlineImg https://i.imgur.com/T8NyMPh.png 48px %}| 2 次| 1~4 x {% inlineImg https://i.imgur.com/S49Cjjp.png 48px %}|
+|**單人副本**|120,000,000|無|由四人副本取得<br>{% inlineImg https://i.imgur.com/AxgFkeD.png 48px %}{% inlineImg https://i.imgur.com/T8NyMPh.png 48px %}| 2 次| 1~4 x {% inlineImg https://i.imgur.com/S49Cjjp.png 48px %}<br>**(受掉寶率增加影響)**|
 
 {% hideToggle 副本血量與系統 %}
 

@@ -1,5 +1,5 @@
 ---
-title: AntiqueM(暫譯：古典小姐)
+title: 復古仕女
 date: 2024-08-22 12:09:15
 tags:
     - 立繪時裝
@@ -17,7 +17,7 @@ description: "AntiqueM"
 ![](https://imgur.com/TTFzgE9.jpg)
 
 ---
-## AntiqueM
+## 復古仕女(AntiqueM)
 
 **注意**：立繪僅分一般和特殊，模組分3型
 
