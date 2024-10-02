@@ -3,7 +3,7 @@ title: 魔龍王—赫克頓蓋爾(Hecatoncheires)裝備資訊
 date: 2024-08-04 16:09:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
-cover: https://i.imgur.com/t1s2Qp4.png
+cover: https://i.imgur.com/hQMxgzF.png
 description: "魔龍王裝備資訊"
 ---
 
