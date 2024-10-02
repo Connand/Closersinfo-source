@@ -23,6 +23,7 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/xYfWmVuh.jpg
 description: "Vow of Love"
@@ -103,6 +104,9 @@ description: "Vow of Love"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/GltQPk4h.jpg)](https://i.imgur.com/GltQPk4.jpg)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/CmbhysIh.png)](https://i.imgur.com/CmbhysI.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -167,6 +171,9 @@ description: "Vow of Love"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/9J8xn1jh.jpg)](https://i.imgur.com/9J8xn1j.jpg)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/pPa1tKHh.png)](https://i.imgur.com/pPa1tKH.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -234,6 +241,9 @@ description: "Vow of Love"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 ![](https://i.imgur.com/3Vrw5kc.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+![](https://i.imgur.com/t4RxUH6.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

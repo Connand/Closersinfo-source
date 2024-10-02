@@ -79,6 +79,9 @@ description: "第三套輝煌時裝(Unique costume)"
 <!-- tab 米斯特汀(Tein)-->
 [![](https://i.imgur.com/mH5tteYh.png)](https://i.imgur.com/mH5tteY.png)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/rDf6spdh.png)](https://i.imgur.com/rDf6spd.png)
+<!-- endtab -->
 <!-- tab 表情動作-->
 {%youtube 3XZk51eRzhs %}
 <!-- endtab -->
