@@ -90,6 +90,28 @@ https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/
 ## 樓層獎勵
 
 {% tabs 樓層獎勵 %}
+<!-- tab 減負版-->
+為降低農本負擔，因此：
+- **<font color=#f00>從原本 6 場降為 2 場 (6 種副本共用入場次數，可重複入場)</font>**
+- 總獎勵與原本相同
+
+<div class="wave_reward">
+
+|WAVE數|獎勵
+|:-:|:-:
+|1|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x15 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
+|2|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x15 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
+|3|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x18 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
+|4|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x27 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
+|5|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x48 {% inlineImg https://i.imgur.com/2dUhUMX.png 36px %}x3
+|6|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x33 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
+|7|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x33 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
+|8|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x33 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
+|9|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x33 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
+|10|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x60 {% inlineImg https://i.imgur.com/2dUhUMX.png 36px %}x3
+|**總和**|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}x315 {% inlineImg https://i.imgur.com/7k7AciP.png 48px %}x24 {% inlineImg https://i.imgur.com/2dUhUMX.png 48px %}x6
+</div>
+<!-- endtab -->
 <!-- tab 新版-->
 之後軍團計畫更新以後會降低其耗時與複雜度，總結來說：
 - **<font color=#f00>從原本 7 場降為 4 場 (4種類型各1場)</font>**
