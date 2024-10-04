@@ -46,9 +46,5 @@ jobs:
         git clone https://github.com/Connand/Connand.github.io public
         hexo d -g
     - name: D) hexo algolia
-      with:
-        ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
-        ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
-        ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
       run: |
         hexo algolia
