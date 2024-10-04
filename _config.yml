@@ -115,9 +115,9 @@ nofollow:
     - 'exclude2.com'
 
 algolia: 
-  appId: "AAUZ8EE5ZJ"
-  apiKey: "eef669403feb1a7d471939f54880dd42"
-  adminApiKey: ${{ secrets.ALGOLIA_ADMIN_APIKEY }}
+  # appId: ""
+  # apiKey: ""
+  # adminApiKey: ""
   chunkSize: 5000
   indexName: "closersinfo"
   fields:
