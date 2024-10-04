@@ -116,7 +116,7 @@ nofollow:
 
 algolia: 
   appId: "AAUZ8EE5ZJ"
-  apiKey: ${{ secrets.ALGOLIA_APIKEY }}
+  apiKey: "eef669403feb1a7d471939f54880dd42"
   adminApiKey: ${{ secrets.ALGOLIA_ADMIN_APIKEY }}
   chunkSize: 5000
   indexName: "closersinfo"
