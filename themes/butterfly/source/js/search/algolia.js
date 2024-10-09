@@ -40,6 +40,9 @@ window.addEventListener('load', () => {
     return console.error('Algolia setting is invalid!')
   }
 
+
+  
+
   const search = instantsearch({
     appId: algolia.appId,
     apiKey: algolia.apiKey,
@@ -52,16 +55,25 @@ window.addEventListener('load', () => {
 
       if (searchInput.value) {
         helper.search()
+        console.log("Search")
+        // console.log(searchInput.value.indexOf('ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦㄧㄨㄩ') > -1)
       }
     }
   })
+
+  let timeout = 500;
+
+  let queryHook = _.debounce(function(query, search){
+    search(query)
+  },timeout, {leading: false, trailing: true, maxWait: 200});
 
   search.addWidget(
     instantsearch.widgets.searchBox({
       container: '#algolia-search-input',
       reset: false,
       magnifier: false,
-      placeholder: GLOBAL_CONFIG.algolia.languages.input_placeholder
+      placeholder: GLOBAL_CONFIG.algolia.languages.input_placeholder,
+      queryHook: queryHook
     })
   )
   search.addWidget(
