@@ -77,7 +77,7 @@ social:
 
 # Algolia search
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 10
   labels:
@@ -87,7 +87,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: true
+  enable: false
 
 # Math (數學)
 # --------------------------------------
