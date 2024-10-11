@@ -294,9 +294,9 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |:-:|:-:|:-|:-:
 |**<font color=green>A</font>**|**<font color=green>擴散</font>**|每秒對附近敵人造成 10億 固定傷害|-
 |**<font color=blue>B<font>**|**<font color=blue>神速</font>**|每秒有 100% 機率減少 **[獎章技能]**(鎖技) 冷卻時間 1 秒|-
-|**<font color=purple>C</font>**|**<font color=purple>反擊</font>**|使附近敵人受到傷害 +45%|-
+|**<font color=purple>C</font>**|**<font color=purple>逆襲</font>**|使附近敵人受到傷害 +45%|-
 
-### 冷氣
+### 寒氣
 - 使用時獲得DEBUFF **[凍傷]：攻擊速度/移動速度 -30%**
 
 |類型|名稱|能力|冷卻時間
@@ -309,22 +309,23 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
 |**<font color=green>A</font>**|**<font color=green>恩賜</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，對大範圍敵人造成 750億 固定傷害|-
-|**<font color=blue>B<font>**|**<font color=blue>絕境逆襲</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，30秒內 攻擊速度/移動速度 +15%、物理/魔法攻擊力 +1500、總物理/魔法攻擊力 +30%、物理/魔法暴擊傷害 +60%|-
-|**<font color=purple>C</font>**|**<font color=purple>擴散</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，使大範圍敵人受到傷害 +45%|-
+|**<font color=blue>B<font>**|**<font color=blue>恩寵</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，30秒內 攻擊速度/移動速度 +15%、物理/魔法攻擊力 +1500、總物理/魔法攻擊力 +30%、物理/魔法暴擊傷害 +60%|-
+|**<font color=purple>C</font>**|**<font color=purple>一般逆襲</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，使大範圍敵人受到傷害 +45%|-
 
-### 生存/強制阻斷封印
+### 生存/阻斷封印
 |類型|名稱|能力|冷卻時間
 |:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>嗜肉骨斷</font>**|666秒內 物理/魔法暴擊傷害 +130%、自身受到傷害 +60%，死亡後BUFF失效|-
+|**<font color=green>A</font>**|**<font color=green>生存：斷尾求生</font>**|666秒內 物理/魔法暴擊傷害 +130%、自身受到傷害 +60%，死亡後BUFF失效|-
 |**<font color=blue>B<font>**|**<font color=blue>???</font>**|**因為檢查時發現BUG，故目前尚未實裝**|-
-|**<font color=purple>C</font>**|**<font color=purple>封印</font>**|無法使用 **[強制阻斷]** ，對所有類型增加傷害 40%|-
+|**<font color=purple>C</font>**|**<font color=purple>阻斷封印：屠殺</font>**|無法使用 **[強制阻斷]** ，對所有類型增加傷害 40%|-
 
-> ## 組合推薦參考
+> # 覺醒因數組合推薦
 
 <div class="arranged_table">
 
 |類型|說明
 |:-|:-
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_FROZEN_G.PNG 40px %}**<font color=green>冷氣A：擴散</font>**|**<font color=red>快速累積活動素材/場數神器（不需升級）</font>**<br>利用黑羊或紅狼小隊的角色，並且進入副本 **UNION大廈天臺 偵查（簡單）** 難度後，即可直接通關。<br>在物品撿取完畢後即可直接按 F2 進行下一場。<br>[參考影片](https://www.bilibili.com/video/BV1NVVNe2EF3/?share_source=copy_web&vd_source=2426657ea8060a3b8d41a50bede67b85)|
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_P.PNG 32px %}**<font color=purple>強制阻斷C：逆襲</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_B.PNG 32px %}**<font color=blue>跳躍B：鬥志</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_P.PNG 32px %}**<font color=purple>跳躍C：氣魄</font>**|由於副本環境變化，怪物的暴抗並沒有什麼變化，讓暴傷造成的傷害收益減少，變成以增傷或基傷成為首選。<br>由於 {% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_P.PNG 32px %}**<font color=purple>強制阻斷C：逆襲</font>** 與 {% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_BURN_P.PNG 32px %}**<font color=purple>火焰C：反擊</font>** 的效果也可以增加固定傷害的數值（如[魔龍王的權杖](/datasets/hecatoncheires/#%E6%AD%A6%E5%99%A8%E7%89%B9%E6%AE%8A%E8%83%BD%E5%8A%9B-x2F-%E5%BC%B7%E5%8C%96%E8%A7%A3%E6%94%BE%E7%B3%BB%E7%B5%B1)），因此也有兩者一同使用的組合<br>[征服項目 Ver. 2](/datasets/conquest_program_v2/) 幾乎都使用此組合進行挑戰|
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_B.PNG 32px %}**<font color=blue>跳躍B：鬥志</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_G.PNG 32px %}**<font color=green>強制阻斷A：壓制</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_P.PNG 32px %}**<font color=purple>強制阻斷C：逆襲</font>**|**<font color=red><平衡後推薦></font>由於第 3 顆的持續時間大幅提升且效果提升，因此可以納入考量範圍**<br>**對於相對高戰力的玩家較推薦**<br>由於高戰力造成之後暴傷與基傷的增益量減少，但是增傷仍是相當固定的數值，因此增傷系列能夠提供較穩定的輸出提升。<br>但是第 3 顆由於範圍限制，所以建議確實靠近目標再觸發。以及增傷遞減的關係，若多人配戴此因素會使其效益變低。|
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_G.PNG 32px %}**<font color=green>跳躍A：急墜</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_B.PNG 32px %}**<font color=blue>跳躍B：鬥志</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_P.PNG 32px %}**<font color=purple>跳躍C：氣魄</font>**|**<font color=red><平衡後推薦></font>由於持續時間提高讓BUFF能夠不間斷，因此可以納入考量範圍**<br>能夠持續不間斷的組合，對於長時間戰鬥表現非常突出|
