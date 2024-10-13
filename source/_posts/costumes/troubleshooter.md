@@ -21,6 +21,8 @@ tags:
     - 金徹斯
     - 銀河
     - 露西
+    - 愛里
+    - 伊莉雅
 category: [時裝, 單立繪]
 cover: https://i.imgur.com/2NIJfHUh.jpg
 description: "Trouble Shooter"
@@ -101,6 +103,12 @@ description: "Trouble Shooter"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/KyIkEIil.png)](https://i.imgur.com/KyIkEIi.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/BRTFCbqh.png)](https://i.imgur.com/BRTFCbq.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/g89NZtMh.png)](https://i.imgur.com/g89NZtM.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -163,6 +171,12 @@ description: "Trouble Shooter"
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/sDr95ZAl.png)](https://i.imgur.com/sDr95ZA.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/lnrptWVh.png)](https://i.imgur.com/lnrptWV.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/paTjGdqh.png)](https://i.imgur.com/paTjGdq.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -224,6 +238,12 @@ description: "Trouble Shooter"
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/MJv1l8ol.png)](https://i.imgur.com/MJv1l8o.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/gI4lPwEh.png)](https://i.imgur.com/gI4lPwE.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/RcSa7D7h.png)](https://i.imgur.com/RcSa7D7.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
