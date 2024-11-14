@@ -45,7 +45,7 @@ description: "官方發布的各式主題曲"
 | :--------: | :--------: | :--------: | :--------: | :--------: |  :--------: | 
 | {% btn 'https://youtu.be/jj9pgIUzitw',Close the World,fas fa-music,outline blue %} | {% btn 'https://youtu.be/GGCbVSETqk0', Untouchable,fas fa-music,outline blue %} | {% btn 'https://youtu.be/yAW-k7eNDuQ', We summer,fas fa-music,outline blue %} | {% btn 'https://youtu.be/lxwhsF334eg', ICE CREAM,fas fa-music,outline blue %} | {% btn 'https://youtu.be/VSyNr7H7hCM',Rest in White,fas fa-music,outline blue %} | {% btn 'https://youtu.be/DAwVVeoZdRc',Dance Now,fas fa-music,outline red %} |
 | {% btn 'https://youtu.be/W5P1cWIniUA', Closer To Your Side,fas fa-music,outline blue %} || {% btn 'https://youtu.be/Xv_Q_dQDypI', 日語版,fas fa-music,outline blue %} | {% btn 'https://youtu.be/IYI2xBhZJHk', We Winter,fas fa-music,outline blue %} | {% btn 'https://youtu.be/K01FcoQ6NMU', Be yourself,fas fa-music,outline blue %} | {% btn 'https://youtu.be/w8uFYwBpkQ8',Catch Your Heart,fas fa-music,outline red %} |
-||||{% btn 'https://youtu.be/0MDtYNMZAQw', Rushing In,fas fa-music,outline blue %}| {% btn 'https://youtu.be/67-8B4OoaiE', Paradise,fas fa-music,outline blue %} | {% btn 'https://youtu.be/YDcxbljcbfA',Flames of War,fas fa-music,outline red %} |
+||||{% btn 'https://youtu.be/qQNknb64_Z8', Rushing In,fas fa-music,outline blue %}| {% btn 'https://youtu.be/67-8B4OoaiE', Paradise,fas fa-music,outline blue %} | {% btn 'https://youtu.be/YDcxbljcbfA',Flames of War,fas fa-music,outline red %} |
 ||||| {% btn 'https://youtu.be/hAAyZAUTj0I', アイスクリーム,fas fa-music,outline blue %}
 
 # 發布時間紀錄

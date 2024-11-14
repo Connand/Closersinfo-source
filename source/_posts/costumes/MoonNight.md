@@ -23,6 +23,7 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/OU9rGd6.jpg
 description: "Moon Night"
@@ -106,6 +107,9 @@ description: "Moon Night"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/VR2Dfych.png)](https://i.imgur.com/VR2Dfyc.png)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/5GBIRUdh.png)](https://i.imgur.com/5GBIRUd.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -170,6 +174,9 @@ description: "Moon Night"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/nx9gT2jh.png)](https://i.imgur.com/nx9gT2j.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/LIjmMgAh.png)](https://i.imgur.com/LIjmMgA.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

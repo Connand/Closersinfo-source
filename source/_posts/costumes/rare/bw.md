@@ -24,6 +24,7 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
 category: [時裝, 高階時裝]
 cover: https://i.imgur.com/w5A5xI5h.jpg
 description: "第三套高階時裝改色版"
@@ -97,6 +98,9 @@ description: "第三套高階時裝改色版"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://imgur.com/2wZlrxth.jpg)](https://imgur.com/2wZlrxt.jpg)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/0UJ1rugh.png)](https://i.imgur.com/0UJ1rug.png)
 <!-- endtab -->
 {% endtabs %}
 
