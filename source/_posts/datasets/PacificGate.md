@@ -1,5 +1,5 @@
 ---
-title: 17村—世界和平之門裝備資訊(緩慢更新)
+title: 17村—世界和平之門裝備資訊
 date: 2023-12-30 14:25:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
@@ -12,7 +12,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 # 前言
 [宣傳頁面](https://closers.nexon.com/Events2023/1228/Event)
-{% hideToggle <font color=#ff0000><b>注意：可能包含劇透內容</b></font> %}
+{% hideToggle <font color=#ff0000><b>待補內容</b></font> %}
 在南極與總長一戰結束之後，大家回到了新首爾
 臨時支部長—— 伊織靜為了補償特工們的辛勞，安排了一周的休假給各特工
 大家開始了日常生活。有些人遇見了思念之人
@@ -22,11 +22,8 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 大家的安身之處已變質為噩夢之夜
 現在，是為了阻止噩夢侵襲的戰鬥！
 
-
-
 {% endhideToggle %}
 
-16村(Control Center)中新增的裝備，為獨立模組以及防具三件套(大門守衛者)，替換掉15村裝備。
 
 **新材料**
 + {% inlineImg https://i.imgur.com/0QwNmJf.png 48px %} 新首爾受害分析報告

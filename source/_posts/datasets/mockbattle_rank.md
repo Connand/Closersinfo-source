@@ -24,6 +24,7 @@ Lv. 2：血量約 2666 億，爆抗 3400%
 Lv. 3：血量約 31000 億，爆抗 2500%
 
 BOSS順序：
+1. 馬列克 (野生型) <img class="inline-img" src="https://i.imgur.com/8ONbMJo.png" style="height:48px">
 1. 島的主人 (食蟲型) <img class="inline-img" src="https://i.imgur.com/HoxQxvb.png" style="height:48px">
 1. 巴司基 (海底型) <img class="inline-img" src="https://i.imgur.com/I6BPtrp.png" style="height:48px">
 1. 先代之龍赫克頓蓋爾 (魔龍形) <img class="inline-img" src="https://i.imgur.com/FWfg4L0.png" style="height:48px">
