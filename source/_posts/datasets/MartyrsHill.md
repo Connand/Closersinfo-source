@@ -80,20 +80,14 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 {% tabs 大門守衛者裝備能力 %}
 <!-- tab 模組-->
 
-{% inlineImg https://i.imgur.com/GiTSth0.png 48px %}{% inlineImg https://i.imgur.com/eMSyWMw.png 48px %}{% inlineImg https://i.imgur.com/ZW2BfFm.png 48px %}
-
-|詞條 | 大門L2 | L0 | L1 | L2 |
-|:-:|:-:|:-:|:-:|:-:|
-|攻擊力(單/混)| +1600 / +1360 | +1900 / +1700 | +2100 / +1890 | +2400 / +2160 |
-|爆擊傷害| +225% / +195% | +285% / +257%| +315% / +284% | +360% / +324% |
-|3條件爆擊傷害| +40% | +38% | +42% | +48% |
-|**速度** 攻擊/移動速度| +20% | | | |
-|**超能** <br>超能凝聚速度 / 覺醒時間 / 覺醒傷害 |<br>+25% / +25秒 / +33% | | | |
-|**致命** 物理/魔法爆擊傷害 |+36%| | | |
-|**漂浮** 掉寶/金幣 |+25%| | | |
+|詞條 | 17村L2 | L0 | L1 | L2 | **<font color=red>史詩</font>** |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|攻擊力(單/混)| +2400 / +2160 | +2400 / +2160 | +2500 / +2250 | +2600 / +2340 | +2900 / +2610 |
+|爆擊傷害| +360% / +324% | +360% / +324%| +375% / +338% | +390% / +351% | +435% / +392% |
+|3條件爆擊傷害| +48% | +48% | +50% | +52% | +58% |
 
 <!-- endtab -->
-<!-- tab <b>L0護盾</b>-->
+<!-- tab <b>L0護盾(尚無)</b>-->
 
 + {% inlineImg https://i.imgur.com/fqgh2Mw.png 48px %}{% inlineImg https://i.imgur.com/lEVtkuZ.png 48px %}{% inlineImg https://i.imgur.com/hi2OEOG.png 48px %}**鏡中次元護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv+1</font>**
 + {% inlineImg https://i.imgur.com/ERRbkyR.png 48px %}{% inlineImg https://i.imgur.com/va1851F.png 48px %}{% inlineImg https://i.imgur.com/iZl5aGk.png 48px %}**獨眼傑克護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv+2</font>**
@@ -114,7 +108,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |**<font color=red>淨化者娃娃</font>**| +1700 / +1530 | +34% / +30.6% | - | - | - |
 
 <!-- endtab -->
-<!-- tab <b>L1護盾</b>-->
+<!-- tab <b>L1護盾(尚無)</b>-->
 
 + {% inlineImg https://i.imgur.com/fqgh2Mw.png 48px %}{% inlineImg https://i.imgur.com/lEVtkuZ.png 48px %}{% inlineImg https://i.imgur.com/hi2OEOG.png 48px %}**鏡中次元護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv+1</font>**
 + {% inlineImg https://i.imgur.com/ERRbkyR.png 48px %}{% inlineImg https://i.imgur.com/va1851F.png 48px %}{% inlineImg https://i.imgur.com/iZl5aGk.png 48px %}**獨眼傑克護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv+2</font>**
@@ -135,7 +129,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |**<font color=red>超：淨化者娃娃</font>**| +1900 / +1710 | +38% / +34.2% | - | - | - |
 
 <!-- endtab -->
-<!-- tab <b>L2護盾</b>-->
+<!-- tab <b>L2護盾(尚無)</b>-->
 
 + {% inlineImg https://i.imgur.com/fqgh2Mw.png 48px %}{% inlineImg https://i.imgur.com/lEVtkuZ.png 48px %}{% inlineImg https://i.imgur.com/hi2OEOG.png 48px %}**鏡中次元護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv+1</font>**
 + {% inlineImg https://i.imgur.com/ERRbkyR.png 48px %}{% inlineImg https://i.imgur.com/va1851F.png 48px %}{% inlineImg https://i.imgur.com/iZl5aGk.png 48px %}**獨眼傑克護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv+2</font>**
@@ -160,16 +154,53 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ---
 
-# 稱號(待更)
+# 飾品
+
+## 製作材料
+
+|飾品|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|漏洞塊|
+|:-:|:-:|:-:|
+|**能力飾品**<br>{% inlineImg https://i.imgur.com/slEdo0F.png 40px %}{% inlineImg https://i.imgur.com/i7ZRsWZ.png 40px %}|30,000,000|100{% inlineImg https://i.imgur.com/xUcm6Qg.png 40px %}|
+|**能力飾品**<br>{% inlineImg https://i.imgur.com/EFmDjDa.png 40px %}{% inlineImg https://i.imgur.com/uaVGhJ4.png 40px %}|30,000,000|100{% inlineImg https://i.imgur.com/xglZzLj.png 40px %}|
+|**外觀飾品**<br>{% inlineImg https://i.imgur.com/WFqB68m.png 40px %}{% inlineImg https://i.imgur.com/t2QXjl3.png 40px %}|10,000,000|100{% inlineImg https://i.imgur.com/xglZzLj.png 40px %}|
+
+## 飾品部位分布
+
+|臉上|手臂|腰部|腿部|外觀：帽子|外觀：手臂|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|{% inlineImg https://i.imgur.com/EFmDjDa.png 48px %}|{% inlineImg https://i.imgur.com/i7ZRsWZ.png 48px %}|{% inlineImg https://i.imgur.com/slEdo0F.png 48px %}|{% inlineImg https://i.imgur.com/uaVGhJ4.png 48px %}|{% inlineImg https://i.imgur.com/WFqB68m.png 48px %}|{% inlineImg https://i.imgur.com/t2QXjl3.png 48px %}|
+
+
+|能力|兩件套|三件套|總和|
+|:-:|:-:|:-:|:-:|
+|物理 / 魔法攻擊力|300|300|600|
+|物理 / 魔法暴擊傷害|-|30%|30%|
+|空中 / 背擊 / 浮空暴擊傷害|30%|-|30%|
+|掉落率增加||30%|30%|
+|超能凝聚速度||100%|100%|
+
+## 能力飾品替換方向
+
+- 僅供參考，請依實際狀況進行調整
+
+|方案|舊飾品|新飾品|
+|:-|:-:|:-:|
+|取代火焰王上位 3 件套<br>**補上軍團長 3 件套以補上增傷**|{% inlineImg https://i.imgur.com/JlogtYH.png 40px %}{% inlineImg https://i.imgur.com/llHDcNL.png 40px %}{% inlineImg https://i.imgur.com/I7EIGWh.png 40px %}|{% inlineImg https://i.imgur.com/EFmDjDa.png 40px %}{% inlineImg https://i.imgur.com/i7ZRsWZ.png 40px %}{% inlineImg https://i.imgur.com/kkYqVKR.png 40px %}|
+|取代火焰王上位 3 件套<br>**保留覺醒充能速度**|{% inlineImg https://i.imgur.com/JlogtYH.png 40px %}{% inlineImg https://i.imgur.com/llHDcNL.png 40px %}{% inlineImg https://i.imgur.com/I7EIGWh.png 40px %}|{% inlineImg https://i.imgur.com/EFmDjDa.png 40px %}{% inlineImg https://i.imgur.com/i7ZRsWZ.png 40px %}{% inlineImg https://i.imgur.com/slEdo0F.png 40px %}|
+|取代村莊 2 件套|{% inlineImg https://i.imgur.com/L5J2PUl.png 40px %}{% inlineImg https://i.imgur.com/qJ55LVW.png 40px %}|{% inlineImg https://i.imgur.com/EFmDjDa.png 40px %}{% inlineImg https://i.imgur.com/i7ZRsWZ.png 40px %}|
+
+---
+
+# 稱號
 
 + 透過製作機獲得 (**<font color=red>角色制</font>**)
-  - 最少需要 **<font color=red>125天</font>** 才可製作
+  - 最少需要約 **<font color=red>50天</font>** 才可製作
 
-|圖片| {% inlineImg https://i.imgur.com/l42EzGx.png 64px %}  |
+|圖片| {% inlineImg https://i.imgur.com/M8z9cL8.png 64px %}  |
 |:-:|:-:|
-|名稱|**劈開火花的異端者**|
-|製作材料|{% inlineImg https://i.imgur.com/R1opdqg.png 40px %}x500 + {% inlineImg https://i.imgur.com/KdGq7Qg.png 40px %}x500 + {% inlineImg https://i.imgur.com/NHsNGzN.png 40px %}x1000|
-|素質|總物攻/魔攻 +4.5%<br>物理/魔法爆擊傷害 +90%<br>超能爆發狀態增傷 +45%|
+|名稱|**光之城守護者**<br>빛의 도시를 지켜낸 자|
+|製作材料|{% inlineImg https://i.imgur.com/xUcm6Qg.png 40px %}x200 + {% inlineImg https://i.imgur.com/xglZzLj.png 40px %}x200 + {% inlineImg https://i.imgur.com/bRFx7v6.png 40px %}x5000萬|
+|素質|總物攻/魔攻 +5%<br>物理/魔法爆擊傷害 +100%<br>超能爆發狀態增傷 +50%|
 
 
 ---
