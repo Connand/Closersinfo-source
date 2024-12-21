@@ -22,7 +22,7 @@
       avatar: /img/Blacklambslogo.png
       descr: 查看官方公告
     - name: 韓版封印者官網
-      link: https://closers.nexon.com/
+      link: https://www.naddic.co.kr/
       avatar: /img/Blacklambslogo.png
       descr: 就是韓版
     - name: 陸版封印者官網
@@ -37,10 +37,6 @@
       link: https://www.closersonline.com/
       avatar: /img/Blacklambslogo.png
       descr: 就是國際版
-    - name: 舊版台版封印者官網
-      link: https://cls.mangot5.com/cls/index
-      avatar: /img/Blacklambslogo.png
-      descr: 我們懷念他
     - name: Code Closers官網
       link: https://www.codeclosers.to/
       avatar: https://www.codeclosers.to/images/logo.png
@@ -49,6 +45,18 @@
       link: https://lagnea.github.io/closers-loading-image-creator/
       avatar: /img/Blacklambslogo.png
       descr: 韓國人製作的，可搭配Google翻譯使用
+
+- class_name: 舊版官網
+  class_desc: 一些已經轉移的舊官網
+  link_list:
+    - name: 舊韓版封印者官網
+      link: https://closers.nexon.com/
+      avatar: /img/Blacklambslogo.png
+      descr: 舊版韓版網址，現已轉移(2025/03/12前仍可轉移)
+    - name: 舊台版封印者官網
+      link: https://cls.mangot5.com/cls/index
+      avatar: /img/Blacklambslogo.png
+      descr: 我們懷念他
 
 - class_name: 網站
   class_desc: 預設建立的，懶得改(x)

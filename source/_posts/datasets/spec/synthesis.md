@@ -228,6 +228,7 @@ description: ""
 <div class="childDiv">
 
 **<font size=5>輝煌時裝</font>**
+- [黃泉使者](/costumes/rare/Herald_of_Netherworld/)
 - [三位一體之輪](/costumes/rare/Wheel_of_Trinity/)
 - [所羅門武裝](/costumes/rare/Solomon/)
 - [閃耀之星](/costumes/rare/Shining_Star/)

@@ -1,6 +1,6 @@
 ---
-title: 毛茸茸雪狐
-date: 2022-12-01 12:09:15
+title: 賞金獵人(暫譯，Bounty Hunter)
+date: 2024-12-21 15:05:00
 tags:
     - 立繪時裝
     - 李世河
@@ -23,37 +23,35 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
 category: [時裝, 有立繪, 全角色]
-cover: https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4836960072464597153
-description: "Snow Fox"
+cover: https://i.imgur.com/wdqxvwrh.png
+description: "Bounty Hunter"
 ---
 
-{% tabs 封面圖 %}
-<!-- tab 黑羊小隊-->
-![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4692844875798806731)
-<!-- endtab -->
-<!-- tab 夜梟小隊-->
-![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4836960072464597153)
-<!-- endtab -->
-{% endtabs %}
+[![](https://i.imgur.com/wdqxvwr.png)](https://i.imgur.com/wdqxvwr.png)
 
 ---
-## Snow Fox
+## Bounty Hunter
 
-配合[三位一體之輪](/costumes/rare/Wheel_of_Trinity/)推出的時裝
+配合[黃泉使者](/costumes/rare/Herald_of_Netherworld/)推出的時裝，可透過該轉換器抽出黃泉使者的飾品
 
-**注意**：立繪僅分一般和特殊，模組分2型
+|時間|12/12|12/26|01/09|01/23|
+|:-:|:-:|:-:|:-:|:-:|
+|開放小隊|嚙鼠|??|??|??|
 
-部位：髮型、上衣、下衣、手套、鞋子、{% label 腰部 green %}、{% label 特效 green %}
+**注意**：立繪僅分一般和特殊，模組分 3 型
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
-宣傳頁面
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_SnowFox_221201_30FH49FJL49DK2.zip)
+部位：髮型（單一型）、上衣、下衣、手套、鞋子、{% label 臉下 green %}、{% label 特效 green %}
+
+[韓版介紹頁面](https://www.naddic.co.kr/ko/game/cls/shop/detail?contentNo=139)
+[立繪下載](https://landing.naddic.co.kr/template/cls/event/Costume_BountyHunter.zip)
+
 ---
 
 {% tabs 類型 %}
 <!-- tab 普通角色立繪-->
-{% tabs 普通立繪 %}
+{% tabs 普通立繪,16 %}
 <!-- tab 李世河(Seha)-->
 [![](https://i.imgur.com/tIWkingh.png)](https://i.imgur.com/tIWking.png)
 <!-- endtab -->
@@ -100,25 +98,25 @@ description: "Snow Fox"
 [![](https://i.imgur.com/fZHKsKHh.jpg)](https://i.imgur.com/fZHKsKH.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-[![](https://i.imgur.com/BjBX7gGh.png)](https://i.imgur.com/BjBX7gG.png)
+[![](https://i.imgur.com/Wa4NbWYh.jpeg)](https://i.imgur.com/Wa4NbWY.jpeg)
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-[![](https://i.imgur.com/tTCRHiMh.png)](https://i.imgur.com/tTCRHiM.png)
+[![](https://i.imgur.com/GhetuJDh.jpeg)](https://i.imgur.com/GhetuJD.jpeg)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-[![](https://i.imgur.com/ibzE4x8h.png)](https://i.imgur.com/ibzE4x8.png)
+[![](https://i.imgur.com/MFHlRjvh.jpeg)](https://i.imgur.com/MFHlRjv.jpeg)
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-[![](https://i.imgur.com/tQFBnJIh.png)](https://i.imgur.com/tQFBnJI.png)
+[![](https://i.imgur.com/VOt7fe0h.jpeg)](https://i.imgur.com/VOt7fe0.jpeg)
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
-[![](https://i.imgur.com/CRRcQG5h.png)](https://i.imgur.com/CRRcQG5.png)
+[![](https://i.imgur.com/5weFOoIh.jpeg)](https://i.imgur.com/5weFOoI.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
 <!-- tab 特殊角色立繪-->
-{% tabs 特殊立繪 %}
+{% tabs 特殊立繪,16 %}
 <!-- tab 李世河(Seha)-->
 [![](https://i.imgur.com/WPlta1lh.png)](https://i.imgur.com/WPlta1l.png)
 <!-- endtab -->
@@ -165,19 +163,19 @@ description: "Snow Fox"
 [![](https://i.imgur.com/aQwggLph.jpg)](https://i.imgur.com/aQwggLp.jpg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-[![](https://i.imgur.com/pD4DcRrh.png)](https://i.imgur.com/pD4DcRr.png)
+[![](https://i.imgur.com/gc25sCCh.jpeg)](https://i.imgur.com/gc25sCC.jpeg)
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-[![](https://i.imgur.com/82TvJ48h.png)](https://i.imgur.com/82TvJ48.png)
+[![](https://i.imgur.com/EX9hBNrh.jpeg)](https://i.imgur.com/EX9hBNr.jpeg)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-[![](https://i.imgur.com/zB0Q8Ath.png)](https://i.imgur.com/zB0Q8At.png)
+[![](https://i.imgur.com/4AaPDs7h.jpeg)](https://i.imgur.com/4AaPDs7.jpeg)
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-[![](https://i.imgur.com/CHOVytKh.png)](https://i.imgur.com/CHOVytK.png)
+[![](https://i.imgur.com/03JL4t9h.jpeg)](https://i.imgur.com/03JL4t9.jpeg)
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
-[![](https://i.imgur.com/tjQsTSWh.png)](https://i.imgur.com/tjQsTSW.png)
+[![](https://i.imgur.com/aZDjngzh.jpeg)](https://i.imgur.com/aZDjngz.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

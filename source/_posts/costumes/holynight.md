@@ -23,6 +23,7 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/RGjk02ih.jpg
 description: "Holy Night"
@@ -47,7 +48,7 @@ description: "Holy Night"
 
 ## 主題曲、動作
 主題曲：" We Winter x 이라온(Raon Lee)" 
-{%youtube IYI2xBhZJHk %}
+{%youtube BHzhTH3-Iko %}
 **湊齊左五以及帽子或腰部可解鎖特殊動作**
 男生動作
 ![](https://i.imgur.com/70L7nbR.gif)
@@ -120,10 +121,13 @@ description: "Holy Night"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/weKv8kKh.png)](https://i.imgur.com/weKv8kK.png)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://imgur.com/p2biYuch.png)](https://imgur.com/p2biYuc.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
-<!-- tab 混合立繪 -->
+<!-- tab 特殊立繪 -->
 {% tabs A型角色立繪 %}
 <!-- tab 李世河(Seha)-->
 [![](https://i.imgur.com/zIYTy8gh.jpg)](https://i.imgur.com/zIYTy8g.jpg)
@@ -184,6 +188,9 @@ description: "Holy Night"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/xZNjCwQh.png)](https://i.imgur.com/xZNjCwQ.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://imgur.com/9S2nXdjh.png)](https://imgur.com/9S2nXdj.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -250,6 +257,9 @@ description: "Holy Night"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/JnN8SmXh.png)](https://i.imgur.com/JnN8SmX.png)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://imgur.com/kijVIDJh.png)](https://imgur.com/kijVIDJ.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -315,6 +325,9 @@ description: "Holy Night"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/GGWvRu8h.png)](https://i.imgur.com/GGWvRu8.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://imgur.com/KB8ewRQh.png)](https://imgur.com/KB8ewRQ.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
