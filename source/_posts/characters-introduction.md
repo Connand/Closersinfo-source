@@ -11,13 +11,16 @@ description: "台版官網寫不完整，於是就自己來補一個了"
 
 ~~因為現在的官網沒有角色介紹所以搞了一篇出來~~
 - 從右下角開啟深色模式閱讀效果較佳！
-- 有關角色配音聲優請參考[這篇](/datasets/JP_vocal/)
 
 {% inlineImg /img/new_guide/recom_dark.png 200px %}
 
 資料來源：
 + 圖片：[韓版官網-角色介紹](https://closers.nexon.com/Characters/Introduction)
 + 文字：舊台版官網、[CN版官網](https://cls.tiancity.com/event/simpleguide/?Itemid=2)
+
+其他參考資料：
+- [角色聲優](/datasets/JP_vocal/)
+- [角色主題曲](/datasets/ClosersSongs/)
 
 ---
 

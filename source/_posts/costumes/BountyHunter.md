@@ -38,7 +38,7 @@ description: "Bounty Hunter"
 
 |時間|12/12|12/26|01/09|01/23|
 |:-:|:-:|:-:|:-:|:-:|
-|開放小隊|嚙鼠|??|??|??|
+|開放小隊|嚙鼠|黑羊|??|??|
 
 **注意**：立繪僅分一般和特殊，模組分 3 型
 
@@ -51,21 +51,24 @@ description: "Bounty Hunter"
 
 {% tabs 類型 %}
 <!-- tab 普通角色立繪-->
-{% tabs 普通立繪,16 %}
+{% tabs 普通立繪 %}
 <!-- tab 李世河(Seha)-->
-[![](https://i.imgur.com/tIWkingh.png)](https://i.imgur.com/tIWking.png)
+[![](https://i.imgur.com/ccBWbgCh.jpeg)](https://i.imgur.com/ccBWbgC.jpeg)
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
-[![](https://i.imgur.com/iikFjY2h.png)](https://i.imgur.com/iikFjY2.png)
+[![](https://i.imgur.com/uQO3Nn6h.jpeg)](https://i.imgur.com/uQO3Nn6.jpeg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-[![](https://i.imgur.com/fB3UL0nh.png)](https://i.imgur.com/fB3UL0n.png)
+[![](https://i.imgur.com/mRqmjWsh.jpeg)](https://i.imgur.com/mRqmjWs.jpeg)
 <!-- endtab -->
 <!-- tab J-->
-[![](https://i.imgur.com/3QwfR69h.png)](https://i.imgur.com/3QwfR69.png)
+[![](https://i.imgur.com/LKHGMesh.jpeg)](https://i.imgur.com/LKHGMes.jpeg)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-[![](https://i.imgur.com/btMv1Jwh.png)](https://i.imgur.com/btMv1Jw.png)
+[![](https://i.imgur.com/ns5CDiuh.jpeg)](https://i.imgur.com/ns5CDiu.jpeg)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/z9yGKyph.jpeg)](https://i.imgur.com/z9yGKyp.jpeg)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
 [![](https://i.imgur.com/BxKA5wPh.png)](https://i.imgur.com/BxKA5wP.png)
@@ -116,21 +119,24 @@ description: "Bounty Hunter"
 <!-- endtab -->
 
 <!-- tab 特殊角色立繪-->
-{% tabs 特殊立繪,16 %}
+{% tabs 特殊立繪 %}
 <!-- tab 李世河(Seha)-->
-[![](https://i.imgur.com/WPlta1lh.png)](https://i.imgur.com/WPlta1l.png)
+[![](https://i.imgur.com/0Vej7DDh.jpeg)](https://i.imgur.com/0Vej7DD.jpeg)
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
-[![](https://i.imgur.com/xbKHYVch.png)](https://i.imgur.com/xbKHYVc.png)
+[![](https://i.imgur.com/qqNpypgh.jpeg)](https://i.imgur.com/qqNpypg.jpeg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-[![](https://i.imgur.com/WC5aQLHh.png)](https://i.imgur.com/WC5aQLH.png)
+[![](https://i.imgur.com/XoyDerXh.jpeg)](https://i.imgur.com/XoyDerX.jpeg)
 <!-- endtab -->
 <!-- tab J-->
-[![](https://i.imgur.com/Ji0cksGh.png)](https://i.imgur.com/Ji0cksG.png)
+[![](https://i.imgur.com/1tCsq1dh.jpeg)](https://i.imgur.com/1tCsq1d.jpeg)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-[![](https://i.imgur.com/nI2zfGth.png)](https://i.imgur.com/nI2zfGt.png)
+[![](https://i.imgur.com/lzcl93Ih.jpeg)](https://i.imgur.com/lzcl93I.jpeg)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/LdsXyeMh.jpeg)](https://i.imgur.com/LdsXyeM.jpeg)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
 [![](https://i.imgur.com/M0pE9rkh.png)](https://i.imgur.com/M0pE9rk.png)

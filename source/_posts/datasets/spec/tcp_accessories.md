@@ -10,11 +10,13 @@ description: "能力飾品資料整理"
 # 套裝效果組合表
 
 - 通常是臉上 + 手臂使用 **主線系列** ，臉下 + 腰部 + 腿部使用 **軍團長系列** ，可依照自身所持有的飾品盡量湊滿套裝為主。
+- 僅供參考，不保證完全正確。
+- **魔龍王三件套**與**殉道者三件套**數值上相同，前者多了 30% 魔龍增傷，後者有覺醒回復速度 100%，可依自身情況進行選擇（**腰部**進行替換）。
 
 |強度|臉上|手臂|臉下|腰部|腿部|連身
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|T0|{% inlineImg https://i.imgur.com/JlogtYH.png 48px %}|{% inlineImg https://i.imgur.com/llHDcNL.png 48px %}|{% inlineImg https://i.imgur.com/8eWz1HI.png 48px %}|{% inlineImg https://i.imgur.com/I7EIGWh.png 48px %}|{% inlineImg https://i.imgur.com/DLyLQcv.png 48px %}|{% inlineImg https://i.imgur.com/fpuLmaj.png 48px %}{% inlineImg https://i.imgur.com/uXVHunT.png 48px %}|
-|T1|||{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}||{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}|{% inlineImg https://i.imgur.com/eq0ZfOa.png 48px %}{% inlineImg https://i.imgur.com/4khmgZK.png 48px %}|
+|T0|{% inlineImg https://i.imgur.com/EFmDjDa.png 48px %}|{% inlineImg https://i.imgur.com/i7ZRsWZ.png 48px %}|{% inlineImg https://i.imgur.com/8eWz1HI.png 48px %}|{% inlineImg https://i.imgur.com/slEdo0F.png 48px %}|{% inlineImg https://i.imgur.com/DLyLQcv.png 48px %}|{% inlineImg https://i.imgur.com/fpuLmaj.png 48px %}{% inlineImg https://i.imgur.com/uXVHunT.png 48px %}|
+|T1|{% inlineImg https://i.imgur.com/JlogtYH.png 48px %}|{% inlineImg https://i.imgur.com/llHDcNL.png 48px %}||{% inlineImg https://i.imgur.com/I7EIGWh.png 48px %}||{% inlineImg https://i.imgur.com/eq0ZfOa.png 48px %}{% inlineImg https://i.imgur.com/4khmgZK.png 48px %}|
 |T2 - A|{% inlineImg https://i.imgur.com/L5J2PUl.png 48px %}|{% inlineImg https://i.imgur.com/qJ55LVW.png 48px %}|{% inlineImg https://i.imgur.com/8eWz1HI.png 48px %}|{% inlineImg https://i.imgur.com/kkYqVKR.png 48px %}|{% inlineImg https://i.imgur.com/DLyLQcv.png 48px %}|{% inlineImg https://i.imgur.com/fSK8eom.png 48px %}{% inlineImg https://i.imgur.com/hPyWrDa.png 48px %}|
 |T2 - B|{% inlineImg https://i.imgur.com/rrpQ2gb.png 48px %}|{% inlineImg https://i.imgur.com/agZl0zT.png 48px %}|
 |T3|{% inlineImg https://i.imgur.com/Gcq581T.png 48px %}|{% inlineImg https://i.imgur.com/Ey363sm.png 48px %}|{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}|{% inlineImg https://i.imgur.com/8fFjIDf.png 48px %}|{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}||
@@ -92,6 +94,7 @@ description: "能力飾品資料整理"
 
 |區域|道具圖|能力值|
 |:-:|:-:|:-|
+| 殉道者 | {% inlineImg https://i.imgur.com/EFmDjDa.png 32px %}{% inlineImg https://i.imgur.com/i7ZRsWZ.png 32px %}{% inlineImg https://i.imgur.com/slEdo0F.png 32px %}{% inlineImg https://i.imgur.com/uaVGhJ4.png 32px %}<br><font color=#f00>臉上 手臂</font> 腰部 腿部 | 2件：物理及魔法攻擊力300、三爆傷30%<br>3件：物理及魔法攻擊力300、主爆傷30%、掉落道具30%、超能凝聚速度100% |
 | 控制室 | {% inlineImg https://i.imgur.com/L5J2PUl.png 32px %}{% inlineImg https://i.imgur.com/qJ55LVW.png 32px %}{% inlineImg https://i.imgur.com/ahDSqkd.png 32px %}<br><font color=#f00>臉上 手臂</font> 腰部 | 2件：物理及魔法攻擊力200、三爆傷18%<br>3件：物理及魔法攻擊力100、主爆傷18%、掉落道具22.5%、使用 [特殊技] 時+30覺醒能量(CD60秒)<br>註： [特殊技] 指預設欄位為 V 的技能 |
 | 要塞 | {% inlineImg https://i.imgur.com/Ku2qK8w.png 32px %}{% inlineImg https://i.imgur.com/zSzsS1B.png 32px %}{% inlineImg https://i.imgur.com/sqRxqvR.png 32px %}{% inlineImg https://i.imgur.com/agZl0zT.png 32px %}{% inlineImg https://i.imgur.com/rrpQ2gb.png 32px %}<br>背部 腰部 背部<br><font color=#f00>手臂 臉上</font> | 2件：物理及魔法攻擊力180、三爆傷15%、攻擊速度5%<br>3件：物理及魔法攻擊力70、雙爆傷15%、掉落道具20% |
 | 賽騰城 | {% inlineImg https://i.imgur.com/Gcq581T.png 32px %}{% inlineImg https://i.imgur.com/Ey363sm.png 32px %}{% inlineImg https://i.imgur.com/218lZqO.png 32px %}<br><font color=#f00>臉上 手臂</font> 腰部 | 2件：物理及魔法攻擊力150、三爆傷12%<br>3件：物理及魔法攻擊力50、雙爆傷20%、掉落道具10% |
@@ -108,6 +111,7 @@ description: "能力飾品資料整理"
 
 |區域|道具圖|取得方式|
 |:-:|:-:|:-|
+| 殉道者 | {% inlineImg https://i.imgur.com/EFmDjDa.png 32px %}{% inlineImg https://i.imgur.com/i7ZRsWZ.png 32px %}{% inlineImg https://i.imgur.com/slEdo0F.png 32px %}{% inlineImg https://i.imgur.com/uaVGhJ4.png 32px %}<br><font color=#f00>臉上 手臂</font> 腰部 腿部 | [製作](/datasets/MartyrsHill/#飾品) |
 | 控制室 | {% inlineImg https://i.imgur.com/L5J2PUl.png 32px %}{% inlineImg https://i.imgur.com/qJ55LVW.png 32px %}{% inlineImg https://i.imgur.com/ahDSqkd.png 32px %}<br><font color=#f00>臉上 手臂</font> 腰部 | [製作](/datasets/ControlCenter/#套裝效果) |
 | 要塞 | {% inlineImg https://i.imgur.com/Ku2qK8w.png 32px %}{% inlineImg https://i.imgur.com/zSzsS1B.png 32px %}{% inlineImg https://i.imgur.com/sqRxqvR.png 32px %}{% inlineImg https://i.imgur.com/agZl0zT.png 32px %}{% inlineImg https://i.imgur.com/rrpQ2gb.png 32px %}<br>背部 腰部 背部<br><font color=#f00>手臂 臉上</font> | 要塞所有相關副本、[製作](/datasets/nightfortress/#能力飾品) |
 | 賽騰城 | {% inlineImg https://i.imgur.com/Gcq581T.png 32px %}{% inlineImg https://i.imgur.com/Ey363sm.png 32px %}{% inlineImg https://i.imgur.com/218lZqO.png 32px %}<br><font color=#f00>臉上 手臂</font> 腰部 | 賽騰城副本VH相關類型BOSS、Omega騎士 |

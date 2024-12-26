@@ -36,10 +36,27 @@ description: "第四套輝煌時裝(Unique costume)"
 ## 黃泉使者 (Herald of Netherworld)
 黃泉使者（暫譯，Herald of Netherworld）是韓版封印者 10 周年暨轉移更新計畫 [Closers the Next Chapter](https://www.youtube.com/watch?v=-3jjruWM7LU) 所推出的第 4 套輝煌時裝。
 
+{% hideToggle <font color=#ff0000><b>簡介</b></font> %}
+- 機翻加簡單修改
+
+在某場戰鬥中受到致命傷的特工。
+到達他身邊的使者帶領著特工穿越幽冥之門。
+在掌控死亡之人的召喚之前，
+特工能夠面對自己的人生嗎？
+
+- 原文
+
+어느 전장, 어느 전투에서 빈사의 중상을 입은 클로저.
+그에게 도착한 명부첩이, 클로저를 황천의 문 너머로 인도한다.
+죽음을 다스리는 자의 부름 앞에서,
+클로저는 과연 자신의 삶을 마주할 수 있을 것인가?
+
+[參考連結](https://www.naddic.co.kr/ko/game/cls/gmNote/detail?contentNo=244)
+{% endhideToggle %}
 
 |時間|12/12|12/26|01/09|01/23|
 |:-:|:-:|:-:|:-:|:-:|
-|開放小隊|嚙鼠|??|??|??|
+|開放小隊|嚙鼠|黑羊|??|??|
 
 [韓版官網立繪下載](https://landing.naddic.co.kr/template/cls/event/Costume_HeraldOfNetherworld.zip)
 [韓版說明頁面](https://www.naddic.co.kr/ko/game/cls/gmNote/detail?contentNo=142)
@@ -54,43 +71,59 @@ description: "第四套輝煌時裝(Unique costume)"
   - **黃泉使者任務票券** 可進行專屬任務，完成後獎勵：
     - 超能爆發特效、腳印、連擊字體（攻擊時畫面左側顯示之**空中、背擊、浮空、連擊數**字體會改變）
 
-{% tabs 類型,4 %}
-<!-- tab 黑羊小隊(未開放)-->
+{% tabs 類型 %}
+<!-- tab 黑羊小隊-->
+
+部分特效展示置於立繪下方
+
 {% tabs 黑羊小隊立繪 %}
 <!-- tab 李世河(Seha)-->
-[![](https://i.imgur.com/fHlwcZGh.png)](https://i.imgur.com/fHlwcZG.png)
+[![](https://i.imgur.com/mc0XiFUh.jpeg)](https://i.imgur.com/mc0XiFU.jpeg)
+[![](https://i.imgur.com/KM0w1PDh.jpeg)](https://i.imgur.com/KM0w1PD.jpeg)
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
-[![](https://i.imgur.com/7kp11MUh.png)](https://i.imgur.com/7kp11MU.png)
+[![](https://i.imgur.com/FpmOsUhh.jpeg)](https://i.imgur.com/FpmOsUh.jpeg)
+[![](https://i.imgur.com/KXKqjJFh.jpeg)](https://i.imgur.com/KXKqjJF.jpeg)
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-[![](https://i.imgur.com/pqNNn4Eh.png)](https://i.imgur.com/pqNNn4E.png)
+[![](https://i.imgur.com/AzS63G8h.jpeg)](https://i.imgur.com/AzS63G8.jpeg)
+[![](https://i.imgur.com/EB6Wvfnh.jpeg)](https://i.imgur.com/EB6Wvfn.jpeg)
 <!-- endtab -->
 <!-- tab J-->
-[![](https://i.imgur.com/XIvo2Feh.png)](https://i.imgur.com/XIvo2Fe.png)
+[![](https://i.imgur.com/8y0z8mIh.jpeg)](https://i.imgur.com/8y0z8mI.jpeg)
+[![](https://i.imgur.com/v7A9fIhh.jpeg)](https://i.imgur.com/v7A9fIh.jpeg)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-[![](https://i.imgur.com/mH5tteYh.png)](https://i.imgur.com/mH5tteY.png)
+[![](https://i.imgur.com/JGGbEgbh.jpeg)](https://i.imgur.com/JGGbEgb.jpeg)
+[![](https://i.imgur.com/Mq0QkZah.jpeg)](https://i.imgur.com/Mq0QkZa.jpeg)
 <!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
-[![](https://i.imgur.com/rDf6spdh.png)](https://i.imgur.com/rDf6spd.png)
-<!-- endtab -->
-<!-- tab 表情動作-->
-{%youtube 3XZk51eRzhs %}
-<!-- endtab -->
-<!-- tab 城鎮動作-->
-{%youtube 6oLxn1asc-I %}
-<!-- endtab -->
-<!-- tab 立繪效果-->
-{%youtube XpK0bOXqYSs %}
-<!-- endtab -->
-<!-- tab 結算動作-->
-{%youtube kp7zV__70YY %}
-<!-- endtab -->
-<!-- tab 過場動作-->
-{%youtube eKRWWIpRIbE %}
+[![](https://i.imgur.com/LHdvQbzh.jpeg)](https://i.imgur.com/LHdvQbz.jpeg)
+[![](https://i.imgur.com/QdcZIL0h.jpeg)](https://i.imgur.com/QdcZIL0.jpeg)
 <!-- endtab -->
 {% endtabs %}
+
+{% tabs 視覺效果預覽 %}
+<!-- tab 表情動作-->
+{%youtube i9aDGWbZ37U %}
+<!-- endtab -->
+<!-- tab 城鎮動作-->
+{%youtube o1kLrNgzfpI %}
+<!-- endtab -->
+<!-- tab 立繪效果-->
+{%youtube cipaRvh4jmE %}
+<!-- endtab -->
+<!-- tab 入場動作-->
+{%youtube J3l1ttWLUWY %}
+<!-- endtab -->
+<!-- tab 專屬任務獎勵-->
+{%youtube 74KRHK2G4WE %}
+<!-- endtab -->
+<!-- tab 其他視覺效果-->
+{%youtube EqseiU4NIeY %}
+<!-- endtab -->
+{% endtabs %}
+
 <!-- endtab -->
 
 <!-- tab 紅狼小隊(未開放)-->
@@ -165,7 +198,7 @@ description: "第四套輝煌時裝(Unique costume)"
 
 <!-- tab 嚙鼠小隊-->
 
-部分特效展示至於立繪下方
+部分特效展示置於立繪下方
 
 {% tabs 嚙鼠小隊立繪 %}
 <!-- tab 未來(Mirae)-->
