@@ -105,22 +105,22 @@ description: "第四套輝煌時裝(Unique costume)"
 
 {% tabs 視覺效果預覽 %}
 <!-- tab 表情動作-->
-{%youtube i9aDGWbZ37U %}
+{%youtube EQpsbfGcoak %}
 <!-- endtab -->
 <!-- tab 城鎮動作-->
-{%youtube o1kLrNgzfpI %}
+{%youtube ZrGr1FqsutQ %}
 <!-- endtab -->
 <!-- tab 立繪效果-->
-{%youtube cipaRvh4jmE %}
+{%youtube QTAGmuvyuo0 %}
 <!-- endtab -->
 <!-- tab 入場動作-->
-{%youtube J3l1ttWLUWY %}
+{%youtube do5lQJ4IDo4 %}
 <!-- endtab -->
 <!-- tab 專屬任務獎勵-->
-{%youtube 74KRHK2G4WE %}
+{%youtube 2_GYE-3cNjA %}
 <!-- endtab -->
 <!-- tab 其他視覺效果-->
-{%youtube EqseiU4NIeY %}
+{%youtube _KVUwWrYERY %}
 <!-- endtab -->
 {% endtabs %}
 

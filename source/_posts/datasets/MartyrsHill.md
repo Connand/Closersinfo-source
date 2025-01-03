@@ -107,6 +107,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |**<font color=red>史詩升級(100%)</font>**|**400,000,000**|**10000 個**|**10000 個**|-|-|-|**1000 個**|
 
 - 護盾
+  - T2 護盾可以透過升級進行轉換
 
 |階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/tT7eTjf.png 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}
 |:-|:-:|:-:|:-:|:-:|:-:|
@@ -120,6 +121,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |**護盾秘藥保底**|10,000,000|250 個|250 個|10 個|32 個|
 |**<font color=red>六件護盾保底</font>**|**240,000,000**|**6000 個**|**6000 個**|**240 個**|-|
 |**<font color=red>六件護盾秘藥保底</font>**|**60,000,000**|**1500 個**|**1500 個**|**60 個**|**192 個**|
+|- **護盾轉換**|8,000,000|-|-|8 個|-|
 
 <p>　</p>
 
@@ -146,9 +148,9 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 <!-- endtab -->
 <!-- tab <b>L0護盾</b>-->
 
-+ {% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**暗殺者護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
-+ {% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**新龍護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
-+ {% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**狂怒護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 以下 必殺技能 Lv +1 </font>**
++ {% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**暗殺者護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
++ {% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**新龍護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
++ {% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**狂怒護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
 
 |裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP |
 |:-:|:-:|:-:|:-:|:-:|
@@ -161,9 +163,9 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 <!-- endtab -->
 <!-- tab <b>L1護盾</b>-->
 
-+ {% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**暗殺者護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
-+ {% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**新龍護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
-+ {% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**狂怒護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 以下 必殺技能 Lv +1 </font>**
++ {% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**暗殺者護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
++ {% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**新龍護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
++ {% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**狂怒護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
 
 |裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP |
 |:-:|:-:|:-:|:-:|:-:|
@@ -176,9 +178,9 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 <!-- endtab -->
 <!-- tab <b>L2護盾</b>-->
 
-+ {% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**暗殺者護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
-+ {% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**新龍護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
-+ {% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**狂怒護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 以下 必殺技能 Lv +1 </font>**
++ {% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**暗殺者護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
++ {% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**新龍護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
++ {% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**狂怒護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
 
 |裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP |
 |:-:|:-:|:-:|:-:|:-:|
