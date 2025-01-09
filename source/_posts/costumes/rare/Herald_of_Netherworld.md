@@ -56,7 +56,7 @@ description: "第四套輝煌時裝(Unique costume)"
 
 |時間|12/12|12/26|01/09|01/23|
 |:-:|:-:|:-:|:-:|:-:|
-|開放小隊|嚙鼠|黑羊|??|??|
+|開放小隊|嚙鼠|黑羊|紅狼|夜梟|
 
 [韓版官網立繪下載](https://landing.naddic.co.kr/template/cls/event/Costume_HeraldOfNetherworld.zip)
 [韓版說明頁面](https://www.naddic.co.kr/ko/game/cls/gmNote/detail?contentNo=142)
@@ -126,37 +126,51 @@ description: "第四套輝煌時裝(Unique costume)"
 
 <!-- endtab -->
 
-<!-- tab 紅狼小隊(未開放)-->
+<!-- tab 紅狼小隊-->
+
+部分特效展示置於立繪下方(尚無)
+
 {% tabs 紅狼小隊立繪 %}
 <!-- tab 納塔(Nata)-->
-[![](https://i.imgur.com/ObLCAZXh.png)](https://i.imgur.com/ObLCAZX.png)
+[![](https://i.imgur.com/suHigWqh.jpeg)](https://i.imgur.com/suHigWq.jpeg)
+[![](https://i.imgur.com/eAs8N6Gh.jpeg)](https://i.imgur.com/eAs8N6G.jpeg)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-[![](https://i.imgur.com/Q9sgJ0fh.png)](https://i.imgur.com/Q9sgJ0f.png)
+[![](https://i.imgur.com/N8b8qnHh.jpeg)](https://i.imgur.com/N8b8qnH.jpeg)
+[![](https://i.imgur.com/rT2eIr4h.jpeg)](https://i.imgur.com/rT2eIr4.jpeg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-[![](https://i.imgur.com/UzOrR4wh.png)](https://i.imgur.com/UzOrR4w.png)
+[![](https://i.imgur.com/czqQAE5h.jpeg)](https://i.imgur.com/czqQAE5.jpeg)
+[![](https://i.imgur.com/UZa28PUh.jpeg)](https://i.imgur.com/UZa28PU.jpeg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-[![](https://i.imgur.com/xBqg2V8h.png)](https://i.imgur.com/xBqg2V8.png)
+[![](https://i.imgur.com/McFOLRxh.jpeg)](https://i.imgur.com/McFOLRx.jpeg)
+[![](https://i.imgur.com/AlSfZLMh.jpeg)](https://i.imgur.com/AlSfZLM.jpeg)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-[![](https://i.imgur.com/2yy8b4qh.png)](https://i.imgur.com/2yy8b4q.png)
+[![](https://i.imgur.com/4pVr0QTh.jpeg)](https://i.imgur.com/4pVr0QT.jpeg)
+[![](https://i.imgur.com/WIJ2mgSh.jpeg)](https://i.imgur.com/WIJ2mgS.jpeg)
 <!-- endtab -->
+{% endtabs %}
+
+{% tabs 視覺效果預覽 %}
 <!-- tab 表情動作-->
-{%youtube buJihznBsY8 %}
+{%youtube EQpsbfGcoak %}
 <!-- endtab -->
 <!-- tab 城鎮動作-->
-{%youtube jecyfM156ss %}
+{%youtube ZrGr1FqsutQ %}
 <!-- endtab -->
 <!-- tab 立繪效果-->
-{%youtube SeHpWVshOPg %}
+{%youtube QTAGmuvyuo0 %}
 <!-- endtab -->
-<!-- tab 結算動作-->
-{%youtube P3bitlFkDjw %}
+<!-- tab 入場動作-->
+{%youtube do5lQJ4IDo4 %}
 <!-- endtab -->
-<!-- tab 過場動作-->
-{%youtube TzHAgjvF7T8 %}
+<!-- tab 專屬任務獎勵-->
+{%youtube 2_GYE-3cNjA %}
+<!-- endtab -->
+<!-- tab 其他視覺效果-->
+{%youtube _KVUwWrYERY %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

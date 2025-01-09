@@ -38,7 +38,7 @@ description: "Bounty Hunter"
 
 |時間|12/12|12/26|01/09|01/23|
 |:-:|:-:|:-:|:-:|:-:|
-|開放小隊|嚙鼠|黑羊|??|??|
+|開放小隊|嚙鼠|黑羊|紅狼|夜梟|
 
 **注意**：立繪僅分一般和特殊，模組分 3 型
 
@@ -71,19 +71,19 @@ description: "Bounty Hunter"
 [![](https://i.imgur.com/z9yGKyph.jpeg)](https://i.imgur.com/z9yGKyp.jpeg)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
-[![](https://i.imgur.com/BxKA5wPh.png)](https://i.imgur.com/BxKA5wP.png)
+[![](https://i.imgur.com/UhVXF9Dh.jpeg)](https://i.imgur.com/UhVXF9D.jpeg)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-[![](https://i.imgur.com/LVNB2nph.png)](https://i.imgur.com/LVNB2np.png)
+[![](https://i.imgur.com/KoCCFcCh.jpeg)](https://i.imgur.com/KoCCFcC.jpeg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-[![](https://i.imgur.com/7FzrvH5h.png)](https://i.imgur.com/7FzrvH5.png)
+[![](https://i.imgur.com/0JOEwnBh.jpeg)](https://i.imgur.com/0JOEwnB.jpeg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-[![](https://i.imgur.com/Cuo7GAIh.png)](https://i.imgur.com/Cuo7GAI.png)
+[![](https://i.imgur.com/F27nDdSh.jpeg)](https://i.imgur.com/F27nDdS.jpeg)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-[![](https://i.imgur.com/aKz5qdXh.png)](https://i.imgur.com/aKz5qdX.png)
+[![](https://i.imgur.com/sKZQroqh.jpeg)](https://i.imgur.com/sKZQroq.jpeg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
 [![](https://i.imgur.com/HR0On9fh.jpg)](https://i.imgur.com/HR0On9f.jpg)
@@ -139,19 +139,19 @@ description: "Bounty Hunter"
 [![](https://i.imgur.com/LdsXyeMh.jpeg)](https://i.imgur.com/LdsXyeM.jpeg)
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
-[![](https://i.imgur.com/M0pE9rkh.png)](https://i.imgur.com/M0pE9rk.png)
+[![](https://i.imgur.com/AXwvjeBh.jpeg)](https://i.imgur.com/AXwvjeB.jpeg)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-[![](https://i.imgur.com/V88bzflh.png)](https://i.imgur.com/V88bzfl.png)
+[![](https://i.imgur.com/DuW8Za8h.jpeg)](https://i.imgur.com/DuW8Za8.jpeg)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-[![](https://i.imgur.com/gimMRjNh.png)](https://i.imgur.com/gimMRjN.png)
+[![](https://i.imgur.com/KDy7ZAVh.jpeg)](https://i.imgur.com/KDy7ZAV.jpeg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-[![](https://i.imgur.com/4x9AZIPh.png)](https://i.imgur.com/4x9AZIP.png)
+[![](https://i.imgur.com/I8TnKqRh.jpeg)](https://i.imgur.com/I8TnKqR.jpeg)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-[![](https://i.imgur.com/2lvAPV8h.png)](https://i.imgur.com/2lvAPV8.png)
+[![](https://i.imgur.com/1fpuOZth.jpeg)](https://i.imgur.com/1fpuOZt.jpeg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
 [![](https://i.imgur.com/FTd0mAIh.jpg)](https://i.imgur.com/FTd0mAI.jpg)
