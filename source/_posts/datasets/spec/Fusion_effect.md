@@ -85,6 +85,17 @@ description: "融合威嚴詳細內容說明"
 
 > # 威嚴取得方法整理
 
+> ## 週期可獲得素材管道
+
+
+<div class="get_eff2">
+
+|方法|{% inlineImg https://i.imgur.com/3MjLN14.png 48px %}|{% inlineImg https://i.imgur.com/6PHDZf6.png 48px %}|週期|
+|:-|:-:|:-:|:-:|
+| {% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}[軍團程式](/datasets/spec/skill_cube/#%E8%BB%8D%E5%9C%98%E7%A8%8B%E5%BC%8F%E5%8F%AF%E6%8F%9B%E7%8D%8E%E5%8B%B5) | 6 | 3 | 每月 |
+| 纖維商店 | 2 | 1 | 每周 |
+</div>
+
 > ## 暴食王系列
 {% inlineImg /img/effects/beel0.PNG 64px %}{% inlineImg /img/effects/beel1.PNG 64px %}{% inlineImg /img/effects/beel2.PNG 64px %}{% inlineImg /img/effects/beel3.PNG 64px %}{% inlineImg /img/effects/beel4.PNG 64px %}{% inlineImg /img/effects/beel5.PNG 64px %}
 <span> </span>
@@ -174,6 +185,10 @@ description: "融合威嚴詳細內容說明"
 	width: 70%;
   }
 
+  .get_eff2 table {
+    /* font-weight: bold; */
+	width: 70%;
+  }
 
   .get_eff table th:nth-of-type(1){
     width: 15%;
