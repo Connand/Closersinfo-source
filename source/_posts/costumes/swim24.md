@@ -1,5 +1,5 @@
 ---
-title: 夏日時光渡假風(Summertime Resort，2024泳裝)
+title: 夏日時光渡假風 (2024泳裝)
 date: 2024-07-30 16:20:00
 tags:
     - 立繪時裝
@@ -36,10 +36,9 @@ description: "2024泳裝系列"
 # 夏日時光渡假風 / Summertime Resort
 
 ## 主題曲： "Dive into You" x 21학번
-[MP3下載](https://closers.vod.nexoncdn.co.kr/site/event/2024/0725_event_07WH0NR20DWBG6KR/Closers_2024Summer_DiveintoYou.zip)
 
 {% hideToggle 主題曲 %}
-{%youtube -YlmC29GD8I %}
+{%youtube fhuhpIM59qM %}
 {% endhideToggle %}
 
 

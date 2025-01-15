@@ -1,5 +1,5 @@
 ---
-title: 湛藍波浪(2021泳裝)
+title: 湛藍波浪 (2021泳裝)
 date: 2021-06-20 10:10:31
 tags:
     - 立繪時裝
@@ -33,7 +33,7 @@ description: "2021泳裝系列"
 # Aqua Blue Wave
 
 ## 主題曲：ICE CREAM
-{%youtube lxwhsF334eg %}
+{%youtube SLrYlzEzt04 %}
 
 ---
 

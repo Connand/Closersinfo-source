@@ -1,5 +1,5 @@
 ---
-title: 盛夏的旋律(2020泳裝)
+title: 盛夏的旋律 (2020泳裝)
 date: 2020-05-24 10:10:31
 tags:
     - 立繪時裝
@@ -33,7 +33,7 @@ description: "2020泳裝系列"
 # 盛夏的旋律
 
 ## 主題曲：We summer
-{%youtube yAW-k7eNDuQ %}
+{%youtube XhOvv0Pn0ko %}
 
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉中 green %}

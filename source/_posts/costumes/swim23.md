@@ -1,5 +1,5 @@
 ---
-title: 水槍盛典(WaterBoom Festa，2023泳裝)
+title: Waterboom Festa (2023泳裝)
 date: 2023-07-13 10:10:31
 tags:
     - 立繪時裝
@@ -33,13 +33,13 @@ description: "2023泳裝系列"
 [![](https://imgur.com/TaU1lFgh.png)](https://imgur.com/TaU1lFg.png)
 
 ---
-# 水槍盛典(暫譯)/ WaterBoom Festa
+# WaterBoom Festa
 
 ## 主題曲： "Dance Now" x 류수정(Ryu Sujeong)
 [MP3下載](https://closers.vod.nexoncdn.co.kr/event/2023/0713_event_BC377CF8306B8708/closers_2023summer_dancenow.zip)
 
 {% hideToggle 主題曲 %}
-{%youtube DAwVVeoZdRc %}
+{%youtube 3AjCYuw3u10 %}
 {% endhideToggle %}
 
 
@@ -50,34 +50,13 @@ description: "2023泳裝系列"
 
 **左5套用水槍動作 左5+1飾品套用主題歌跳舞動作**
 
-{% hideToggle 舞蹈動作示意(請開啟聲音) %}
-
-<video height="300" controls="" preload="metadata" poster="" controlslist="nodownload" loop="">
-    <source src="https://closers.vod.nexoncdn.co.kr/event/2023/0713_event_BC377CF8306B8708/CCFE192FD052804F.mp4" type="video/mp4">
-</video>
-
-<video height="300" controls="" preload="metadata" poster="" controlslist="nodownload" loop="">
-    <source src="https://closers.vod.nexoncdn.co.kr/event/2023/0713_event_BC377CF8306B8708/CCFE292FD052804F.mp4" type="video/mp4">
-</video>
-
-{% endhideToggle %}
-{% hideToggle 水槍動作示意 %}
-
-<video height="300" controls="" preload="metadata" poster="" controlslist="nodownload" loop="">
-    <source src="https://closers.vod.nexoncdn.co.kr/event/2023/0713_event_BC377CF8306B8708/CCFE392FD052804F.mp4" type="video/mp4">
-</video>
-
-<video height="300" controls="" preload="metadata" poster="" controlslist="nodownload" loop="">
-    <source src="https://closers.vod.nexoncdn.co.kr/event/2023/0713_event_BC377CF8306B8708/CCFE492FD052804F.mp4" type="video/mp4">
-</video>
-{% endhideToggle %}
-
 若無法觀看，可至下方[宣傳頁面](https://closers.nexon.com/Events2023/0713/Festa)或[Imgur頁面](https://imgur.com/a/kfii6OM)上查看
 
 **左5+2飾品套用專用立繪**
 **每個角色都有另類時裝(上衣、下衣)，可解鎖額外立繪(特殊立繪)**
 
 [宣傳頁面](https://closers.nexon.com/Events2023/0713/Festa)
+[台版公告](https://www.closers.com.tw/news/7vJyCF231)
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_WaterboomFesta_230713_9940CAA88B58FD9E.zip)
 

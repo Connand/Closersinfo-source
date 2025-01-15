@@ -1,5 +1,5 @@
 ---
-title: 閃亮海洋(2022泳裝)
+title: 閃亮海洋 (2022泳裝)
 date: 2022-07-14 10:10:31
 tags:
     - 立繪時裝
@@ -35,7 +35,7 @@ description: "2022泳裝系列"
 
 ## 主題曲： "Paradise" x 유주(Yuju)
 {% hideToggle 主題曲 %}
-{%youtube 67-8B4OoaiE %}
+{%youtube CK-wp4Zm-3U %}
 {% endhideToggle %}
 
 
@@ -55,7 +55,7 @@ description: "2022泳裝系列"
 ![](https://i.imgur.com/LKtSeq0h.png)
 
 [宣傳頁面](https://closers.nexon.com/Events2022/0714/Costume)
-[台版公告](https://www.closers.com.tw/news/mycard%E7%B6%AD%E8%AD%B7%E5%85%AC%E5%91%8A-42)
+[台版公告](https://www.closers.com.tw/news/gOVOwb42)
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Sparkling_Ocean_220714_70B3D620.zip)
 
