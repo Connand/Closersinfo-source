@@ -3,11 +3,11 @@ title: 重鑄機率表
 date: 2021-09-03 14:01:31
 tags: 資料紀錄
 category: [遊戲資料,機率資料]
-cover: https://i.imgur.com/lC2WTk8.png
+cover: https://i.imgur.com/kELhpR7.png
 description: ""
 ---
 
-來源為韓版官方公布的機率表：https://closers.nexon.com/News/Guide/List?n4ArticleCategorySN=4#today
+來源為韓版官方公布的機率表：https://www.naddic.co.kr/ko/game/cls/probability/detail?contentNo=152
 
 **公告中提到：**
 - **<font color=#ef674d>所有機率均已通過遊戲記錄分析驗證，可正常運行。</font>**
@@ -42,7 +42,7 @@ description: ""
   }
 
   table th:nth-of-type(1){
-    width: 30%;
+    width: 10%;
   }
   table th:nth-of-type(2){
     width: 10%;
@@ -69,6 +69,18 @@ description: ""
 | C | 2.70% | 21.60% |
 
 ---
+
+# {% inlineImg https://i.imgur.com/nzsG6XL.png 64px %}特級D零件：裝備 (裝備EX~B)
+
+**只能對 95 等以上裝備使用**
+
+| 等級 | 機率 |
+| :-: | :-: |
+| EX | 0.85% |
+| SS | 1.70% |
+| S | 10.83% |
+| A | 32.48% |
+| B | 54.14% |
 
 # {% inlineImg https://i.imgur.com/uKEHaYr.png 64px %}一般D零件：裝備 (裝備S~C)
 

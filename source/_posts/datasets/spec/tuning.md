@@ -45,16 +45,18 @@ description: "重鑄系統內容說明"
 |道具|功能|主要管道
 |:-|:-:|:-:
 |{% inlineImg https://i.imgur.com/sGKimWM.png 40px %} 激頻重鑄零件(Lv. 95~100)|基本重鑄材料，一格消耗一個<br><font color=#f00>整體重鑄時不消耗</font>|活動/商城
-|{% inlineImg https://i.imgur.com/nzsG6XL.png 40px %} 特級D零件：裝備|可進行指定重鑄，隨機抽取 B~EX 等級（不低於當前等級）<br><font color=#f00>{% inlineImg img/tuning/tuningEX.png 24px %}機率為0.85%、{% inlineImg img/tuning/tuningSS.png 24px %}機率為1.70%</font>|商城/活動
+|{% inlineImg https://i.imgur.com/nzsG6XL.png 40px %} 特級D零件：裝備|可進行指定重鑄，隨機抽取 B~EX 等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningEX.png 24px %}機率為0.85%、{% inlineImg img/tuning/tuningSS.png 24px %}機率為1.70%</font>|商城/活動
 |{% inlineImg https://i.imgur.com/vZ5yUHH.png 40px %} EX確定D零件：裝備|可進行指定重鑄，必定{% inlineImg img/tuning/tuningEX.png 24px %}|商城/活動
+
+- **不低於當前等級**：需重鑄相同屬性。
 
 ## 其他裝備
 
 |道具|功能|主要管道
 |:-|:-:|:-:
-|{% inlineImg https://i.imgur.com/Pyr0Fuo.png 40px %} 激頻重鑄零件|基本重鑄材料，一格消耗一個<br><font color=#f00>整體重鑄時不消耗且無法得出{% inlineImg img/tuning/tuningSS.png 24px %}</font>|副本掉落
-|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %} 一般D零件：裝備|可進行指定重鑄，隨機抽取C~S等級（不低於當前等級）<br><font color=#f00>{% inlineImg img/tuning/tuningS.png 24px %}機率為2%</font>|製作/活動
-|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %} 高級D零件：裝備|可進行指定重鑄，隨機抽取C~SS等級（不低於當前等級）<br><font color=#f00>{% inlineImg img/tuning/tuningSS.png 24px %}機率為1%</font>|製作/活動
+|{% inlineImg https://i.imgur.com/Pyr0Fuo.png 40px %} 激頻重鑄零件|基本重鑄材料，一格消耗一個<br><font color=#f00>整體重鑄時不消耗且無法得出{% inlineImg img/tuning/tuningSS.png 24px %}{% inlineImg img/tuning/tuningEX.png 24px %}</font>|副本掉落
+|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %} 一般D零件：裝備|可進行指定重鑄，隨機抽取C~S等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningS.png 24px %}機率為2%</font>|製作/活動
+|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %} 高級D零件：裝備|可進行指定重鑄，隨機抽取C~SS等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningSS.png 24px %}機率為1%</font>|製作/活動
 |{% inlineImg https://i.imgur.com/iqfarPB.png 40px %} SS/S D零件：裝備|可進行指定重鑄，隨機抽取S~SS等級<br><font color=#f00>{% inlineImg img/tuning/tuningSS.png 24px %}機率為10%</font>|禮包/活動
 |{% inlineImg https://i.imgur.com/LE2TT8Q.png 40px %} S 確定D零件：裝備|可進行指定重鑄，必定{% inlineImg img/tuning/tuningS.png 24px %}<br><font color=#f00>也可進行技能重鑄，但是會隨機抽取技能</font>|禮包/活動
 |{% inlineImg https://i.imgur.com/WxaqM1W.png 40px %} SS確定D零件：裝備|可進行指定重鑄，必定{% inlineImg img/tuning/tuningSS.png 24px %}<br><font color=#f00>也可進行終極技Lv+1 重鑄 (僅可用在武器)</font>|禮包/活動
@@ -62,13 +64,15 @@ description: "重鑄系統內容說明"
 |{% inlineImg https://i.imgur.com/TmHFFrJ.png 40px %} α重鑄等化器（Lv.81～92）|可將重鑄次數重設為最大值|商城/活動
 |{% inlineImg https://i.imgur.com/i8HdJRy.png 40px %} Ω重鑄等化器（Lv.93～100）|可將重鑄次數重設為最大值|商城/活動
 
+- **不低於當前等級**：需重鑄相同屬性。
+
 ## 時裝
 
 |道具|功能|主要管道
 |:-|:-:|:-:
 |{% inlineImg https://i.imgur.com/iGx9G70.png 40px %} 晶瑩之服裝重鑄零件|基本重鑄材料，一格消耗一個<br><font color=#f00>無法得出{% inlineImg img/tuning/tuningSS.png 24px %}</font>|製作/活動
-|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %} 一般D零件：時裝|可進行指定重鑄，隨機抽取C~S等級（不低於當前等級）<br><font color=#f00>也可進行技能重鑄，但是會隨機抽取技能。{% inlineImg img/tuning/tuningS.png 24px %}機率為3%</font>|製作/活動
-|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %} 高級D零件：時裝|可進行指定重鑄，隨機抽取C~SS等級（不低於當前等級）<br><font color=#f00>{% inlineImg img/tuning/tuningSS.png 24px %}機率為1%</font>|製作/活動
+|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %} 一般D零件：時裝|可進行指定重鑄，隨機抽取C~S等級（**不低於當前等級**）<br><font color=#f00>也可進行技能重鑄，但是會隨機抽取技能。{% inlineImg img/tuning/tuningS.png 24px %}機率為3%</font>|製作/活動
+|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %} 高級D零件：時裝|可進行指定重鑄，隨機抽取C~SS等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningSS.png 24px %}機率為1%</font>|製作/活動
 |{% inlineImg https://i.imgur.com/ljMDp7Y.png 40px %} S/A D零件：時裝|可進行指定重鑄，隨機抽取A~S等級<br><font color=#f00>{% inlineImg img/tuning/tuningS.png 24px %}機率為25%</font>|禮包/活動
 |{% inlineImg https://i.imgur.com/IvsyXBS.png 40px %} SS/S D零件：時裝|可進行指定重鑄，隨機抽取S~SS等級<br><font color=#f00>{% inlineImg img/tuning/tuningSS.png 24px %}機率為10%</font>|禮包/活動
 |{% inlineImg https://i.imgur.com/I62TyC9.png 40px %} S 確定D零件：時裝|可進行指定重鑄，必定{% inlineImg img/tuning/tuningS.png 24px %}|禮包/活動
@@ -79,9 +83,11 @@ description: "重鑄系統內容說明"
 {% hideToggle 目前僅存在遊戲資料內，開放時間未知 %}
 |道具|功能|主要管道
 |:-|:-:|:-:
-|{% inlineImg https://i.imgur.com/kELhpR7.png 40px %} 特級D零件：時裝|可進行指定重鑄，隨機抽取 C~EX 等級（不低於當前等級）<br><font color=#f00>{% inlineImg img/tuning/tuningEX.png 24px %}機率為???%、{% inlineImg img/tuning/tuningSS.png 24px %}機率為???%</font>|商城/活動
+|{% inlineImg https://i.imgur.com/kELhpR7.png 40px %} 特級D零件：時裝|可進行指定重鑄，隨機抽取 C~EX 等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningEX.png 24px %}機率為???%、{% inlineImg img/tuning/tuningSS.png 24px %}機率為???%</font>|商城/活動
 |{% inlineImg https://i.imgur.com/G3iFahX.png 40px %} EX確定D零件：時裝|可進行指定重鑄，必定{% inlineImg img/tuning/tuningEX.png 24px %}|商城/活動
 {% endhideToggle %}
+
+- **不低於當前等級**：需重鑄相同屬性。
 
 ---
 
