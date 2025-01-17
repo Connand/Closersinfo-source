@@ -14,8 +14,16 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 <font color=#ff0000><b>注意</b></font>：18村新裝備為95等裝備，適用新重鑄改動，相關重鑄材料與數值請參考[重鑄系統](/datasets/spec/tuning/)
 
-{% hideToggle <font color=#ff0000><b>待補內容</b></font> %}
+{%youtube 1omqlcpt6z0 %}
 
+{% hideToggle <font color=#ff0000><b>劇情簡介</b></font> %}
+在新首爾經歷慘痛敗北的特工們，
+遵照赫德嘉的命令前往巴黎。
+等待特工們的，
+是某顆等待孵化的蛋、試圖阻止它的謎樣劍士、
+以及吐出憤怒火花的禽獸——
+
+特工們是否能夠重振旗鼓，向著被教團佔領的新首爾聖域發起反擊？
 {% endhideToggle %}
 
 

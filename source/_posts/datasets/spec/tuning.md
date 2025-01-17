@@ -44,7 +44,7 @@ description: "重鑄系統內容說明"
 
 |道具|功能|主要管道
 |:-|:-:|:-:
-|{% inlineImg https://i.imgur.com/sGKimWM.png 40px %} 激頻重鑄零件(Lv. 95~100)|基本重鑄材料，一格消耗一個<br><font color=#f00>整體重鑄時不消耗</font>|活動/商城
+|{% inlineImg https://i.imgur.com/sGKimWM.png 40px %} 璀璨重鑄零件 (Lv.95~100)|基本重鑄材料，一格消耗一個<br><font color=#f00>整體重鑄時不消耗</font>|活動/商城
 |{% inlineImg https://i.imgur.com/nzsG6XL.png 40px %} 特級D零件：裝備|可進行指定重鑄，隨機抽取 B~EX 等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningEX.png 24px %}機率為0.85%、{% inlineImg img/tuning/tuningSS.png 24px %}機率為1.70%</font>|商城/活動
 |{% inlineImg https://i.imgur.com/vZ5yUHH.png 40px %} EX確定D零件：裝備|可進行指定重鑄，必定{% inlineImg img/tuning/tuningEX.png 24px %}|商城/活動
 
