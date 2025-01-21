@@ -1,5 +1,5 @@
 ---
-title: 賞金獵人(暫譯，Bounty Hunter)
+title: 賞金獵人 (Bounty Hunter)
 date: 2024-12-21 15:05:00
 tags:
     - 立繪時裝

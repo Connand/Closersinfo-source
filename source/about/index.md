@@ -17,3 +17,7 @@ Hexo主題：[Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
 如有其他問題歡迎
 巴哈寄信：babbab0114
 Gmail：babbab0114@gmail.com
+
+網頁內容原始碼：https://github.com/Connand/Closersinfo-source
+- 如有熱心人並且了解 GitHub 與 Hexo 的使用方法的話，歡迎發 Pull request 一起更新。
+- 如果不會但也想幫忙可以 Discord 聯絡我。（不知道啥時才會寫說明）

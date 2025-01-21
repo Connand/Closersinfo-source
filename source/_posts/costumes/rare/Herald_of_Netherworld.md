@@ -1,5 +1,5 @@
 ---
-title: 黃泉使者(暫譯，Herald of Netherworld)
+title: 黃泉使者 (Herald of Netherworld)
 date: 2024-12-21 15:05:00
 tags: 
     - 立繪時裝
@@ -34,7 +34,7 @@ description: "第四套輝煌時裝(Unique costume)"
 
 ---
 ## 黃泉使者 (Herald of Netherworld)
-黃泉使者（暫譯，Herald of Netherworld）是韓版封印者 10 周年暨轉移更新計畫 [Closers the Next Chapter](https://www.youtube.com/watch?v=-3jjruWM7LU) 所推出的第 4 套輝煌時裝。
+黃泉使者（Herald of Netherworld）是韓版封印者 10 周年暨轉移更新計畫 [Closers the Next Chapter](https://www.youtube.com/watch?v=-3jjruWM7LU) 所推出的第 4 套輝煌時裝。
 
 {% hideToggle <font color=#ff0000><b>簡介與宣傳影片</b></font> %}
 - 機翻加簡單修改

@@ -45,6 +45,8 @@ description: "新首爾支部：作戰指揮室裝備資訊"
   - 憤怒的威光特莉絲：{% inlineImg https://i.imgur.com/FWfg4L0.png 48px %} 魔龍型
 - 必殺程式使用 **額外獎勵** 系統，每日第一次完成時會取得額外獎勵（不限入場次數）
 
+{% btn 'https://www.bilibili.com/video/BV1Z9CaYMEdi/?share_source=copy_web&vd_source=2426657ea8060a3b8d41a50bede67b85',參考攻略,far fa-hand-point-right,outline blue larger %}
+
 |副本|等級|建議戰力|裝備等級|消耗疲勞|額外獎勵|人數|復活限制
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |主線關卡|95|4000萬| - | 10 | - | - | - |
