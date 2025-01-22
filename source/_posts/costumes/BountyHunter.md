@@ -86,19 +86,19 @@ description: "Bounty Hunter"
 [![](https://i.imgur.com/sKZQroqh.jpeg)](https://i.imgur.com/sKZQroq.jpeg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-[![](https://i.imgur.com/HR0On9fh.jpg)](https://i.imgur.com/HR0On9f.jpg)
+[![](https://i.imgur.com/KbdLm91h.jpeg)](https://i.imgur.com/KbdLm91.jpeg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-[![](https://i.imgur.com/QLBLh8Sh.jpg)](https://i.imgur.com/QLBLh8S.jpg)
+[![](https://i.imgur.com/xkTrP28h.jpeg)](https://i.imgur.com/xkTrP28.jpeg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-[![](https://i.imgur.com/3WWZ3yLh.jpg)](https://i.imgur.com/3WWZ3yL.jpg)
+[![](https://i.imgur.com/zRy8MDdh.jpeg)](https://i.imgur.com/zRy8MDd.jpeg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-[![](https://i.imgur.com/7kRz5iWh.jpg)](https://i.imgur.com/7kRz5iW.jpg)
+[![](https://i.imgur.com/cXi10tgh.jpeg)](https://i.imgur.com/cXi10tg.jpeg)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-[![](https://i.imgur.com/fZHKsKHh.jpg)](https://i.imgur.com/fZHKsKH.jpg)
+[![](https://i.imgur.com/SetRgmeh.jpeg)](https://i.imgur.com/SetRgme.jpeg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
 [![](https://i.imgur.com/Wa4NbWYh.jpeg)](https://i.imgur.com/Wa4NbWY.jpeg)
@@ -154,19 +154,19 @@ description: "Bounty Hunter"
 [![](https://i.imgur.com/1fpuOZth.jpeg)](https://i.imgur.com/1fpuOZt.jpeg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-[![](https://i.imgur.com/FTd0mAIh.jpg)](https://i.imgur.com/FTd0mAI.jpg)
+[![](https://i.imgur.com/SglNdJah.jpeg)](https://i.imgur.com/SglNdJa.jpeg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-[![](https://i.imgur.com/UF9kw29h.jpg)](https://i.imgur.com/UF9kw29.jpg)
+[![](https://i.imgur.com/GqETRQth.jpeg)](https://i.imgur.com/GqETRQt.jpeg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-[![](https://i.imgur.com/kdGGe1ch.jpg)](https://i.imgur.com/kdGGe1c.jpg)
+[![](https://i.imgur.com/lzJCW5ph.jpeg)](https://i.imgur.com/lzJCW5p.jpeg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-[![](https://i.imgur.com/jhn175zh.jpg)](https://i.imgur.com/jhn175z.jpg)
+[![](https://i.imgur.com/s750YNyh.jpeg)](https://i.imgur.com/s750YNy.jpeg)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-[![](https://i.imgur.com/aQwggLph.jpg)](https://i.imgur.com/aQwggLp.jpg)
+[![](https://i.imgur.com/MKhrIDZh.jpeg)](https://i.imgur.com/MKhrIDZ.jpeg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
 [![](https://i.imgur.com/gc25sCCh.jpeg)](https://i.imgur.com/gc25sCC.jpeg)

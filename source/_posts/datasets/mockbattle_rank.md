@@ -22,7 +22,7 @@ Lv. 3：血量約 31000 億，爆抗 2500%
 |{% inlineImg /img/mock_rank/HQ_CLOSER_RANK_02.PNG 64px %}|185,000|-|
 |{% inlineImg /img/mock_rank/HQ_CLOSER_RANK_03.PNG 64px %}|220,000|-|
 |{% inlineImg /img/mock_rank/HQ_CLOSER_RANK_04.PNG 64px %}|255,000|-|
-|{% inlineImg /img/mock_rank/HQ_CLOSER_RANK_05.PNG 64px %}|290,000|-|
+|{% inlineImg /img/mock_rank/HQ_CLOSER_RANK_05.PNG 64px %}|290,000|10秒|
 |{% inlineImg /img/mock_rank/HQ_CLOSER_RANK_06.PNG 64px %}|325,000|45秒|
 |{% inlineImg /img/mock_rank/HQ_CLOSER_RANK_07.PNG 64px %}|360,000|1分15秒|
 |{% inlineImg /img/mock_rank/HQ_CLOSER_RANK_08.PNG 64px %}|395,000|1分50秒|

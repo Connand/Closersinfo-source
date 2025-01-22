@@ -12,8 +12,6 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 # 前言
 
-<font color=#ff0000><b>注意</b></font>：18村新裝備為95等裝備，適用新重鑄改動，相關重鑄材料與數值請參考[重鑄系統](/datasets/spec/tuning/)
-
 {%youtube 1omqlcpt6z0 %}
 
 {% hideToggle <font color=#ff0000><b>劇情簡介</b></font> %}
@@ -26,13 +24,14 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 特工們是否能夠重振旗鼓，向著被教團佔領的新首爾聖域發起反擊？
 {% endhideToggle %}
 
+> <font color=#ff0000><b>注意</b></font>：18村新裝備為95等裝備，適用新重鑄改動，相關重鑄材料與數值請參考[重鑄系統](/datasets/spec/tuning/)
 
 **新材料**
-+ {% inlineImg https://i.imgur.com/xUcm6Qg.png 40px %}{% inlineImg https://i.imgur.com/xglZzLj.png 40px %} 暗殺者/新龍漏洞塊
-	> 透過 **必殺程式（極圈的暗殺者 / 憤怒的威光特莉絲）** 獲得，每次額外獎勵固定獲得 4 個，用於模組的製作與超越
++ {% inlineImg https://i.imgur.com/xUcm6Qg.png 40px %}{% inlineImg https://i.imgur.com/xglZzLj.png 40px %} 暗殺/新生龍漏洞塊
+	> 透過 **必殺程式（極圈暗殺者 / 憤怒威嚴特莉絲）** 獲得，每次額外獎勵固定獲得 4 個，用於模組的製作與超越
 	> 交易限制：<font color=#ff0000> **不可共倉、不可交易** </font>
-+ {% inlineImg https://i.imgur.com/CMuH2ih.png 48px %}{% inlineImg https://i.imgur.com/KW3qeBq.png 48px %} 殉教者的丘陵歐帕茲箱子(1種) / 冰凍的彈殼
-	> 透過 **必殺程式（極圈的暗殺者 / 憤怒的威光特莉絲）** 獲得，每次通關可得 1 個，額外獎勵獲得 2 個{% inlineImg https://i.imgur.com/CMuH2ih.png 48px %}
++ {% inlineImg https://i.imgur.com/CMuH2ih.png 48px %}{% inlineImg https://i.imgur.com/KW3qeBq.png 48px %} 殉教者的山丘歐帕茲箱子（1種） / 冰封的蛋殼
+	> 透過 **必殺程式（極圈暗殺者 / 憤怒威嚴特莉絲）** 獲得，每次通關可得 1 個，額外獎勵獲得 2 個{% inlineImg https://i.imgur.com/CMuH2ih.png 48px %}
 	> 其中{% inlineImg https://i.imgur.com/CMuH2ih.png 48px %}可以開啟 **史詩模組、飾品** 或{% inlineImg https://i.imgur.com/KW3qeBq.png 48px %}（用於模組的史詩升級）
 	> 交易限制：{% inlineImg https://i.imgur.com/CMuH2ih.png 48px %}**可以共倉、可以交易**、<font color=#ff0000>{% inlineImg https://i.imgur.com/KW3qeBq.png 48px %}**不可共倉、不可交易** </font>
 + {% inlineImg https://i.imgur.com/tT7eTjf.png 40px %} 憤怒業火狐狸的尾巴
@@ -40,9 +39,6 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 	> 交易限制：<font color=#ff0000> **不可共倉、不可交易** </font>
 
 # 副本資訊
-- 類型：
-  - 極圈的暗殺者：{% inlineImg https://i.imgur.com/gdXdckN.png 48px %} 特異型
-  - 憤怒的威光特莉絲：{% inlineImg https://i.imgur.com/FWfg4L0.png 48px %} 魔龍型
 - 必殺程式使用 **額外獎勵** 系統，每日第一次完成時會取得額外獎勵（不限入場次數）
 
 {% btn 'https://www.bilibili.com/video/BV1Z9CaYMEdi/?share_source=copy_web&vd_source=2426657ea8060a3b8d41a50bede67b85',參考攻略,far fa-hand-point-right,outline blue larger %}
@@ -50,13 +46,13 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |副本|等級|建議戰力|裝備等級|消耗疲勞|額外獎勵|人數|復活限制
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |主線關卡|95|4000萬| - | 10 | - | - | - |
-|必殺程式：極圈的暗殺者|95| 1億 | - | 10 | 每日角色 1 次 | 1-4 人| - |
-|必殺程式：憤怒的威光特莉絲|95| 1億 | - | 10 | 每日角色 1 次 | 1-4 人| - |
-|必殺程式：一族最後的火狐|95| 8500萬 | - | 10 | 每日角色 1 次 | 1-4 人| - |
+|{% inlineImg https://i.imgur.com/gdXdckN.png 40px %}必殺程式：極圈暗殺者|95| 1億 | - | 10 | 每日角色 1 次 | 1-4 人| - |
+|{% inlineImg https://i.imgur.com/FWfg4L0.png 40px %}必殺程式：憤怒威嚴特莉絲|95| 1億 | - | 10 | 每日角色 1 次 | 1-4 人| - |
+|{% inlineImg https://i.imgur.com/3FV9pDB.png 40px %}必殺程式：一族最後的火狐|95| 8500萬 | - | 10 | 每日角色 1 次 | 1-4 人| - |
 
 {% hideToggle 必殺程式獎勵 %}
 
-- 極圈的暗殺者 / 憤怒的威光特莉絲
+- 極圈暗殺者 / 憤怒威嚴特莉絲
 
 |方法| {% inlineImg https://i.imgur.com/xUcm6Qg.png 40px %}/{% inlineImg https://i.imgur.com/xglZzLj.png 40px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg /img/material/malek_crysyal.png 48px %} | {% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 48px %} | {% inlineImg https://i.imgur.com/CMuH2ih.png 48px %} |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -99,7 +95,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 - 護盾
 
-|暗殺者|新龍|狂怒|
+|暗殺者|新生龍|狂怒|
 |:-:|:-:|:-:|
 |{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}|{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}|{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}|
 

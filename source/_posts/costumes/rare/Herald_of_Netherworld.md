@@ -56,6 +56,7 @@ description: "第四套輝煌時裝(Unique costume)"
 {%youtube tqiaXwxds84 %}
 {%youtube KVmQuUBiUA8 %}
 {%youtube vHRpKUKB8do %}
+{%youtube fUtVfeXudso %}
 {% endhideToggle %}
 
 |時間|12/12|12/26|01/09|01/23|
@@ -132,7 +133,7 @@ description: "第四套輝煌時裝(Unique costume)"
 
 <!-- tab 紅狼小隊-->
 
-部分特效展示置於立繪下方(尚無)
+部分特效展示置於立繪下方
 
 {% tabs 紅狼小隊立繪 %}
 <!-- tab 納塔(Nata)-->
@@ -159,42 +160,50 @@ description: "第四套輝煌時裝(Unique costume)"
 
 {% tabs 視覺效果預覽 %}
 <!-- tab 表情動作-->
-{%youtube EQpsbfGcoak %}
+{%youtube i0n4jQJnKP0 %}
 <!-- endtab -->
 <!-- tab 城鎮動作-->
-{%youtube ZrGr1FqsutQ %}
+{%youtube 8pA4aJjIyVs %}
 <!-- endtab -->
 <!-- tab 立繪效果-->
-{%youtube QTAGmuvyuo0 %}
+{%youtube aAggcCp190w %}
 <!-- endtab -->
 <!-- tab 入場動作-->
-{%youtube do5lQJ4IDo4 %}
+{%youtube LPeJVtzWNI8 %}
 <!-- endtab -->
 <!-- tab 專屬任務獎勵-->
-{%youtube 2_GYE-3cNjA %}
+{%youtube uft1SxsqTMg %}
 <!-- endtab -->
 <!-- tab 其他視覺效果-->
-{%youtube _KVUwWrYERY %}
+{%youtube ERXfFPNPK-A %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
-<!-- tab 夜梟小隊(未開放)-->
+<!-- tab 夜梟小隊-->
+
+部分特效展示置於立繪下方(尚無)
+
 {% tabs 夜梟小隊立繪 %}
 <!-- tab 沃爾夫姜(Wolfgang)-->
-[![](https://i.imgur.com/CrUn7LUh.jpg)](https://i.imgur.com/CrUn7LU.jpg)
+[![](https://i.imgur.com/YYQAxiZ.jpeg)](https://i.imgur.com/YYQAxiZ.jpeg)
+[![](https://i.imgur.com/s8LTCF7.jpeg)](https://i.imgur.com/s8LTCF7.jpeg)
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-[![](https://i.imgur.com/hahmRRuh.jpg)](https://i.imgur.com/hahmRRu.jpg)
+[![](https://i.imgur.com/GYyiZd7.jpeg)](https://i.imgur.com/GYyiZd7.jpeg)
+[![](https://i.imgur.com/XDhq2lj.jpeg)](https://i.imgur.com/XDhq2lj.jpeg)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-[![](https://i.imgur.com/FnCPWLeh.jpg)](https://i.imgur.com/FnCPWLe.jpg)
+[![](https://i.imgur.com/31qvzjv.jpeg)](https://i.imgur.com/31qvzjv.jpeg)
+[![](https://i.imgur.com/15uheBg.jpeg)](https://i.imgur.com/15uheBg.jpeg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-[![](https://i.imgur.com/VpnGcC4h.jpg)](https://i.imgur.com/VpnGcC4.jpg)
+[![](https://i.imgur.com/4oBljzl.jpeg)](https://i.imgur.com/4oBljzl.jpeg)
+[![](https://i.imgur.com/mKPfGkp.jpeg)](https://i.imgur.com/mKPfGkp.jpeg)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-[![](https://i.imgur.com/UONcqvPh.jpg)](https://i.imgur.com/UONcqvP.jpg)
+[![](https://i.imgur.com/tm4t4cy.jpeg)](https://i.imgur.com/tm4t4cy.jpeg)
+[![](https://i.imgur.com/uSbNY52.jpeg)](https://i.imgur.com/uSbNY52.jpeg)
 <!-- endtab -->
 <!-- tab 表情動作-->
 {%youtube qbR_XITcJL0 %}

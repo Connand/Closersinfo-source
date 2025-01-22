@@ -93,7 +93,8 @@ description: "融合威嚴詳細內容說明"
 |方法|{% inlineImg https://i.imgur.com/3MjLN14.png 48px %}|{% inlineImg https://i.imgur.com/6PHDZf6.png 48px %}|週期|
 |:-|:-:|:-:|:-:|
 | {% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}[軍團程式](/datasets/spec/skill_cube/#%E8%BB%8D%E5%9C%98%E7%A8%8B%E5%BC%8F%E5%8F%AF%E6%8F%9B%E7%8D%8E%E5%8B%B5) | 6 | 3 | 每月 |
-| 纖維商店 | 2 | 1 | 每周 |
+| {% inlineImg https://i.imgur.com/iBYdZJy.png 48px %}纖維商店 | 2 | 1 | 每周 |
+| {% inlineImg /img/material/HQ_ICON_ORDER_POINT.PNG 48px %}貢獻度商店 | 1 |  | 每周 |
 </div>
 
 > ## 暴食王系列
