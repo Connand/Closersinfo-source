@@ -23,6 +23,7 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/LOA1J6O.png
 description: "Blue Dragon"
@@ -110,6 +111,9 @@ description: "Blue Dragon"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/CGXnSXJh.png)](https://i.imgur.com/CGXnSXJ.png)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/1vvK4guh.jpg)](https://i.imgur.com/1vvK4gu.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -174,6 +178,9 @@ description: "Blue Dragon"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/xC3NGrQh.png)](https://i.imgur.com/xC3NGrQ.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/jCsj6gyh.jpg)](https://i.imgur.com/jCsj6gy.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

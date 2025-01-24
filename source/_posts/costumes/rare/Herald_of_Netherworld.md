@@ -182,7 +182,7 @@ description: "第四套輝煌時裝(Unique costume)"
 
 <!-- tab 夜梟小隊-->
 
-部分特效展示置於立繪下方(尚無)
+部分特效展示置於立繪下方
 
 {% tabs 夜梟小隊立繪 %}
 <!-- tab 沃爾夫姜(Wolfgang)-->
@@ -205,20 +205,26 @@ description: "第四套輝煌時裝(Unique costume)"
 [![](https://i.imgur.com/tm4t4cy.jpeg)](https://i.imgur.com/tm4t4cy.jpeg)
 [![](https://i.imgur.com/uSbNY52.jpeg)](https://i.imgur.com/uSbNY52.jpeg)
 <!-- endtab -->
+{% endtabs %}
+
+{% tabs 視覺效果預覽 %}
 <!-- tab 表情動作-->
-{%youtube qbR_XITcJL0 %}
+{%youtube 1GVYp2MPqCE %}
 <!-- endtab -->
 <!-- tab 城鎮動作-->
-{%youtube 55fBqVFs8Ok %}
+{%youtube QnnNE9nuaG8 %}
 <!-- endtab -->
 <!-- tab 立繪效果-->
-{%youtube WPNQJVqoFAo %}
+{%youtube zSi_2-m8TOY %}
 <!-- endtab -->
-<!-- tab 結算動作-->
-{%youtube r875mtyjxDU %}
+<!-- tab 入場動作-->
+{%youtube 7J4MxQ1jPUA %}
 <!-- endtab -->
-<!-- tab 過場動作-->
-{%youtube xM3HoD28asM %}
+<!-- tab 專屬任務獎勵-->
+{%youtube pAXbmvtGhyQ %}
+<!-- endtab -->
+<!-- tab 其他視覺效果-->
+{%youtube Dy4_gwxrV4Q %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
