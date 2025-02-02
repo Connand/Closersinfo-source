@@ -24,6 +24,13 @@ description: "覺醒PNA與相關內容及PNA重製內容介紹(Awaken PNA)"
 - 更新前期熊本征服度及掉落獎勵
 {% endhideToggle %}
 
+[韓版 2025/01/23 更新](https://www.naddic.co.kr/ko/game/cls/event/announce/detail?contentNo=336)進行相關變化：
+{% hideToggle 改版詳細 %}
+- 軍團程式改版
+- 突變等級上限提高至 100 等
+- 表現體擴增至 900 等
+{% endhideToggle %}
+
 ---
 
 > # 新副本與經驗表
@@ -126,18 +133,15 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 
 **<font size=4>以所有**突變等級總和**來判斷會開啟的發現體數量</font>**
 
-**<font color=red>重製以後，以前的突變因素將會移除，並且返還已使用的突變膠囊數量</font>**
-- 突變對應的種族增傷變更如下
+- 突變對應的種族增傷如下
 	- 19等前：每等級提升 13%，19 等時為 247%
-	- 20等  ：提升 23%，20等時為 270%
-	- 20等後：每等級提升 1%，75等時 325%
+	- **<font color=red>20等  ：提升 23%，20等時為 270%</font>**
+	- 20等後：每等級提升 1%。75等時 325%。100等時 350%
+	- **因此建議新手先將所有突變類型練到 20 等，再根據需要選擇其中一種再練上去。**
 
 觀察圖片右邊，每一格均有重鑄等級標示，代表發現體的能力可以進行重鑄
-重鑄消耗 **<font color=red>{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材料</font>**
-且每一格 **<font color=red>每次重鑄消耗 50 變異材料，可重鑄 10 次</font>**
+重鑄消耗 **<font color=red>{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材料</font>** ，每一格 **<font color=red>每次重鑄消耗 50 變異材料，可重鑄 10 次</font>**
 當到達次數上限時， **<font color=red>需要使用{% inlineImg https://i.imgur.com/ofbuOah.png 40px %}將可重鑄次數回復為最大值</font>**
-
-~~其他先看圖，之後再用文字寫~~
 
 ![](https://i.imgur.com/JFn7JZL.png)
 
@@ -150,6 +154,20 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |**Lv. 60**<br>背擊時暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 120**<br>空中時暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 180**<br>浮空時暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 200**<br>攻擊速度<br>{% inlineImg img/tuning/tuningSS.png 24px %} 2%{% inlineImg img/tuning/tuningS.png 24px %} 1%|**Lv. 220**<br>總物理攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%
 |**Lv. 220**<br>總魔法攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%|**Lv. 230**<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 240**<br>攻擊速度<br>{% inlineImg img/tuning/tuningSS.png 24px %} 2%{% inlineImg img/tuning/tuningS.png 24px %} 1%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 260**<br>物理暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 260**<br>魔法暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%
 |**Lv. 280**<br>背擊時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 280**<br>空中時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 280**<br>浮空時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 300**<br>總物理攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%<br>物理暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 300**<br>總魔法攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%<br>魔法暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%
+
+- 以下表格建議能力均與上面表格相同（每 15 格一循環），僅標示所需等級
+
+|---|---|---|---|---|
+|:-:|:-:|:-:|:-:|:-:|
+|**Lv. 360**|**Lv. 420**|**Lv. 480**|**Lv. 500**|**Lv. 520**|
+|**Lv. 520**|**Lv. 530**|**Lv. 540**|**Lv. 560**|**Lv. 560**|
+|**Lv. 580**|**Lv. 580**|**Lv. 580**|**Lv. 600**|**Lv. 600**|
+
+|---|---|---|---|---|
+|:-:|:-:|:-:|:-:|:-:|
+|**Lv. 660**|**Lv. 720**|**Lv. 780**|**Lv. 800**|**Lv. 820**|
+|**Lv. 820**|**Lv. 830**|**Lv. 840**|**Lv. 860**|**Lv. 860**|
+|**Lv. 880**|**Lv. 880**|**Lv. 880**|**Lv. 900**|**Lv. 900**|
 
 ---
 
@@ -227,97 +245,96 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 > ## 覺醒因數能力表
 
 **<font color=red>均為30等時的數值</font>**
+<div class="pna_cell">
 
 ### 攻擊
-|類型|名稱|能力|冷卻時間
-|:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>重擊</font>**|攻擊時 5%機率 25 億固定傷害<br>**攻擊時 5%機率 50 億固定傷害 <font color=red><平衡後></font>**|5秒
-|**<font color=blue>B<font>**|**<font color=blue>神速</font>**|攻擊時 5%機率 5轉技能CD -1秒|5秒
-|**<font color=purple>C</font>**|**<font color=purple>再生</font>**|攻擊時 5%機率 HP/MP/超能力 +8%|5秒
+|名稱|能力|冷卻時間
+|:-|:-|:-:
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_ATTACK_G.PNG 40px %} **<font color=green>重擊</font>**|攻擊時 5%機率 25 億固定傷害<br>**攻擊時 5%機率 50 億固定傷害 <font color=red><平衡後></font>**|5秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_ATTACK_B.PNG 40px %} **<font color=blue>神速</font>**|攻擊時 5%機率 5轉技能CD -1秒|5秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_ATTACK_P.PNG 40px %} **<font color=purple>再生</font>**|攻擊時 5%機率 HP/MP/超能力 +8%|5秒
 
 ### 超能爆發
-|類型|名稱|能力|冷卻時間
-|:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>壓制</font>**|使用 **[超能爆發]** 後10秒內 物理/魔法暴傷 +520%|75秒
-|**<font color=blue>B<font>**|**<font color=blue>氣魄</font>**|使用 **[超能爆發]** 後10秒內 物理/魔法攻擊力 +6000<br>**使用 **[超能爆發]** 後10秒內 物理/魔法攻擊力 +10000 <font color=red><平衡後></font>**|75秒
-|**<font color=purple>C</font>**|**<font color=purple>決心</font>**|使用 **[超能爆發]** 後10秒內 總物理/魔法攻擊力 +40%<br>**使用 **[超能爆發]** 後10秒內 總物理/魔法攻擊力 +70% <font color=red><平衡後></font>**|75秒
+|名稱|能力|冷卻時間
+|:-|:-|:-:
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_PHASEFORCE_G.PNG 40px %} **<font color=green>壓制</font>**|使用 **[超能爆發]** 後10秒內 物理/魔法暴傷 +520%|75秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_PHASEFORCE_B.PNG 40px %} **<font color=blue>氣魄</font>**|使用 **[超能爆發]** 後10秒內 物理/魔法攻擊力 +6000<br>**使用 **[超能爆發]** 後10秒內 物理/魔法攻擊力 +10000 <font color=red><平衡後></font>**|75秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_PHASEFORCE_P.PNG 40px %} **<font color=purple>決心</font>**|使用 **[超能爆發]** 後10秒內 總物理/魔法攻擊力 +40%<br>**使用 **[超能爆發]** 後10秒內 總物理/魔法攻擊力 +70% <font color=red><平衡後></font>**|75秒
 
 ### 全天候
+|名稱|能力|冷卻時間
+|:-|:-|:-:
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_REACT_G.PNG 40px %} **<font color=green>重擊</font>**| **[各種行動]** 時15%機率 造成 25 億固定傷害<br>****[各種行動]** 時15%機率 造成 50 億固定傷害 <font color=red><平衡後></font>**|5秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_REACT_B.PNG 40px %} **<font color=blue>神速</font>**| **[各種行動]** 時15%機率 5轉技能CD -1秒|5秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_REACT_P.PNG 40px %} **<font color=purple>再生</font>**| **[各種行動]** 時15%機率 HP/MP/超能力 +8%|5秒
 * **[各種行動]** ：被擊中、跳躍、強制取消、緊急迴避、覺醒、使用特殊技能（預設鍵V）
 
-|類型|名稱|能力|冷卻時間
-|:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>重擊</font>**| **[各種行動]** 時15%機率 造成 25 億固定傷害<br>****[各種行動]** 時15%機率 造成 50 億固定傷害 <font color=red><平衡後></font>**|5秒
-|**<font color=blue>B<font>**|**<font color=blue>神速</font>**| **[各種行動]** 時15%機率 5轉技能CD -1秒|5秒
-|**<font color=purple>C</font>**|**<font color=purple>再生</font>**| **[各種行動]** 時15%機率 HP/MP/超能力 +8%|5秒
-
-
 ### 閃避
-|類型|名稱|能力|冷卻時間
-|:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>壓制</font>**|**[完美迴避]** 時 最大HP+3600、物理/魔法暴傷 +30%（最多5層）<br>**冷卻時間降低 <font color=red><平衡後></font>**|6秒<br>**1秒**
-|**<font color=blue>B<font>**|**<font color=blue>氣魄</font>**|**[完美迴避]** 時 10秒內物理/魔法攻擊力 +3000<br>****[完美迴避]** 時 20秒內物理/魔法攻擊力 +4000 <font color=red><平衡後></font>**|10秒<br>**1秒**
-|**<font color=purple>C</font>**|**<font color=purple>不撓</font>**|**[完美迴避]** 時 無敵時間 +3秒<br>**冷卻時間降低 <font color=red><平衡後></font>**|10秒<br>**1秒**
+|名稱|能力|冷卻時間
+|:-|:-|:-:
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EVADE_G.PNG 40px %} **<font color=green>壓制</font>**|**[完美迴避]** 時 最大HP+3600、物理/魔法暴傷 +30%（最多5層）<br>**冷卻時間降低 <font color=red><平衡後></font>**|6秒<br>**1秒**
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EVADE_B.PNG 40px %} **<font color=blue>氣魄</font>**|**[完美迴避]** 時 10秒內物理/魔法攻擊力 +3000<br>****[完美迴避]** 時 20秒內物理/魔法攻擊力 +4000 <font color=red><平衡後></font>**|10秒<br>**1秒**
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EVADE_P.PNG 40px %} **<font color=purple>不撓</font>**|**[完美迴避]** 時 無敵時間 +3秒<br>**冷卻時間降低 <font color=red><平衡後></font>**|10秒<br>**1秒**
 
 ### 強制阻斷
-|類型|名稱|能力|冷卻時間
-|:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>壓制</font>**|使用 **[強制阻斷]** 時 條件暴傷 +90% 持續18秒|30秒
-|**<font color=blue>B<font>**|**<font color=blue>速戰速決</font>**|使用 **[強制阻斷]** 時 二轉/解決師大招CD-60秒|30秒
-|**<font color=purple>C</font>**|**<font color=purple>逆襲</font>**|使用 **[強制阻斷]** 時 周圍敵人18秒內受傷害量 +30%<br>**使用 **[強制阻斷]** 時 周圍敵人60秒內受傷害量 +45% <font color=red><平衡後></font>**|30秒
+|名稱|能力|冷卻時間
+|:-|:-|:-:
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_G.PNG 40px %} **<font color=green>壓制</font>**|使用 **[強制阻斷]** 時 條件暴傷 +90% 持續18秒|30秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_B.PNG 40px %} **<font color=blue>速戰速決</font>**|使用 **[強制阻斷]** 時 二轉/解決師大招CD-60秒|30秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_P.PNG 40px %} **<font color=purple>逆襲</font>**|使用 **[強制阻斷]** 時 周圍敵人18秒內受傷害量 +30%<br>**使用 **[強制阻斷]** 時 周圍敵人60秒內受傷害量 +45% <font color=red><平衡後></font>**|30秒
 
 ### 跳躍
-|類型|名稱|能力|冷卻時間
-|:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>急墜</font>**|**[跳躍]** 時 15秒內空中暴擊傷害 +130%<br>****[跳躍]** 時 25秒內空中暴擊傷害 +130% <font color=red><平衡後></font>**|15秒
-|**<font color=blue>B<font>**|**<font color=blue>鬥志</font>**|**[跳躍]** 時 15秒內傷害量 +30%<br>****[跳躍]** 時 25秒內傷害量 +60% <font color=red><平衡後></font>**|15秒
-|**<font color=purple>C</font>**|**<font color=purple>氣魄</font>**|**[跳躍]** 時 15秒內物理/魔法攻擊力 +1500<br>****[跳躍]** 時 25秒內物理/魔法攻擊力 +3000 <font color=red><平衡後></font>**|15秒
+|名稱|能力|冷卻時間
+|:-|:-|:-:
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_G.PNG 40px %} **<font color=green>急墜</font>**|**[跳躍]** 時 15秒內空中暴擊傷害 +130%<br>****[跳躍]** 時 25秒內空中暴擊傷害 +130% <font color=red><平衡後></font>**|15秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_B.PNG 40px %} **<font color=blue>鬥志</font>**|**[跳躍]** 時 15秒內傷害量 +30%<br>****[跳躍]** 時 25秒內傷害量 +60% <font color=red><平衡後></font>**|15秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_P.PNG 40px %} **<font color=purple>氣魄</font>**|**[跳躍]** 時 15秒內物理/魔法攻擊力 +1500<br>****[跳躍]** 時 25秒內物理/魔法攻擊力 +3000 <font color=red><平衡後></font>**|15秒
 
 ### 特殊技能
-|類型|名稱|能力|冷卻時間
-|:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>重擊</font>**|使用 **[特殊技能]** 時 給周圍敵人 25 億的固定傷害<br>**使用 **[特殊技能]** 時 給周圍敵人 50 億的固定傷害 <font color=red><平衡後></font>**|5秒
-|**<font color=blue>B<font>**|**<font color=blue>神速</font>**|使用 **[特殊技能]** 時 5轉技能CD-1秒|5秒
-|**<font color=purple>C</font>**|**<font color=purple>再生</font>**|使用 **[特殊技能]** 時 HP/MP/超能力 +8%|5秒
+|名稱|能力|冷卻時間
+|:-|:-|:-:
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_IDENTITYART_G.PNG 40px %} **<font color=green>重擊</font>**|使用 **[特殊技能]** 時 給周圍敵人 25 億的固定傷害<br>**使用 **[特殊技能]** 時 給周圍敵人 50 億的固定傷害 <font color=red><平衡後></font>**|5秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_IDENTITYART_B.PNG 40px %} **<font color=blue>神速</font>**|使用 **[特殊技能]** 時 5轉技能CD-1秒|5秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_IDENTITYART_P.PNG 40px %} **<font color=purple>再生</font>**|使用 **[特殊技能]** 時 HP/MP/超能力 +8%|5秒
 
 ### 落地
-|類型|名稱|能力|冷卻時間
-|:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>追擊</font>**|**[落地]** 時 25秒內浮空暴擊傷害 +130%|15秒
-|**<font color=blue>B<font>**|**<font color=blue>鬥志</font>**|**[落地]** 時 25秒內傷害量 +60%|15秒
-|**<font color=purple>C</font>**|**<font color=purple>決心</font>**|**[落地]** 時 25秒內總(物理/魔法)攻擊力與防禦力 +15%|15秒
+|名稱|能力|冷卻時間
+|:-|:-|:-:
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_LANDING_G.PNG 40px %} **<font color=green>追擊</font>**|**[落地]** 時 25秒內浮空暴擊傷害 +130%|15秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_LANDING_B.PNG 40px %} **<font color=blue>鬥志</font>**|**[落地]** 時 25秒內傷害量 +60%|15秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_LANDING_P.PNG 40px %} **<font color=purple>決心</font>**|**[落地]** 時 25秒內總(物理/魔法)攻擊力與防禦力 +15%|15秒
 
 ### 火焰
-- 使用時獲得DEBUFF **[燒傷]：每秒 HP 減少 2%**
-
-|類型|名稱|能力|冷卻時間
-|:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>擴散</font>**|每秒對附近敵人造成 10億 固定傷害|-
-|**<font color=blue>B<font>**|**<font color=blue>神速</font>**|每秒有 100% 機率減少 **[獎章技能]**(鎖技) 冷卻時間 1 秒|-
-|**<font color=purple>C</font>**|**<font color=purple>逆襲</font>**|使附近敵人受到傷害 +45%|-
+|名稱|能力|冷卻時間
+|:-|:-|:-:
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_BURN_G.PNG 40px %} **<font color=green>擴散</font>**|每秒對附近敵人造成 10億 固定傷害|-
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_BURN_B.PNG 40px %} **<font color=blue>神速</font>**|每秒有 100% 機率減少 **[獎章技能]**(鎖技) 冷卻時間 1 秒|-
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_BURN_P.PNG 40px %} **<font color=purple>逆襲</font>**|使附近敵人受到傷害 +45%|-
+- 使用時獲得DEBUFF **[燒傷]：每秒 HP 減少 2%（不疊加）**
 
 ### 寒氣
-- 使用時獲得DEBUFF **[凍傷]：攻擊速度/移動速度 -30%**
-
-|類型|名稱|能力|冷卻時間
-|:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>擴散</font>**|自身被攻擊時使敵人受到 150億 固定傷害|15秒
-|**<font color=blue>B<font>**|**<font color=blue>神速</font>**|攻擊時減少 二轉/解決師大招 冷卻時間 30 秒|15秒
-|**<font color=purple>C</font>**|**<font color=purple>決心</font>**|攻擊時15秒內 總(物理/魔法)攻擊力與防禦力 +15%|15秒
+|名稱|能力|冷卻時間
+|:-|:-|:-:
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_FROZEN_G.PNG 40px %} **<font color=green>擴散</font>**|自身被攻擊時使敵人受到 150億 固定傷害|15秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_FROZEN_B.PNG 40px %} **<font color=blue>神速</font>**|攻擊時減少 二轉/解決師大招 冷卻時間 30 秒|15秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_FROZEN_P.PNG 40px %} **<font color=purple>決心</font>**|攻擊時15秒內 總(物理/魔法)攻擊力與防禦力 +15%|15秒
+- 使用時獲得DEBUFF **[凍傷]：攻擊速度/移動速度 -30%（不疊加）**
 
 ### 復活
-|類型|名稱|能力|冷卻時間
-|:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>恩賜</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，對大範圍敵人造成 750億 固定傷害|-
-|**<font color=blue>B<font>**|**<font color=blue>恩寵</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，30秒內 攻擊速度/移動速度 +15%、物理/魔法攻擊力 +1500、總物理/魔法攻擊力 +30%、物理/魔法暴擊傷害 +60%|-
-|**<font color=purple>C</font>**|**<font color=purple>一般逆襲</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，使大範圍敵人受到傷害 +45%|-
+|名稱|能力|冷卻時間
+|:-|:-|:-:
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_REBIRTH_G.PNG 40px %} **<font color=green>恩賜</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，對大範圍敵人造成 750億 固定傷害|-
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_REBIRTH_B.PNG 40px %} **<font color=blue>恩寵</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，30秒內 攻擊速度/移動速度 +15%、物理/魔法攻擊力 +1500、總物理/魔法攻擊力 +30%、物理/魔法暴擊傷害 +60%|-
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_REBIRTH_P.PNG 40px %} **<font color=purple>一般逆襲</font>**|（每場戰鬥僅能觸發 1 次）復活時觸發，使大範圍敵人受到傷害 +45%|-
 
 ### 生存/阻斷封印
-|類型|名稱|能力|冷卻時間
-|:-:|:-:|:-|:-:
-|**<font color=green>A</font>**|**<font color=green>生存：斷尾求生</font>**|666秒內 物理/魔法暴擊傷害 +130%、自身受到傷害 +60%，死亡後BUFF失效|-
-|**<font color=blue>B<font>**|**<font color=blue>???</font>**|**因為檢查時發現BUG，故目前尚未實裝**|-
-|**<font color=purple>C</font>**|**<font color=purple>阻斷封印：屠殺</font>**|無法使用 **[強制阻斷]** ，對所有類型增加傷害 40%|-
+|名稱|能力|冷卻時間
+|:-|:-|:-:
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EXTREME_G.PNG 40px %} **<font color=green>生存：斷尾求生</font>**|666秒內 物理/魔法暴擊傷害 +130%、自身受到傷害 +60%，死亡後BUFF失效|-
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EXTREME_B.PNG 40px %} **<font color=blue>???</font>**|**因為檢查時發現BUG，故目前尚未實裝**|-
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EXTREME_P.PNG 40px %} **<font color=purple>阻斷封印：屠殺</font>**|無法使用 **[強制阻斷]** ，對所有類型增加傷害 40%|-
+
+</div>
 
 > # 覺醒因數組合推薦
 
@@ -329,11 +346,11 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_P.PNG 32px %}**<font color=purple>強制阻斷C：逆襲</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_B.PNG 32px %}**<font color=blue>跳躍B：鬥志</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_P.PNG 32px %}**<font color=purple>跳躍C：氣魄</font>**|由於副本環境變化，怪物的暴抗並沒有什麼變化，讓暴傷造成的傷害收益減少，變成以增傷或基傷成為首選。<br>由於 {% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_P.PNG 32px %}**<font color=purple>強制阻斷C：逆襲</font>** 與 {% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_BURN_P.PNG 32px %}**<font color=purple>火焰C：反擊</font>** 的效果也可以增加固定傷害的數值（如[魔龍王的權杖](/datasets/hecatoncheires/#%E6%AD%A6%E5%99%A8%E7%89%B9%E6%AE%8A%E8%83%BD%E5%8A%9B-x2F-%E5%BC%B7%E5%8C%96%E8%A7%A3%E6%94%BE%E7%B3%BB%E7%B5%B1)），因此也有兩者一同使用的組合<br>[征服項目 Ver. 2](/datasets/conquest_program_v2/) 幾乎都使用此組合進行挑戰|
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_B.PNG 32px %}**<font color=blue>跳躍B：鬥志</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_G.PNG 32px %}**<font color=green>強制阻斷A：壓制</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_P.PNG 32px %}**<font color=purple>強制阻斷C：逆襲</font>**|**<font color=red><平衡後推薦></font>由於第 3 顆的持續時間大幅提升且效果提升，因此可以納入考量範圍**<br>**對於相對高戰力的玩家較推薦**<br>由於高戰力造成之後暴傷與基傷的增益量減少，但是增傷仍是相當固定的數值，因此增傷系列能夠提供較穩定的輸出提升。<br>但是第 3 顆由於範圍限制，所以建議確實靠近目標再觸發。以及增傷遞減的關係，若多人配戴此因素會使其效益變低。|
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_G.PNG 32px %}**<font color=green>跳躍A：急墜</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_B.PNG 32px %}**<font color=blue>跳躍B：鬥志</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_P.PNG 32px %}**<font color=purple>跳躍C：氣魄</font>**|**<font color=red><平衡後推薦></font>由於持續時間提高讓BUFF能夠不間斷，因此可以納入考量範圍**<br>能夠持續不間斷的組合，對於長時間戰鬥表現非常突出|
-|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_PHASEFORCE_G.PNG 32px %}**<font color=green>超能爆發A：壓制</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_PHASEFORCE_B.PNG 32px %}**<font color=blue>超能爆發B：氣魄</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_PHASEFORCE_P.PNG 32px %}**<font color=purple>超能爆發C：決心</font>**|終極短時間爆發型，復活流的極致<br>1. 對於高速重複刷的副本（例如魔龍王刷票）極有用處<br>2. 對於高層數[征服項目](/datasets/ControlCenter/#%E5%BE%81%E6%9C%8D%E9%A0%85%E7%9B%AE) (約 25 層以上) 或[突破挑戰](/datasets/break_challenge/)有較難的生存壓力時有奇效！<br>~~較屬娛樂型，一般情況較不建議~~ {% hideInline <img src="https://i.imgur.com/RqkuTkp.png">,?,#FF7242,#fff %}
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_PHASEFORCE_G.PNG 32px %}**<font color=green>超能爆發A：壓制</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_PHASEFORCE_B.PNG 32px %}**<font color=blue>超能爆發B：氣魄</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_PHASEFORCE_P.PNG 32px %}**<font color=purple>超能爆發C：決心</font>**|終極短時間爆發型，復活流的極致<br>1. 對於高速重複刷的副本（例如魔龍王刷票、一般農本）極有用處<br>2. 對於高層數[征服項目](/datasets/ControlCenter/#%E5%BE%81%E6%9C%8D%E9%A0%85%E7%9B%AE) (約 25 層以上) 或[突破挑戰](/datasets/break_challenge/)有較難的生存壓力時有奇效！<br>對於日常農本（不到 1 分鐘的副本）較有效率 {% hideInline <img src="https://i.imgur.com/RqkuTkp.png">,?,#FF7242,#fff %}
 
 {% hideToggle 以暴傷為主的參考 %}
 
-- 此區域為較舊版本的參考組合，針對特定情況才比較有效益
+- 此區域為較舊版本的參考組合，針對特定情況（暴抗較高的環境）才比較有效益
 
 |類型|說明
 |:-|:-
@@ -368,4 +385,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 	.arranged_table table th:nth-of-type(1){
 		width: 25%;
 	}
+	.pna_cell table th:nth-of-type(1){
+    	width: 25%;
+  	}
 </style>

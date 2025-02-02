@@ -1,5 +1,5 @@
 ---
-title: Unlucky Chaser（暫譯：不幸追擊者）
+title: 噩運追擊者
 date: 2024-05-16 12:09:15
 tags:
     - 立繪時裝
