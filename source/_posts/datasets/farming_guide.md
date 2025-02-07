@@ -52,18 +52,20 @@ sticky: 1
 以下會使用 **簡稱** ，請參考 [這邊](/new_ret_notice/#%E5%89%AF%E6%9C%AC%E7%B0%A1%E7%A8%B1)
 大略以時間及CP值進行排序
 
-|副本名稱|入場限制|建議戰力|裝備等級|目標
-|:-|:-|:-|:-|:-
-|[魔龍王](/datasets/hecatoncheires/)|龍 1 每日 2 次|60,000,000|210|版本裝備、部分素材
-|[17村](/datasets/PacificGate/)|組隊每日 2 次、單人每日最多 6 次|-|-|版本裝備、部分素材
-|**<font color=blue>格莫瑞系列</font>**|每日帳號 1 次|10,000,000<br>25,000,000 VH|-|**PNA相關材料**
-|**<font color=blue>回憶任務</font><br>吉娜、諾亞**|每日帳號共 2 次|-|-|回憶任務時裝、吉娜寵物
-|火焰的悲劇|每日 3 次|35,000,000|195|火焰裝備、部分素材
-|[16村](/datasets/ControlCenter/)|組隊每日 1 次|2700萬|177|部分素材
-|**[15村](/datasets/nightfortress/)**|1 次|16,000,000<br>22,000,000 (困難)|160<br>172 (困難)|超能覺醒裝備、與部分一次性製作的稀有素材
-|IF系列 (蟲小或海小)| 3 次|800,000<br>1,000,000<br>2,000,000|100<br>115<br>130|軍團長的渴望
-|雷小<br>雷本各王| 1 次 (隨增益提升)|(請實際參考)|107：6階|錢、共通材料
-|社團副本|3 次 (隨增益提升)|-|-|時裝纖維
+|副本名稱|入場限制|建議戰力|目標
+|:-|:-|:-|:-
+|[18村](/datasets/MartyrsHill/)|每日共 3 次|最高100,000,000|版本裝備、部分素材
+|[魔龍王](/datasets/hecatoncheires/)|龍 1 每日 2 次|60,000,000|版本裝備、部分素材
+|[17村](/datasets/PacificGate/)|組隊每日 2 次、單人每日最多 6 次|-|部分素材
+|**<font color=blue>格莫瑞系列</font>**|每日帳號 1 次|10,000,000<br>25,000,000 VH|**PNA相關材料**
+|**<font color=blue>回憶任務</font><br>吉娜、諾亞、訓練官**|每日帳號共 3 次|-|回憶任務時裝、吉娜寵物
+|社團副本|每日 3 次 (隨增益提升)|-|時裝纖維、增幅次元精髓
+|**<font color=red>\*以下優先度不高</font>**
+|**[15村](/datasets/nightfortress/)**|1 次|16,000,000<br>22,000,000 (困難)|部分一次性製作的稀有素材
+|火焰的悲劇|每日 3 次|35,000,000|PNA經驗
+|[16村](/datasets/ControlCenter/)|組隊每日 1 次|2700萬|睡眠誘導券
+
+**<font color=red>\*以下優先度不高</font>** ：由於下面所列的副本可以獲得的共同材料已經被刪減過，只留下相關裝備必要的材料跟低機率的飾品，因此不建議打。
 
 ## 貢獻度(榮譽)
 
@@ -84,7 +86,7 @@ sticky: 1
 |道具|材料|製作限制|來源 
 |:-|:-|:-|:-
 |--- **<font color=#0aa size=4>UNION會員點數商店(UMP)</font>**|||
-|{% inlineImg /img/material/PNA_bonus.png 35px %} UNION特製PNA雙倍經驗藥水 X20|UMP點數 1,000|**<font color=blue>每周</font> <font color=red>帳號</font>** 5 次|UMP商店
+|{% inlineImg /img/material/fuel18.PNG 35px %} 強化燃料 +18|UMP點數 90,000|**<font color=red>帳號</font> <font color=red>帳號</font>** 1 次|UMP商店
 |--- **<font color=#0aa size=4>古龍系列</font>**|||
 |{% inlineImg img/material/trigger_fuel500.png 35px %} 觸發器專屬燃燒器 - 加速器|{% inlineImg img/material/Money.PNG 35px %} 100,000 + {% inlineImg img/material/dragon_execution_mat01.png 35px %} 3|**<font color=blue>每周</font> <font color=red>帳號</font>** 70 次|製作機
 |{% inlineImg img/material/ticket01.png 35px %} 軍團長的渴望|{% inlineImg img/material/Money.PNG 35px %} 100,000 + {% inlineImg img/material/dragon_execution_mat01.png 35px %} 3|**<font color=blue>每周</font> <font color=red>帳號</font>** 7 次|製作機

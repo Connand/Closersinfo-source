@@ -1,5 +1,5 @@
 ---
-title: 18村—殉道者的山丘(緩慢更新)
+title: 18村—殉道者的山丘
 date: 2024-12-13 18:20:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
@@ -31,10 +31,10 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 	> 透過 **必殺程式（極圈暗殺者 / 憤怒威嚴特莉絲）** 獲得，每次額外獎勵固定獲得 4 個，用於模組的製作與超越
 	> 交易限制：<font color=#ff0000> **不可共倉、不可交易** </font>
 + {% inlineImg https://i.imgur.com/CMuH2ih.png 48px %}{% inlineImg https://i.imgur.com/KW3qeBq.png 48px %} 殉教者的山丘歐帕茲箱子（1種） / 冰封的蛋殼
-	> 透過 **必殺程式（極圈暗殺者 / 憤怒威嚴特莉絲）** 獲得，每次通關可得 1 個，額外獎勵獲得 2 個{% inlineImg https://i.imgur.com/CMuH2ih.png 48px %}
-	> 其中{% inlineImg https://i.imgur.com/CMuH2ih.png 48px %}可以開啟 **史詩模組、飾品** 或{% inlineImg https://i.imgur.com/KW3qeBq.png 48px %}（用於模組的史詩升級）
-	> 交易限制：{% inlineImg https://i.imgur.com/CMuH2ih.png 48px %}**可以共倉、可以交易**、<font color=#ff0000>{% inlineImg https://i.imgur.com/KW3qeBq.png 48px %}**不可共倉、不可交易** </font>
-+ {% inlineImg https://i.imgur.com/tT7eTjf.png 40px %} 憤怒業火狐狸的尾巴
+	> 透過 **必殺程式（極圈暗殺者 / 憤怒威嚴特莉絲）** 獲得，每次通關可得 1 個，額外獎勵獲得 2 個{% inlineImg https://i.imgur.com/CMuH2ih.png 40px %}
+	> 其中{% inlineImg https://i.imgur.com/CMuH2ih.png 40px %}可以開啟 **史詩模組、飾品** 或{% inlineImg https://i.imgur.com/KW3qeBq.png 40px %}（用於模組的史詩升級）
+	> 交易限制：{% inlineImg https://i.imgur.com/CMuH2ih.png 40px %}**可以共倉、可以交易**、<font color=#ff0000>{% inlineImg https://i.imgur.com/KW3qeBq.png 40px %}**不可共倉、不可交易** </font>
++ {% inlineImg https://i.imgur.com/tT7eTjf.png 40px %} 暴怒的火狐尾毛
 	> 透過 **必殺程式：一族最後的火狐** 獲得，每次額外獎勵固定獲得 4 個，用於護盾的製作與超越
 	> 交易限制：<font color=#ff0000> **不可共倉、不可交易** </font>
 
@@ -49,6 +49,13 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |{% inlineImg https://i.imgur.com/gdXdckN.png 40px %}必殺程式：極圈暗殺者|95| 1億 | - | 10 | 每日角色 1 次 | 1-4 人| - |
 |{% inlineImg https://i.imgur.com/FWfg4L0.png 40px %}必殺程式：憤怒威嚴特莉絲|95| 1億 | - | 10 | 每日角色 1 次 | 1-4 人| - |
 |{% inlineImg https://i.imgur.com/3FV9pDB.png 40px %}必殺程式：一族最後的火狐|95| 8500萬 | - | 10 | 每日角色 1 次 | 1-4 人| - |
+
+{% hideToggle 前置要求 %}
+
+- 極圈暗殺者 / 憤怒威嚴特莉絲：完成主線任務
+- 一族最後的火狐：完成「極圈暗殺者 / 憤怒威嚴特莉絲」的任務
+
+{% endhideToggle %}
 
 {% hideToggle 必殺程式獎勵 %}
 
@@ -95,13 +102,18 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 - 護盾
 
-|暗殺者|新生龍|狂怒|
+|刺客|初生|極惡闇影|
 |:-:|:-:|:-:|
 |{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}|{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}|{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}|
 
 ### 製作與升級材料需求
 
 - 模組
+  - 全保底約 20 天，全秘藥保底約 5 天
+
+{% tabs 模組超越 %}
+
+<!-- tab 保底-->
 
 |階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/xUcm6Qg.png 48px %} | {% inlineImg https://i.imgur.com/xglZzLj.png 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %} | {% inlineImg https://i.imgur.com/KW3qeBq.png 48px %} |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -109,14 +121,33 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |模組升級|1,000,000|25 個|25 個|1 個|1 個|-|-|
 |模組 T1 (100%)|28,000,000|700 個|700 個|28 個|28 個|-|-|
 |模組 T2 (100%)|36,000,000|900 個|900 個|36 個|36 個|-|-|
-|模組 T1 (秘藥100%)|1,000,000|25 個|25 個|1 個|1 個|28 個|-|
-|模組 T2 (秘藥100%)|1,000,000|25 個|25 個|1 個|1 個|36 個|-|
-|**模組保底**|80,000,000|2000 個|2000 個|80 個|80 個|-|-|
-|**模組秘藥保底**|18,000,000|450 個|450 個|18 個|18 個|64 個|-|
+|**總計**|80,000,000|2000 個|2000 個|80 個|80 個|-|-|
 |**<font color=red>史詩升級(100%)</font>**|**400,000,000**|**10000 個**|**10000 個**|-|-|-|**1000 個**|
+
+<!-- endtab -->
+
+<!-- tab 秘藥-->
+
+|階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/xUcm6Qg.png 48px %} | {% inlineImg https://i.imgur.com/xglZzLj.png 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %} | {% inlineImg https://i.imgur.com/KW3qeBq.png 48px %} |
+|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|模組製作|16,000,000|400 個|400 個|16 個|16 個|-|-|
+|模組升級|1,000,000|25 個|25 個|1 個|1 個|-|-|
+|模組 T1 (100%)|1,000,000|25 個|25 個|1 個|1 個|28 個|-|
+|模組 T2 (100%)|1,000,000|25 個|25 個|1 個|1 個|36 個|-|
+|**總計**|18,000,000|450 個|450 個|18 個|18 個|64 個|-|
+|**<font color=red>史詩升級(100%)</font>**|**400,000,000**|**10000 個**|**10000 個**|-|-|-|**1000 個**|
+
+<!-- endtab -->
+
+{% endtabs %}
 
 - 護盾
   - T2 護盾可以透過升級進行轉換
+  - 全保底約 60 天，全秘藥保底約 15 天
+
+{% tabs 護盾超越 %}
+
+<!-- tab 保底-->
 
 |階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/tT7eTjf.png 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}
 |:-|:-:|:-:|:-:|:-:|:-:|
@@ -124,13 +155,27 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |護盾升級|1,000,000|25 個|25 個|1 個|-|
 |護盾 T1 (100%)|14,000,000|350 個|350 個|14 個|-|
 |護盾 T2 (100%)|18,000,000|450 個|450 個|18 個|-|
-|護盾 T1 (秘藥100%)|1,000,000|25 個|25 個|1 個|14 個|
-|護盾 T2 (秘藥100%)|1,000,000|25 個|25 個|1 個|18 個|
 |**護盾保底**|40,000,000|1000 個|1000 個|40 個|-|
-|**護盾秘藥保底**|10,000,000|250 個|250 個|10 個|32 個|
 |**<font color=red>六件護盾保底</font>**|**240,000,000**|**6000 個**|**6000 個**|**240 個**|-|
-|**<font color=red>六件護盾秘藥保底</font>**|**60,000,000**|**1500 個**|**1500 個**|**60 個**|**192 個**|
 |- **護盾轉換**|8,000,000|-|-|8 個|-|
+
+<!-- endtab -->
+
+<!-- tab 秘藥-->
+
+|階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg https://i.imgur.com/tT7eTjf.png 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}
+|:-|:-:|:-:|:-:|:-:|:-:|
+|護盾製作|8,000,000|200 個|200 個|8 個|-|
+|護盾升級|1,000,000|25 個|25 個|1 個|-|
+|護盾 T1 (100%)|1,000,000|25 個|25 個|1 個|14 個|
+|護盾 T2 (100%)|1,000,000|25 個|25 個|1 個|18 個|
+|**護盾保底**|10,000,000|250 個|250 個|10 個|32 個|
+|**<font color=red>六件護盾保底</font>**|**60,000,000**|**1500 個**|**1500 個**|**60 個**|**192 個**|
+|- **護盾轉換**|8,000,000|-|-|8 個|-|
+
+<!-- endtab -->
+
+{% endtabs %}
 
 <p>　</p>
 
@@ -138,7 +183,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 # 裝備能力
  
- [點此](/datasets/PacificGate/#%E8%A3%9D%E5%82%99%E8%83%BD%E5%8A%9B)查看 17 村裝備數值
+ - [點此](/datasets/PacificGate/#%E8%A3%9D%E5%82%99%E8%83%BD%E5%8A%9B)查看 17 村裝備數值
 
 {% tabs 大門守衛者裝備能力 %}
 <!-- tab 模組-->
@@ -159,9 +204,9 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 <!-- endtab -->
 <!-- tab <b>L0護盾</b>-->
 
-+ {% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**暗殺者護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
-+ {% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**新龍護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
-+ {% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**狂怒護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
++ {% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**刺客護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
++ {% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**初生護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
++ {% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**極惡闇影護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
 
 |裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP |
 |:-:|:-:|:-:|:-:|:-:|
@@ -174,9 +219,9 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 <!-- endtab -->
 <!-- tab <b>L1護盾</b>-->
 
-+ {% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**暗殺者護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
-+ {% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**新龍護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
-+ {% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**狂怒護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
++ {% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**刺客護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
++ {% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**初生護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
++ {% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**極惡闇影護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
 
 |裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP |
 |:-:|:-:|:-:|:-:|:-:|
@@ -189,9 +234,9 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 <!-- endtab -->
 <!-- tab <b>L2護盾</b>-->
 
-+ {% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**暗殺者護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
-+ {% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**新龍護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
-+ {% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**狂怒護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
++ {% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**刺客護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
++ {% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**初生護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
++ {% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**極惡闇影護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
 
 |裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP |
 |:-:|:-:|:-:|:-:|:-:|
@@ -212,8 +257,8 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 |飾品|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|漏洞塊|
 |:-:|:-:|:-:|
-|**能力飾品**<br>{% inlineImg https://i.imgur.com/slEdo0F.png 40px %}{% inlineImg https://i.imgur.com/i7ZRsWZ.png 40px %}|30,000,000|100{% inlineImg https://i.imgur.com/xUcm6Qg.png 40px %}|
-|**能力飾品**<br>{% inlineImg https://i.imgur.com/EFmDjDa.png 40px %}{% inlineImg https://i.imgur.com/uaVGhJ4.png 40px %}|30,000,000|100{% inlineImg https://i.imgur.com/xglZzLj.png 40px %}|
+|**<font color=red>能力</font>飾品**<br>{% inlineImg https://i.imgur.com/slEdo0F.png 40px %}{% inlineImg https://i.imgur.com/i7ZRsWZ.png 40px %}|30,000,000|100{% inlineImg https://i.imgur.com/xUcm6Qg.png 40px %}|
+|**<font color=red>能力</font>飾品**<br>{% inlineImg https://i.imgur.com/EFmDjDa.png 40px %}{% inlineImg https://i.imgur.com/uaVGhJ4.png 40px %}|30,000,000|100{% inlineImg https://i.imgur.com/xglZzLj.png 40px %}|
 |**外觀飾品**<br>{% inlineImg https://i.imgur.com/WFqB68m.png 40px %}{% inlineImg https://i.imgur.com/t2QXjl3.png 40px %}|10,000,000|100{% inlineImg https://i.imgur.com/xglZzLj.png 40px %}|
 
 ## 飾品部位分布
@@ -250,7 +295,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 |圖片| {% inlineImg https://i.imgur.com/M8z9cL8.png 64px %}  |
 |:-:|:-:|
-|名稱|**光之城守護者**<br>빛의 도시를 지켜낸 자|
+|名稱|**守護光之城的人**|
 |製作材料|{% inlineImg https://i.imgur.com/xUcm6Qg.png 40px %}x200 + {% inlineImg https://i.imgur.com/xglZzLj.png 40px %}x200 + {% inlineImg https://i.imgur.com/bRFx7v6.png 40px %}x5000萬|
 |素質|總物攻/魔攻 +5%<br>物理/魔法爆擊傷害 +100%<br>超能爆發狀態增傷 +50%|
 

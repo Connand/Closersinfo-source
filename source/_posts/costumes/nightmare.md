@@ -23,8 +23,9 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
 category: [時裝, 有立繪, 全角色]
-cover: https://i.imgur.com/gl76VgRh.jpg
+cover: https://i.imgur.com/O1Mw3oWh.jpeg
 description: ""
 ---
 # 魅力小惡魔
@@ -36,6 +37,7 @@ description: ""
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [公告頁面](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=512)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_nightmare_211007_b705aw.zip)
+
 ---
 
 {% tabs 類型 %}
@@ -101,6 +103,9 @@ description: ""
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/Pcums07h.png)](https://i.imgur.com/Pcums07.png)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/ueRUKaQh.png)](https://i.imgur.com/ueRUKaQ.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -162,6 +167,9 @@ description: ""
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/wWn13TSh.png)](https://i.imgur.com/wWn13TS.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/2FxTIaQh.png)](https://i.imgur.com/2FxTIaQ.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

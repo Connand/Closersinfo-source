@@ -3,7 +3,7 @@ title: 覺醒PNA
 date: 2023-06-14 11:54:31
 tags: 資料紀錄
 category: [遊戲資料,PNA]
-cover: /img/PNA/HQ_ICON_PNA_AWAKE_ULTIMATEBLOW_P.PNG
+cover: /img/PNA/HQ_ICON_PNA_AWAKE_ULTIMATEBLOW_B.PNG
 description: "覺醒PNA與相關內容及PNA重製內容介紹(Awaken PNA)"
 ---
 

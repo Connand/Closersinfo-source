@@ -9,16 +9,12 @@ description: "Break Challenge"
 
 > **<div style="text-align:center"><font size=3 color=red>注意</font><br>有關王關機制與攻略可以參考 [水門的文章](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9424&tnum=1)<br>![](https://i.imgur.com/v3iU262.png)</div>**
 
-> # 副本調整說明
-
-[韓版2024/06/13更新](https://closers.nexon.com/News/Notice/View?n4ArticleSN=144408&n4ArticleCategorySN=2)降低了無限暴食之地的難度，具體如下：
-1. **無限制**的通關時間由 5 分鐘增加到 10 分鐘
-2. 所有怪物血量降低約 20%
-3. 所有怪物攻擊傷害降低
-
-台版也於07/11跟上[此更新](https://www.closers.com.tw/news/XJclqg592)
-
 > # 副本內容
+
+> ## 前置要求
+
+- 角色等級 95 等並完成 17 村（世界和平之門）的主線任務。
+  - **<font color=red>目前直升角色需自己完成 17 村主線。</font>**
 
 > ## 副本組成
 
@@ -298,6 +294,16 @@ description: "Break Challenge"
 |使用範圍|帳號制|角色制|角色制|
 |裝備效果|{% inlineImg https://i.imgur.com/wXMzljd.png 200px %}|{% inlineImg https://i.imgur.com/b3Pu2Y6.png 200px %}|{% inlineImg https://i.imgur.com/g75HHjO.gif 200px %}|
 </div>
+
+
+> # 副本調整說明
+
+[韓版2024/06/13更新](https://closers.nexon.com/News/Notice/View?n4ArticleSN=144408&n4ArticleCategorySN=2)降低了無限暴食之地的難度，具體如下：
+1. **無限制**的通關時間由 5 分鐘增加到 10 分鐘
+2. 所有怪物血量降低約 20%
+3. 所有怪物攻擊傷害降低
+
+台版也於07/11跟上[此更新](https://www.closers.com.tw/news/XJclqg592)
 
 <style>
 

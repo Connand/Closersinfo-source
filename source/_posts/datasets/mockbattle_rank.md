@@ -34,7 +34,7 @@ Lv. 3：血量約 31000 億，爆抗 2500%
 |序列|1|2|3|4|5|6|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |BOSS|馬列克|島的主人|巴司基|先代之龍赫克頓蓋爾|赤色死神|黃金莫拉克|
-|BOSS|<img class="inline-img" src="https://i.imgur.com/8ONbMJo.png" style="height:48px"><br>野生型|<img class="inline-img" src="https://i.imgur.com/HoxQxvb.png" style="height:48px"><br>食蟲型|<img class="inline-img" src="https://i.imgur.com/I6BPtrp.png" style="height:48px"><br>海底型|<img class="inline-img" src="https://i.imgur.com/FWfg4L0.png" style="height:48px"><br>魔龍形|<img class="inline-img" src="https://i.imgur.com/t8j9844.png" style="height:48px"><br>使徒型|<img class="inline-img" src="https://i.imgur.com/acS6rsI.png" style="height:48px"><br>前腦型|
+|類型|<img class="inline-img" src="https://i.imgur.com/8ONbMJo.png" style="height:48px"><br>野生型|<img class="inline-img" src="https://i.imgur.com/HoxQxvb.png" style="height:48px"><br>食蟲型|<img class="inline-img" src="https://i.imgur.com/I6BPtrp.png" style="height:48px"><br>海底型|<img class="inline-img" src="https://i.imgur.com/FWfg4L0.png" style="height:48px"><br>魔龍形|<img class="inline-img" src="https://i.imgur.com/t8j9844.png" style="height:48px"><br>使徒型|<img class="inline-img" src="https://i.imgur.com/acS6rsI.png" style="height:48px"><br>前腦型|
 
 > # 模擬戰參與獎勵
 
