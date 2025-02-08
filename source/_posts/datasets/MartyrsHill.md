@@ -41,7 +41,13 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 # 副本資訊
 - 必殺程式使用 **額外獎勵** 系統，每日第一次完成時會取得額外獎勵（不限入場次數）
 
+## 副本前置要求
+- 極圈暗殺者 / 憤怒威嚴特莉絲：完成主線任務
+- 一族最後的火狐：完成「極圈暗殺者 / 憤怒威嚴特莉絲」的任務
+
 {% btn 'https://www.bilibili.com/video/BV1Z9CaYMEdi/?share_source=copy_web&vd_source=2426657ea8060a3b8d41a50bede67b85',參考攻略,far fa-hand-point-right,outline blue larger %}
+
+- **F4 順序：極圈暗殺者 -> 憤怒威嚴特莉絲 -> 一族最後的火狐 -> 極圈暗殺者**
 
 |副本|等級|建議戰力|裝備等級|消耗疲勞|額外獎勵|人數|復活限制
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -49,13 +55,6 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |{% inlineImg https://i.imgur.com/gdXdckN.png 40px %}必殺程式：極圈暗殺者|95| 1億 | - | 10 | 每日角色 1 次 | 1-4 人| - |
 |{% inlineImg https://i.imgur.com/FWfg4L0.png 40px %}必殺程式：憤怒威嚴特莉絲|95| 1億 | - | 10 | 每日角色 1 次 | 1-4 人| - |
 |{% inlineImg https://i.imgur.com/3FV9pDB.png 40px %}必殺程式：一族最後的火狐|95| 8500萬 | - | 10 | 每日角色 1 次 | 1-4 人| - |
-
-{% hideToggle 前置要求 %}
-
-- 極圈暗殺者 / 憤怒威嚴特莉絲：完成主線任務
-- 一族最後的火狐：完成「極圈暗殺者 / 憤怒威嚴特莉絲」的任務
-
-{% endhideToggle %}
 
 {% hideToggle 必殺程式獎勵 %}
 
