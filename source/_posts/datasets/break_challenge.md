@@ -1,5 +1,5 @@
 ---
-title: 突破挑戰
+title: 突破挑戰（第一季）
 date: 2024-03-23 17:25:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
@@ -8,6 +8,15 @@ description: "Break Challenge"
 ---
 
 > **<div style="text-align:center"><font size=3 color=red>注意</font><br>有關王關機制與攻略可以參考 [水門的文章](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9424&tnum=1)<br>![](https://i.imgur.com/v3iU262.png)</div>**
+
+> # <font color=red>獎勵調整事前公告</font>
+
+韓版將於 2025/02/20 開放第二季突破挑戰，同時第一季獎勵會被轉移到第二季。
+台版也預估在 2025/04/03 更新至此版本，請注意時程與官方事前公告。
+
+[參考公告](https://www.facebook.com/Closersinfo/posts/pfbid0i7MFEpUsE73KqGiVSvxyfwz3hLfJnHxHLKbogPGfdGVpW3axK9xhkaUHwKxFHSGDl)
+
+![](https://i.imgur.com/Ne0YF3s.png)
 
 > # 副本內容
 

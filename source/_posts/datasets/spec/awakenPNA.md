@@ -35,8 +35,6 @@ description: "覺醒PNA與相關內容及PNA重製內容介紹(Awaken PNA)"
 
 > # 新副本與經驗表
 
-**<font color=red size=4>改版後僅能透過格莫瑞相關副本獲得PNA經驗</font>**
-
 ## 新副本（格莫瑞街機遊戲室，街機室）入場需求
 
 角色等級 92
