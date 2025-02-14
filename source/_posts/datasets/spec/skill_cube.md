@@ -3,7 +3,7 @@ title: 技能核心與軍團程式
 date: 2022-03-06 12:45:59
 tags: 資料紀錄
 category: [遊戲資料, 能力提升]
-cover: https://i.imgur.com/Zm1unpL.gif
+cover: https://i.imgur.com/WMIttiF.png
 description: "2022年技能核心改版介紹"
 ---
 
@@ -55,16 +55,15 @@ https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/
 ## 取得來源
 新舊覺醒技能核心取得方式如下 **<font color=#ff0000>請注意新舊覺醒道具圖外框四角的差別</font>**
 - 舊覺醒技能核心(雷本覺醒) {% inlineImg https://i.imgur.com/1GGW1T1.png 50px %}
-	1. 平原之門深層製作機：可製作各一個自身角色的覺醒技能。 **<font color=#ff0000>製作限制：每個角色1次</font>**
+	1. **<font color=#ff0000>（已無法製作）</font>**~~平原之門深層製作機：可製作各一個自身角色的覺醒技能。 **<font color=#ff0000>製作限制：每個角色1次</font>**~~
 	{% inlineImg https://i.imgur.com/gSpLPD7.png 170px %}
 	{% inlineImg https://i.imgur.com/LYV6G59.png 170px %}
 	2. 使用覺醒技能核心合成(90%機率)
 	3. 使用傳說或菁英核心合成(10%機率)
-	4. 未鑑定覺醒技能核心(不可交易，90%機率 **<font color=#ff0000>通關軍團程式WAVE 10</font>** )
+	4. {% inlineImg https://i.imgur.com/2dUhUMX.png 40px %}未鑑定覺醒技能核心(不可交易，90%機率 **<font color=#ff0000>軍團程式獎勵（請參考下方）</font>** )
 - 新覺醒技能核心 {% inlineImg https://i.imgur.com/LrllCYr.png 50px %}
 	1. 使用覺醒技能核心合成(10%機率)
-	2. 未鑑定覺醒技能核心(可交易，10%機率 **<font color=#ff0000>通關軍團程式WAVE 10</font>** )
-	<br>{% inlineImg https://i.imgur.com/TqehvR7.png 300px %}
+	2. {% inlineImg https://i.imgur.com/2dUhUMX.png 40px %}未鑑定覺醒技能核心(可交易，10%機率 **<font color=#ff0000>軍團程式獎勵（請參考下方）</font>** )
 
 
 ---
@@ -78,18 +77,91 @@ https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/
 |:-:|:-:|:-:|:-:|:-:|:-:
 |{% inlineImg https://i.imgur.com/HoxQxvb.png 64px %}|{% inlineImg https://i.imgur.com/I6BPtrp.png 64px %}|{% inlineImg https://i.imgur.com/acS6rsI.png 64px %}|{% inlineImg https://i.imgur.com/8ONbMJo.png 64px %}|{% inlineImg https://i.imgur.com/gdXdckN.png 64px %}|{% inlineImg https://i.imgur.com/3FV9pDB.png 64px %}
 
-## 入場
+## 入場與玩法
 
-入場建議戰力為1000萬，當然基本上無法通關WAVE 10
-依據經驗得出，若想通關食蟲型的WAVE 10，所需戰力大約如下(四轉狀態) **<font color=#ff0000>(撇除使用BUG的情況)</font>**
-**<font color=#ff0000>需要食蟲型增傷260%以上(突變20因素滿重組)</font>**
-- 李世河：3000~3200萬
-- 米斯特汀、露西：2000~2200萬
-- 其他角色：2500~2800萬
+### 舊版
+
+入場建議戰力為1000萬。共分 10 個 WAVE，每個 WAVE 通常需要擊殺 30 隻怪物即可通關此 WAVE。
+
+### 新版
+
+- [韓版 2025/01/23 改版內容](https://www.naddic.co.kr/ko/game/cls/event/announce/detail?contentNo=336)
+入場建議戰力為1000萬。但改為無限出怪。
+擊殺怪物可獲得積分，每 1000 分可獲的獎勵，最多 30000 分。
+**並且會有一個副本技能，能量條滿時使用會恢復 100% MP，並且重置終極技以外所有技能的冷卻。**
 
 ## 樓層獎勵
 
 {% tabs 樓層獎勵 %}
+<!-- tab 2025改版-->
+- **<font color=#f00>每周帳號入場 2 次 (6 種副本共用入場次數，可重複入場)</font>**
+- 若滿分可得：{% inlineImg https://i.imgur.com/cKzXEUr.png 40px %}x1040 {% inlineImg /img/material/PNA_bottle_5k.png 40px %}x77 {% inlineImg https://i.imgur.com/7k7AciP.png 40px %}x24 {% inlineImg https://i.imgur.com/2dUhUMX.png 40px %}x6
+- {% inlineImg /img/material/PNA_bottle_5k.png 40px %}：使用後可獲得 PNA 經驗 5,000。
+
+{% tabs 分數獎勵 %}
+
+<!-- tab 0 - 10,000-->
+<div class="wave_reward">
+
+|積分|獎勵
+|:-:|:-:
+|1,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x5 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x1 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x1
+|2,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x5 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x1 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x1
+|3,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x5 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x1 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x1
+|4,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x5 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x1 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x1
+|5,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x100 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x1 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3 {% inlineImg https://i.imgur.com/2dUhUMX.png 36px %}x3
+|6,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x10 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x1 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
+|7,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x10 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x1 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
+|8,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x10 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x1 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
+|9,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x10 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x1 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
+|10,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x100 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x2 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x5 {% inlineImg https://i.imgur.com/2dUhUMX.png 36px %}x3
+|**總和**|{% inlineImg https://i.imgur.com/cKzXEUr.png 40px %}x260 {% inlineImg /img/material/PNA_bottle_5k.png 40px %}x11<br>{% inlineImg https://i.imgur.com/7k7AciP.png 40px %}x24 {% inlineImg https://i.imgur.com/2dUhUMX.png 40px %}x6
+</div>
+
+<!-- endtab -->
+
+<!-- tab 10,001 - 20,000-->
+<div class="wave_reward">
+
+|積分|獎勵
+|:-:|:-:
+|11,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x15 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x2
+|12,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x15 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x2
+|13,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x15 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x2
+|14,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x15 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x2
+|15,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x100 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x2
+|16,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x20 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x2
+|17,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x20 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x2
+|18,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x20 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x2
+|19,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x20 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x2
+|20,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x100 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x4
+|**總和**|{% inlineImg https://i.imgur.com/cKzXEUr.png 40px %}x340 {% inlineImg /img/material/PNA_bottle_5k.png 40px %}x22
+</div>
+
+<!-- endtab -->
+
+<!-- tab 20,001 - 30,000-->
+<div class="wave_reward">
+
+|積分|獎勵
+|:-:|:-:
+|21,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x25 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x4
+|22,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x25 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x4
+|23,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x25 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x4
+|24,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x25 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x4
+|25,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x100 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x4
+|26,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x30 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x4
+|27,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x30 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x4
+|28,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x30 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x4
+|29,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x30 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x4
+|30,000|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x100 {% inlineImg /img/material/PNA_bottle_5k.png 36px %}x6
+|**總和**|{% inlineImg https://i.imgur.com/cKzXEUr.png 40px %}x440 {% inlineImg /img/material/PNA_bottle_5k.png 40px %}x44
+</div>
+
+<!-- endtab -->
+{% endtabs %}
+
+<!-- endtab -->
 <!-- tab 減負版-->
 為降低農本負擔，因此：
 - **<font color=#f00>從原本 6 場降為 2 場 (6 種副本共用入場次數，可重複入場)</font>**
@@ -151,6 +223,8 @@ https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/
 |{% inlineImg https://i.imgur.com/6PHDZf6.png 48px %}威嚴精髓 x1|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x500|每個帳號一個月 3 次|
 |{% inlineImg https://i.imgur.com/3MjLN14.png 48px %}時裝合成纖維 x1|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x250|每個帳號一個月 6 次|
 |{% inlineImg https://i.imgur.com/eCOAypO.png 48px %}寵物核心 x50|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x250|每個帳號一個月 6 次|
+|{% inlineImg https://i.imgur.com/ofbuOah.png 48px %}完美PNA進化套裝 x1 **(改版後增加)**|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x100|每個帳號一周 3 次|
+|{% inlineImg /img/material/PNA_bottle_5k.png 48px %}高級PNA成長活性劑 x1 **(改版後增加)**|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x50|每個帳號一周 10 次|
 |{% inlineImg https://i.imgur.com/9wEUbq4.png 48px %}突變PNA膠囊 x20|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x140|每個**角色**一周 3 次|
 |{% inlineImg https://i.imgur.com/7k7AciP.png 48px %}未鑒定菁英屬性核心(1種) x8|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x30|每個**角色**一周 3 次|
 |{% inlineImg https://i.imgur.com/YVCXiKT.png 48px %}未鑒定傳說屬性核心(1種) x1|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x40|每個**角色**一周 3 次|
@@ -700,10 +774,10 @@ BUFF[不讓開嗎?]：爆擊傷害+30% (持續 10 秒)
 <!-- tab 一般技能-->
 |核心|能力|Lv.1|Lv.2|Lv.3|Lv.4
 |:-|:-|:-:|:-:|:-:|:-:
-|{% inlineImg https://i.imgur.com/WMIttiF.png 40px %} 空中/背後/追蹤傷害<br>**韓版2024/03/07新增**|空中增加傷害<br>背擊增加傷害<br>浮空增加傷害|5%<br>5%<br>5%|10%<br>10%<br>10%|15%<br>15%<br>15%|-
-|{% inlineImg https://i.imgur.com/2KkaCHM.png 40px %} 空中傷害<br>**韓版2024/03/07新增Lv. 5和Lv. 6**|**僅列出Lv. 5和Lv. 6**<br>空中增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
-|{% inlineImg https://i.imgur.com/knV9D9k.png 40px %} 背後傷害<br>**韓版2024/03/07新增Lv. 5和Lv. 6**|**僅列出Lv. 5和Lv. 6**<br>背擊增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
-|{% inlineImg https://i.imgur.com/S3sN4u0.png 40px %} 追蹤傷害<br>**韓版2024/03/07新增Lv. 5和Lv. 6**|**僅列出Lv. 5和Lv. 6**<br>浮空增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
+|{% inlineImg https://i.imgur.com/WMIttiF.png 40px %} 空中/背後/追蹤傷害|空中增加傷害<br>背擊增加傷害<br>浮空增加傷害|5%<br>5%<br>5%|10%<br>10%<br>10%|15%<br>15%<br>15%|-
+|{% inlineImg https://i.imgur.com/2KkaCHM.png 40px %} 空中傷害|**僅列出Lv. 5和Lv. 6**<br>空中增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
+|{% inlineImg https://i.imgur.com/knV9D9k.png 40px %} 背後傷害|**僅列出Lv. 5和Lv. 6**<br>背擊增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
+|{% inlineImg https://i.imgur.com/S3sN4u0.png 40px %} 追蹤傷害|**僅列出Lv. 5和Lv. 6**<br>浮空增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
 |{% inlineImg https://i.imgur.com/LQQ3LkH.png 40px %} 超能釋放/傷害|超能釋放時增加傷害<br>造成的傷害|6%<br>6%|9%<br>9%|12%<br>12%|15%<br>15%
 |{% inlineImg https://i.imgur.com/A5KnZVc.png 40px %} 物理暴擊/超能釋放|物理暴擊傷害<br>超能釋放時增加傷害|10%<br>9%|15%<br>12%|-|-
 |{% inlineImg https://i.imgur.com/A5KnZVc.png 40px %} 魔法暴擊/超能釋放|魔法暴擊傷害<br>超能釋放時增加傷害|10%<br>9%|15%<br>12%|-|-
@@ -712,10 +786,10 @@ BUFF[不讓開嗎?]：爆擊傷害+30% (持續 10 秒)
 <!-- tab 必殺技能-->
 |核心|能力|Lv.1|Lv.2|Lv.3|Lv.4
 |:-|:-|:-:|:-:|:-:|:-:
-|{% inlineImg https://i.imgur.com/WMIttiF.png 40px %} [必殺] 空中/背後/追蹤傷害<br>**韓版2024/03/07新增**|空中增加傷害<br>背擊增加傷害<br>浮空增加傷害|5%<br>5%<br>5%|10%<br>10%<br>10%|15%<br>15%<br>15%|-
-|{% inlineImg https://i.imgur.com/2KkaCHM.png 40px %} [必殺] 空中傷害<br>**韓版2024/03/07新增Lv. 5和Lv. 6**|**僅列出Lv. 5和Lv. 6**<br>空中增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
-|{% inlineImg https://i.imgur.com/knV9D9k.png 40px %} [必殺] 背後傷害<br>**韓版2024/03/07新增Lv. 5和Lv. 6**|**僅列出Lv. 5和Lv. 6**<br>背擊增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
-|{% inlineImg https://i.imgur.com/S3sN4u0.png 40px %} [必殺] 追蹤傷害<br>**韓版2024/03/07新增Lv. 5和Lv. 6**|**僅列出Lv. 5和Lv. 6**<br>浮空增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
+|{% inlineImg https://i.imgur.com/WMIttiF.png 40px %} [必殺] 空中/背後/追蹤傷害|空中增加傷害<br>背擊增加傷害<br>浮空增加傷害|5%<br>5%<br>5%|10%<br>10%<br>10%|15%<br>15%<br>15%|-
+|{% inlineImg https://i.imgur.com/2KkaCHM.png 40px %} [必殺] 空中傷害|**僅列出Lv. 5和Lv. 6**<br>空中增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
+|{% inlineImg https://i.imgur.com/knV9D9k.png 40px %} [必殺] 背後傷害|**僅列出Lv. 5和Lv. 6**<br>背擊增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
+|{% inlineImg https://i.imgur.com/S3sN4u0.png 40px %} [必殺] 追蹤傷害|**僅列出Lv. 5和Lv. 6**<br>浮空增加傷害|-|-|**Lv. 5**<br>30%|**Lv. 6**<br>40%
 |{% inlineImg https://i.imgur.com/LQQ3LkH.png 40px %} [必殺] 超能釋放/傷害|超能釋放時增加傷害<br>造成的傷害|8%<br>11%|12%<br>14%|16%<br>17%|20%<br>20%
 |{% inlineImg https://i.imgur.com/A5KnZVc.png 40px %} [必殺] 物理暴擊/超能釋放|物理暴擊傷害<br>超能釋放時增加傷害|10%<br>12%|15%<br>15%|-|-
 |{% inlineImg https://i.imgur.com/A5KnZVc.png 40px %} [必殺] 魔法暴擊/超能釋放|魔法暴擊傷害<br>超能釋放時增加傷害|10%<br>12%|15%<br>15%|-|-
