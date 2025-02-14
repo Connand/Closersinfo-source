@@ -7,11 +7,6 @@ cover: https://i.imgur.com/WMIttiF.png
 description: "2022年技能核心改版介紹"
 ---
 
-參考資料(原作者因素已被刪除)：國際版資料(Credit by REvibna#9504)
-https://docs.google.com/document/d/1A3PdFADHraQIHI36Ag_9SjOvsQ6fr2xAR8eu0xMB03Q/edit
-備份資料
-https://docs.google.com/document/d/1LSIhbQLFE_lIor0W8VhE3FxXamLwzgwLpSRb2VtgR74/edit?usp=sharing
-
 [官網特效圖](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4692777217178996618)
 [參考更新公告(韓版)](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=506)
 
