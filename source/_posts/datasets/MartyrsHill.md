@@ -10,7 +10,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ---
 
-# 前言
+> # 前言
 
 {%youtube 1omqlcpt6z0 %}
 
@@ -38,7 +38,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 	> 透過 **必殺程式：一族最後的火狐** 獲得，每次額外獎勵固定獲得 4 個，用於護盾的製作與超越
 	> 交易限制：<font color=#ff0000> **不可共倉、不可交易** </font>
 
-# 副本資訊
+> # 副本資訊
 - 必殺程式使用 **額外獎勵** 系統，每日第一次完成時會取得額外獎勵（不限入場次數）
 
 ## 副本前置要求
@@ -91,7 +91,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ---
 
-# 裝備製作與超越
+> # 裝備製作與超越
 
 - 模組
 
@@ -100,10 +100,14 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |{% inlineImg https://i.imgur.com/HUZpTBr.png 48px %}{% inlineImg https://i.imgur.com/vERdxnI.png 48px %}|{% inlineImg https://i.imgur.com/lg6gYCl.png 48px %}{% inlineImg https://i.imgur.com/3o1Gjsp.png 48px %}|{% inlineImg https://i.imgur.com/03WKmMi.png 48px %}{% inlineImg https://i.imgur.com/wfD1u7J.png 48px %}|
 
 - 護盾
+  - **<font color=red>請注意</font>：對應位置的裝備無法重複裝備，請參考下方表格**
+    - **例如**：{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/lEVtkuZ.png 48px %}無法同時裝備、{% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/ERRbkyR.png 48px %}無法同時裝備、{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}{% inlineImg https://i.imgur.com/NcL6bIz.png 48px %}無法同時裝備
 
-|刺客|初生|極惡闇影|
-|:-:|:-:|:-:|
-|{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}|{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}|{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}|
+|對應|刺客|初生|極惡闇影|
+|:-:|:-:|:-:|:-:|
+|新裝備|{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}|{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}|{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}|
+|舊裝備|{% inlineImg https://i.imgur.com/lEVtkuZ.png 48px %}{% inlineImg https://i.imgur.com/fqgh2Mw.png 48px %}{% inlineImg https://i.imgur.com/hi2OEOG.png 48px %}|{% inlineImg https://i.imgur.com/va1851F.png 48px %}{% inlineImg https://i.imgur.com/ERRbkyR.png 48px %}{% inlineImg https://i.imgur.com/iZl5aGk.png 48px %}|{% inlineImg https://i.imgur.com/79JJO90.png 48px %}{% inlineImg https://i.imgur.com/o1Bhosg.png 48px %}{% inlineImg https://i.imgur.com/NcL6bIz.png 48px %}|
+
 
 ### 製作與升級材料需求
 
@@ -180,9 +184,11 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ---
 
-# 裝備能力
+> # 裝備能力
  
- - [點此](/datasets/PacificGate/#%E8%A3%9D%E5%82%99%E8%83%BD%E5%8A%9B)查看 17 村裝備數值
+- [點此](/datasets/PacificGate/#%E8%A3%9D%E5%82%99%E8%83%BD%E5%8A%9B)查看 17 村裝備數值
+- **<font color=red>請再次注意</font>：對應位置的裝備無法重複裝備，請參考上方表格**
+  - **例如**：{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/lEVtkuZ.png 48px %}無法同時裝備、{% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/ERRbkyR.png 48px %}無法同時裝備、{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}{% inlineImg https://i.imgur.com/NcL6bIz.png 48px %}無法同時裝備
 
 {% tabs 大門守衛者裝備能力 %}
 <!-- tab 模組-->
@@ -250,7 +256,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ---
 
-# 飾品
+> # 飾品
 
 ## 製作材料
 
@@ -287,7 +293,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 ---
 
-# 稱號
+> # 稱號
 
 + 透過製作機獲得 (**<font color=red>角色制</font>**)
   - 最少需要約 **<font color=red>50天</font>** 才可製作

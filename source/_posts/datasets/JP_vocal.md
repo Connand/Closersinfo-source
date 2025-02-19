@@ -54,7 +54,7 @@ description: "日配資訊"
 |露娜|윤아영||黑澤朋世|岩崎愛|
 |索瑪|여윤미||洲崎綾|彩月ちさと|
 |白|윤은서||石川由依|青山吉能|
-|賽特|이새아|||新田日和|
+|賽特|이새아||井澤詩織|新田日和|
 |未來|강시현|||愛美|
 |徹斯|이현|||福間竣兵 → 山本彬 <a href="#*1">*1</a>|
 |銀河|원에스더|||富田美憂|
@@ -64,7 +64,7 @@ description: "日配資訊"
 
 <span id="*1">*1</span>：[2023/06/15 變更聲優](https://closers.naddicjapan.com/naddic_news/20230615_02/)
 
-- 參考資料：[Wiki](https://zh.m.wikipedia.org/zh-tw/CLOSERS)、[巴哈](https://home.gamer.com.tw/creationDetail.php?sn=4935914)、[韓配列表](https://closers.nexon.com/Community/CustomerCenter/View?n4ArticleSN=384&n4ArticleCategorySN=1)
+- 參考資料：[Wiki](https://zh.m.wikipedia.org/zh-tw/CLOSERS)、[巴哈](https://home.gamer.com.tw/creationDetail.php?sn=4935914)、[韓配列表](https://closers.nexon.com/Community/CustomerCenter/View?n4ArticleSN=384&n4ArticleCategorySN=1)、[Namu wiki](https://namu.wiki/w/%ED%81%B4%EB%A1%9C%EC%A0%80%EC%8A%A4)
 
 
 ---
