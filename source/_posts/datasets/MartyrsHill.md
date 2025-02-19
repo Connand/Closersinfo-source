@@ -254,6 +254,12 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 <!-- endtab -->
 {% endtabs %}
 
+## 護盾搭配參考懶人包
+
+- 由玩家 **複製多拉** 製作
+
+![](https://i.imgur.com/IESiNvK.png)
+
 ---
 
 > # 飾品
