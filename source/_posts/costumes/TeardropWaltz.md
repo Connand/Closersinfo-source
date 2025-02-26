@@ -1,6 +1,6 @@
 ---
 title: 淚滴華爾滋
-date: 2024-02-26 10:37:38
+date: 2025-02-26 10:37:38
 tags:
     - 立繪時裝
     - 李雪菲
@@ -19,8 +19,8 @@ description: "Teardrop Waltz"
 # 淚滴華爾滋 (Teardrop Waltz)
 
 - 韓文：티어드롭 왈츠
-- **注意**：立繪僅分一般和特殊
-- 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉中 green %}、{% label 威嚴 green %}
+- **注意**：立繪僅分一般和特殊，模組分為 3 型
+- 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉中 green %}（單一型）、{% label 威嚴 green %}（單一型）
 
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [立繪下載](https://image.naddic.co.kr/Images/cms/happycode/20250218/1739855579202.zip)
