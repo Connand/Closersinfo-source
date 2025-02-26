@@ -97,6 +97,7 @@ description: "Break Challenge Season 2"
 相對於暴食觸發器有以下改變：
 - 刪除暴傷以外固定能力，並追加混合專用的 **物理/魔法暴擊傷害**
 - 暴傷數值均為暴食多 +10%
+- **<font color=red>史詩觸發器</font>** {% inlineImg https://i.imgur.com/jG9rcAU.png 40px %}的 **物理、魔法、混合** 分別固定 5 條 1 級的 **物理暴擊傷害、魔法暴擊傷害、物理/魔法暴擊傷害**
 
 |能力|<font style="background-color: rgb(253, 233, 217)">1級</font>|<font style="background-color: rgb(219, 229, 241)">2級</font>|<font style="background-color: rgb(234, 241, 221)">3級</font>|<font style="background-color: rgb(234, 241, 221)">4級</font>|<font style="background-color: rgb(217, 217, 217)">5級</font>|<font style="background-color: rgb(217, 217, 217)">6級</font>|
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
