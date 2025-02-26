@@ -7,7 +7,7 @@ cover: https://i.imgur.com/B144Onb.png
 description: "Break Challenge Season 2"
 ---
 
-> **<div style="text-align:center"><font size=3 color=red>注意</font><br>有關王關機制與攻略可以參考 [水門的文章](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9424&tnum=1)<br>![](https://i.imgur.com/v3iU262.png)</div>**
+> **<div style="text-align:center"><font size=3 color=red>注意</font><br>有關王關機制與攻略可以參考 [水門的文章](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9470&tnum=1)<br>![](https://i.imgur.com/v3iU262.png)</div>**
 
 > # <font color=red>獎勵調整事前公告</font>
 
@@ -45,7 +45,7 @@ description: "Break Challenge Season 2"
 |物件|血量|暴擊傷害抵抗|減傷
 |:-:|:-:|:-:|:-:
 |色慾王|40000億|4000%|50%
-|幹部|1500億|2500%|50%
+|幹部|1500億|2500%|40%
 
 {% endhideToggle %}
 
@@ -89,6 +89,8 @@ description: "Break Challenge Season 2"
 可將舊的觸發器 A 上面的重鑄轉移至同級的觸發器 B 上面
 **轉移後舊觸發器 A 會消失**
 介面參考下面的公告圖
+
+- **<font color=red>注意</font>：暴食觸發器無法轉移至深海觸發器上**
 
 ![](https://i.imgur.com/7Y8q0mb.jpeg)
 
