@@ -11,23 +11,28 @@ tags:
     - 伊莉雅
 category: [時裝, 有立繪, 限定角色]
 cover: https://imgur.com/dd2VIOL.jpg
-description: "AntiqueM"
+description: "Antique Mademoiselle"
 ---
 
 ![](https://imgur.com/TTFzgE9.jpg)
 
 ---
-## 復古仕女(AntiqueM)
+## 復古仕女(Antique Mademoiselle)
 
-**注意**：立繪僅分一般和特殊，模組分3型
+- 韓文：앤티크 마드모아젤
 
-部位：髮型、上衣、下衣、手套、鞋子、{% label 臉中 green %}、{% label 特效 green %}
+- **注意**：立繪僅分一般和特殊，模組分3型
 
+- 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉中 green %}、{% label 特效 green %}
+
+
+{% hideToggle 專屬音樂 %}
+可於遊戲檔案裡找到 [CM_LOGIN_ANTIQUE.MP3](/sound/CM_LOGIN_ANTIQUE.MP3)
+{% youtube bIGt3-aYs8s %}
+{% endhideToggle %}
 
 {% hideToggle 模組圖預覽 %}
-
 ![](https://imgur.com/wqj0pQc.png)
-
 {% endhideToggle %}
 
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
