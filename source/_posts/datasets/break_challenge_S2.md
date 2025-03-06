@@ -27,14 +27,14 @@ description: "Break Challenge Season 2"
 
 > ## 副本組成
 
-- 3 個小關，2 個王關：1 個農本關、1 個挑戰關
+- 3 個小關，2 個王關：1 個農本關（**<font color=blue>慾望氾濫之地</font>**）、1 個挑戰關（**<font color=red>無限慾望之地</font>**）
   - 小關用以獲取{% inlineImg https://i.imgur.com/LrGwFKi.png 40px %}，農本關用以刷取{% inlineImg https://i.imgur.com/9tIy0vT.png 40px %}{% inlineImg https://i.imgur.com/Cpr2RYV.png 40px %}{% inlineImg https://i.imgur.com/JXRSG3x.png 40px %}以及低機率掉落 **<font color=red>史詩觸發器</font>** {% inlineImg https://i.imgur.com/jG9rcAU.png 40px %}
 
 |副本名稱|建議戰力|額外獎勵|消耗疲勞|復活限制|時間限制
 |:-:|:-:|:-:|:-:|:-:|:-:
 |純真毀滅者之海|8500萬|每周角色 1 次|10|無|無
 |暴力掠奪者之海|8500萬|每周角色 1 次|10|無|無
-|悲情歌手之海|8500萬|每周角色 1 次|10|無|無
+|悲情歌唱者之海|8500萬|每周角色 1 次|10|無|無
 |**<font color=blue>慾望氾濫之地</font>**|8500萬|**入場需要**<br>{% inlineImg https://i.imgur.com/LrGwFKi.png 48px %} x1|10|無|無
 |**<font color=red>無限慾望之地</font>**|1億2000萬|無|10|3|10分鐘
 

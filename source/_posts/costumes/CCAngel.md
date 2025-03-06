@@ -9,6 +9,7 @@ tags:
     - 未來
     - 露西
     - 愛里
+    - 伊莉雅
 category: [時裝, 有立繪, 限定角色]
 cover: https://i.imgur.com/Qr3HzV3h.jpg
 description: "Cotton Candy Angel"
@@ -25,7 +26,7 @@ description: "Cotton Candy Angel"
 
 [台版宣傳頁面](https://www.closers.com.tw/news/211)
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_CCAngel_230223_0F522B3C3BB6FFAC.zip)
+[立繪下載](https://image.naddic.co.kr/Images/cms/happycode/20250304/1741080940895.zip)
 
 ---
 {% tabs 類型 %}
@@ -49,6 +50,9 @@ description: "Cotton Candy Angel"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/sNdBgkJh.png)](https://i.imgur.com/sNdBgkJ.png)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/mfUs773h.jpg)](https://i.imgur.com/mfUs773.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -71,6 +75,9 @@ description: "Cotton Candy Angel"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/TKZSORXh.png)](https://i.imgur.com/TKZSORX.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/2ysiG8jh.jpg)](https://i.imgur.com/2ysiG8j.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
