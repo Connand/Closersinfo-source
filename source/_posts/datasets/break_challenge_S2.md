@@ -9,15 +9,6 @@ description: "Break Challenge Season 2"
 
 > **<div style="text-align:center"><font size=3 color=red>注意</font><br>有關王關機制與攻略可以參考 [水門的文章](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9470&tnum=1)<br>![](https://i.imgur.com/v3iU262.png)</div>**
 
-> # <font color=red>獎勵調整事前公告</font>
-
-韓版將於 2025/02/20 開放第二季突破挑戰，同時第一季獎勵會被轉移到第二季。
-台版也預估在 2025/04/03 更新至此版本，請注意時程與官方事前公告。
-
-[參考公告](https://www.facebook.com/Closersinfo/posts/pfbid0i7MFEpUsE73KqGiVSvxyfwz3hLfJnHxHLKbogPGfdGVpW3axK9xhkaUHwKxFHSGDl)
-
-![](https://i.imgur.com/Ne0YF3s.png)
-
 > # 副本內容
 
 > ## 前置要求
@@ -105,10 +96,13 @@ description: "Break Challenge Season 2"
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 |物理暴擊傷害|80%|70%|62%|56%|52%|50%|
 |魔法暴擊傷害|80%|70%|62%|56%|52%|50%|
-|**物理/魔法暴擊傷害**|64%|56%|49.6%|44.8%|41.6%|40%|
+|**物理/魔法暴擊傷害**|72%|63%|55.8%|50.4%|46.8%|45%|
+|~~物理/魔法暴擊傷害~~|~~64%~~|~~56%~~|~~49.6%~~|~~44.8%~~|~~41.6%~~|~~40%~~|
 |空中暴擊傷害|80%|70%|62%|56%|52%|50%|
 |背擊暴擊傷害|80%|70%|62%|56%|52%|50%|
 |浮空暴擊傷害|80%|70%|62%|56%|52%|50%|
+
+- 備註：[韓版 2025/03/06 更新](https://www.naddic.co.kr/ko/game/cls/event/announce/detail?contentNo=407)上修 **物理/魔法暴擊傷害** 數值
 
 ---
 
