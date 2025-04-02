@@ -9,7 +9,7 @@
 menu:
   # 首頁: / || fas fa-home
   # 封存: /archives/ || fas fa-archive
-  標籤: /tags/ || fas fa-tags
+  # 標籤: /tags/ || fas fa-tags
   分類: /categories/ || fas fa-folder-open
   遊戲資料 || fas fa-book-open || hide:
     總覽: /categories/遊戲資料 || fas fa-book-open
@@ -23,7 +23,7 @@ menu:
     雲端圖庫: https://drive.google.com/drive/folders/1jFK6bpar4oSDy2_DeNQ4wOqFaBHDhoJ7?usp=share_link || fas fa-cloud
   時裝 || fas fa-tshirt:
     總覽: /categories/時裝 || fas fa-tshirt
-    立繪查詢系統: https://gallery.closersinfo.xyz/ || fas fa-database
+    # 立繪查詢系統: https://gallery.closersinfo.xyz/ || fas fa-database
     輝煌時裝: /categories/時裝/輝煌時裝/ || fas fa-tshirt
     高階時裝: /categories/時裝/高階時裝/ || fas fa-tshirt
     泳裝系列: /tags/泳裝/ || fas fa-sun
@@ -37,6 +37,7 @@ menu:
   # 選單||fas fa-list:
   #   音樂: /music/ || fas fa-music
   #   電影: /movies/ || fas fa-video
+  立繪查詢: https://gallery.closersinfo.xyz/ || fas fa-database
   友站連結: /link/ || fas fa-link
   關於與贊助 || fas fa-heart:
     關於: /about/ || fas fa-heart
