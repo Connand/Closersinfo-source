@@ -7,18 +7,16 @@ cover: https://i.imgur.com/B144Onb.png
 description: "Break Challenge Season 2"
 ---
 
-> **<div style="text-align:center"><font size=3 color=red>注意</font><br>有關王關機制與攻略可以參考 [水門的文章](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9470&tnum=1)<br>![](https://i.imgur.com/v3iU262.png)</div>**
-
 > # 副本內容
 
 > ## 前置要求
 
-- 角色等級 95 等並完成 17 村（世界和平之門）的主線任務。
+- 角色等級 95 等並完成 17 村（世界和平之門）的主線任務 **<font color=red>與暴食突破挑戰前置</font>** 。
   - **<font color=red>目前直升角色需自己完成 17 村主線。</font>**
 
 > ## 副本組成
 
-- 3 個小關，2 個王關：1 個農本關（**<font color=blue>慾望氾濫之地</font>**）、1 個挑戰關（**<font color=red>無限慾望之地</font>**）
+- 3 個小關，2 個王關：1 個農本關（ **<font color=blue>慾望氾濫之地</font>** ）、1 個挑戰關（ **<font color=red>無限慾望之地</font>** ）
   - 小關用以獲取{% inlineImg https://i.imgur.com/LrGwFKi.png 40px %}，農本關用以刷取{% inlineImg https://i.imgur.com/9tIy0vT.png 40px %}{% inlineImg https://i.imgur.com/Cpr2RYV.png 40px %}{% inlineImg https://i.imgur.com/JXRSG3x.png 40px %}以及低機率掉落 **<font color=red>史詩觸發器</font>** {% inlineImg https://i.imgur.com/jG9rcAU.png 40px %}
 
 |副本名稱|建議戰力|額外獎勵|消耗疲勞|復活限制|時間限制
@@ -196,6 +194,13 @@ description: "Break Challenge Season 2"
 ![](https://i.imgur.com/2SP5ybC.png)
 <!-- endtab -->
 {% endtabs %}
+
+---
+
+# 參考攻略
+
+1. [【攻略】突破挑戰 - 無限深海 機制 攻略](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9470&tnum=1) by 智波水
+1. [[封印者]海洋突破挑战机制详解](https://www.bilibili.com/video/BV1PWQTYwENq/?share_source=copy_web&vd_source=2426657ea8060a3b8d41a50bede67b85) by 桜咕
 
 ---
 
