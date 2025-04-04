@@ -28,7 +28,17 @@ description: "Cheey Blossom"
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [立繪下載](https://image.naddic.co.kr/Images/cms/happycode/20250401/1743497411826.zip)
 
+
+{% hideToggle 模組預覽 %}
+{% tabs 普通立繪 %}
+<!-- tab 首發-->
 ![](https://i.imgur.com/B2BKGBT.png)
+<!-- endtab -->
+<!-- tab 復刻-->
+![](https://i.imgur.com/rTW3JnJ.png)
+<!-- endtab -->
+{% endtabs %}
+{% endhideToggle %}
 
 ---
 
