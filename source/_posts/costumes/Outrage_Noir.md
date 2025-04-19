@@ -1,5 +1,5 @@
 ---
-title: 極惡闇影(Outrage Noir)
+title: 極惡闇影
 date: 2024-04-18 12:09:15
 tags:
     - 立繪時裝
@@ -24,18 +24,18 @@ tags:
     - 露西
     - 愛里
 category: [時裝, 有立繪, 全角色]
-cover: https://imgur.com/S5MDNTo.jpg
+cover: https://imgur.com/6jJn8eQh.jpg
 description: "Outrage Noir"
 ---
 
-![](https://imgur.com/S5MDNTo.jpg)
+![](https://imgur.com/6jJn8eQ.jpg)
 
 ---
 ## Outrage Noir
 
-**注意**：立繪僅分一般和特殊，有ABC三型
-
-部位：髮型、上衣、另類上衣、下衣、手套、鞋子、{% label 手臂 green %}、{% label 特效 green %}
+- 韓文：아웃레이지 느와르
+- **注意**：立繪僅分一般和特殊，有ABC三型
+- 部位：髮型、上衣、另類上衣、下衣、手套、鞋子、{% label 手臂 green %}、{% label 特效 green %}
 
 - 模組預覽
 
@@ -43,7 +43,7 @@ description: "Outrage Noir"
 
 [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
 [宣傳頁面](https://closers.nexon.com/Events2024/0418/Costume)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Outrage_C9DF813DF81E1117.zip)
+[立繪下載](https://image.naddic.co.kr/Images/cms/happycode/20250415/1744707889504.zip)
 
 ---
 
