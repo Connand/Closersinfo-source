@@ -23,6 +23,7 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
     - 愚人節立繪
 category: [遊戲資料,其他]
 cover: https://i.imgur.com/mDMxLqlh.jpg
@@ -118,12 +119,15 @@ description: "愚人節立繪"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/EbS7OTkh.png)](https://i.imgur.com/EbS7OTk.png)
-<!-- endtab -->	
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/0fERK4Fh.jpg)](https://i.imgur.com/0fERK4F.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
-<!-- tab 性轉版立繪 -->
-{% tabs 性轉版立繪 %}
+<!-- tab 愚人節立繪2 -->
+{% tabs 愚人節立繪2 %}
 <!-- tab 李世河(Seha)-->
 ![](https://i.imgur.com/g8f7VPw.jpg)
 <!-- endtab -->
@@ -184,6 +188,9 @@ description: "愚人節立繪"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/yhgXWNdh.png)](https://i.imgur.com/yhgXWNd.png)
 <!-- endtab -->	
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/LN6vKkUh.jpg)](https://i.imgur.com/LN6vKkU.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
