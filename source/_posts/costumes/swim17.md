@@ -30,7 +30,7 @@ description: "2017泳裝系列"
 
 部位：髮型、上衣、下衣、手套、鞋子
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_beach_s7e4.zip)
 
 ---

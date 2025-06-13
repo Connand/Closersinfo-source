@@ -33,7 +33,7 @@ description: "2018泳裝系列"
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉上 green %} 
 **墨鏡可解鎖額外立繪"曬黑版本"**
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_sunshine_180823.zip)
 
 ---

@@ -42,7 +42,7 @@ description: "Holy Night"
 - 湊齊左5 + 2 飾品(威嚴除外)可使用 **普通立繪**
 - 湊齊左5 + 2 飾品 + 威嚴可使用 **特殊立繪**
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [台版公告](http://cls.mangot5.com/game/cls/news/detail?contentNo=52499)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_holynight_schaq.zip)
 

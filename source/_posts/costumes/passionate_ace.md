@@ -39,7 +39,7 @@ description: "Passionate Ace"
 [國際版宣傳頁面](https://www.closersonline.com/news/passionate-ace-imperial-guard-transmitters-755)
 
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 立繪下載
 
 ---

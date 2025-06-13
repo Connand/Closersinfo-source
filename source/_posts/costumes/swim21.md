@@ -44,7 +44,7 @@ description: "2021泳裝系列"
 **每個角色都有另類時裝(上衣跟下衣)，可解鎖特殊立繪**
 [台版公告](http://cls.mangot5.com/game/cls/news/detail?contentNo=50484)
 [韓版頁面](https://closers.nexon.com/Events2021/0715/Costume)
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Aquablue_Wave_nc15a.zip)
 
 

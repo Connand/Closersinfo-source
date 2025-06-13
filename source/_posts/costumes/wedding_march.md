@@ -30,7 +30,7 @@ description: ""
 部位：武器、上衣、下衣、手套、鞋子
 
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 ---
 
 {% tabs 類型 %}

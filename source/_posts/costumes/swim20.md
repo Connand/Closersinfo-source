@@ -42,7 +42,7 @@ description: "2020泳裝系列"
 **綁定型號，此次泳裝沒有混搭類型**
 [台版公告](https://cls.mangot5.com/game/cls/notice/detail/?contentNo=45426)
 [韓版頁面](https://closers.nexon.com/Events2020/0730/Costume)
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_summermelody_017750.zip)
 
 

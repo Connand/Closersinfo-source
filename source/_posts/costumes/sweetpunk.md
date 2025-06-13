@@ -37,7 +37,7 @@ description: "Sweety Punk"
 **注意**：立繪僅分一般和特殊
 部位：髮型、上衣、下衣、手套、鞋子、{% label 耳環 green %}、{% label 威嚴 green %} 
 [台版公告(含機率)](http://cls.mangot5.com/game/cls/news/detail?contentNo=51845)
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_spunk_210909.zip)
 
 ---

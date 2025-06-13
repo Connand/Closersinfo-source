@@ -57,7 +57,7 @@ description: "2023泳裝系列"
 
 [宣傳頁面](https://closers.nexon.com/Events2023/0713/Festa)
 [台版公告](https://www.closers.com.tw/news/7vJyCF231)
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_WaterboomFesta_230713_9940CAA88B58FD9E.zip)
 
 
@@ -128,6 +128,9 @@ description: "2023泳裝系列"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/YFcvpm9h.png)](https://i.imgur.com/YFcvpm9.png)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/qFOfFkWh.jpg)](https://i.imgur.com/qFOfFkW.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -192,6 +195,9 @@ description: "2023泳裝系列"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/sb75ys8h.png)](https://i.imgur.com/sb75ys8.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/BdQgkG3h.jpg)](https://i.imgur.com/BdQgkG3.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

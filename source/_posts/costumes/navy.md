@@ -31,7 +31,7 @@ description: ""
 **有另類上下衣**
 男生為另類上(無外套，衣服也不太一樣)、女生為另類下(裙子)
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 
 ---
 

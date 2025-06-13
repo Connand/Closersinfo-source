@@ -33,7 +33,7 @@ B型在[神秘商店](https://connand.github.io/datasets/mystery_store/)有出�
 部位：髮型、上衣、下衣、手套、鞋子、帽子
 
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 立繪下載
 ---
 

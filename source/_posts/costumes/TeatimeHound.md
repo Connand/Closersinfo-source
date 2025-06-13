@@ -1,5 +1,5 @@
 ---
-title: 下午茶獵犬
+title: 午茶獵犬
 date: 2025-04-19 10:37:38
 tags:
     - 立繪時裝
@@ -10,19 +10,19 @@ tags:
     - 未來
     - 伊莉雅
 category: [時裝, 有立繪, 限定角色]
-cover: https://i.imgur.com/Z79AOach.png
+cover: https://i.imgur.com/rlVsfyih.png
 description: "Teatime Hound"
 
 ---
-![](https://i.imgur.com/Z79AOac.png)
+![](https://i.imgur.com/rlVsfyi.png)
 
-# 下午茶獵犬 (Teatime Hound)
+# 午茶獵犬 (Teatime Hound)
 
 - 韓文：티타임 하운드
 - **注意**：立繪僅分一般和特殊，模組分為 3 型
 - 部位：髮型（一般及另類）、上衣、下衣、手套、鞋子、{% label 帽子 green %}（單一型）、{% label 威嚴 green %}（單一型）
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://image.naddic.co.kr/Images/cms/happycode/20250415/1744707165441.zip)
 
 {% hideToggle 實際模組圖參考 %}

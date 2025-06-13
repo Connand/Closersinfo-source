@@ -26,7 +26,7 @@ description: ""
 **女角湊齊左五可獲得"應援"動作**
 **下衣分成兩種，展示圖會有不同**
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_CheerUp_210209_obuaq.zip)
 
 

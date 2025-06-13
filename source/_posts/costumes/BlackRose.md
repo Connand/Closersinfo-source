@@ -40,7 +40,7 @@ description: "Eternal Black Rose"
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 特效 green %}
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [宣傳頁面](https://closers.nexon.com/Events2022/0907/Costume)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_black_rose_220905_3F8D10C3.zip)
 

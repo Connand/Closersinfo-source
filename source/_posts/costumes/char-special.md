@@ -28,7 +28,7 @@ description: "角色專屬時裝"
 備註：露娜原先專屬時裝：雪原公主因有新增額外角色，故沒將雪原放於此。欲查看立繪[點這](https://connand.github.io/costumes/Princess/)
 
 **注意**：
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Launching_AVMSP5KCGUW9P4AC.zip)
 ---
 

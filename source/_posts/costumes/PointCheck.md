@@ -44,7 +44,7 @@ description: "Point Check"
 ![](https://imgur.com/twlayV8.png)
 {% endhideToggle %}
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 宣傳頁面
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_SnowFox_221201_30FH49FJL49DK2.zip)
 [台版宣傳頁面](https://www.closers.com.tw/news/fashion%EF%BC%81%E9%BB%9E%E7%B6%B4%E6%96%B9%E6%A0%BC%E8%AE%93%E4%BD%A0%E7%9C%BC%E7%9D%9B%E7%82%BA%E4%B9%8B%E4%B8%80%E4%BA%AE%EF%BC%81-74)

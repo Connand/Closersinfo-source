@@ -22,7 +22,7 @@ description: ""
 
 部位：髮型、上衣、下衣、手套、鞋子
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 
 台版 2023 年 VIP 獎勵方案
 [點圖查看](https://i.imgur.com/gUuoH0O.png)

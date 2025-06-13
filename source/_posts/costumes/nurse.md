@@ -39,7 +39,7 @@ description: ""
 逃跑患者額外飾品：臉中
 白衣天使額外飾品：帽子
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 ---
 
 {% tabs 類型 %}

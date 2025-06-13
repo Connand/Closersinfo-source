@@ -41,7 +41,7 @@ description: "Danceable Moment"
 ![](https://imgur.com/4T9eg2Q.gif)
 
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [台版宣傳頁面](https://www.closers.com.tw/news/sWu3fu429)
 
 ---

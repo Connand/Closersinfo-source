@@ -42,7 +42,7 @@ description: ""
 ![](https://imgur.com/EK0G5Kl.png)
 {% endhideToggle %}
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [宣傳頁面](https://closers.nexon.com/Events2024/0919/Costume)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Miko_240919_FKXHP6LAYN4BPUDO.zip)
 ---

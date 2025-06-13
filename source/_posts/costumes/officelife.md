@@ -29,7 +29,7 @@ description: "Office Life"
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉下 green %}
 [台版介紹公告](https://cls.mangot5.com/game/cls/news/detail?contentNo=43754)
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=5413420700213969266)
 
 

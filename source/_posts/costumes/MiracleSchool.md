@@ -23,7 +23,7 @@ description: "Miracle School Girls"
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉下 green %}、{% label 特效 green %}
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [宣傳頁面](https://closers.nexon.com/events2022/0324/costume)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_miracleSchoolGirls_220324.zip)
 [國際版公告](https://www.closersonline.com/naddic_news/20221123-miracle-school-girls-vow-of-love-nocturnal-x/)

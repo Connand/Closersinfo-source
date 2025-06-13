@@ -25,7 +25,7 @@ description: "Cotton Candy Angel"
 部位：髮型、上衣、 **另類上衣(沒有外套)** 、下衣、手套、鞋子、{% label 腿部 green %}、{% label 特效 green %}
 
 [台版宣傳頁面](https://www.closers.com.tw/news/211)
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://image.naddic.co.kr/Images/cms/happycode/20250304/1741080940895.zip)
 
 ---

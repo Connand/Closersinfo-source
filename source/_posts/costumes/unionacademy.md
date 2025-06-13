@@ -35,7 +35,7 @@ description: ""
 
 部位：髮型、上衣、下衣、手套、鞋子、背部(UNION學院郵差包)、臉上(半無框眼鏡) 
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 
 ---
 

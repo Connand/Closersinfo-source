@@ -34,7 +34,7 @@ description: "Noble Serenade"
 **注意：帽子雖然有分三個型號，但不影響立繪取得**
 
 - [台版宣傳頁面](https://www.closers.com.tw/news/lbm5Ss512)
-- [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+- [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 - [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Noble_240111_7EF3A641F822D4FB.zip)
 ---
 

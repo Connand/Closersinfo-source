@@ -35,7 +35,7 @@ description: "Antique Mademoiselle"
 ![](https://imgur.com/wqj0pQc.png)
 {% endhideToggle %}
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_AntiqueM_240822_49C6ER49VXV49JTT.zip)
 
 ---

@@ -37,7 +37,7 @@ description: "Dear Crescent"
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉中 green %}、{% label 特效 green %}
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [宣傳頁面](https://closers.nexon.com/events2022/0421/costume)
 [台版公告](https://www.closers.com.tw/news/%E5%85%A8%E6%96%B0%E6%99%82%E8%A3%9D%E3%80%8C%E7%8F%8D%E6%84%9B%E6%96%B0%E6%9C%88%E3%80%8D%E6%99%82%E8%A3%9D%E5%85%A8%E8%A7%92%E8%89%B2%E4%B8%8A%E6%9E%B6%EF%BC%81-28)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_DearCrescent_dc205.zip)

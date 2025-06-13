@@ -38,7 +38,7 @@ description: ""
 ![](https://i.imgur.com/B7Eenqe.png)
 
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 ---
 
 {% tabs 類型 %}

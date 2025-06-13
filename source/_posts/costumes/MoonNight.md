@@ -39,7 +39,7 @@ description: "Moon Night"
 型號共有三型(頭髮也是三個型號)
 ![](https://i.imgur.com/EivE9Ii.png)
 
-- [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+- [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 - [宣傳頁面](https://closers.nexon.com/Events2023/0907/Costume)
 - [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_MoonNight_230907_89123A7CAA5929B0.zip)
 ---

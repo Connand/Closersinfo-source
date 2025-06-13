@@ -40,7 +40,7 @@ description: "Maid&Butler"
 服侍動作：D型左六全三星，穿在身上即可使用動作
 團隊增益：D型左六全三星，穿在身上即可擁有
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_HouseKeeper_026poe.zip)
 
 ---

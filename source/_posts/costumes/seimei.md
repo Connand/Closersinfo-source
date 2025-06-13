@@ -34,7 +34,7 @@ description: ""
 緊急迴避/超能力釋放/強制取消特效會被改變
 
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 立繪下載
 ---
 

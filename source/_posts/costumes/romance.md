@@ -23,7 +23,7 @@ description: "Romance Sailor"
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉下 green %}
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [宣傳公告](https://cls.mangot5.com/game/cls/news/detail?contentNo=38456)
 [台版介紹公告](http://cls.mangot5.com/game/cls/news/detail?contentNo=49771)
 [立繪下載](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4620733062093738846)

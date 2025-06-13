@@ -65,7 +65,7 @@ description: ""
 {% endtabs %}
 <!-- endtab -->
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 ---
 {% tabs 類型 %}
 <!-- tab 模組A型-->

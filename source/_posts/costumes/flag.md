@@ -42,7 +42,7 @@ description: ""
 **新增之角色暫時沒有模組圖，如後續有新增會再補上**
 
 
- [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+ [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
  [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Check_flag_87245DE79F50214A.zip)
 ---
 {% tabs 類型 %}

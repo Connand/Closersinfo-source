@@ -34,7 +34,7 @@ description: ""
 部位：上衣、下衣、鞋子、臉下(新生的雀躍心情)、帽子(新生歡迎活動)
 台版還沒開放露西的，故這邊沒有將其放上去
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 
 ---
 

@@ -32,7 +32,7 @@ description: "Good-Night Kiss"
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}
 
-+ [官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
++ [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 + [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_GNKiss_B2F39F98E930CEA4.zip)
 + [台版公告](https://www.closers.com.tw/news/TCjmHw56)
 ---

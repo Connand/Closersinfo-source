@@ -37,7 +37,7 @@ description: "Alice in Wonderland"
 需要取得**除特效外**所有部位才可取得立繪
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉上(眼罩) green %}、{% label 腰部(金飾) green %}、{% label 特效(撲克牌)不影響立繪取得 green %}
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_InWonderLand_210302_objaqz.zip)
 ---
 

@@ -41,7 +41,7 @@ description: "Outrage Noir"
 
 ![](https://imgur.com/V8PO0yS.jpg)
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [宣傳頁面](https://closers.nexon.com/Events2024/0418/Costume)
 [立繪下載](https://image.naddic.co.kr/Images/cms/happycode/20250415/1744707889504.zip)
 

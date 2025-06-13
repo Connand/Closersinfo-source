@@ -25,7 +25,7 @@ description: "Cheey Blossom"
 - 首次更新推出角色：徐維莉、未來、艾里
 - 第二次更新追加角色：李雪菲、銀河、伊莉雅
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://image.naddic.co.kr/Images/cms/happycode/20250401/1743497411826.zip)
 
 

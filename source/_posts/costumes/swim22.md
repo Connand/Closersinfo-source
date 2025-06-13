@@ -56,7 +56,7 @@ description: "2022泳裝系列"
 
 [宣傳頁面](https://closers.nexon.com/Events2022/0714/Costume)
 [台版公告](https://www.closers.com.tw/news/gOVOwb42)
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Sparkling_Ocean_220714_70B3D620.zip)
 
 

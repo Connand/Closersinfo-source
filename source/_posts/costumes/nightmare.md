@@ -34,7 +34,7 @@ description: ""
 部位：武器、髮型、上衣、下衣、手套、鞋子、{% label 背部、腰部、臉上 green %}
 
 [台版公告](http://cls.mangot5.com/game/cls/news/detail?contentNo=50663)
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [公告頁面](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=512)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_nightmare_211007_b705aw.zip)
 

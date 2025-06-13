@@ -29,7 +29,7 @@ description: "Union Secret"
 部位：髮型、上衣、下衣、手套、鞋子、{% label 手臂 green %}
 
 [台版介紹公告](https://cls.mangot5.com/game/cls/news/detail?contentNo=39156)
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載(舊版)](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_secret.zip)
 [立繪下載(新版)](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_SecretService_BBE7800793299B3E.zip)
 

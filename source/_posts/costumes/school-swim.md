@@ -32,7 +32,7 @@ description: ""
 米斯特汀有兩個樣式(男款與女款)
 
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_sunshine_180823.zip)
 
 ---

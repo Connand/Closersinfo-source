@@ -22,7 +22,7 @@ description: "Teardrop Waltz"
 - **注意**：立繪僅分一般和特殊，模組分為 3 型
 - 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉中 green %}（單一型）、{% label 威嚴 green %}（單一型）
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://image.naddic.co.kr/Images/cms/happycode/20250218/1739855579202.zip)
 
 ---

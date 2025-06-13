@@ -32,7 +32,7 @@ description: ""
 部位：髮型、上衣、下衣、手套、鞋子
 而髮型有兩種(有戴帽子與沒戴帽子)
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 
 ---
 

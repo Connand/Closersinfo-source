@@ -20,7 +20,7 @@ description: "Floral Picnicking"
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 背部 green %}
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](http://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Floral_Picnic.zip)
 ---
 {% tabs 類型 %}

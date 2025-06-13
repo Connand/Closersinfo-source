@@ -40,7 +40,7 @@ description: "第二套高階時裝"
 部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 臉中 green %}、{% label 背部 green %}、{% label 瞳孔 green %}
 		
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_cyber_2018.zip)
 [台版介紹網頁](https://landing.mangot5.com/template/closers/event/180202_update2/index.html#sec2)
 

@@ -43,7 +43,7 @@ description: "Hip-hop Street Crew"
 ![](https://imgur.com/EWn1jY3.png)
 {% endhideToggle %}
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [台版宣傳頁面](https://www.closers.com.tw/news/AlwRy4260)
 
 ---

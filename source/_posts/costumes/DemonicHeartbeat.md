@@ -46,7 +46,7 @@ description: "Demonic Heartbeat"
 {% endhideToggle %}
 
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [宣傳頁面](https://closers.nexon.com/Events2023/0420/Costume)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_DemonicHeartbeat_292178590B387BE2.zip)
 

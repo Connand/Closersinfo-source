@@ -36,7 +36,7 @@ description: "Half and Half, 台版翻譯為極限滑板"
 **注意**：李世河、薇歐莉特、白的立繪都有兩個，差別為後方裝飾物
 部位：髮型、上衣、下衣、手套、鞋子、{% label 腰部 green %} 
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_halfAndhalf_957axn.zip)
 
 ---

@@ -40,7 +40,7 @@ description: "2019泳裝系列"
 + 上衣：李世河、納塔、哈比、緹娜、沃爾夫姜
 + 下衣、李雪菲、白
 
-[官方立繪庫](https://closers.nexon.com/Pds/FanSiteKit)
+[官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_summerCostume_50756.zip)
 
 
