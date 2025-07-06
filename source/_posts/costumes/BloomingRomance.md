@@ -23,6 +23,7 @@ tags:
     - 銀河
     - 愛里
     - 露西
+    - 伊莉雅
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/C5IZLTDh.jpg
 description: "Blooming Romance"
@@ -108,6 +109,9 @@ description: "Blooming Romance"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/Nt1D8ZPh.png)](https://i.imgur.com/Nt1D8ZP.png)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/ACGZxeGh.png)](https://i.imgur.com/ACGZxeG.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -172,6 +176,9 @@ description: "Blooming Romance"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/SoI7eJYh.png)](https://i.imgur.com/SoI7eJY.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/oyCCz14h.png)](https://i.imgur.com/oyCCz14.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
