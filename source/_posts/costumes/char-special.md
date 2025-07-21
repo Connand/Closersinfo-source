@@ -15,6 +15,7 @@ tags:
     - 露西
     - 愛里
     - 伊莉雅
+    - 特莉絲
 category: [時裝, 有立繪,]
 cover: https://i.imgur.com/JIDFPVU.jpg
 description: "角色專屬時裝"
@@ -319,6 +320,26 @@ description: "角色專屬時裝"
 <!-- endtab -->
 <!-- tab 模組圖片-->
 [![](https://imgur.com/wN35A8Mh.jpg)](https://imgur.com/wN35A8M.jpg)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
+
+
+<!-- tab 特莉絲(Triss)-邪眼公主 -->
+部位：武器、髮型（外加另類）、上衣、下衣、手套、鞋子、{% label 臉中 green %}、{% label 特效(威嚴) green %}
+**飾品與另類髮型為單一型，其餘分3型
+<font color=#f00>7件可使用普通立繪</font>
+<font color=#f00>8件可使用特殊立繪</font>**
+
+{% tabs 特莉絲(Triss)-邪眼公主 %}
+<!-- tab 普通立繪-->
+![ind_Triss_normal](https://cdn.jsdelivr.net/gh/Connand/picx-images-hosting@master/Triss/ind_Triss_normal.webp)
+<!-- endtab -->
+<!-- tab 特殊立繪-->
+![ind_Triss_special](https://cdn.jsdelivr.net/gh/Connand/picx-images-hosting@master/Triss/ind_Triss_special.webp)
+<!-- endtab -->
+<!-- tab 模組圖片-->
+![image](https://cdn.jsdelivr.net/gh/Connand/picx-images-hosting@master/Triss/image.webp)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

@@ -1,5 +1,5 @@
 ---
-title: 矚目沫影
+title: 鎂光燈泡泡
 date: 2025-05-22 10:37:38
 tags:
     - 立繪時裝
@@ -16,7 +16,7 @@ description: "Spotlight Bubble"
 ---
 ![](https://i.imgur.com/OEZZHw1.png)
 
-# 矚目沫影 (Spotlight Bubble)
+# 鎂光燈泡泡 (Spotlight Bubble)
 
 - 韓文：스포트라이트 버블
 - **注意**：立繪僅分一般和特殊，模組分為 3 型

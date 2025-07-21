@@ -25,6 +25,7 @@ tags:
     - 露西
     - 愛里
     - 伊莉雅
+    - 特莉絲
 category: [時裝, 輝煌時裝]
 cover: https://i.imgur.com/sngfXKRh.png
 description: "第四套輝煌時裝(Unique costume)"
@@ -155,6 +156,10 @@ description: "第四套輝煌時裝(Unique costume)"
 <!-- tab 薇歐莉特(Violet)-->
 [![](https://i.imgur.com/4pVr0QTh.jpeg)](https://i.imgur.com/4pVr0QT.jpeg)
 [![](https://i.imgur.com/WIJ2mgSh.jpeg)](https://i.imgur.com/WIJ2mgS.jpeg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+![hon_Triss1](https://cdn.jsdelivr.net/gh/Connand/picx-images-hosting@master/Triss/hon_Triss1.webp)
+![hon_Triss2](https://cdn.jsdelivr.net/gh/Connand/picx-images-hosting@master/Triss/hon_Triss2.webp)
 <!-- endtab -->
 {% endtabs %}
 

@@ -363,9 +363,9 @@ description: "台版官網寫不完整，於是就自己來補一個了"
 
 
 <!-- endtab -->
-<!-- tab 特莉絲(Tris) -->
+<!-- tab 特莉絲(Triss) -->
 
-**<font size=5 color=purple>特莉絲 (VAGABOND)</font>**  **<font size=4 color=purple style="float: right; padding-right: 50px">_Tris / 트리스_</font>**
+**<font size=5 color=purple>特莉絲 (VAGABOND)</font>**  **<font size=4 color=purple style="float: right; padding-right: 50px">_Triss / 트리스_</font>**
 
 正式開放日期：2025/07/10(韓版) 2025/08/07(台版)
 
@@ -379,13 +379,13 @@ description: "台版官網寫不完整，於是就自己來補一個了"
 ![](https://i.imgur.com/jEGbmlg.png)
 <!-- endtab -->
 <!-- tab 正式隊員 -->
-
+![1751964779546](https://cdn.jsdelivr.net/gh/Connand/picx-images-hosting@master/Triss/1751964779546.webp)
 <!-- endtab -->
 <!-- tab 菁英隊員 -->
-
+![1751964824476](https://cdn.jsdelivr.net/gh/Connand/picx-images-hosting@master/Triss/1751964824476.webp)
 <!-- endtab -->
 <!-- tab 誓死隊員 -->
-
+![1751964860452](https://cdn.jsdelivr.net/gh/Connand/picx-images-hosting@master/Triss/1751964860452.webp)
 <!-- endtab -->
 {% endtabs %}
 
