@@ -9,7 +9,7 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 
 > # 簡介
 
-**異形 PNA (Irregular PNA，Irr PNA) 可以當作另一種覺醒 PNA，同樣透過特定動作來獲取強大 BUFF 的系統。**
+**異形 PNA (Aberrant PNA，Abe PNA) 可以當作另一種覺醒 PNA，同樣透過特定動作來獲取強大 BUFF 的系統。**
 
 ![](/img/PNA/irrPNA_slot.png)
 
@@ -81,3 +81,10 @@ description: "增幅PNA系統介紹(Amplification PNA)"
 |最低消耗|2320|???萬|-|
 <!-- endtab -->
 {% endtabs %}
+
+---
+
+# 參考資料
+
+1. https://www.naddic.co.kr/ko/game/cls/event/announce/detail?contentNo=564
+2. https://www.bilibili.com/video/BV1KpMpzLEVL/?spm_id_from=333.788.videopod.sections&vd_source=1bd1868c2bc23b927f9a8e805b4ddadb
