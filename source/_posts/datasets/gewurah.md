@@ -79,6 +79,16 @@ description: "荊棘接收器製作相關資訊"
 
 ---
 
-# 稱號(待更)
+# 稱號
+
++ 透過製作機獲得 (**<font color=red>角色制</font>**)
+  - 最少需要約 **<font color=red>11周</font>** 才可製作（含接收器保底）
+  - 若不含接收器則約 8 周
+
+|圖片| {% inlineImg /img/gear/paradise/DLG_ACHIEVEMENT_TITLE_PARADISE_OF_IGNORANCE.PNG 64px %}  |
+|:-:|:-:|
+|名稱|**樂園的園丁**|
+|製作材料|{% inlineImg /img/gear/paradise/HQ_201436_RESOURCE.PNG 40px %}x200 + {% inlineImg https://i.imgur.com/bRFx7v6.png 40px %}x5000萬|
+|素質|HP 上限 +4500<br>物攻/魔攻 +850<br>物理/魔法爆擊傷害 +110%<br>超能爆發狀態增傷 +100%|
 
 ---

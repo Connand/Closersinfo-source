@@ -3,7 +3,7 @@ title: 寵物系統
 date: 2023-02-16 17:25:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
-cover: https://i.imgur.com/50v1OWlh.png
+cover: https://i.imgur.com/FNrV3POh.png
 description: "重點寵物能力資料"
 ---
 
@@ -322,7 +322,33 @@ description: "重點寵物能力資料"
 <!-- endtab -->
 
 <!-- tab <img class="inline-img" src="https://i.imgur.com/8ONbMJo.png" style="height:32px">野生型-->
-{% inlineImg https://i.imgur.com/uI3PMhU.png 48px %}**<迷你芭斯特>**
+1. {% inlineImg https://i.imgur.com/OXd126b.png 48px %}**<迷你比娜>**
+
+<div class="altop">
+
+|被動|戰鬥技能|主動技能|
+|:-:|:-:|:-:|
+|物理攻擊力1500<br>魔法攻擊力1500<br>技能冷卻時間30%<br>技能資源節約30%<br>追加金幣30%<br>追加獲得道具30%|<font color=#900>冷卻40秒</font><br><font color=#090>持續50秒</font><br>物理/魔法爆擊傷害100%<br>移動速度(%)10%|<font color=#900>冷卻40秒</font><br><font color=#090>- 持續40秒</font><br>物理攻擊力1000<br>魔法攻擊力1000<br>技能冷卻時間15%<br>技能資源節約15%<br>**<font color=#d60>野生型增傷100%</font>**<br><font color=#090>- 持續15秒</font><br>給予物理/魔法傷害量25%<br>每秒HP恢復10.00%<br>每秒MP恢復10.00%<br>超級裝甲等級: 2<br>傷害減少60%|
+
+</div>
+
+**強化能力**
+
+|詞條|0★|1★|2★|3★|4★|5★|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|HP|500|800|1100|1400|1700|2000
+|MP|250|400|550|700|850|1000
+|物理/魔法攻擊力|400|460|520|580|640|700
+|物理/魔法防禦力|225|380|535|690|845|1000
+|物理/魔法爆擊傷害|-|65%|90%|115%|140%|165%
+|**<font color=#d60>野生型增傷</font>**|-|30%|60%|90%|120%|150%
+|總物理/魔法攻擊力|-|1%|2%|3%|4%|5%
+|道具自動使用欄位數量|-|-|1|2|3|4
+
+![](https://i.imgur.com/FNrV3PO.png)
+
+---
+2. {% inlineImg https://i.imgur.com/uI3PMhU.png 48px %}**<迷你芭斯特>**
 
 <div class="altop">
 

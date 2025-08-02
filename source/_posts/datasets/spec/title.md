@@ -14,7 +14,8 @@ description: "重點稱號能力資料整合"
 |強度|物理 / 魔法|混合|
 |:-:|:-:|:-:|
 |T0|**稱霸征服項目的英雄稱號**<br>{% inlineImg /img/conquest2/DLG_TITLE_CONQUEST_VER2.PNG 64px %}|**稱霸征服項目的英雄稱號**<br>{% inlineImg /img/conquest2/DLG_TITLE_CONQUEST_VER2.PNG 64px %}|
-|T1<br>**暫時**|**純粹惡的提亞瑪特**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_3.PNG 64px %}|**純粹惡的提亞瑪特**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_3.PNG 64px %}|
+|T0.5|**樂園的園丁**<br>{% inlineImg /img/gear/paradise/DLG_ACHIEVEMENT_TITLE_PARADISE_OF_IGNORANCE.PNG 64px %}|**樂園的園丁**<br>{% inlineImg /img/gear/paradise/DLG_ACHIEVEMENT_TITLE_PARADISE_OF_IGNORANCE.PNG 64px %}|
+|T1<br>|**純粹惡的提亞瑪特**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_3.PNG 64px %}|**純粹惡的提亞瑪特**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_3.PNG 64px %}|
 |T2 - A|**噩夢的囚犯**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|**噩夢的囚犯**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|
 |T2 - B|**劈開火花的異端者**<br>{% inlineImg https://i.imgur.com/l42EzGx.png 64px %}|**劈開火花的異端者**<br>{% inlineImg https://i.imgur.com/l42EzGx.png 64px %}|
 |T3|**找到怠惰王渴望之人**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_BELPHEGOR_4.PNG 50px %}|**噩夢看守者**<br>{% inlineImg /img/titles/ZMtHyR8.png 50px %}|
@@ -62,6 +63,7 @@ description: "重點稱號能力資料整合"
 |名稱|帳號|能力|取得方式
 |:-:|:-:|:-|:-:
 |**稱霸征服項目的英雄稱號**<br>{% inlineImg /img/conquest2/DLG_TITLE_CONQUEST_VER2.PNG 64px %}|Ｘ|總物攻/魔攻 +7.5%<br>物理/魔法爆擊傷害 +110%<br>超能爆發狀態增傷 +65%|[征服項目Ver. 2](/datasets/conquest_program_v2/) 第 11 層通關
+|**樂園的園丁**<br>{% inlineImg /img/gear/paradise/DLG_ACHIEVEMENT_TITLE_PARADISE_OF_IGNORANCE.PNG 64px %}|Ｘ|總HP 上限 +4500<br>物攻/魔攻 +850<br>物理/魔法爆擊傷害 +110%<br>超能爆發狀態增傷 +100%|[無知樂園](/datasets/gewurah/#%E7%A8%B1%E8%99%9F) 刷取
 |**純粹惡的提亞瑪特**<br>{% inlineImg /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_3.PNG 64px %}|Ｘ|最大HP+3500<br>物攻/魔攻 +800<br>物理/魔法爆擊傷害 +100%<br>超能爆發狀態增傷 +65%|初始提亞瑪特相關製作取得
 |**劈開火花的異端者**<br>{% inlineImg https://i.imgur.com/l42EzGx.png 64px %}|Ｘ|總物攻/魔攻 +4.5%<br>物理/魔法爆擊傷害 +90%<br>超能爆發狀態增傷 +45%|[世界和平之門](/datasets/PacificGate/#%E7%A8%B1%E8%99%9F)
 |**噩夢的囚徒**<br>{% inlineImg /img/titles/to0HmOD.png 50px %}|Ｘ|總物攻/魔攻+6%<br>物理/魔法爆擊傷害+66%<br>攻速+6%<br>超能爆發狀態增傷+66%|[新首爾支部：作戰指揮室](/datasets/ControlCenter/#%E7%A8%B1%E8%99%9F)
