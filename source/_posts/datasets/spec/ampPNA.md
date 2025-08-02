@@ -7,6 +7,8 @@ cover: /img/PNA/PNA_slot.png
 description: "增幅PNA系統介紹(Amplification PNA)"
 ---
 
+> **<div style="text-align:center"><font size=3 color=red>此文大部分內容已經因[PNA整合]()而失效<br>以下內容僅供參考</font></div>**
+
 **本文僅概略敘述增幅PNA的功能，以及紀錄隱藏序列排法之用途**
 
 # 簡介

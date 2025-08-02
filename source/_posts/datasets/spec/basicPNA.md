@@ -7,6 +7,8 @@ cover: /img/PNA/HQ_PNA_SPECIAL_ATT.PNG
 description: "最基本的PNA說明"
 ---
 
+> **<div style="text-align:center"><font size=3 color=red>此文大部分內容已經因[PNA整合]()而失效<br>以下內容僅供參考</font></div>**
+
 {% inlineImg /img/PNA/icon_01.png 64px %}{% inlineImg /img/PNA/icon_02.png 64px %}{% inlineImg /img/PNA/icon_03.png 64px %}
 
 # 開啟方式
