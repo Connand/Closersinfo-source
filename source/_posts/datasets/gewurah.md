@@ -19,7 +19,7 @@ description: "荊棘接收器製作相關資訊"
 - 額外獎勵（每周 1 次）：{% inlineImg /img/gear/paradise/HQ_201436_RESOURCE.PNG 48px %}28{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}100{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}100
 - **副本種族類型：野生型**{% inlineImg https://i.imgur.com/8ONbMJo.png 48px %}
 
-其中{% inlineImg /img/gear/paradise/HQ_155396_RANDOMBOX.PNG 48px %}用於史詩保底材料
+其中{% inlineImg /img/gear/paradise/HQ_155396_RANDOMBOX.PNG 48px %}用於史詩保底材料（可交易）
 可隨機開啟：{% inlineImg /img/gear/paradise/HQ_201488_RESOURCE.PNG 48px %}{% inlineImg /img/gear/paradise/HQ_GEWURAH_EP_RECEIVER_AIRAMP.PNG 64px %}{% inlineImg /img/gear/paradise/HQ_GEWURAH_EP_RECEIVER_EXPANDER.PNG 64px %}{% inlineImg /img/gear/paradise/HQ_GEWURAH_EP_RECEIVER_TRACKER.PNG 64px %}
 
 ---
