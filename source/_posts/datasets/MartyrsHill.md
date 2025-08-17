@@ -94,6 +94,7 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 > # 收集副本
 
 - 開啟條件：「殉道者的山丘」主線任務完成
+- 開啟方式：使用「整合入場系統」
 - 入場次數： **<font color=red>（6 個副本共用）</font>** 角色 2 次，帳號共 6 次。
   - 即為需要 3 隻角色才可打完 6 場
 
@@ -107,12 +108,13 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 |次元材料|{% inlineImg /img/material/HQ_404739_RANDOMBOX.PNG 48px %}1|{% inlineImg /img/material/HQ_404739_RANDOMBOX.PNG 48px %}10|{% inlineImg /img/material/HQ_404741_RANDOMBOX.PNG 48px %}1|
 |強化燃料|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 48px %}3|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 48px %}30|{% inlineImg /img/material/HQ_150101_RESOURCE_ENCHANT.PNG 48px %}15|
 |晶片|{% inlineImg /img/chip/chip_origin.png 48px %}5|{% inlineImg /img/chip/chip_origin.png 48px %}50|{% inlineImg /img/chip/T4_color.png 48px %}1{% inlineImg /img/chip/HQ_503000_CASH_ITEM.PNG 48px %}1|
-|PNA|{% inlineImg /img/PNA/HQ_154163_SUPPLEMENT_PNA.PNG 48px %}10{% inlineImg /img/PNA/tri_jump.png 48px %}1|{% inlineImg /img/PNA/HQ_154163_SUPPLEMENT_PNA.PNG 48px %}100|{% inlineImg /img/PNA/tri_phase.png 48px %}1|
+|PNA|{% inlineImg /img/PNA/HQ_154163_SUPPLEMENT_PNA.PNG 48px %}10{% inlineImg /img/PNA/tri_jump.png 48px %}1|{% inlineImg /img/PNA/HQ_154163_SUPPLEMENT_PNA.PNG 48px %}100|{% inlineImg /img/PNA/tri_phase.png 48px %}1{% inlineImg /img/material/PNA_bottle_5k.png 48px %}100|
 |超能纖維|{% inlineImg https://i.imgur.com/iBYdZJy.png 48px %}50|{% inlineImg https://i.imgur.com/iBYdZJy.png 48px %}200|{% inlineImg https://i.imgur.com/UmkzgVE.png 48px %}100|
 
 - **{% inlineImg /img/material/HQ_404739_RANDOMBOX.PNG 40px %}：隨機獲得{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}或{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %} x25-100**
 - **{% inlineImg /img/material/HQ_404741_RANDOMBOX.PNG 40px %}：隨機獲得{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}或{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %} x2500-10000**
 - **{% inlineImg /img/PNA/HQ_154163_SUPPLEMENT_PNA.PNG 40px %}： 10 覺醒材料、{% inlineImg /img/PNA/tri_jump.png 40px %}： 1 等覺醒PNA自選、{% inlineImg /img/PNA/tri_phase.png 40px %}： 20 等覺醒PNA自選**
+- **{% inlineImg /img/material/PNA_bottle_5k.png 40px %}：使用後可獲得 PNA 經驗 5,000**
 
 <br>
 
