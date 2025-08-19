@@ -27,11 +27,11 @@ tags:
     - 特莉絲
     - 泳裝
 category: [時裝, 有立繪, 全角色]
-cover: https://i.imgur.com/yxX8DJ6h.jpg
+cover: /img/swim25_banner.png
 description: "2025泳裝系列"
 ---
 
-[![](https://imgur.com/yxX8DJ6h.jpg)](https://i.imgur.com/yxX8DJ6.png)
+![](/img/swim25_banner.png)
 
 ---
 # 晴日大冒險 / Sunny Day Adventure

@@ -10,11 +10,11 @@ tags:
     - 露西
     - 伊莉雅
 category: [時裝, 有立繪, 限定角色]
-cover: https://i.imgur.com/OEZZHw1h.png
+cover: /img/bubble_banner.png
 description: "Spotlight Bubble"
 
 ---
-![](https://i.imgur.com/OEZZHw1.png)
+![](/img/bubble_banner.png)
 
 # 鎂光燈泡泡 (Spotlight Bubble)
 

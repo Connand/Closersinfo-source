@@ -7,6 +7,8 @@ cover: https://i.imgur.com/MMTR8Ce.jpg
 description: "官方發布的各式主題曲"
 ---
 
+> **<div style="text-align:center"><font size=3 color=red>部分曲目連結失效待補</font><br>可先於 [NECORD MUSIC 頻道](https://www.youtube.com/@NECORDMUSIC)搜尋</div>**
+
 當時從緹娜以後的角色開放時，均有配上專屬主題曲，唯獨前面8角色沒有主題曲。
 直到AMAZING Closers(2020年冬季更新)之前鋪陳的廣播劇中，陸續補上前面8位角色的主題曲。
 
@@ -28,9 +30,9 @@ description: "官方發布的各式主題曲"
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | {% btn 'https://youtu.be/MTwZ-QME26U',My World,fas fa-music,outline blue %} | {% btn 'https://youtu.be/OLjANcDyFeQ',Once Again,fas fa-music,outline pink %} | {% btn 'https://youtu.be/wJiSZ0wiCm4',Sunlight,fas fa-music,outline %} | {% btn 'https://youtu.be/rTIuf_DNUBQ',J歌,fas fa-music,outline orange %} | {% btn 'https://youtu.be/L2Gi5Oi9XNQ',約定,fas fa-music,outline green %} | {% btn 'https://youtu.be/3Enunmy9BPw',RUN AGAIN,fas fa-music,outline pink %} |
 ### 紅狼小隊
-| 納塔 | 蕾比亞 | 哈比 |  緹娜  | 薇歐莉特 | 
-| :--------: | :--------: | :--------: | :--------: | :--------: |
-| {% btn 'https://youtu.be/oQGBdk-WJuU',你死我活,fas fa-music,outline blue %} | {% btn 'https://youtu.be/Q2LLluDF7Ok',Ruin,fas fa-music,outline pink %} | {% btn 'https://youtu.be/0MDtYNMZAQw',Catch me,fas fa-music,outline %} | {% btn 'https://youtu.be/dBT71GseOn0',Lucid Dream,fas fa-music,outline orange %} | {% btn 'https://youtu.be/JJjIFbzk_jM',Adieu,fas fa-music,outline green %} |
+| 納塔 | 蕾比亞 | 哈比 |  緹娜  | 薇歐莉特 | 特莉絲
+| :--------: | :--------: | :--------: | :--------: | :--------: |  :--------: |
+| {% btn 'https://youtu.be/oQGBdk-WJuU',你死我活,fas fa-music,outline blue %} | {% btn 'https://youtu.be/Q2LLluDF7Ok',Ruin,fas fa-music,outline pink %} | {% btn 'https://youtu.be/0MDtYNMZAQw',Catch me,fas fa-music,outline %} | {% btn 'https://youtu.be/dBT71GseOn0',Lucid Dream,fas fa-music,outline orange %} | {% btn 'https://youtu.be/JJjIFbzk_jM',Adieu,fas fa-music,outline green %} |  {% btn 'https://youtu.be/Dki-Fm5OArk?si=eX_tGzxa1QsB-IXV',Dominion Breaker,fas fa-music,outline pink %} |
 ### 夜梟小隊
 | 沃爾夫姜 | 露娜 | 索瑪 | 白 | 賽特 | 
 | :--------: | :--------: | :--------: | :--------: | :--------: |
@@ -150,5 +152,11 @@ description: "官方發布的各式主題曲"
 2023/12/27：[第四季主線主題曲 -  Flames of War](https://youtu.be/YDcxbljcbfA)
 
 2024/07/10：[伊莉雅主題曲 -  RUN AGAIN](https://youtu.be/3Enunmy9BPw)
+
+2024/07/24：[2024泳裝更新主題曲 -  Dive into You](https://youtu.be/fhuhpIM59qM?si=Jl0DfgF1BKkah5Hp)
+
+2024/07/24：[特莉絲主題曲 -  Dominion Breaker](https://youtu.be/Dki-Fm5OArk?si=eX_tGzxa1QsB-IXV)
+
+2025/07/22：[2025泳裝更新主題曲 - 너와 함께 Summer Trip (與你一起 Summer Trip)](https://youtu.be/mlRuzIExzVc?si=R4JH7gssmlzxQdAo)
 
 ---

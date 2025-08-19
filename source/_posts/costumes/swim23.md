@@ -86,7 +86,8 @@ description: "2023泳裝系列"
 [![](https://i.imgur.com/8b1EyAzh.png)](https://i.imgur.com/8b1EyAz.png)
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-[![](https://i.imgur.com/d76UzvFh.png)](https://i.imgur.com/d76UzvF.png)
+~~聽說這張圖被Imgur ban過一次~~
+[![](https://i.imgur.com/bCDJCcnh.png)](https://i.imgur.com/bCDJCcn.png)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
 [![](https://i.imgur.com/LXnQuZlh.png)](https://i.imgur.com/LXnQuZl.png)

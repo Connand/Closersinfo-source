@@ -1,5 +1,5 @@
 ---
-title: 奇蹟校園少女(暫譯)
+title: 奇蹟少女
 date: 2022-05-01 12:09:15
 tags:
     - 立繪時裝
@@ -9,6 +9,8 @@ tags:
     - 索瑪
     - 未來
     - 銀河
+    - 伊莉雅
+    - 特莉絲
 category: [時裝, 有立繪, 限定角色]
 cover: https://i.imgur.com/YtZ8yqTh.jpg
 description: "Miracle School Girls"
@@ -25,7 +27,7 @@ description: "Miracle School Girls"
 
 [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [宣傳頁面](https://closers.nexon.com/events2022/0324/costume)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_miracleSchoolGirls_220324.zip)
+[立繪下載](https://landing.naddic.co.kr/Images/cms/happycode/20250805/1754384594166.zip)
 [國際版公告](https://www.closersonline.com/naddic_news/20221123-miracle-school-girls-vow-of-love-nocturnal-x/)
 ---
 
@@ -50,6 +52,12 @@ description: "Miracle School Girls"
 <!-- tab 銀河(Eunha)-->
 [![](https://i.imgur.com/JECKTteh.jpg)](https://i.imgur.com/JECKTte.jpg)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/jNO723Wh.jpg)](https://i.imgur.com/jNO723W.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/bQyKCK4h.jpg)](https://i.imgur.com/bQyKCK4.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -72,6 +80,12 @@ description: "Miracle School Girls"
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
 [![](https://i.imgur.com/btx9YBAh.jpg)](https://i.imgur.com/btx9YBA.jpg)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/S714kmUh.jpg)](https://i.imgur.com/S714kmU.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/9CWkJuuh.jpg)](https://i.imgur.com/9CWkJuu.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
