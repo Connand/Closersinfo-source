@@ -11,16 +11,7 @@ description: "D伯爵裝備資訊 (未完成)"
 
 > # 前言 (待補)
 
-待補
 
-## 強化轉移路線懶人包
-
-- [參考資料](https://closers.nexon.com/News/Guide/View?n4ArticleSN=247&n4ArticleCategorySN=3)
-
-|裝備|舊裝備|目標|
-|:-:|:-:|:-:|
-|武器|火焰王武器<br>野獸王史詩武器|魔龍王武器<br>魔龍王史詩武器|
-|模組|火焰王模組|魔龍王模組|
 
 ---
 
@@ -53,7 +44,7 @@ description: "D伯爵裝備資訊 (未完成)"
 |**歡樂的劇場姊妹**|120,000,000|建議 4 人|無|獲得僅限該次 Raid 生效的強大 Buff
 |**傷心的劇場姊妹**|120,000,000|建議 4 人|無|獲得僅限該次 Raid 生效的強大 Buff
 |**亡靈貴婦的更衣間**|150,000,000|建議 4 人|無|完成後可進入 **夢之神的舞台**
-|**夢之神的舞台**|150,000,000|建議 4 人|每周 1 次|取得額外獎勵
+|**夢之神的舞台**|200,000,000|建議 4 人|每周 1 次|取得額外獎勵
 
 {% hideToggle 副本血量與系統(待補) %}
 
@@ -116,6 +107,7 @@ BOSS資訊：
 {% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_TUBE_1.PNG 64px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_TUBE_2.PNG 64px %}
 
 - **保底週期： 5 周**
+- **韓版預計於 2025/09/04 更新<font color=red>史詩升級</font>**
 
 |階數|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}|{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}|{% inlineImg /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}|{% inlineImg https://i.imgur.com/6qBUfOf.png 48px %}|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -206,12 +198,9 @@ PLV: 260(傳說) / 275(史詩)
 
 ## 說明
 
-- 史詩武器除了額外能力，也包含了傳說武器的能力
 - 武器與模組根據特定強化等級會解放或加強特殊能力，目前 +18、+22、+26、+30 會有強化解放能力
 
 ## 武器特殊能力
-
-- [韓版 2024/09/05 更新](https://closers.nexon.com/News/Notice/View?n4ArticleSN=144986)時調整部分能力
 
 <div class="table-wrap"><table>
 <thead>
@@ -275,48 +264,56 @@ PLV: 260(傳說) / 275(史詩)
 
 ---
 
-> # 能力飾品 / 立繪臂章 (待更)
+> # 能力飾品 / 立繪臂章
 
 ## 製作材料
 
-|飾品|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/fm10zrg.png 48px %}|
+|飾品|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg  /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}|
 |:-:|:-:|:-:|
 |**能力 / 外觀飾品**|50,000,000|120|
 |**立繪臂章飾品**|10,000,000|300|
 
+## 連身時裝
+
+- **韓版預計於 2025/09/04 更新**
+
 ## 飾品
 
-|腰部|臉下|手臂|腿部|外觀：瞳孔|外觀：背部|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|{% inlineImg https://i.imgur.com/kkYqVKR.png 48px %}|{% inlineImg https://i.imgur.com/8eWz1HI.png 48px %}|{% inlineImg https://i.imgur.com/YYfSGGG.png 48px %}|{% inlineImg https://i.imgur.com/DLyLQcv.png 48px %}|{% inlineImg https://i.imgur.com/G9EvNe2.png 48px %}|{% inlineImg https://i.imgur.com/NQkMJmY.png 48px %}|
+|帽子|臉上|臉下|腰部|外觀：瞳孔|
+|:-:|:-:|:-:|:-:|:-:|
+|{% inlineImg /img/gear/count_D/HQ_1499002200_GUST_INVALID_NA.PNG 48px %}|{% inlineImg /img/gear/count_D/HQ_1499001701_GUST_INVALID_NA.PNG 48px %}|{% inlineImg /img/gear/count_D/HQ_1499001903_GUST_INVALID_NA.PNG 48px %}|{% inlineImg /img/gear/count_D/HQ_1499001406_GUST_INVALID_NA.PNG 48px %}|{% inlineImg /img/gear/count_D/HQ_1799000401_GUST_INVALID_NA.PNG 48px %}|
 
 
 |能力|兩件套|三件套|總和|
 |:-:|:-:|:-:|:-:|
-|物理 / 魔法攻擊力|300|300|600|
-|物理 / 魔法暴擊傷害|30%|30%|60%|
-|魔龍型傷害增加||30%|30%|
+|物理 / 魔法攻擊力|350|350|700|
+|物理 / 魔法暴擊傷害|35%|35%|70%|
+|前腦型傷害增加||35%|35%|
 
 ## 立繪臂章
 
 {% tabs 立繪臂章, -1 %}
-<!-- tab 阿施塔蒂-->
-![](https://i.imgur.com/53BSr56.png)
+<!-- tab 莫塔女士-->
+{% inlineImg /img/gear/count_D/HQ_190013_CONSUMABLE.PNG 48px %}
+
+![](/img/gear/count_D/DLG_PVP_LOADING_GUST_USER_LADYD.PNG)
 <!-- endtab -->
-<!-- tab 赫克頓蓋爾-->
-![](https://i.imgur.com/pruwHSn.png)
+<!-- tab D爵士-->
+{% inlineImg /img/gear/count_D/HQ_190014_CONSUMABLE.PNG 48px %}
+
+![](/img/gear/count_D/DLG_PVP_LOADING_GUST_USER_DBACK.PNG)
 <!-- endtab -->
 {% endtabs %}
 
 ---
 
-> # 成就 (待更)
+> # 成就
 
-- **赫克頓蓋爾與阿施塔蒂各一項成就，成就獎勵均相同（四人副本場數）**
+- **完成夢之神的舞台的場數**
 
 |階段|1 階|2 階|3 階|4 階|5 階|6 階|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |場數|1 場|10 場|30 場|60 場|100 場|150 場|
-|獎勵<br>均為{% inlineImg https://i.imgur.com/S49Cjjp.png 48px %}|1 箱|2 箱|4 箱|8 箱|16 箱|32 箱|
+|獎勵<br>均為{% inlineImg /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}|1 箱|2 箱|4 箱|8 箱|16 箱|32 箱|
 
 ---
