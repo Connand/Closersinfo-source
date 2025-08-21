@@ -317,3 +317,15 @@ PLV: 260(傳說) / 275(史詩)
 |獎勵<br>均為{% inlineImg /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}|1 箱|2 箱|4 箱|8 箱|16 箱|32 箱|
 
 ---
+
+> # 劇情圖片
+
+- **含有劇透**
+
+{% hideToggle 劇情圖片 %}
+![](/img/gear/count_D/GOOD.png)
+![](/img/gear/count_D/D_ED.png)
+![](/img/gear/count_D/LADY_D_ED.png)
+{% endhideToggle %}
+
+---
