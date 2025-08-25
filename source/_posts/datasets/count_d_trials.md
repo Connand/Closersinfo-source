@@ -26,11 +26,11 @@ description: "D伯爵裝備資訊 (未完成)"
 - 建議戰力與裝備等級： 100,000,000
 - 額外獎勵（總共）：10x{% inlineImg /img/gear/count_D/HQ_201503_RESOURCE.PNG 48px %}、24x{% inlineImg /img/material/malek_crysyal.png 48px %}、100x{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}、100x{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}
 
-{% hideToggle 副本血量(待補) %}
+{% hideToggle 副本血量 %}
 
 |血量|暴擊傷害抵抗|減傷
 |:-:|:-:|:-:
-|14000億|2000%|30%
+|25000億|3000%|40%
 
 {% endhideToggle %}
 
@@ -46,23 +46,22 @@ description: "D伯爵裝備資訊 (未完成)"
 |**亡靈貴婦的更衣間**|150,000,000|建議 4 人|無|完成後可進入 **夢之神的舞台**
 |**夢之神的舞台**|200,000,000|建議 4 人|每周 1 次|取得額外獎勵
 
-{% hideToggle 副本血量與系統(待補) %}
+- 通關 **歡樂的劇場姊妹** 時，獲得BUFF： **物理/魔法攻擊力 +10,000、空中/背擊/浮空暴擊傷害 +333%**
+- 通關 **傷心的劇場姊妹** 時，獲得BUFF： **物理/魔法攻擊力 +10,000、物理/魔法暴擊傷害 +900%**
+
+{% hideToggle 副本血量與系統 %}
 
 BOSS資訊：
 |副本|血量|暴擊傷害抵抗|減傷
 |:-:|:-:|:-:|:-:
-|四人副本|83000億|2500%|30%
-|單人副本|50000億|2500%|30%
+|**歡樂的劇場姊妹**|20000億|4500%|0%
+|**傷心的劇場姊妹**|20000億|4500%|0%
+|**亡靈貴婦的更衣間**<br>階段一<br>階段二<br>虛弱狀態|<br>65000億<br>65000億<br>-|<br>4000%<br>4000%<br>2000%|<br>40%<br>40%<br>30%
+|**夢之神的舞台**<br>階段一<br>階段二<br>階段三<br>虛弱狀態|<br>11000億<br>63000億<br>83000億<br>-|<br>3000%<br>4500%<br>4500%<br>0%|<br>50%<br>50%<br>50%<br>50%
 
-- 副本技能（**僅於赫克頓蓋爾副本啟用**）能量取得方法：解除拍石頭機制可獲得 1 點（33.3%），最多 3 點
-
-|技能|消耗能量|說明
-|:-:|:-:|:-:
-|{% inlineImg https://i.imgur.com/l75mC7x.png 48px %}|1|20 秒內受傷害減少 90%、霸體等級 20
-|{% inlineImg https://i.imgur.com/zyc3SsZ.png 48px %}|1|20 秒內魔龍型傷害增加 +100%
-|{% inlineImg https://i.imgur.com/XV5W4xE.png 48px %}|1|20 秒內抵抗 **龍之氣息**<br>**龍之氣息**：所有暴擊率 -80%
-|{% inlineImg https://i.imgur.com/LWi0K7r.png 48px %}|2|20 秒內消除並抵抗 **龍之意志**<br>**龍之意志**：總條件暴擊傷害 -40%、所有總穿透 -80%、受傷害增加0.99%/每層（最高 99 層 98.02%）
-|{% inlineImg https://i.imgur.com/34yPv8U.png 48px %}|2|消除 **-極限邊緣-** （終極技限制狀態）
+- **亡靈貴婦的更衣間/夢之神的舞台** 具有以下特性/機制：
+1. {% inlineImg /img/gear/count_D/UI_ICON_COOLTIME_RESET.PNG 48px %} **技能冷卻限制** ：死亡時，技能冷卻停止，並且在復活後以當下冷卻時間繼續進行。
+2. **個人副本技能** ：部分機制成功時可使用（預設 ``` ` ``` 鍵）。使用後，每 3 秒鐘重置終極技以外所有技能的冷卻。
 
 {% endhideToggle %}
 
@@ -329,3 +328,9 @@ PLV: 260(傳說) / 275(史詩)
 {% endhideToggle %}
 
 ---
+
+> # 參考資料
+
+1. https://www.naddic.co.kr/ko/game/cls/event/announce/detail?contentNo=702
+2. https://www.naddic.co.kr/ko/game/cls/event/announce/detail?contentNo=676
+3. 【【封印者韩服】D伯爵的梦幻演出 机制详解】 https://www.bilibili.com/video/BV1vGeGzaEq5/?share_source=copy_web&vd_source=2426657ea8060a3b8d41a50bede67b85
