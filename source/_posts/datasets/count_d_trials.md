@@ -38,6 +38,9 @@ description: "D伯爵裝備資訊 (未完成)"
 
 - 使用 Raid 系統進入副本
 - 額外獎勵：70x{% inlineImg /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}、250x{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}、250x{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}
+- 機率掉落： **<font color=red>史詩模組</font>** {% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_BOOSTER_1.PNG 48px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_BOOSTER_2.PNG 48px %}
+{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_REGULATOR_1.PNG 48px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_REGULATOR_2.PNG 48px %}
+{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_TUBE_1.PNG 48px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_TUBE_2.PNG 48px %}
 
 |副本|建議戰力|入場建議|額外獎勵|目的|
 |:-:|:-:|:-:|:-:|:-:|
