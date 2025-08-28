@@ -22,6 +22,15 @@ description: "荊棘接收器製作相關資訊"
 其中{% inlineImg /img/gear/paradise/HQ_155396_RANDOMBOX.PNG 48px %}用於史詩保底材料（可交易）
 可隨機開啟：{% inlineImg /img/gear/paradise/HQ_201488_RESOURCE.PNG 48px %}{% inlineImg /img/gear/paradise/HQ_GEWURAH_EP_RECEIVER_AIRAMP.PNG 64px %}{% inlineImg /img/gear/paradise/HQ_GEWURAH_EP_RECEIVER_EXPANDER.PNG 64px %}{% inlineImg /img/gear/paradise/HQ_GEWURAH_EP_RECEIVER_TRACKER.PNG 64px %}
 
+{% hideToggle 副本血量 %}
+
+|血量|暴擊傷害抵抗|減傷
+|:-:|:-:|:-:
+|35000億|3000%|40%
+
+{% endhideToggle %}
+
+
 ---
 # 裝備製作與升級材料
 

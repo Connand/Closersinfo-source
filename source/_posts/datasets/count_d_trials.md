@@ -9,9 +9,7 @@ description: "D伯爵裝備資訊 (未完成)"
 
 ![](/img/gear/count_D/banner.png)
 
-> # 前言 (待補)
-
-{%youtube r2-5DvhJeTw %}
+> # 前言
 
 {% hideToggle <font color=#ff0000><b>劇情簡介</b></font> %}
 「歡——迎！封印者的勇士們！」
@@ -20,6 +18,8 @@ description: "D伯爵裝備資訊 (未完成)"
 當黃昏的布幕升起，機械之神的身影劃破天際——
 你，是否準備好揭開這最後的悲愴篇章？
 {% endhideToggle %}
+
+{%youtube r2-5DvhJeTw %}
 
 ---
 
