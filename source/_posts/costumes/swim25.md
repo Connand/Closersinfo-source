@@ -1,5 +1,5 @@
 ---
-title: 晴日大冒險 (2025泳裝)
+title: 晴天冒險 (2025泳裝)
 date: 2025-07-31 16:20:00
 tags:
     - 立繪時裝
@@ -34,7 +34,7 @@ description: "2025泳裝系列"
 ![](/img/swim25_banner.png)
 
 ---
-# 晴日大冒險 / Sunny Day Adventure
+# 晴天冒險 / Sunny Day Adventure
 
 ## 主題曲： "너와 함께 Summer Trip" (Vocal by saewool)
 

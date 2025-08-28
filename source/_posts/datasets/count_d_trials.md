@@ -1,5 +1,5 @@
 ---
-title: 夢幻君主的試煉—D爵士(Count D)裝備資訊
+title: 夢幻君主的試煉—D伯爵(Count D)裝備資訊
 date: 2025-08-19 16:09:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
@@ -11,7 +11,15 @@ description: "D伯爵裝備資訊 (未完成)"
 
 > # 前言 (待補)
 
+{%youtube r2-5DvhJeTw %}
 
+{% hideToggle <font color=#ff0000><b>劇情簡介</b></font> %}
+「歡——迎！封印者的勇士們！」
+在這方狹小卻無垠的劇場中，歡笑與淚水曾無數次交織…
+但所有史詩終將迎來終章。
+當黃昏的布幕升起，機械之神的身影劃破天際——
+你，是否準備好揭開這最後的悲愴篇章？
+{% endhideToggle %}
 
 ---
 
@@ -34,7 +42,7 @@ description: "D伯爵裝備資訊 (未完成)"
 
 {% endhideToggle %}
 
-## D 爵士 Raid
+## D 伯爵 Raid
 
 - 使用 Raid 系統進入副本
 - 額外獎勵：70x{% inlineImg /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}、250x{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}、250x{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}
@@ -68,7 +76,7 @@ BOSS資訊：
 
 {% endhideToggle %}
 
-## D 爵士 Raid (困難模式)
+## D 伯爵 Raid (困難模式)
 
 - **韓版預計於 2025/09/04 更新**
 
@@ -300,7 +308,7 @@ PLV: 260(傳說) / 275(史詩)
 
 ![](/img/gear/count_D/DLG_PVP_LOADING_GUST_USER_LADYD.PNG)
 <!-- endtab -->
-<!-- tab D爵士-->
+<!-- tab D伯爵-->
 {% inlineImg /img/gear/count_D/HQ_190014_CONSUMABLE.PNG 48px %}
 
 ![](/img/gear/count_D/DLG_PVP_LOADING_GUST_USER_DBACK.PNG)
