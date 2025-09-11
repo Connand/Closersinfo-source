@@ -175,8 +175,6 @@ description: "融合威嚴詳細內容說明"
 | **注意** | 請單獨製作{% inlineImg /img/effects/dream1.PNG 40px %}{% inlineImg /img/effects/dream2.PNG 40px %}{% inlineImg /img/effects/dream4.PNG 40px %}{% inlineImg /img/effects/dream5.PNG 40px %}即可，不要合併為{% inlineImg /img/effects/dream3.PNG 40px %}{% inlineImg /img/effects/dream6.PNG 40px %} |
 </div>
 
-(尚未完成)
-
 ---
 
 <style>

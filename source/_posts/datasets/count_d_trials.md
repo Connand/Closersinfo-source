@@ -4,7 +4,7 @@ date: 2025-08-19 16:09:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
 cover: /img/gear/count_D/banner.png
-description: "D伯爵裝備資訊 (未完成)"
+description: "D伯爵裝備資訊"
 ---
 
 ![](/img/gear/count_D/banner.png)
@@ -206,12 +206,12 @@ BOSS資訊：
 
 - 於升級介面中使用，傳說模組需升級至滿階段才可轉換
 - 消耗特定材料可以進行轉換
-- **<font color=red>史詩轉換</font>** 只能用於綁定模組，可交易模組無法使用 (?)尚未開放史詩製作
+- **<font color=red>史詩轉換</font>** 只能用於綁定模組，可交易模組無法使用
 
-|階數|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}|{% inlineImg https://i.imgur.com/Ixh5use.png 48px %}|
+|階數|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}|{% inlineImg /img/gear/count_D/HQ_201506_RESOURCE.PNG 48px %}|
 |:-:|:-:|:-:|:-:|
 |**L7轉換**|20,000,000|30|-|
-|**<font color=red>史詩轉換?</font>**|50,000,000|-|200|
+|**<font color=red>史詩轉換</font>**|50,000,000|-|200|
 
 ---
 
@@ -406,7 +406,14 @@ PLV: 260(傳說) / 275(史詩)
 |階段|1 階|2 階|3 階|4 階|5 階|6 階|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |場數|1 場|10 場|30 場|60 場|100 場|150 場|
-|獎勵<br>均為{% inlineImg /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}|1 箱|2 箱|4 箱|8 箱|16 箱|32 箱|
+|獎勵{% inlineImg /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}|1 |2 |4 |8 |16 |32 |
+
+- **完成Last night, 夢想之神的舞台的場數**
+
+|階段|1 階|2 階|3 階|4 階|5 階|6 階|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|場數|1 場|10 場|30 場|60 場|100 場|150 場|
+|獎勵{% inlineImg /img/gear/count_D/HQ_201506_RESOURCE.PNG 48px %}|1 |2 |3 |4 |5 |6 |
 
 ---
 
@@ -424,6 +431,7 @@ PLV: 260(傳說) / 275(史詩)
 
 > # 參考資料
 
+1. https://www.naddic.co.kr/ko/game/cls/event/announce/detail?contentNo=753
 1. https://www.naddic.co.kr/ko/game/cls/event/announce/detail?contentNo=702
-2. https://www.naddic.co.kr/ko/game/cls/event/announce/detail?contentNo=676
-3. 【【封印者韩服】D伯爵的梦幻演出 机制详解】 https://www.bilibili.com/video/BV1vGeGzaEq5/?share_source=copy_web&vd_source=2426657ea8060a3b8d41a50bede67b85
+1. https://www.naddic.co.kr/ko/game/cls/event/announce/detail?contentNo=676
+1. 【【封印者韩服】D伯爵的梦幻演出 机制详解】 https://www.bilibili.com/video/BV1vGeGzaEq5/?share_source=copy_web&vd_source=2426657ea8060a3b8d41a50bede67b85
