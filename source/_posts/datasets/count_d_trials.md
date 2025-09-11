@@ -19,7 +19,7 @@ description: "D伯爵裝備資訊 (未完成)"
 你，是否準備好揭開這最後的悲愴篇章？
 {% endhideToggle %}
 
-{%youtube r2-5DvhJeTw %}
+{%youtube ApiRhBGFoOo %}
 
 ---
 
@@ -28,11 +28,11 @@ description: "D伯爵裝備資訊 (未完成)"
 - BOSS類型：前腦型 {% inlineImg https://i.imgur.com/acS6rsI.png 48px %}
 - 角色等級需求：95
 
-## 夢幻姊妹的舞台
+> ## 夢幻姊妹的舞台
 
 - 入場限制：單人入場，額外獎勵每日各 1 次，共 2 次。
 - 建議戰力與裝備等級： 100,000,000
-- 額外獎勵（總共）：10x{% inlineImg /img/gear/count_D/HQ_201503_RESOURCE.PNG 48px %}、24x{% inlineImg /img/material/malek_crysyal.png 48px %}、100x{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}、100x{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}
+- 額外獎勵（總共）：10x{% inlineImg /img/gear/count_D/HQ_201503_RESOURCE.PNG 40px %}、24x{% inlineImg /img/material/malek_crysyal.png 40px %}、100x{% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}、100x{% inlineImg https://i.imgur.com/uUaELFR.png 40px %}
 
 {% hideToggle 副本血量 %}
 
@@ -42,23 +42,24 @@ description: "D伯爵裝備資訊 (未完成)"
 
 {% endhideToggle %}
 
-## D 伯爵 Raid
+> ## D 伯爵 Raid
 
 - 使用 Raid 系統進入副本
-- 額外獎勵：70x{% inlineImg /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}、250x{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}、250x{% inlineImg https://i.imgur.com/uUaELFR.png 48px %}
-- 機率掉落： **<font color=red>史詩模組</font>** {% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_BOOSTER_1.PNG 48px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_BOOSTER_2.PNG 48px %}
-{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_REGULATOR_1.PNG 48px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_REGULATOR_2.PNG 48px %}
-{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_TUBE_1.PNG 48px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_TUBE_2.PNG 48px %}
+- 額外獎勵：70x{% inlineImg /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}、250x{% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}、250x{% inlineImg https://i.imgur.com/uUaELFR.png 40px %} （ **<font color=red>注意</font>：額外獎勵次數與困難模式共用（獎勵相同）** ）
+- 機率掉落： **<font color=red>史詩模組</font>** {% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_BOOSTER_1.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_BOOSTER_2.PNG 40px %}
+{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_REGULATOR_1.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_REGULATOR_2.PNG 40px %}
+{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_TUBE_1.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_TUBE_2.PNG 40px %}
 
 |副本|建議戰力|入場建議|額外獎勵|目的|
 |:-:|:-:|:-:|:-:|:-:|
-|**歡樂的劇場姊妹**|120,000,000|建議 4 人|無|獲得僅限該次 Raid 生效的強大 Buff
-|**傷心的劇場姊妹**|120,000,000|建議 4 人|無|獲得僅限該次 Raid 生效的強大 Buff
-|**亡靈貴婦的更衣間**|150,000,000|建議 4 人|無|完成後可進入 **夢之神的舞台**
-|**夢之神的舞台**|200,000,000|建議 4 人|每周 1 次|取得額外獎勵
+|**開心的杜格娜、瑪格娜**|120,000,000|建議 4 人|無|獲得僅限該次 Raid 生效的強大 Buff
+|**悲傷的瑪格娜、杜格娜**|120,000,000|建議 4 人|無|獲得僅限該次 Raid 生效的強大 Buff
+|**死亡貴婦的服裝間**|150,000,000|建議 4 人|無|完成後可進入 **夢想之神的舞台**
+|**夢想之神的舞台**|200,000,000|建議 4 人|每周 1 次|取得額外獎勵
 
-- 通關 **歡樂的劇場姊妹** 時，獲得BUFF： **物理/魔法攻擊力 +10,000、空中/背擊/浮空暴擊傷害 +333%**
-- 通關 **傷心的劇場姊妹** 時，獲得BUFF： **物理/魔法攻擊力 +10,000、物理/魔法暴擊傷害 +900%**
+- 通關 **開心的杜格娜、瑪格娜** 時，獲得BUFF： **物理/魔法攻擊力 +10,000、空中/背擊/浮空暴擊傷害 +333%**
+- 通關 **悲傷的瑪格娜、杜格娜** 時，獲得BUFF： **物理/魔法攻擊力 +10,000、物理/魔法暴擊傷害 +900%**
+- 
 
 {% hideToggle 副本血量與系統 %}
 
@@ -76,9 +77,75 @@ BOSS資訊：
 
 {% endhideToggle %}
 
-## D 伯爵 Raid (困難模式)
+> ## D 伯爵 Raid (困難模式)
 
-- **韓版預計於 2025/09/04 更新**
+- 使用 Raid 系統進入副本
+- 額外獎勵：70x{% inlineImg /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}、250x{% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}、250x{% inlineImg https://i.imgur.com/uUaELFR.png 40px %} （ **<font color=red>注意</font>：額外獎勵次數與普通模式共用（獎勵相同）** ）
+- 機率掉落： **<font color=red>史詩模組</font>** {% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_BOOSTER_1.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_BOOSTER_2.PNG 40px %}
+{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_REGULATOR_1.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_REGULATOR_2.PNG 40px %}
+{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_TUBE_1.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_TUBE_2.PNG 40px %}
+- 透過 **競標系統** 可取得用於製作連身裝及用於模組史詩升級的 {% inlineImg /img/gear/count_D/HQ_201506_RESOURCE.PNG 40px %} 、輝煌連身{% inlineImg /img/gear/count_D/HQ_155423_RANDOMBOX.PNG 40px %}、史詩模組及其他道具
+
+|副本|建議戰力|入場建議|復活限制|額外獎勵|目的|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|**狂喜的劇場姊妹**|200,000,000|建議 4 人|2 次|無|能 **<font color=red>抵銷</font>** 僅限該次 Raid 生效 Debuff
+|**悲沉的劇場姊妹**|200,000,000|建議 4 人|2 次|無|能 **<font color=red>抵銷</font>** 僅限該次 Raid 生效 Debuff
+|**悲慘悼亡貴婦的更衣間**|200,000,000|建議 4 人|2 次|無|完成後可進入 **夢之神的舞台**
+|**Last night, 夢想之神的舞台**|250,000,000|建議 4 人|2 次|每周 1 次|取得額外獎勵
+
+- 通關 **狂喜的劇場姊妹** 時，抵銷 Debuff： **<font color=red>總 HP -99%、總物理/魔法防禦 -100%</font>**
+- 通關 **悲沉的劇場姊妹** 時，抵銷 Debuff： **<font color=red>最大 MP 減少 1500、總 MP -60%、超能聚集速度 -100%、超能爆發持續時間 -30 秒、技能消耗減少 -100%</font>**
+
+{% hideToggle 副本血量 %}
+
+BOSS資訊：
+|副本|血量|暴擊傷害抵抗|減傷
+|:-:|:-:|:-:|:-:
+|**狂喜的劇場姊妹**|40000億|5000%|0%
+|**悲沉的劇場姊妹**|40000億|5000%|0%
+|**悲慘悼亡貴婦的更衣間**<br>階段一<br>階段二<br>虛弱狀態|<br>65000億<br>65000億<br>-|<br>5000%<br>5000%<br>3000%|<br>40%<br>40%<br>30%
+|**Last night, 夢想之神的舞台**<br>階段一<br>階段二<br>階段三<br>虛弱狀態|<br>18000億<br>63000億<br>83000億<br>-|<br>5000%<br>5000%<br>5000%<br>3000%|<br>50%<br>50%<br>50%<br>50%
+
+{% endhideToggle %}
+
+{% hideToggle 競標系統 %}
+
+**競標系統**
+- 每隻角色每周會重置 1 次 **競標次數** 。
+- 隊伍至少有 2 名以上成員及 1 次以上 **競標次數** 時，在完成 **Last night, 夢想之神的舞台** 後，將開啟競標系統 UI。
+- 依照隊伍所持有的 **競標次數** ，越多次則格子越多與獎勵越好。
+![](/img/gear/count_D/UI.png)
+
+- 競標系統可競標道具：
+
+{% inlineImg /img/gear/count_D/HQ_201506_RESOURCE.PNG 40px %}
+{% inlineImg https://i.imgur.com/sGKimWM.png 40px %}
+{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %}
+{% inlineImg /img/material/real_color_driver.png 40px %}
+{% inlineImg /img/material/real_platinum_driver.png 40px %}
+{% inlineImg /img/material/chip_slot_change.png 40px %}
+{% inlineImg /img/material/HQ_404741_RANDOMBOX.PNG 40px %}
+{% inlineImg https://i.imgur.com/8oCLggp.png 40px %}
+{% inlineImg /img/gear/count_D/HQ_1499002200_GUST_INVALID_NA.PNG 40px %}
+{% inlineImg /img/gear/count_D/HQ_1499001701_GUST_INVALID_NA.PNG 40px %}
+{% inlineImg /img/gear/count_D/HQ_1499001903_GUST_INVALID_NA.PNG 40px %}
+{% inlineImg /img/gear/count_D/HQ_1499001406_GUST_INVALID_NA.PNG 40px %}
+{% inlineImg /img/gear/count_D/HQ_1799000401_GUST_INVALID_NA.PNG 40px %}
+{% inlineImg /img/gear/count_D/HQ_190013_CONSUMABLE.PNG 40px %}
+{% inlineImg /img/gear/count_D/HQ_190014_CONSUMABLE.PNG 40px %}
+{% inlineImg /img/effects/beel0.PNG 40px %}
+{% inlineImg /img/effects/HQ_799989316_GUST_INVALID_NA.PNG 40px %}
+{% inlineImg /img/effects/HQ_799996516_GUST_INVALID_NA.PNG 40px %}
+{% inlineImg /img/effects/HQ_799998516_GUST_INVALID_NA.PNG 40px %}
+
+**立繪票選擇箱、立繪票全套箱** {% inlineImg /img/gear/count_D/HQ_190013_CONSUMABLE.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_190014_CONSUMABLE.PNG 40px %}
+**飾品全套箱** {% inlineImg /img/gear/count_D/HQ_1499002200_GUST_INVALID_NA.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_1499001701_GUST_INVALID_NA.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_1499001903_GUST_INVALID_NA.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_1499001406_GUST_INVALID_NA.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_1799000401_GUST_INVALID_NA.PNG 40px %}
+**稀有連身選擇箱子** {% inlineImg /img/gear/count_D/HQ_1400000308_GUST_USER_STRIKER_CLOTH_211_A.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_1401000308_GUST_USER_CASTER_CLOTH_210_A.PNG 40px %}
+**滿升級武器箱** {% inlineImg /img/gear/count_D/HQ_OPERA_LEGEND_CORE_CLAW.PNG 40px %}
+**<font color=red>輝煌連身選擇箱子</font>** {% inlineImg /img/gear/count_D/HQ_1400000308_GUST_USER_STRIKER_CLOTH_211_A.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_1401000308_GUST_USER_CASTER_CLOTH_210_A.PNG 40px %}
+**<font color=red>史詩模組</font>**{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_BOOSTER_1.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_BOOSTER_2.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_REGULATOR_1.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_REGULATOR_2.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_TUBE_1.PNG 40px %}{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_TUBE_2.PNG 40px %}
+
+{% endhideToggle %}
 
 ---
 
@@ -131,6 +198,9 @@ BOSS資訊：
 |**單件總和(秘藥)**|34,000,000|510|510|34|60|
 |**<font color=red size=3>兩件總和</font>**|300,000,000|4500|4500|300|-|
 |**<font color=red size=3>兩件總和(秘藥)</font>**|68,000,000|1020|1020|68|120|
+|---
+|**<font color=red size=3>史詩升級(單件)</font>**|400,000,000|12000|12000|-|{% inlineImg /img/gear/count_D/HQ_201506_RESOURCE.PNG 40px %}<br>1000|
+
 
 ## 模組轉換
 
@@ -278,14 +348,26 @@ PLV: 260(傳說) / 275(史詩)
 
 ## 製作材料
 
-|飾品|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg  /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}|
-|:-:|:-:|:-:|
-|**能力 / 外觀飾品**|50,000,000|120|
-|**立繪臂章飾品**|10,000,000|300|
+|飾品|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg  /img/gear/count_D/HQ_201505_RESOURCE.PNG 48px %}|{% inlineImg /img/gear/count_D/HQ_201506_RESOURCE.PNG 48px %}|
+|:-:|:-:|:-:|:-:|
+|**能力 / 外觀飾品**|50,000,000|120|-|
+|**立繪臂章飾品**|10,000,000|300|-|
+|**稀有連身時裝**|40,000,000|{% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}{% inlineImg https://i.imgur.com/uUaELFR.png 40px %}<br>1200|100|
 
 ## 連身時裝
 
-- **韓版預計於 2025/09/04 更新**
+{% inlineImg /img/gear/count_D/HQ_1400000308_GUST_USER_STRIKER_CLOTH_211_A.PNG 48px %}{% inlineImg /img/gear/count_D/HQ_1401000308_GUST_USER_CASTER_CLOTH_210_A.PNG 48px %}
+
+- 適用新重鑄上限（重鑄範圍： B - EX ）
+- 重鑄最大值變為 10 次
+- 有 **稀有** 與 **<font color=red>輝煌</font>** 等級，其中 **<font color=red>輝煌</font>** 僅能透過競標系統獲得。
+
+|能力|夢幻潛行者|**稀有**|**<font color=red>輝煌</font>**|
+|:-:|:-:|:-:|:-:|
+|物理/魔法爆傷|30%|45%|60%|
+|攻擊速度|3.0%|4.5%|6.0%|
+|超能爆發時增加傷害|20%|45%|60%|
+|<正式/執行者必殺(2大)> Lv.|+1|+1|+1
 
 ## 飾品
 

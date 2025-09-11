@@ -23,6 +23,8 @@ tags:
     - 銀河
     - 愛里
     - 露西
+    - 伊莉雅
+    - 特莉絲
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/Bz4VY2s.png
 description: "Demonic Heartbeat"
@@ -40,6 +42,7 @@ description: "Demonic Heartbeat"
 有另類部位：
 - 髮型：全角色
 - 另類上衣：徐維莉、蕾比雅、哈比、薇歐莉特、索瑪、白、未來、銀河、愛里
+- **湊齊任意型號左六及飾品可使用特殊動作**
 
 {% hideToggle 模組預覽 %}
 ![](https://imgur.com/D83Y5yXh.png)
@@ -54,11 +57,9 @@ description: "Demonic Heartbeat"
 ## 主題曲、動作
 
 - 主題曲："Catch Your Heart" x 장예나  
-{%youtube w8uFYwBpkQ8 %}
-
-- 動作預覽
-**湊齊任意型號左六以及腰部飾品可解鎖特殊動作**
-{%youtube 2zn5KtaMuIk %}
+{% hideToggle 收放區名稱 %}
+{%youtube UEMsGjLPqwc %}
+{% endhideToggle %}
 
 
 ---
@@ -126,6 +127,12 @@ description: "Demonic Heartbeat"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/Q775FAGh.jpg)](https://i.imgur.com/Q775FAG.jpg)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/rLt2v34h.jpg)](https://i.imgur.com/rLt2v34.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/XKBXHoCh.jpg)](https://i.imgur.com/XKBXHoC.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -190,6 +197,12 @@ description: "Demonic Heartbeat"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/I2AUs0dh.jpg)](https://i.imgur.com/I2AUs0d.jpg)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/Q1qz1Zih.jpg)](https://i.imgur.com/Q1qz1Zi.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/RLwXdZ7h.jpg)](https://i.imgur.com/RLwXdZ7.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
