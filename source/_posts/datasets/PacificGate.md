@@ -324,9 +324,11 @@ description: "新首爾支部：作戰指揮室裝備資訊"
 
 - **獎勵內容為固定如下**
 
+- 台版已於2025年9月11日更新後，刪除獎勵{% inlineImg https://i.imgur.com/jyAxYjX.png 40px %}{% inlineImg https://i.imgur.com/Ll5YvaS.png 40px %}{% inlineImg /img/material/malek_diamond.png 40px %}
+
 |{% inlineImg https://i.imgur.com/jyAxYjX.png 40px %}(普通)<br>{% inlineImg https://i.imgur.com/Ll5YvaS.png 40px %}(困難)|{% inlineImg /img/material/malek_diamond.png 40px %}|{% inlineImg https://i.imgur.com/NHsNGzN.png 40px %}|{% inlineImg https://i.imgur.com/R1opdqg.png 40px %}或{% inlineImg https://i.imgur.com/KdGq7Qg.png 40px %}<br>**僅限困難模式**|
 |:-:|:-:|:-:|:-:|
-|1|4|4|4|
+|~~1~~|~~4~~|4|4|
 </div>
 <div class="childDiv">
 

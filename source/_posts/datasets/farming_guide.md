@@ -28,12 +28,13 @@ sticky: 1
 |副本名稱|入場限制|建議戰力|主要素材
 |:-|:-|:-|:-
 |--- **<font color=#0aa size=4>組隊系列</font>**|||
-|[**<font color=red>無知樂園</font>**](/datasets/gewurah/)|每周獎勵 1 次|**<font color=red>120,000,000</font>**|接收器、稱號、飾品、~~史詩接收器~~
+|[**<font color=red>D伯爵觀賞團</font>**](/datasets/count_d_trials/)|每周獎勵 1 次|**<font color=red>120,000,000</font>**|大光大彩、模組、立繪、飾品、~~史詩模組~~
 |[魔龍王](/datasets/hecatoncheires/)|龍 2 每周獎勵 2 次|**80,000,000**|魔龍裝備、飾品、~~史詩裝備~~
 |火焰的喜劇：黑暗之城|每周 1 次|45,000,000|大彩大光、~~史詩接收器~~
 |調查隊：野獸王|每周 4 場|25,000,000|
 |調查隊：機械王|每周 4 場|18,000,000|
 |--- **<font color=#0aa size=4>單人系列</font>**|||
+|[**<font color=red>無知樂園</font>**](/datasets/gewurah/)|每周獎勵 1 次|**<font color=red>120,000,000</font>**|接收器、稱號、飾品、~~史詩接收器~~
 |[突破挑戰S2](/datasets/break_challenge_S2/)小關|每周 3 場|85,000,000|入場券、觸發器
 |[突破挑戰](/datasets/break_challenge/)小關|每周 3 場|45,000,000|入場券、觸發器
 |[軍團程式](/datasets/spec/skill_cube/)<br>**可以重複打同一關**|每周 2 次(帳號)|10,000,000 標稱|融合威嚴素材
@@ -57,6 +58,7 @@ sticky: 1
 
 |副本名稱|入場限制|建議戰力|目標
 |:-|:-|:-|:-
+|[**<font color=red>D伯爵悲喜劇</font>**](/datasets/count_d_trials/)|每日獎勵 2 次|**<font color=red>120,000,000</font>**|武器材料、大光大彩
 |[**<font color=red>18村收集副本</font>**](/datasets/MartyrsHill/#%E6%94%B6%E9%9B%86%E5%89%AF%E6%9C%AC)|每日帳號 6 次|-|依需求選擇<br>**一般建議次元材料與PNA**
 |[18村](/datasets/MartyrsHill/)|每日共 3 次|最高100,000,000|版本裝備、部分素材
 |[魔龍王](/datasets/hecatoncheires/)|龍 1 每日 2 次|60,000,000|版本裝備、部分素材

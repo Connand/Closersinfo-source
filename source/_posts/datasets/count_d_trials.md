@@ -59,7 +59,6 @@ description: "D伯爵裝備資訊"
 
 - 通關 **開心的杜格娜、瑪格娜** 時，獲得BUFF： **物理/魔法攻擊力 +10,000、空中/背擊/浮空暴擊傷害 +333%**
 - 通關 **悲傷的瑪格娜、杜格娜** 時，獲得BUFF： **物理/魔法攻擊力 +10,000、物理/魔法暴擊傷害 +900%**
-- 
 
 {% hideToggle 副本血量與系統 %}
 
@@ -385,7 +384,7 @@ PLV: 260(傳說) / 275(史詩)
 ## 立繪臂章
 
 {% tabs 立繪臂章, -1 %}
-<!-- tab 莫塔女士-->
+<!-- tab 莫爾塔女士-->
 {% inlineImg /img/gear/count_D/HQ_190013_CONSUMABLE.PNG 48px %}
 
 ![](/img/gear/count_D/DLG_PVP_LOADING_GUST_USER_LADYD.PNG)

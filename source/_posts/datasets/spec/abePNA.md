@@ -33,7 +33,7 @@ description: "異形PNA系統介紹(Aberrant PNA)"
 |**特莉絲暴走的魔眼**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_TRISS.PNG 48px %}<br>**<font color=red>推薦</font>**| 使用 **[超能爆發]** 後，直到 HP 低於 10% 前套用以下效果：<br>1. 每秒受到 HP 上限 5% 的持續傷害。<br>2. 承受傷害量增加 25%<br>3. 空中/背擊/浮空 暴擊傷害+ **82%(<font color=red>100%</font>)** <br>4. 霸體等級Lv. 1 |
 |**格布拉奔馳的馬蹄**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_GEWURAH.PNG 48px %}<br>**<font color=red>推薦</font>**| 使用 **[緊急閃避]** 後，60秒內物理/魔法攻擊力+ **1640(<font color=red>2000</font>)** 、總物理/魔法攻擊力+ **8.2%(<font color=red>10%</font>)** 、移動速度+**8.2%(<font color=red>10%</font>)** 。 **[及時閃避]** 時，7 秒內效果變更為 3 倍。 |
 |**D爵士的聚光燈**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_COUNT_D.PNG 48px %}<br>**<font color=red>推薦(團隊)</font>**| 使用 **[強制阻斷]** 時，產生一區域使物理/魔法暴擊傷害提升 **164%(<font color=red>200%</font>)** ，持續 60 秒。 |
-|**莫塔女士的生命之剪**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_LADY_D.PNG 48px %}<br>**<font color=red>推薦(團隊)</font>**| 攻擊目標時，使目標 10 秒內目標暴擊傷害抵抗減少 **164%(<font color=red>200%</font>)** 。 |
+|**莫爾塔女士的生命之剪**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_LADY_D.PNG 48px %}<br>**<font color=red>推薦(團隊)</font>**| 攻擊目標時，使目標 10 秒內目標暴擊傷害抵抗減少 **164%(<font color=red>200%</font>)** 。 |
 
 </div>
 
@@ -46,7 +46,7 @@ description: "異形PNA系統介紹(Aberrant PNA)"
 |**特莉絲暴走的魔眼**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_TRISS.PNG 48px %}| 必殺程式：憤怒威嚴特莉絲 |
 |**格布拉奔馳的馬蹄**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_GEWURAH.PNG 48px %}| 樂園叢棘 |
 |**D爵士的聚光燈**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_COUNT_D.PNG 48px %}| D爵士試煉 |
-|**莫塔女士的生命之剪**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_LADY_D.PNG 48px %}| D爵士試煉 |
+|**莫爾塔女士的生命之剪**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_LADY_D.PNG 48px %}| D爵士試煉 |
 {% endhideToggle %}
 
 ---
