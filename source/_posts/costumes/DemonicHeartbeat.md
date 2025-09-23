@@ -35,6 +35,7 @@ description: "Demonic Heartbeat"
 ---
 ## 惡魔的心跳(Demonic Heartbeat)
 
+- 韓文：데모닉 하트비트
 **注意**：立繪僅分一般和特殊，模組分2型
 
 部位：武器、髮型、上衣、下衣、手套、鞋子、{% label 腰部 green %}、{% label 特效 green %}

@@ -214,7 +214,7 @@ description: "重點寵物能力資料"
 <!-- endtab -->
 
 <!-- tab <img class="inline-img" src="https://i.imgur.com/acS6rsI.png" style="height:32px">前腦型-->
-1. {% inlineImg https://i.imgur.com/Bb35FyU.png 48px %}**<迷你莫爾塔女士>**
+1. {% inlineImg https://i.imgur.com/Bb35FyU.png 48px %}**<迷你莫爾塔小姐>**
 
 <div class="altop">
 
