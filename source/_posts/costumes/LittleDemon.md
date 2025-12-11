@@ -22,6 +22,9 @@ tags:
     - 徹斯
     - 銀河
     - 露西
+    - 愛里
+    - 伊莉雅
+    - 特莉絲
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/l3Qjmkkh.jpg
 description: ""
@@ -32,11 +35,11 @@ description: ""
 ---
 ## 誘惑小惡鬼
 
-
+韓文：유혹의 리틀데몬
 部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}
 
 [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_LittleDemon_210128.zip)
+[立繪下載](https://landing.naddic.co.kr/Images/cms/happycode/20250929/1759138059349.zip)
 ---
 
 {% tabs 類型 %}
@@ -98,6 +101,15 @@ description: ""
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/biuxRaph.jpg)](https://i.imgur.com/biuxRap.jpg)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/Fm3vLw2h.jpg)](https://i.imgur.com/Fm3vLw2.jpg)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/w6Yfcoah.jpg)](https://i.imgur.com/w6Yfcoa.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/Rw6ucJqh.jpg)](https://i.imgur.com/Rw6ucJq.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -180,6 +192,15 @@ description: ""
 [![](https://i.imgur.com/byv3r2Lh.jpg)](https://i.imgur.com/byv3r2L.jpg)
 [![](https://i.imgur.com/xtJ57mgh.png)](https://i.imgur.com/xtJ57mg.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/UwXEGYIh.jpg)](https://i.imgur.com/UwXEGYI.jpg)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/sgbbLouh.jpg)](https://i.imgur.com/sgbbLou.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/CAKhReQh.jpg)](https://i.imgur.com/CAKhReQ.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -261,6 +282,15 @@ description: ""
 [![](https://i.imgur.com/D0WZ64Wh.jpg)](https://i.imgur.com/D0WZ64W.jpg)
 [![](https://i.imgur.com/O83UqGNh.png)](https://i.imgur.com/O83UqGN.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/rPcGgF5h.jpg)](https://i.imgur.com/rPcGgF5.jpg)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/MNPcWvuh.jpg)](https://i.imgur.com/MNPcWvu.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/vm18wlph.jpg)](https://i.imgur.com/vm18wlp.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -341,6 +371,15 @@ description: ""
 <!-- tab 露西(Lucy)-->
 [![](https://i.imgur.com/VHgKAtth.jpg)](https://i.imgur.com/VHgKAtt.jpg)
 [![](https://i.imgur.com/KUpW0bYh.png)](https://i.imgur.com/KUpW0bY.png)
+<!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/gEdnMTWh.jpg)](https://i.imgur.com/gEdnMTW.jpg)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/Fhstp78h.jpg)](https://i.imgur.com/Fhstp78.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/fx6vr4Vh.jpg)](https://i.imgur.com/fx6vr4V.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

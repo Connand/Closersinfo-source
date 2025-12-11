@@ -25,6 +25,7 @@ tags:
     - 露西
     - 愛里
     - 伊莉雅
+    - 特莉絲
 category: [時裝, 輝煌時裝]
 cover: https://i.imgur.com/85hinXsh.jpg
 description: "第二套輝煌時裝(Unique costume)"
@@ -34,10 +35,12 @@ description: "第二套輝煌時裝(Unique costume)"
 
 ---
 ## 所羅門武裝(Solomon’s Vestments)
+
+韓文：솔로몬의 예복
 所羅門武裝(Solomon’s Vestments)是基於前一年的閃耀之星，所接連出的第二套輝煌時裝(Unique costume)。於[AMAZING CLOSERS](https://www.youtube.com/watch?v=1ZKj7cuBx6Q)預告片中釋出
 
 [台版介紹網頁](https://landing.mangot5.com/template/cls/event/211223_solomon/index.html)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_Solomon_L50JRW0NEDOBZK5P.zip)
+[立繪下載](https://landing.naddic.co.kr/Images/cms/happycode/20251118/1763456490986.zip)
 
 所需十件套才可啟動立繪、語音、特效；動作擁有六件套即可
 十件套部位：部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 臉中 green %}、{% label 背部 green %}、{% label 瞳孔 green %}
@@ -97,6 +100,9 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
 [![](https://i.imgur.com/fFksfGBh.jpg)](https://i.imgur.com/fFksfGB.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/CaC8lpnh.jpg)](https://i.imgur.com/CaC8lpn.jpg)
 <!-- endtab -->
 <!-- tab 動作(納塔~薇歐莉特)-->
 {%youtube r5xZP1OonsM %}

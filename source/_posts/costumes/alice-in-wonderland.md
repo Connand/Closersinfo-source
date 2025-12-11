@@ -23,6 +23,8 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
+    - 特莉絲
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/pyMDsC0h.jpg
 description: "Alice in Wonderland"
@@ -33,12 +35,13 @@ description: "Alice in Wonderland"
 ---
 ## Alice in Wonderland
 
+韓文：인 원더랜드
 **注意**：立繪僅分一般和特殊
 需要取得**除特效外**所有部位才可取得立繪
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉上(眼罩) green %}、{% label 腰部(金飾) green %}、{% label 特效(撲克牌)不影響立繪取得 green %}
 
 [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_InWonderLand_210302_objaqz.zip)
+[立繪下載](https://landing.naddic.co.kr/Images/cms/happycode/20251104/1762242528621.zip)
 ---
 
 {% tabs 類型 %}
@@ -104,6 +107,12 @@ description: "Alice in Wonderland"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/nmkQMFjh.jpg)](https://i.imgur.com/nmkQMFj.jpg)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/XTlUSdZh.jpg)](https://i.imgur.com/XTlUSdZ.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/PUVjnX7h.jpg)](https://i.imgur.com/PUVjnX7.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -168,6 +177,12 @@ description: "Alice in Wonderland"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/q7yPQmsh.jpg)](https://i.imgur.com/q7yPQms.jpg)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/wEbvEA3h.jpg)](https://i.imgur.com/wEbvEA3.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/W6mpUl3h.jpg)](https://i.imgur.com/W6mpUl3.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

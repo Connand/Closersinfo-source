@@ -31,7 +31,7 @@ description: "Hip-hop Street Crew"
 ![](https://imgur.com/Y67GWE7.png)
 
 ---
-# 度假牛仔
+# 嘻哈街頭幫
 
 
 **注意**：無立繪，**為第三套可染色時裝**

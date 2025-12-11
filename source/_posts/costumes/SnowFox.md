@@ -23,6 +23,8 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
+    - 特莉絲
 category: [時裝, 有立繪, 全角色]
 cover: https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4836960072464597153
 description: "Snow Fox"
@@ -40,6 +42,7 @@ description: "Snow Fox"
 ---
 ## Snow Fox
 
+韓文：몽실몽실 눈여우
 配合[三位一體之輪](/costumes/rare/Wheel_of_Trinity/)推出的時裝
 
 **注意**：立繪僅分一般和特殊，模組分2型
@@ -48,7 +51,7 @@ description: "Snow Fox"
 
 [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 宣傳頁面
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_SnowFox_221201_30FH49FJL49DK2.zip)
+[立繪下載](https://landing.naddic.co.kr/Images/cms/happycode/20251120/1763604589451.zip)
 ---
 
 {% tabs 類型 %}
@@ -114,6 +117,12 @@ description: "Snow Fox"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/CRRcQG5h.png)](https://i.imgur.com/CRRcQG5.png)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/4wqzTFqh.jpg)](https://i.imgur.com/4wqzTFq.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/Jd8mUOsh.jpg)](https://i.imgur.com/Jd8mUOs.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -178,6 +187,12 @@ description: "Snow Fox"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/tjQsTSWh.png)](https://i.imgur.com/tjQsTSW.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/13jggish.jpg)](https://i.imgur.com/13jggis.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/VAwNwiih.jpg)](https://i.imgur.com/VAwNwii.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
