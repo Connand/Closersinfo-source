@@ -1,6 +1,6 @@
 ---
 title: 光環小精靈(Aura Pixies)
-date: 2025-09-23 16:23:00
+date: 2025-12-04 17:23:00
 tags:
     - 立繪時裝
     - 李世河
@@ -38,11 +38,12 @@ description: "Aura Pixies"
 - 韓文：아우라 픽시즈
 **注意**：立繪僅分一般和特殊，模組分 3 型
 部位：武器、**髮型**、上衣、下衣、手套、鞋子、{% label 臉中 green %}、{% label 特效 green %}
-- **髮型 與 臉中僅單一型**
+- **髮型、臉中與特效僅單一型**
 - 依照套裝效果啟動以下內容：
   - 持有 6 件（不含特效）：專屬表情（動作）
   - 持有 7 件：普通立繪
   - 持有 8 件：特殊立繪
+- 另外可抽取傷害字體票券與連擊字體票券
 
 
 {% hideToggle 主題曲：HYPERMODE %}
@@ -51,6 +52,11 @@ description: "Aura Pixies"
 
 {% hideToggle 模組預覽 %}
 ![](https://i.imgur.com/neXp3uK.png)
+{% endhideToggle %}
+
+{% hideToggle 傷害字體票券與連擊字體票券預覽 %}
+![](https://i.imgur.com/pbDpis2.png)
+![](https://i.imgur.com/CkM6oMB.png)
 {% endhideToggle %}
 
 

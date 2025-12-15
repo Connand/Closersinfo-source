@@ -4,7 +4,7 @@ date: 2024-12-13 18:20:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
 cover: https://i.imgur.com/H73Vaw5h.png
-description: "新首爾支部：作戰指揮室裝備資訊"
+description: "殉道者的山丘裝備資訊"
 ---
 ![](https://i.imgur.com/H73Vaw5.png)
 
