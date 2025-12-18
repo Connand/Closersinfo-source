@@ -51,7 +51,7 @@ description: "反擊的號角響起，一起奪回失去的城市、家人與朋
 |**通關獎勵（次數不限）**|{% inlineImg /img/gear/chromite/HQ_201523_RESOURCE.PNG 40px %}1|||||
 
 **稀有掉落（取代通關獎勵）** ：
-- 異形PNA {% inlineImg /img/gear/chromite/HQ_ICON_PNA_BOSS_PHENEX.PNG 40px %}{% inlineImg /img/gear/chromite/HQ_ICON_PNA_BOSS_ABYSS_JINAGRACE.PNG 40px %}
+- 異形PNA {% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_PHENEX.PNG 40px %}{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_ABYSS_JINAGRACE.PNG 40px %}
 - 飾品 {% inlineImg /img/gear/chromite/HQ_1799003800_GUST_INVALID_NA.PNG 40px %}{% inlineImg /img/gear/chromite/HQ_1799000701_GUST_INVALID_NA.PNG 40px %}{% inlineImg /img/gear/chromite/HQ_1499002001_GUST_INVALID_NA.PNG 40px %}{% inlineImg /img/gear/chromite/HQ_1499002500_GUST_INVALID_A.PNG 40px %}{% inlineImg /img/gear/chromite/HQ_1499002607_GUST_INVALID_NA.PNG 40px %}{% inlineImg /img/gear/chromite/HQ_1499000407_GUST_INVALID_NA.PNG 40px %}
 - 晶片 {% inlineImg /img/gear/chromite/HQ_41_NEW_CHIP.PNG 40px %}{% inlineImg /img/gear/chromite/HQ_541_NEW_CHIP.PNG 40px %}{% inlineImg /img/gear/chromite/HQ_1401_CHIP.PNG 40px %}
 - 史詩模組 {% inlineImg /img/gear/chromite/HQ_AREA_15_MODULE_EP_BOOSTER.PNG 40px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_MODULE_EP_REGULATOR.PNG 40px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_MODULE_EP_TUBE.PNG 40px %}
@@ -108,7 +108,7 @@ description: "反擊的號角響起，一起奪回失去的城市、家人與朋
 |種類|效果|
 |:-:|:-|
 |**菲尼克斯的墮落之焰**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_PHENEX.PNG 48px %}| 獲得負面效果 **[燒傷]** 。對隨機目標以 2 億的基礎值造成傷害。冷卻時間 **19.5(<font color=red>15</font>)** 秒。<br>註：非真實傷害，且受 **增傷/減傷/暴擊(含暴擊傷害抵抗)/條件** 影響。 **[燒傷]：每秒 HP 減少 2%（不疊加）**。 |
-|**吉娜·葛蕾絲的黑色狂風**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_ABYSS_JINAGRACE.PNG 48px %}<br>**<font color=red>推薦(征服項目)</font>**| 使用終極技能結束後，對大範圍敵人造成最大生命值 **4.1%(<font color=red>5%</font>)** 的傷害。<br>註：可受 **易傷(使敵人受到傷害增加)** 影響。 |
+|**吉娜·葛蕾絲的黑色狂風**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_ABYSS_JINAGRACE.PNG 48px %}<br>**<font color=red>推薦(征服項目)</font>**| 使用終極技能結束後，對大範圍敵人造成最大生命值 **4.1%(<font color=red>5%</font>)** 的傷害。<br>註：真實傷害。可受 **易傷(使敵人受到傷害增加)** 影響。 |
 
 > ### 製作與升級材料需求
 
@@ -143,7 +143,7 @@ description: "反擊的號角響起，一起奪回失去的城市、家人與朋
 
 ---
 
-> # 裝備能力 (待更新)
+> # 裝備能力
  
 - [點此](/datasets/PacificGate/#%E8%A3%9D%E5%82%99%E8%83%BD%E5%8A%9B)查看 17 村裝備數值
 - **<font color=red>請再次注意</font>：對應位置的裝備無法重複裝備，請參考上方表格**
@@ -152,7 +152,14 @@ description: "反擊的號角響起，一起奪回失去的城市、家人與朋
 {% tabs 大門守衛者裝備能力 %}
 <!-- tab 晶片-->
 
-僅列舉超頻額外能力
+基礎能力
+
+|晶片|效果|
+|:-:|:-|
+|{% inlineImg /img/gear/chromite/HQ_41_NEW_CHIP.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_541_NEW_CHIP.PNG 48px %}|物理/魔法暴擊傷害 +10%
+|{% inlineImg /img/gear/chromite/HQ_1401_CHIP.PNG 48px %}|物理/魔法攻擊力 +150<br>空中/背擊/浮空暴擊傷害 +35%
+
+超頻額外能力
 
 |晶片|額外能力所需超頻等級|效果|
 |:-:|:-:|:-|
@@ -162,13 +169,13 @@ description: "反擊的號角響起，一起奪回失去的城市、家人與朋
 
 
 <!-- endtab -->
-<!-- tab 模組(待更新)-->
+<!-- tab 模組-->
 
-|詞條 | 17村L2 | L0 | L1 | L2 | **<font color=red>史詩</font>** |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|攻擊力(單/混)| +2400 / +2160 | +2400 / +2160 | +2500 / +2250 | +2600 / +2340 | +2900 / +2610 |
-|爆擊傷害| +360% / +324% | +360% / +324%| +375% / +338% | +390% / +351% | +435% / +392% |
-|3條件爆擊傷害| +48% | +48% | +50% | +52% | +58% |
+|詞條 | 17村L2 | 18村L2 | L0 | L1 | L2 | 18村史詩 | **<font color=red>史詩</font>** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|攻擊力(單/混)| 2400 <br> 2160 | 2600 <br> 2340 | 2600 <br> 2340 | 2700 <br> 2430 | 2800 <br> 2520 | 2900 <br> 2610 | 3100 <br> 2790 |
+|爆擊傷害| 360% <br> 324% | 390% <br> 351% | 390% <br> 351% | 405% <br> 365% | 420% <br> 378% | 435% <br> 392% | 465% <br> 419% |
+|3條件爆擊傷害| 48% | 52% | 52% | 54% | 56% | 58% | 62% |
 
 **強化解放能力**
 
@@ -178,37 +185,7 @@ description: "反擊的號角響起，一起奪回失去的城市、家人與朋
 |混合模組|總攻擊力 +1.4%|所有類型傷害 +10%|總攻擊力 +2.8%|所有類型傷害 +20%|
 
 <!-- endtab -->
-<!-- tab <b>L0護盾(待更新)</b>-->
-
-+ {% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**刺客護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
-+ {% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**初生護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
-+ {% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**極惡闇影護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
-
-|裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP |
-|:-:|:-:|:-:|:-:|:-:|
-|戒指| +1000 / +900 | +22% / +19.8% | **(1)** +383% / +345% | +4400 |
-|項鍊| +1000 / +900 | +22% / +19.8% | **(2)** +140% | +4400 |
-|娃娃| +6237 / +5613 | +22% / +19.8% | - | **所有種族傷害增加 +33%** |
-
-- 備註：數值有用斜線 (/) 區分時，意思為： **物理或魔法 / 混合**
-
-<!-- endtab -->
-<!-- tab <b>L1護盾(待更新)</b>-->
-
-+ {% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**刺客護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
-+ {% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**初生護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
-+ {% inlineImg https://i.imgur.com/D1UP0mc.png 48px %}{% inlineImg https://i.imgur.com/BdN6Xba.png 48px %}{% inlineImg https://i.imgur.com/axcTgaA.png 48px %}**極惡闇影護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
-
-|裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP |
-|:-:|:-:|:-:|:-:|:-:|
-|戒指| +1045 / +941 | +23% / +20.7% | **(1)** +400% / +360% | +4600 |
-|項鍊| +1045 / +941 | +23% / +20.7% | **(2)** +147% | +4600 |
-|娃娃| +6520 / +5868 | +23% / +20.7% | - | **所有種族傷害增加 +34%** |
-
-- 備註：數值有用斜線 (/) 區分時，意思為： **物理或魔法 / 混合**
-
-<!-- endtab -->
-<!-- tab <b>L2護盾(待更新)</b>-->
+<!-- tab 18村L2護盾-->
 
 + {% inlineImg https://i.imgur.com/bsCp9rQ.png 48px %}{% inlineImg https://i.imgur.com/NcloxvV.png 48px %}{% inlineImg https://i.imgur.com/3m88GR9.png 48px %}**刺客護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
 + {% inlineImg https://i.imgur.com/kR7VX9I.png 48px %}{% inlineImg https://i.imgur.com/jubbNhA.png 48px %}{% inlineImg https://i.imgur.com/BTPaTfa.png 48px %}**初生護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
@@ -219,6 +196,51 @@ description: "反擊的號角響起，一起奪回失去的城市、家人與朋
 |戒指| +1091 / +982 | +24% / +21.6% | **(1)** +417% / +375% | +4800 |
 |項鍊| +1091 / +982 | +24% / +21.6% | **(2)** +153% | +4800 |
 |娃娃| +6804 / +6124 | +24% / +21.6% | - | **所有種族傷害增加 +35%** |
+
+- 備註：數值有用斜線 (/) 區分時，意思為： **物理或魔法 / 混合**
+
+<!-- endtab -->
+<!-- tab <b>L0護盾</b>-->
+
++ {% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_AMULET_1.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_RING_1.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_MASCOT_1.PNG 48px %}**墮天使護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
++ {% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_AMULET_2.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_RING_2.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_MASCOT_2.PNG 48px %}**黑旋風護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
++ {% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_AMULET_3.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_RING_3.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_MASCOT_3.PNG 48px %}**夜之翼護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
+
+|裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP |
+|:-:|:-:|:-:|:-:|:-:|
+|戒指| 1091 | 24% | **(1)** 417% | 4800 |
+|項鍊| 1091 | 24% | **(2)** 153% | 4800 |
+|娃娃| 6804 | 24% | - | **所有種族傷害增加 +35%** |
+
+- 備註：數值有用斜線 (/) 區分時，意思為： **物理或魔法 / 混合**
+
+<!-- endtab -->
+<!-- tab <b>L1護盾</b>-->
+
++ {% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_AMULET_1.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_RING_1.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_MASCOT_1.PNG 48px %}**墮天使護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
++ {% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_AMULET_2.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_RING_2.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_MASCOT_2.PNG 48px %}**黑旋風護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
++ {% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_AMULET_3.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_RING_3.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_MASCOT_3.PNG 48px %}**夜之翼護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
+
+|裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP |
+|:-:|:-:|:-:|:-:|:-:|
+|戒指| 1136 | 25% | **(1)** 435% | 5000 |
+|項鍊| 1136 | 25% | **(2)** 159% | 5000 |
+|娃娃| 7087 | 25% | - | **所有種族傷害增加 +36%** |
+
+- 備註：數值有用斜線 (/) 區分時，意思為： **物理或魔法 / 混合**
+
+<!-- endtab -->
+<!-- tab <b>L2護盾</b>-->
+
++ {% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_AMULET_1.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_RING_1.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_MASCOT_1.PNG 48px %}**墮天使護盾單件特殊效果：<font color=red>決戰特工 / 誓死隊員 / 暗影特工 一般技能 Lv +1</font>**
++ {% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_AMULET_2.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_RING_2.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_MASCOT_2.PNG 48px %}**黑旋風護盾單件特殊效果：<font color=red>菁英特工 / 菁英隊員 / 解決師 一般技能 Lv +2</font>**
++ {% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_AMULET_3.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_RING_3.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_MASCOT_3.PNG 48px %}**夜之翼護盾單件特殊效果：<font color=red>特遣隊 / 黑魔爪 （含）以下 必殺技能 Lv +1 </font>**
+
+|裝備| 攻擊力 | 總攻擊力 | 暴擊傷害<br>(1) 物理/魔法<br>(2) 空中/背擊/浮空 | 最大HP |
+|:-:|:-:|:-:|:-:|:-:|
+|戒指| 1182 | 26% | **(1)** 452% | 5200 |
+|項鍊| 1182 | 26% | **(2)** 166% | 5200 |
+|娃娃| 7370 | 26% | - | **所有種族傷害增加 +37%** |
 
 - 備註：數值有用斜線 (/) 區分時，意思為： **物理或魔法 / 混合**
 
@@ -292,10 +314,10 @@ description: "反擊的號角響起，一起奪回失去的城市、家人與朋
 
 {% tabs 立繪臂章, -1 %}
 <!-- tab 菲尼克斯-->
-![](/img/gear/chromite/DLG_PVP_LOADING_GUST_USER_ABYSS_JINAGRACE.PNG)
+![](/img/gear/chromite/DLG_PVP_LOADING_GUST_USER_PHENEX.PNG)
 <!-- endtab -->
 <!-- tab 吉娜葛蕾絲-->
-![](/img/gear/chromite/DLG_PVP_LOADING_GUST_USER_PHENEX.PNG)
+![](/img/gear/chromite/DLG_PVP_LOADING_GUST_USER_ABYSS_JINAGRACE.PNG)
 <!-- endtab -->
 {% endtabs %}
 

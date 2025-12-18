@@ -24,6 +24,7 @@ tags:
     - 露西
     - 愛里
     - 伊莉雅
+    - 特莉絲
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/wdqxvwrh.png
 description: "Bounty Hunter"
@@ -84,6 +85,9 @@ description: "Bounty Hunter"
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
 [![](https://i.imgur.com/sKZQroqh.jpeg)](https://i.imgur.com/sKZQroq.jpeg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/i7cYSHyh.jpeg)](https://i.imgur.com/i7cYSHy.jpeg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
 [![](https://i.imgur.com/KbdLm91h.jpeg)](https://i.imgur.com/KbdLm91.jpeg)
@@ -152,6 +156,9 @@ description: "Bounty Hunter"
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
 [![](https://i.imgur.com/1fpuOZth.jpeg)](https://i.imgur.com/1fpuOZt.jpeg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/qbtp1Nhh.jpeg)](https://i.imgur.com/qbtp1Nh.jpeg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
 [![](https://i.imgur.com/SglNdJah.jpeg)](https://i.imgur.com/SglNdJa.jpeg)
