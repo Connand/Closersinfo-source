@@ -323,6 +323,118 @@ description: "反擊的號角響起，一起奪回失去的城市、家人與朋
 
 ---
 
+> # Counter Wave
+
+- 第二次更新新增內容，系統與往常 Gate Wave、Flame Wave 類似。
+- 更新時同時關閉 Flame Wave 與 收集副本。
+- 每次刷新後，刷新費用增加 10 萬，沒有上限。
+- **包含PNA經驗：藍綠 5000、黃紅 15000、紫彩 ?**
+
+> ## 【COUNTER WAVE獎勵】
+
+<div class="container">
+
+<div class="childDiv">
+
+![](/img/gear/chromite/L1.png) **<div style="text-align:center">藍色 (L1)</div>**
+
+<div style="text-align:center">
+{% inlineImg /img/chip/chip_origin.png 40px %}x1
+{% inlineImg /img/PNA/HQ_154163_SUPPLEMENT_PNA.PNG 40px %}x20
+{% inlineImg /img/material/gearquality_refresh.png 40px %}x3
+{% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}x300
+{% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}x300
+</div>
+</div>
+<div class="childDiv">
+
+![](/img/gear/chromite/L2.png) **<div style="text-align:center">綠色 (L2)</div>**
+
+<div style="text-align:center">
+{% inlineImg https://i.imgur.com/8oCLggp.png 40px %}x100
+{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}x5
+{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}x1
+{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}x1
+{% inlineImg https://i.imgur.com/iBYdZJy.png 40px %}x50
+{% inlineImg /img/PNA/tri_jump.png 40px %}x1
+{% inlineImg https://i.imgur.com/ofbuOah.png 40px %}x1
+</div>
+</div>
+<div class="childDiv">
+
+![](/img/gear/chromite/L3.png) **<div style="text-align:center">黃色 (L3)</div>**
+
+<div style="text-align:center">
+{% inlineImg /img/PNA/HQ_154163_SUPPLEMENT_PNA.PNG 40px %}x100
+{% inlineImg /img/chip/chip_overclock.png 40px %}x10<br>
+{% inlineImg https://i.imgur.com/HVxdbDJ.png 40px %}x20
+{% inlineImg /img/material/gearquality_refresh.png 40px %}x10
+{% inlineImg https://i.imgur.com/up3pmwN.png 40px %}x5
+{% inlineImg https://i.imgur.com/sGKimWM.png 40px %}x5
+{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}x30
+{% inlineImg /img/material/platinum_driver.png 40px %}x1
+{% inlineImg /img/material/PNA_bottle_5k.png 40px %}x100
+{% inlineImg https://i.imgur.com/iBYdZJy.png 40px %}x200
+</div>
+</div>
+<div class="childDiv">
+
+![](/img/gear/chromite/L4.png) **<div style="text-align:center">橘色 (L4)</div>**
+
+<div style="text-align:center">
+{% inlineImg /img/chip/chip_overclock.png 40px %}x10
+{% inlineImg https://i.imgur.com/ofbuOah.png 40px %}x2
+{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %}x1
+{% inlineImg /img/material/malek_crysyal.png 40px %}x50
+{% inlineImg /img/material/chip_slot_change.png 40px %}x1
+{% inlineImg https://i.imgur.com/UmkzgVE.png 40px %}x30
+{% inlineImg /img/tuning/HQ_500608_RESOURCE_ENCHANT.PNG 40px %}x5
+{% inlineImg /img/chip/HQ_503009_CASH_ITEM.PNG 40px %}x1
+</div>
+</div>
+<div class="childDiv">
+
+![](/img/gear/chromite/L5.png) **<div style="text-align:center">紫色 (L5)</div>**
+
+<div style="text-align:center">
+{% inlineImg https://i.imgur.com/nzsG6XL.png 40px %}x5
+{% inlineImg /img/PNA/tri_phase.png 40px %}x1
+{% inlineImg /img/material/real_color_driver.png 40px %}x1
+{% inlineImg https://i.imgur.com/3MjLN14.png 40px %}x1
+{% inlineImg https://i.imgur.com/i8HdJRy.png 40px %}x1
+{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 40px %}x1
+{% inlineImg https://i.imgur.com/kELhpR7.png 40px %}x1
+{% inlineImg https://i.imgur.com/LE2TT8Q.png 40px %}x1
+{% inlineImg https://i.imgur.com/6PHDZf6.png 40px %}x1
+{% inlineImg /img/material/real_platinum_driver.png 40px %}x1
+{% inlineImg /img/chip/T4_color.png 40px %}x1
+{% inlineImg https://i.imgur.com/OX07kV4.png 40px %}x1
+{% inlineImg https://i.imgur.com/I62TyC9.png 40px %}x1
+{% inlineImg https://i.imgur.com/8iksYKz.png 40px %}x1
+{% inlineImg /img/tuning/HQ_500609_CASH_ITEM.PNG 40px %}x1
+</div>
+</div>
+<div class="childDiv">
+
+![](/img/gear/chromite/L6.png) **<div style="text-align:center">彩色 (L6)</div>**
+
+<div style="text-align:center">
+{% inlineImg /img/chip/T4_platinum.png 40px %}x1
+{% inlineImg https://i.imgur.com/WxaqM1W.png 40px %}x1
+{% inlineImg https://i.imgur.com/YWwwVtP.png 40px %}x1
+{% inlineImg https://i.imgur.com/vZ5yUHH.png 40px %}x1
+</div>
+</div>
+</div>
+
+<p> </p>
+
+**說明：**
+- **{% inlineImg /img/PNA/HQ_154163_SUPPLEMENT_PNA.PNG 40px %}： 10 覺醒材料、{% inlineImg /img/PNA/tri_jump.png 40px %}： 1 等覺醒PNA自選、{% inlineImg /img/PNA/tri_phase.png 40px %}： 20 等覺醒PNA自選**
+- **{% inlineImg /img/chip/chip_origin.png 40px %}：原始晶片、{% inlineImg /img/chip/T4_color.png 40px %}：T4 顏色晶片隨機箱、{% inlineImg /img/chip/T4_platinum.png 40px %}：T4 鉑金晶片隨機箱**
+
+---
+
 <style>
 	.arranged_table table th:nth-of-type(3){
 		width: 40%;
@@ -336,9 +448,9 @@ description: "反擊的號角響起，一起奪回失去的城市、家人與朋
     }
     .childDiv {
         float: left;
-        width: 50%;
+        width: 33%;
         height: 100%;
-		padding: 5px;
-        /* border: 1px solid greenyellow;*/
+		    padding: 20px 20px;
+        /* border: 1px solid; */
     }
 </style>

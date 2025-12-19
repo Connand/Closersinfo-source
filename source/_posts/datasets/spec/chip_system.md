@@ -3,7 +3,7 @@ title: 晶片系統
 date: 2022-11-22 11:25:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
-cover: /img/chip/HQ_2005_CHIP.PNG
+cover: /img/gear/chromite/HQ_1401_CHIP.PNG
 description: "晶片系統內容說明"
 ---
 
@@ -326,6 +326,13 @@ description: "晶片系統內容說明"
 |提亞瑪特顏色晶片<br>{% inlineImg /img/chip/chip_tiamat.png 48px %}|{% inlineImg /img/chip/T2_color.png 40px %}x10 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x300 + {% inlineImg https://i.imgur.com/UUm30FC.png 40px %}x75|2000萬
 |提亞瑪特攻擊速度晶片<br>{% inlineImg /img/chip/chip_spd.png 48px %}|{% inlineImg /img/chip/chip_origin.png 40px %}x5 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x300 + {% inlineImg https://i.imgur.com/UUm30FC.png 40px %}x75|2000萬
 
+- 備註：請參考 [19 村(鉻鐵號)](/datasets/IncheonPort_Chromite/#%E6%96%B0%E5%A2%9E%E8%A3%9D%E5%82%99%E8%88%87%E7%8D%B2%E5%BE%97%E6%96%B9%E5%BC%8F)
+
+|晶片| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg /img/gear/chromite/HQ_201523_RESOURCE.PNG 48px %} |
+|:-:|:-:|:-:|:-:|:-:|
+|{% inlineImg /img/gear/chromite/HQ_41_NEW_CHIP.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_541_NEW_CHIP.PNG 48px %}|100,000,000|4000 個|4000 個|50 個|
+|{% inlineImg /img/gear/chromite/HQ_1401_CHIP.PNG 48px %}|200,000,000|8000 個|8000 個|100 個|
+
 
 <!-- endtab -->
 {% endtabs %}
@@ -491,7 +498,37 @@ description: "晶片系統內容說明"
 |攻擊力|6|9|17|34|60
 |追加獲得道具|-|5%|6%|7%|8%
 <!-- endtab -->
+
+<!-- tab 魔龍圓盤-->
+
+- **說明**：僅能透過掉落獲得，只能裝備於魔龍圓盤上 (僅能裝備 1 格)
+- 並且同樣晶片只能裝備 1 個，無法超頻
+
+|能力|{% inlineImg https://i.imgur.com/d4aDPVF.png 48px %}<br><font color=red>紫光先鋒晶片</font>|{% inlineImg https://i.imgur.com/fHBCO1V.png 48px %}<br><font color=blue>不屈門將晶片</font>|{% inlineImg https://i.imgur.com/4VRvdnt.png 48px %}<br><font color=red>龍妃阿師塔蒂晶片</font>|{% inlineImg https://i.imgur.com/PUsArLc.png 48px %}<br><font color=blue>龍王赫克頓蓋爾晶片</font>
+|:-|:-:|:-:|:-:|:-:|
+|物理/魔法暴擊傷害|55%|-|80%|-|
+|空中/背擊/浮空暴擊傷害|-|20%|-|30%|
+<!-- endtab -->
+<!-- tab 鉻鐵號-->
+
+基礎能力
+
+|晶片|效果|
+|:-:|:-|
+|<font color=red>紅色</font><br>{% inlineImg /img/gear/chromite/HQ_41_NEW_CHIP.PNG 48px %}|物理/魔法暴擊傷害 +10%
+|黑色<br>{% inlineImg /img/gear/chromite/HQ_541_NEW_CHIP.PNG 48px %}|物理/魔法暴擊傷害 +10%
+|<font class="rainbow-text">鉑金</font><br>{% inlineImg /img/gear/chromite/HQ_1401_CHIP.PNG 48px %}|物理/魔法攻擊力 +150<br>空中/背擊/浮空暴擊傷害 +35%
+
+超頻額外能力
+
+|晶片|額外能力所需超頻等級|效果|
+|:-:|:-:|:-|
+|<font color=red>紅色</font><br>{% inlineImg /img/gear/chromite/HQ_41_NEW_CHIP.PNG 48px %}|15| **[唯一]** 在 **[燃燒]** 狀態下，物理/魔法攻擊力 +500。
+|黑色<br>{% inlineImg /img/gear/chromite/HQ_541_NEW_CHIP.PNG 48px %}|15| **[唯一]** 終極技能結束後，20 秒內物理/魔法攻擊力 +500、移動速度 +20%。
+|<font class="rainbow-text">鉑金</font><br>{% inlineImg /img/gear/chromite/HQ_1401_CHIP.PNG 48px %}|20| **[唯一]** 進入副本時，總物理/魔法攻擊力 +5%。
+<!-- endtab -->
 {% endtabs %}
+
 
 
 
