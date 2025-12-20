@@ -339,8 +339,8 @@ description: "反擊的號角響起，一起奪回失去的城市、家人與朋
 ![](/img/gear/chromite/L1.png) **<div style="text-align:center">藍色 (L1)</div>**
 
 <div style="text-align:center">
-{% inlineImg /img/chip/chip_origin.png 40px %}x1
-{% inlineImg /img/PNA/HQ_154163_SUPPLEMENT_PNA.PNG 40px %}x20
+{% inlineImg /img/chip/chip_origin.png 40px %}x10
+{% inlineImg /img/PNA/HQ_154163_SUPPLEMENT_PNA.PNG 40px %}x30
 {% inlineImg /img/material/gearquality_refresh.png 40px %}x3
 {% inlineImg /img/material/HQ_10012_RESOURCE_EPIC.png 40px %}x300
 {% inlineImg /img/material/HQ_10015_RESOURCE_UNCOMMON.png 40px %}x300
@@ -353,10 +353,10 @@ description: "反擊的號角響起，一起奪回失去的城市、家人與朋
 <div style="text-align:center">
 {% inlineImg https://i.imgur.com/8oCLggp.png 40px %}x100
 {% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %}x5
-{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}x1
+{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %}x5
 {% inlineImg https://i.imgur.com/zSb8Jle.png 40px %}x1
 {% inlineImg https://i.imgur.com/iBYdZJy.png 40px %}x50
-{% inlineImg /img/PNA/tri_jump.png 40px %}x1
+{% inlineImg /img/PNA/tri_jump.png 40px %}x5
 {% inlineImg https://i.imgur.com/ofbuOah.png 40px %}x1
 </div>
 </div>
