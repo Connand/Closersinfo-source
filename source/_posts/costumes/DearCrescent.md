@@ -23,6 +23,8 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
+    - 特莉絲
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/ExxqHn9h.jpg
 description: "Dear Crescent"
@@ -107,6 +109,12 @@ description: "Dear Crescent"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/EyKgkp7h.png)](https://i.imgur.com/EyKgkp7.png)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/ozHLEaVh.png)](https://i.imgur.com/ozHLEaV.jpeg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/terfFbIh.png)](https://i.imgur.com/terfFbI.jpeg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -171,6 +179,12 @@ description: "Dear Crescent"
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/kZimNRGh.png)](https://i.imgur.com/kZimNRG.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/l2zCOtyh.png)](https://i.imgur.com/l2zCOty.jpeg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/XKIPERTh.png)](https://i.imgur.com/XKIPERT.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
