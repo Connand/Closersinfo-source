@@ -1,8 +1,11 @@
 ---
 title: 感恩大德區(贊助)
 date: 2021-08-31 11:25:52
+updated: 2024-08-31 11:50:52
 tags: 贊助
 ---
+
+> **<div style="text-align:center"><font size=4 color=red>已經停止更新</font></div>**
 
 # 感謝您點進來看這邊
 

@@ -320,20 +320,22 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_LANDING_P.PNG 40px %} **<font color=purple>決心</font>**|**[落地]** 時 25秒內總(物理/魔法)攻擊力與防禦力 +15%|15秒
 
 ### 火焰
+- 使用時獲得DEBUFF **[燒傷]：每秒 HP 減少 2%（不疊加）**
+
 |名稱|能力|冷卻時間
 |:-|:-|:-:
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_BURN_G.PNG 40px %} **<font color=green>擴散</font>**|每秒對附近敵人造成 10億 固定傷害|-
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_BURN_B.PNG 40px %} **<font color=blue>神速</font>**|每秒有 100% 機率減少 **[獎章技能]**(鎖技) 冷卻時間 1 秒|-
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_BURN_P.PNG 40px %} **<font color=purple>逆襲</font>**|使附近敵人受到傷害 +45%|-
-- 使用時獲得DEBUFF **[燒傷]：每秒 HP 減少 2%（不疊加）**
 
 ### 寒氣
+- 使用時獲得DEBUFF **[凍傷]：攻擊速度/移動速度 -30%（不疊加）**
+
 |名稱|能力|冷卻時間
 |:-|:-|:-:
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_FROZEN_G.PNG 40px %} **<font color=green>擴散</font>**|自身被攻擊時使敵人受到 150億 固定傷害|15秒
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_FROZEN_B.PNG 40px %} **<font color=blue>神速</font>**|攻擊時減少 二轉/解決師大招 冷卻時間 30 秒|15秒
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_FROZEN_P.PNG 40px %} **<font color=purple>決心</font>**|攻擊時15秒內 總(物理/魔法)攻擊力與防禦力 +15%|15秒
-- 使用時獲得DEBUFF **[凍傷]：攻擊速度/移動速度 -30%（不疊加）**
 
 ### 復活
 |名稱|能力|冷卻時間
@@ -348,6 +350,16 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EXTREME_G.PNG 40px %} **<font color=green>生存：斷尾求生</font>**|666秒內 物理/魔法暴擊傷害 +130%、自身受到傷害 +60%，死亡後BUFF失效|-
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EXTREME_B.PNG 40px %} **<font color=blue>???</font>**|**因為檢查時發現BUG，故目前尚未實裝**|-
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EXTREME_P.PNG 40px %} **<font color=purple>阻斷封印：屠殺</font>**|無法使用 **[強制阻斷]** ，對所有類型增加傷害 40%|-
+
+### 充能 <font color=red>NEW!</font>
+- 使用時獲得效果： **攻擊時獲得 [充能]。[充能] 達到 100 層時獲得 [超載]**
+
+|名稱|能力|冷卻時間
+|:-|:-|:-:
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CHARGE_G.PNG 40px %} **<font color=green>致命</font>**|攻擊時消耗 **[超載]** 增益，10 秒內物理/魔法暴擊傷害 +300%|-
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CHARGE_B.PNG 40px %} **<font color=blue>損傷</font>**|攻擊時消耗 **[超載]** 增益，10 秒內傷害增加 +90%|-
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CHARGE_P.PNG 40px %} **<font color=purple>處決</font>**|攻擊時消耗 **[超載]** 增益，10 秒內物理/魔法總攻擊力 +45%|-
+
 
 </div>
 
