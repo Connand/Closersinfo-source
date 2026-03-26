@@ -8,11 +8,13 @@ tags:
     - 徐維莉
     - J
     - 米斯特汀
+    - 伊莉雅
     - 納塔
     - 蕾比亞
     - 哈比
     - 緹娜
     - 薇歐莉特
+    - 特莉絲
     - 沃爾夫姜
     - 露娜
     - 索瑪
@@ -60,6 +62,9 @@ description: "Sweety Punk"
 <!-- tab 米斯特汀(Tein)-->
 [![](https://i.imgur.com/oguBB5Gh.jpg)](https://i.imgur.com/oguBB5G.jpg)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.postimg.cc/k5FZ9vc3/龐克_伊_00.jpg)](https://i.postimg.cc/k5FZ9vc3/龐克_伊_00.jpg)
+<!-- endtab -->
 <!-- tab 納塔(Nata)-->
 [![](https://i.imgur.com/5Vs2OVhh.jpg)](https://i.imgur.com/5Vs2OVh.jpg)
 <!-- endtab -->
@@ -74,6 +79,9 @@ description: "Sweety Punk"
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
 [![](https://i.imgur.com/Dew0JIKh.jpg)](https://i.imgur.com/Dew0JIK.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.postimg.cc/wxsrjzFc/龐克_特_00.jpg)](https://i.postimg.cc/wxsrjzFc/龐克_特_00.jpg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
 [![](https://i.imgur.com/6HzCOnuh.jpg)](https://i.imgur.com/6HzCOnu.jpg)
@@ -125,6 +133,9 @@ description: "Sweety Punk"
 <!-- tab 米斯特汀(Tein)-->
 [![](https://i.imgur.com/W7x7Z8gh.jpg)](https://i.imgur.com/W7x7Z8g.jpg)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.postimg.cc/GpJNrxQn/龐克_伊_01.jpg)](https://i.postimg.cc/GpJNrxQn/龐克_伊_01.jpg)
+<!-- endtab -->
 <!-- tab 納塔(Nata)-->
 [![](https://i.imgur.com/nsIRHfKh.jpg)](https://i.imgur.com/nsIRHfK.jpg)
 <!-- endtab -->
@@ -139,6 +150,9 @@ description: "Sweety Punk"
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
 [![](https://i.imgur.com/cCZdKn0h.jpg)](https://i.imgur.com/cCZdKn0.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.postimg.cc/nVQWhxTK/龐克_特_01.jpg)](https://i.postimg.cc/nVQWhxTK/龐克_特_01.jpg)
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
 [![](https://i.imgur.com/GAteZFkh.jpg)](https://i.imgur.com/GAteZFk.jpg)

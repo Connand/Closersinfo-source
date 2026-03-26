@@ -68,6 +68,19 @@ description: "紀錄台版周年紀念使用過的官方/非官方立繪與登�
 <!-- endtab -->
 {% endtabs %}
 
+---
+# 2026年特殊立繪
+{% tabs 標籤區名稱 %}
+<!-- tab 特莉絲(搖籃龍夢)-->
+![](https://i.postimg.cc/C5FnXSxX/搖籃龍夢_特_一般.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(搖籃龍夢特殊)-->
+![](https://i.postimg.cc/sxVGqsg8/搖籃龍夢_特_特殊.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(新年小馬)-->
+![](https://i.postimg.cc/1zBQMQbR/新年小馬_特.png)
+<!-- endtab -->
+{% endtabs %}
 
 ---
 # 2023新年紀念立繪
