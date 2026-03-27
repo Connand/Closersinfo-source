@@ -7,8 +7,10 @@ tags:
     - 薇歐莉特
     - 白
     - 未來
+    - 銀河
     - 愛里
     - 伊莉雅
+    - 特莉絲
 category: [時裝, 有立繪, 限定角色]
 cover: https://i.imgur.com/nIPdExkh.png
 description: "Teardrop Waltz"
@@ -21,6 +23,10 @@ description: "Teardrop Waltz"
 - 韓文：티어드롭 왈츠
 - **注意**：立繪僅分一般和特殊，模組分為 3 型
 - 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉中 green %}（單一型）、{% label 威嚴 green %}（單一型）
+
+{% hideToggle 模組圖預覽 %}
+![](https://i.postimg.cc/2yrGjs2s/lei-di-mo-zu.png)
+{% endhideToggle %}
 
 [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://image.naddic.co.kr/Images/cms/happycode/20250218/1739855579202.zip)
@@ -42,11 +48,17 @@ description: "Teardrop Waltz"
 <!-- tab 未來(Mirae)-->
 [![](https://i.imgur.com/TLbzYjJh.jpg)](https://i.imgur.com/TLbzYjJ.jpg)
 <!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.postimg.cc/KcDghkLQ/lei-di-yin-00.jpg)](https://i.postimg.cc/KcDghkLQ/lei-di-yin-00.jpg)
+<!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/YJ002cJh.jpg)](https://i.imgur.com/YJ002cJ.jpg)
 <!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/W2BMRNmh.jpg)](https://i.imgur.com/W2BMRNm.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.postimg.cc/5N8KVmpF/zang-die.jpg)](https://i.postimg.cc/5N8KVmpF/zang-die.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -65,11 +77,17 @@ description: "Teardrop Waltz"
 <!-- tab 未來(Mirae)-->
 [![](https://i.imgur.com/QPXV0Krh.jpg)](https://i.imgur.com/QPXV0Kr.jpg)
 <!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.postimg.cc/Kvsjmnzh/lei-di-yin-01.png)](https://i.postimg.cc/Kvsjmnzh/lei-di-yin-01.png)
+<!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/DculnEEh.jpg)](https://i.imgur.com/DculnEE.jpg)
 <!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/qxwlzuEh.jpg)](https://i.imgur.com/qxwlzuE.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.postimg.cc/ry15yY61/lei-di-te-01.jpg)](https://i.postimg.cc/ry15yY61/lei-di-te-01.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
