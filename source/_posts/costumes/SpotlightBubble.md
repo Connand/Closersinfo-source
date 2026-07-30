@@ -3,12 +3,14 @@ title: 鎂光燈泡泡
 date: 2025-05-22 10:37:38
 tags:
     - 立繪時裝
+    - 李雪菲
     - 米斯特汀
     - 蕾比雅
     - 索瑪
     - 徹斯
     - 露西
     - 伊莉雅
+    - 特莉絲
 category: [時裝, 有立繪, 限定角色]
 cover: /img/bubble_banner.png
 description: "Spotlight Bubble"
@@ -41,6 +43,9 @@ description: "Spotlight Bubble"
 {% tabs 類型 %}
 <!-- tab 普通角色立繪-->
 {% tabs 普通立繪 %}
+<!-- tab 李雪菲(Seulbi)-->
+[![](https://i.imgur.com/EhmfJDY.jpeg)](https://i.imgur.com/EhmfJDY.jpeg)
+<!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
 [![](https://i.imgur.com/eA4vbuOh.jpg)](https://i.imgur.com/eA4vbuO.jpg)
 <!-- endtab -->
@@ -59,11 +64,17 @@ description: "Spotlight Bubble"
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/LG4jG43h.jpg)](https://i.imgur.com/LG4jG43.jpg)
 <!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/8DShDZx.jpeg)](https://i.imgur.com/8DShDZx.jpeg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
 <!-- tab 特殊角色立繪-->
 {% tabs 特殊立繪 %}
+<!-- tab 李雪菲(Seulbi)-->
+[![](https://i.imgur.com/ASMCd0y.jpeg)](https://i.imgur.com/ASMCd0y.jpeg)
+<!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
 [![](https://i.imgur.com/xdFB72ih.jpg)](https://i.imgur.com/xdFB72i.jpg)
 <!-- endtab -->
@@ -81,6 +92,9 @@ description: "Spotlight Bubble"
 <!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/wNyi3FUh.jpg)](https://i.imgur.com/wNyi3FU.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/NYt1oA0.jpeg)](https://i.imgur.com/NYt1oA0.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
