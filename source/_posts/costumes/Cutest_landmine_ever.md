@@ -23,7 +23,7 @@ description: "Cutest landmine ever"
 
 韓文：세젤귀 랜드마인
 **注意**：立繪僅分一般和特殊，模組分3型
-部位：髮型、上衣、下衣、手套、鞋子、{% label 臉下 green %}、{% label 特效green %}
+部位：髮型、上衣、下衣、手套、鞋子、{% label 臉下 green %}、{% label 特效 green %}
 
 [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://landing.naddic.co.kr/Images/cms/happycode/20260310/1773137153682.zip)
