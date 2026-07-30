@@ -25,6 +25,9 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
+    - 特莉絲
+
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/0E4ZsBah.jpg
 description: "Sweety Punk"
@@ -113,6 +116,12 @@ description: "Sweety Punk"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/mWj6jPjh.jpg)](https://i.imgur.com/mWj6jPj.jpg)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/zOQNEzl.jpg)](https://i.imgur.com/zOQNEzl.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/pUQFoQe.jpg)](https://i.imgur.com/pUQFoQe.jpg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -184,6 +193,13 @@ description: "Sweety Punk"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/YubEPqJh.jpg)](https://i.imgur.com/YubEPqJ.jpg)
 <!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/Q0IOxDi.jpg)](https://i.imgur.com/Q0IOxDi.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/I53vcTC.jpg)](https://i.imgur.com/I53vcTC.jpg)
+<!-- endtab -->
+
 {% endtabs %}
 <!-- endtab -->
 
