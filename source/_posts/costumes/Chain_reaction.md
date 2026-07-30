@@ -59,7 +59,7 @@ description: "Chain_reaction"
 [![](https://i.imgur.com/hR6OKG5.jpeg)](https://i.imgur.com/hR6OKG5.jpeg)
 <!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
-[![](https://i.imgur.com/LG4jG43h.jpg)](https://i.imgur.com/LG4jG43.jpg)
+[![](https://i.imgur.com/GP4PZ9g.jpeg)](https://i.imgur.com/GP4PZ9g.jpeg)
 <!-- endtab -->
 <!-- tab 特莉絲(Triss)-->
 [![](https://i.imgur.com/4HvO7ow.jpeg)](https://i.imgur.com/4HvO7ow.jpeg)
