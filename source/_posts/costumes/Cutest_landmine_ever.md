@@ -23,7 +23,7 @@ description: "Cutest landmine ever"
 
 韓文：세젤귀 랜드마인
 **注意**：立繪僅分一般和特殊，模組分3型
-部位：髮型、上衣、下衣、手套、鞋子、{% label 臉下 green %}、{% label 特效green %}
+部位：髮型、上衣、下衣、手套、鞋子、{% label 臉下 green %}、{% label 特效 green %}
 
 [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://landing.naddic.co.kr/Images/cms/happycode/20260310/1773137153682.zip)
@@ -51,7 +51,7 @@ description: "Cutest landmine ever"
 [![](https://i.imgur.com/zzUtfRvh.jpeg)](https://i.imgur.com/zzUtfRv.jpeg)
 <!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
-[![](https://i.imgur.com/Uc5q2fKh.jpeg)](https://i.imgur.com/Uc5q2fK.jpeg)
+[![](https://i.imgur.com/T2Rafng.jpeg)](https://i.imgur.com/T2Rafng.jpeg)
 <!-- endtab -->
 <!-- tab 特莉絲(Triss)-->
 [![](https://i.imgur.com/eYTcy4Kh.jpeg)](https://i.imgur.com/eYTcy4K.jpeg)
@@ -71,7 +71,7 @@ description: "Cutest landmine ever"
 [![](https://i.imgur.com/jZ6E9u4h.jpeg)](https://i.imgur.com/jZ6E9u4.jpeg)
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-[![](https://i.imgur.com/5CWs77zh.jpeg)](https://i.imgur.com/5CWs77z.jpeg)
+[![](https://i.imgur.com/r0wJ9Yj.jpeg)](https://i.imgur.com/r0wJ9Yj.jpeg)
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
 [![](https://i.imgur.com/MG9i6Kdh.jpeg)](https://i.imgur.com/MG9i6Kd.jpeg)

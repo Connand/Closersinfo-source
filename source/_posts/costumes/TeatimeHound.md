@@ -8,7 +8,9 @@ tags:
     - 緹娜
     - 賽特
     - 未來
+    - 愛里
     - 伊莉雅
+    - 特莉絲
 category: [時裝, 有立繪, 限定角色]
 cover: https://i.imgur.com/rlVsfyih.png
 description: "Teatime Hound"
@@ -59,8 +61,14 @@ description: "Teatime Hound"
 <!-- tab 未來(Mirae)-->
 [![](https://i.imgur.com/PBhcE6mh.jpg)](https://i.imgur.com/PBhcE6m.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/IV54Xod.jpg)](https://i.imgur.com/IV54Xod.jpg)
+<!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/7eEtAahh.jpg)](https://i.imgur.com/7eEtAah.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/e7rydAv.jpg)](https://i.imgur.com/e7rydAv.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -82,8 +90,14 @@ description: "Teatime Hound"
 <!-- tab 未來(Mirae)-->
 [![](https://i.imgur.com/PF2x04Rh.jpg)](https://i.imgur.com/PF2x04R.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/b4jRNxT.jpg)](https://i.imgur.com/b4jRNxT.jpg)
+<!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/Dl1ldsNh.jpg)](https://i.imgur.com/Dl1ldsN.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/nONZzYQ.jpg)](https://i.imgur.com/nONZzYQ.jpg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
