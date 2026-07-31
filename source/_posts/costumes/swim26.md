@@ -221,13 +221,12 @@ description: "2026泳裝系列"
 [![](https://i.imgur.com/vErMruVh.jpg)](https://i.imgur.com/vErMruV.jpg)
 <!-- endtab -->
 <!-- tab 摩亞(Mois)-->
-[![](https://i.imgur.com/r6injo9.mp4)](https://i.imgur.com/r6injo9.mp4)
-<!-- endtab -->
-{% endtabs %}
-<!-- endtab -->
 <video autoplay loop muted playsinline width="100%">
   <source src="https://i.imgur.com/r6inj9.mp4" type="video/mp4">
 </video>
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
 {% endtabs %}
 
 
