@@ -26,6 +26,7 @@ tags:
     - 愛里
     - 伊莉雅
     - 特莉絲
+    - 摩亞
 category: [時裝, 輝煌時裝]
 cover: https://i.imgur.com/85hinXsh.jpg
 description: "第二套輝煌時裝(Unique costume)"
@@ -127,6 +128,9 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
 [![](https://i.imgur.com/wyHzAzLh.jpg)](https://i.imgur.com/wyHzAzL.jpg)
+<!-- endtab -->
+<!-- tab 摩亞(Mois)-->
+[![](https://i.imgur.com/EceaXH2.jpeg)](https://i.imgur.com/EceaXH2.jpeg)
 <!-- endtab -->
 <!-- tab 動作(沃爾夫姜~賽特)-->
 {%youtube xzB0tWqwvAI %}

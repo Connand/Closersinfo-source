@@ -24,6 +24,7 @@ tags:
     - 愛里
     - 露西
     - 伊莉雅
+    - 特莉絲
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/J3b5en6h.jpg
 description: "Eternal Black Rose"
@@ -113,6 +114,9 @@ description: "Eternal Black Rose"
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/Hogz2pEh.jpg)](https://i.imgur.com/Hogz2pE.jpg)
 <!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/DX084Y5.jpeg)](https://i.imgur.com/DX084Y5.jpeg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -180,6 +184,9 @@ description: "Eternal Black Rose"
 <!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/KroS7HZh.jpg)](https://i.imgur.com/KroS7HZ.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/iaJ3MNl.jpeg)](https://i.imgur.com/iaJ3MNl.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

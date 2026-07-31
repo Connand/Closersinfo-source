@@ -26,6 +26,7 @@ tags:
     - 愛里
     - 伊莉雅
     - 特莉絲
+    - 摩亞
 category: [時裝, 高階時裝]
 cover: https://i.imgur.com/dsF5Mjdh.jpg
 description: "第三套高階時裝"
@@ -141,10 +142,11 @@ description: "第三套高階時裝"
 <!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/wwggW0X.jpg)](https://i.imgur.com/wwggW0X.jpg)
-
 <!-- endtab -->
 <!-- tab 特莉絲(Triss)-->
 ![ZW_Triss](https://cdn.jsdelivr.net/gh/Connand/picx-images-hosting@master/Triss/ZW_Triss.webp)
-
+<!-- endtab -->
+<!-- tab 摩亞(Mois)-->
+[![](https://i.imgur.com/wAJqteS.jpeg)](https://i.imgur.com/wAJqteS.jpeg)
 <!-- endtab -->
 {% endtabs %}

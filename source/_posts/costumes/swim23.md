@@ -23,6 +23,8 @@ tags:
     - 銀河
     - 露西
     - 愛里
+    - 伊莉雅
+    - 特莉絲
     - 泳裝
 category: [時裝, 有立繪, 全角色]
 cover: https://imgur.com/rzULlGWh.png
@@ -132,6 +134,9 @@ description: "2023泳裝系列"
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/qFOfFkWh.jpg)](https://i.imgur.com/qFOfFkW.jpg)
 <!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/oixVL79.jpeg)](https://i.imgur.com/oixVL79.jpeg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -199,6 +204,9 @@ description: "2023泳裝系列"
 <!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/BdQgkG3h.jpg)](https://i.imgur.com/BdQgkG3.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/FmwN9qm.jpeg)](https://i.imgur.com/FmwN9qm.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
