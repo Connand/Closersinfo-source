@@ -225,7 +225,9 @@ description: "2026泳裝系列"
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
-
+<video autoplay loop muted playsinline width="100%">
+  <source src="https://i.imgur.com/r6inj9.mp4" type="video/mp4">
+</video>
 {% endtabs %}
 
 
