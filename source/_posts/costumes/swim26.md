@@ -149,6 +149,10 @@ description: "2026泳裝系列"
 <!-- tab 摩亞(Mois)-->
 [![](https://i.imgur.com/Mf1dHWj.jpeg)](https://i.imgur.com/Mf1dHWj.jpeg)
 <!-- endtab -->
+<!-- tab 摩亞(Mois)-->
+[![](https://i.imgur.com/bexJ87z.gif)](https://i.imgur.com/bexJ87z.gif)
+<!-- endtab -->
+
 {% endtabs %}
 <!-- endtab -->
 
@@ -223,7 +227,6 @@ description: "2026泳裝系列"
 <!-- tab 摩亞(Mois)-->
 [![](https://i.imgur.com/bexJ87z.gif)](https://i.imgur.com/bexJ87z.gif)
 <!-- endtab -->
-
 
 {% endtabs %}
 <!-- endtab -->
