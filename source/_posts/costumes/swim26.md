@@ -221,7 +221,7 @@ description: "2026泳裝系列"
 [![](https://i.imgur.com/vErMruVh.jpg)](https://i.imgur.com/vErMruV.jpg)
 <!-- endtab -->
 <!-- tab 摩亞(Mois)-->
-[![](https://i.imgur.com/tXixmoDh.jpg)](https://i.imgur.com/tXixmoD.jpg)
+[![](https://i.imgur.com/r6injo9.mp4)](https://i.imgur.com/r6injo9.mp4)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
