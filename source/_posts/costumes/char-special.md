@@ -358,6 +358,9 @@ description: "角色專屬時裝"
 <!-- tab 特殊立繪-->
 [![](https://i.imgur.com/HKkxUtx.jpeg)](https://i.imgur.com/HKkxUtx.jpeg)
 <!-- endtab -->
+<!-- tab 模組圖片-->
+[![](https://i.imgur.com/Uotyj8O.png)](https://i.imgur.com/Uotyj8O.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 {% endtabs %}

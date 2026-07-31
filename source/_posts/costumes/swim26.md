@@ -105,7 +105,7 @@ description: "2026泳裝系列"
 [![](https://i.imgur.com/1mWtydo.jpeg)](https://i.imgur.com/1mWtydo.jpeg)
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-[![](https://i.imgur.com/mDnqO8sh.jpg)](https://i.imgur.com/mDnqO8s.jpg)
+[![](https://i.imgur.com/CI3XEeR.jpeg)](https://i.imgur.com/CI3XEeR.jpeg)
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
 [![](https://i.imgur.com/o57hGW3.jpeg)](https://i.imgur.com/o57hGW3.jpeg)
@@ -120,7 +120,7 @@ description: "2026泳裝系列"
 [![](https://i.imgur.com/qIwWlXZ.jpeg)](https://i.imgur.com/qIwWlXZ.jpeg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-[![](https://i.imgur.com/abOiSAZh.jpg)](https://i.imgur.com/abOiSAZ.jpg)
+[![](https://i.imgur.com/rbfDvI0.jpeg)](https://i.imgur.com/rbfDvI0.jpeg)
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
 [![](https://i.imgur.com/983qLTK.jpeg)](https://i.imgur.com/983qLTK.jpeg)
@@ -144,7 +144,7 @@ description: "2026泳裝系列"
 [![](https://i.imgur.com/ykdtb8i.jpeg)](https://i.imgur.com/ykdtb8i.jpeg)
 <!-- endtab -->
 <!-- tab 特莉絲(Triss)-->
-[![](https://i.imgur.com/tXixmoDh.jpg)](https://i.imgur.com/tXixmoD.jpg)
+[![](https://i.imgur.com/U4LUCvz.jpeg)](https://i.imgur.com/U4LUCvz.jpeg)
 <!-- endtab -->
 <!-- tab 摩亞(Mois)-->
 [![](https://i.imgur.com/Mf1dHWj.jpeg)](https://i.imgur.com/Mf1dHWj.jpeg)
