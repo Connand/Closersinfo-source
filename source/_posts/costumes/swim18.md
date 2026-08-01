@@ -18,6 +18,7 @@ tags:
     - 露娜
     - 索瑪
     - 白
+    - 特莉絲
     - 泳裝
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/rqldg4lh.jpg
@@ -32,6 +33,7 @@ description: "2018泳裝系列"
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 臉上 green %} 
 **墨鏡可解鎖額外立繪"曬黑版本"**
+**特莉絲只有單一立繪，墨鏡可解鎖額外立繪**
 
 [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_sunshine_180823.zip)
@@ -111,6 +113,9 @@ description: "2018泳裝系列"
 [![](https://i.imgur.com/9y1QtZ5h.jpg)](https://i.imgur.com/9y1QtZ5.jpg)
 [![](https://i.imgur.com/1MMewOIh.png)](https://i.imgur.com/1MMewOI.png)
 <!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/iv9XmyZ.jpeg)](https://i.imgur.com/iv9XmyZ.jpeg)
+[![](https://i.imgur.com/fsNz9V4.jpeg)](https://i.imgur.com/fsNz9V4.jpeg)
 {% endtabs %}
 <!-- endtab -->
 

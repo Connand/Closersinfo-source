@@ -19,6 +19,7 @@ tags:
     - 索瑪
     - 白
     - 賽特
+    - 特莉絲
     - 泳裝
 category: [時裝, 有立繪, 全角色]
 cover: https://i.imgur.com/aHPZ1oFh.jpg
@@ -35,10 +36,12 @@ description: "2019泳裝系列"
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 手臂 green %}、{% label 瞳孔 green %}
 
+**特莉絲只有單一立繪，不分型號**
+
 **每個角色都有另類時裝**
 + 髮型：徐維莉、J、米斯特汀、蕾比雅、薇歐莉特、露娜、索瑪、賽特
 + 上衣：李世河、納塔、哈比、緹娜、沃爾夫姜
-+ 下衣、李雪菲、白
++ 下衣、李雪菲、白、特莉絲
 
 [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_summerCostume_50756.zip)
@@ -93,6 +96,9 @@ description: "2019泳裝系列"
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
 [![](https://i.imgur.com/YjJeGHxh.jpg)](https://i.imgur.com/YjJeGHx.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/7NO7XUU.jpeg)](https://i.imgur.com/7NO7XUU.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -158,6 +164,9 @@ description: "2019泳裝系列"
 <!-- tab 賽特(Seth)-->
 [![](https://i.imgur.com/AidybLyh.jpg)](https://i.imgur.com/AidybLy.jpg)
 [![](https://i.imgur.com/a3DU2thh.png)](https://i.imgur.com/a3DU2th.png)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/yYANZAq.jpeg)](https://i.imgur.com/yYANZAq.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

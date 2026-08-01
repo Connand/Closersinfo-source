@@ -16,6 +16,7 @@ tags:
     - 愛里
     - 伊莉雅
     - 特莉絲
+    - 摩亞
 category: [時裝, 有立繪,]
 cover: https://i.imgur.com/JIDFPVU.jpg
 description: "角色專屬時裝"
@@ -344,4 +345,22 @@ description: "角色專屬時裝"
 {% endtabs %}
 <!-- endtab -->
 
+<!-- tab 摩亞(Mois)-神聖昔日 -->
+部位：武器、髮型（外加另類)、上衣、下衣、手套、鞋子、{% label 手臂(手鍊) green %}、{% label 特效(威嚴) green %}
+**飾品與另類髮型為單一型，其餘分3型
+<font color=#f00>7件可使用普通立繪</font>
+<font color=#f00>8件可使用特殊立繪</font>**
+
+{% tabs 摩亞(Mois)-神聖昔日 %}
+<!-- tab 普通立繪-->
+[![](https://i.imgur.com/vrZNMgW.jpeg)](https://i.imgur.com/vrZNMgW.jpeg)
+<!-- endtab -->
+<!-- tab 特殊立繪-->
+[![](https://i.imgur.com/HKkxUtx.jpeg)](https://i.imgur.com/HKkxUtx.jpeg)
+<!-- endtab -->
+<!-- tab 模組圖片-->
+[![](https://i.imgur.com/Uotyj8O.png)](https://i.imgur.com/Uotyj8O.png)
+<!-- endtab -->
+{% endtabs %}
+<!-- endtab -->
 {% endtabs %}
