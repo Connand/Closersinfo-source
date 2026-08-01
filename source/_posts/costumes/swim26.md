@@ -37,7 +37,7 @@ description: "2026泳裝系列"
 ---
 # 利特莫島(暫譯) / Isla Litmo
 
-## 泳裝PVhttps://youtu.be/qA5P7ZYdMTA?si=fqcb3dhS_MlFKXxS
+## [泳裝PV](https://youtu.be/qA5P7ZYdMTA?si=fqcb3dhS_MlFKXxS)
 
 {% hideToggle PV %}
 {%youtube qA5P7ZYdMTA %}
