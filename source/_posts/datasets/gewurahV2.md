@@ -3,7 +3,7 @@ title: 蜃景樂園：迷惑音階接收器資訊
 date: 2026-07-09 11:25:00
 tags: 資料紀錄
 category: [遊戲資料,裝備]
-cover: /img/gear/paradise22/DLG_FARMING_GUIDE_paradise2_OF_IGNORANCE_HOD.PNG
+cover: /img/gear/paradise2/DLG_FARMING_GUIDE_PARADISE_OF_IGNORANCE_HOD.PNG
 description: "迷惑音階接收器製作相關資訊"
 ---
 
@@ -17,6 +17,7 @@ description: "迷惑音階接收器製作相關資訊"
 - 戰力推薦：300,000,000
 - 主要掉落物：{% inlineImg /img/gear/paradise2/HQ_201542_RESOURCE.PNG 48px %}1{% inlineImg /img/gear/paradise2/HQ_201541_RESOURCE.PNG 48px %}機率掉落1{% inlineImg /img/gear/paradise2/HQ_HOD_EP_RECEIVER_AIRAMP.PNG 64px %}機率掉落1{% inlineImg /img/gear/paradise2/HQ_HOD_EP_RECEIVER_EXPANDER.PNG 64px %}機率掉落1{% inlineImg /img/gear/paradise2/HQ_HOD_EP_RECEIVER_TRACKER.PNG 64px %}機率掉落1
 - 額外獎勵（每周 1 次）：{% inlineImg /img/gear/paradise2/HQ_201541_RESOURCE.PNG 48px %}20
+- 特殊機率掉落物：{% inlineImg /img/gear/paradise2/HQ_341_NEW_CHIP.PNG 48px %}1{% inlineImg /img/gear/paradise2/HQ_190036_CONSUMABLE.PNG 48px %}1{% inlineImg /img/gear/paradise2/HQ_1499000704_GUST_INVALID_NA.PNG 48px %}1{% inlineImg /img/gear/paradise2/HQ_1499002802_GUST_INVALID_NA.PNG 48px %}1{% inlineImg /img/gear/paradise2/HQ_ICON_PNA_BOSS_HOD.PNG 48px %}1
 - **副本種族類型：野生型**{% inlineImg https://i.imgur.com/8ONbMJo.png 48px %}
 
 其中
@@ -54,14 +55,14 @@ description: "迷惑音階接收器製作相關資訊"
 
 <!-- tab 秘藥-->
 
-|階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %}  | {% inlineImg /img/gear/paradise/HQ_201541_RESOURCE.PNG 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %} | {% inlineImg /img/gear/paradise/HQ_201542_RESOURCE.PNG 48px %} |
+|階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %}  | {% inlineImg /img/gear/paradise2/HQ_201541_RESOURCE.PNG 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %} | {% inlineImg /img/gear/paradise2/HQ_201542_RESOURCE.PNG 48px %} |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 |接收器製作|-|-|-|16 個|-|-|
 |接收器升級|-|-|-|1 個|-|-|
 |接收器 T1 (100%)|-|-|-|1 個|28 個|-|
 |接收器 T2 (100%)|-|-|-|1 個|36 個|-|
 |**總計**|-|-|-|18 個|64 個|-|
-|**<font color=red>史詩升級(100%)</font>**|-|-|-|-|**500 個**|
+|**<font color=red>史詩升級(100%)</font>**|-|-|-|-|-|**500 個**|
 
 <!-- endtab -->
 
@@ -75,7 +76,10 @@ description: "迷惑音階接收器製作相關資訊"
 |接收器 T2 (100%)|-|-|-|36 個|-|
 |**總計**|-|-|-|80 個|-|
 |**<font color=red>史詩升級(100%)</font>**|-|-|-|-|**500 個**|
-|**開啟「迷惑音階接收器獲得箱子」道具後，可根據一定機率獲得+13～+21強化的迷惑音階接收器或「無知的迷惑音階史詩接收器 [綁定]」道具</font>**|
+
+<font color=red><h4>開啟「迷惑音階接收器獲得箱子」道具後，可根據一定機率獲得
+- +13～+21強化的迷惑音階接收器
+- 「無知的迷惑音階史詩接收器 [綁定]」</h4></font>
 
 <!-- endtab -->
 
@@ -87,9 +91,9 @@ description: "迷惑音階接收器製作相關資訊"
 
 # 能力素質
 
-|詞條|{% inlineImg /img/gear/paradise/HQ_GEWURAH_RECEIVER_AIRAMP.PNG 48px %}<br>**超越**|{% inlineImg /img/gear/paradise2/HQ_GEWURAH_EP_RECEIVER_AIRAMP.PNG 48px %}<br>**<font color=red>史詩</font>**|{% inlineImg /img/gear/paradise/HQ_HOD_RECEIVER_AIRAMP.PNG 48px %}<br>**超越**|{% inlineImg /img/gear/paradise2/HQ_HOD_EP_RECEIVER_AIRAMP.PNG 48px %}<br>**<font color=red>史詩</font>**
+|詞條|{% inlineImg /img/gear/paradise/HQ_GEWURAH_RECEIVER_AIRAMP.PNG 48px %}<br>**超越**|{% inlineImg /img/gear/paradise/HQ_GEWURAH_EP_RECEIVER_AIRAMP.PNG 48px %}<br>**<font color=red>史詩</font>**|{% inlineImg /img/gear/paradise2/HQ_HOD_RECEIVER_AIRAMP.PNG 48px %}<br>**超越**|{% inlineImg /img/gear/paradise2/HQ_HOD_EP_RECEIVER_AIRAMP.PNG 48px %}<br>**<font color=red>史詩</font>**
 |:-|:-:|:-:|:-:|:-:|
-|攻擊力(0%白值)|1900|2800|2500|3400
+|攻擊力(白值)|1900|2800|2500|3400
 |攻擊力(黃值)|4800|6600|6000|7800
 |對應條件暴擊傷害|240%|330%|300%|390%
 |(被動)綜合戰鬥訓練| +3| +3| +3| +3

@@ -53,7 +53,7 @@ description: "荊棘接收器製作相關資訊"
 
 <!-- tab 秘藥-->
 
-|階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %}  | {% inlineImg /img/gear/paradise/HQ_201436_RESOURCE.PNG 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %} | {% inlineImg /img/gear/paradise/HQ_201488_RESOURCE.PNG 48px %} |
+|階段| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %}  | {% inlineImg /img/gear/paradise2/HQ_201436_RESOURCE.PNG 48px %} | {% inlineImg https://i.imgur.com/6qBUfOf.png 48px %} | {% inlineImg /img/gear/paradise2/HQ_201488_RESOURCE.PNG 48px %} |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 |接收器製作|32,000,000|480 個|480 個|16 個|-|-|
 |接收器升級|2,000,000|30 個|30 個|1 個|-|-|
