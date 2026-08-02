@@ -110,7 +110,7 @@ description: "Break Challenge Season 3"
 > ## 負面環境選擇清單
 
 - 基礎分 1000，根據下表選擇負面環境以增加獎勵分數
-- 最高分為 6200	0，可獲得獎勵最高分數為 50000
+- 最高分為 62000，可獲得獎勵最高分數為 50000
 - 本次新增{% inlineImg ../img/belphegor3/HQ_ICON_SKILL_SI_COMMON_DUNGEON_SPECIAL_SKILL_BREAKCHALLENGE_BELPHEGOR.PNG 40px %}副本技能，使用後立即重置終極技能以外的所有技能冷卻時間，可使用三次
 
 {% tabs 負面環境選擇清單 %}
@@ -175,7 +175,7 @@ description: "Break Challenge Season 3"
 
 |名稱|{% inlineImg /img/belphegor3/HQ_925122_CONSUMABLE.PNG 40px %}<br>名字標籤券：看見怠惰盡頭者|{% inlineImg /img/belphegor3/HQ_1799004200_GUST_INVALID_NA.PNG 40px %}<br>無限閃耀的齒輪|{% inlineImg /img/belphegor3/HQ_925121_CONSUMABLE.PNG 40px %}<br>外觀編制券：有限的怠惰|
 |:-:|:-:|:-:|:-:|
-|裝備效果|{% inlineImg /img/belphegor3/DLG_NAMETAG_BREAK_CHALLENGE_3.PNG 100px %}|{% inlineImg https://i.imgur.com/SNgGUdd.gif 200px %}|{% inlineImg https://i.imgur.com/ymsRnbE.gif 200px %}|
+|裝備效果|{% inlineImg /img/belphegor3/DLG_NAMETAG_BREAK_CHALLENGE_3.PNG 100px %}|{% inlineImg https://i.imgur.com/E3H1sW0.gif 200px %}|{% inlineImg https://i.imgur.com/nYXJFmH.gif 200px %}|
 </div>
 
 ---
@@ -185,16 +185,16 @@ description: "Break Challenge Season 3"
 
 {% tabs 立繪展示, -1 %}
 <!-- tab 機械王-->
-![](https://i.imgur.com/wXff1xy.png)
+![](https://i.imgur.com/BpDLqIR.png)
 <!-- endtab -->
 <!-- tab 霍夫曼-->
-![](https://i.imgur.com/JHAmvrp.png)
+![](https://i.imgur.com/TFm82Ei.png)
 <!-- endtab -->
 <!-- tab 格莫莉-->
-![](https://i.imgur.com/0zI9IrG.png)
+![](https://i.imgur.com/4EfFUoI.png)
 <!-- endtab -->
 <!-- tab 格莫瑞-->
-![](https://i.imgur.com/2SP5ybC.png)
+![](https://i.imgur.com/H8OJDGK.png)
 <!-- endtab -->
 {% endtabs %}
 
@@ -202,16 +202,13 @@ description: "Break Challenge Season 3"
 
 # 參考攻略
 
-1. [【攻略】突破挑戰 - 無限深海 機制 攻略](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9470&tnum=1) by 智波水
-1. [[封印者]海洋突破挑战机制详解](https://www.bilibili.com/video/BV1PWQTYwENq/?share_source=copy_web&vd_source=2426657ea8060a3b8d41a50bede67b85) by 桜咕
+1. [【封印者韩服】2月12日更新（机械突破）](https://www.bilibili.com/video/BV1o2PCzyEA7/?spm_id_from=333.337.search-card.all.click&vd_source=fd2c7ec64c5cb80e57022f116c14178b) by 桜咕
 
 ---
 
 # 參考資料
 
-1. [韓版20250220更新預覽](https://www.naddic.co.kr/ko/game/cls/gmNote/detail?contentNo=375)
-1. [韓版20250220詳細更新內容](https://www.naddic.co.kr/ko/game/cls/event/announce/detail?contentNo=382)
-
+1. [台版2026001更新預覽](https://clo.mangot5.com/game/clo/event/announce/detail/?contentNo=67549)
 ---
 
 
