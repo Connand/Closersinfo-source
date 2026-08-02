@@ -1,6 +1,6 @@
 ---
-title: 利特莫島(暫譯) (2026泳裝)
-date: 2025-07-31 16:20:00
+title: 音律之島 (2026泳裝)
+date: 2026-08-13 16:20:00
 tags:
     - 立繪時裝
     - 李世河
@@ -35,7 +35,7 @@ description: "2026泳裝系列"
 ![](https://i.imgur.com/T759MRx.jpeg)
 
 ---
-# 利特莫島(暫譯) / Isla Litmo
+# 音律之島 / Isla Litmo
 
 ## [泳裝PV](https://youtu.be/qA5P7ZYdMTA?si=fqcb3dhS_MlFKXxS)
 
@@ -155,73 +155,73 @@ description: "2026泳裝系列"
 <!-- tab 特殊角色立繪-->
 {% tabs 特殊立繪 %}
 <!-- tab 李世河(Seha)-->
-{% inlineImg https://i.imgur.com/5OpVv48.gif 400px %}
+{% inlineImg https://i.imgur.com/5OpVv48.gif 800px %}
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
-{% inlineImg https://i.imgur.com/unMoQXc.gif 400px %}
+{% inlineImg https://i.imgur.com/unMoQXc.gif 800px %}
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-{% inlineImg https://i.imgur.com/M8jqcL8.gif 400px %}
+{% inlineImg https://i.imgur.com/M8jqcL8.gif 800px %}
 <!-- endtab -->
 <!-- tab J-->
-{% inlineImg https://i.imgur.com/bplT85q.gif 400px %}
+{% inlineImg https://i.imgur.com/bplT85q.gif 800px %}
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
-{% inlineImg https://i.imgur.com/ykwAkga.gif 400px %}
+{% inlineImg https://i.imgur.com/ykwAkga.gif 800px %}
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
-{% inlineImg https://i.imgur.com/svRrJKq.gif 400px %}
+{% inlineImg https://i.imgur.com/svRrJKq.gif 800px %}
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-{% inlineImg https://i.imgur.com/uY7f9bm.gif 400px %}
+{% inlineImg https://i.imgur.com/uY7f9bm.gif 800px %}
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
-{% inlineImg https://i.imgur.com/ns26rTX.gif 400px %}
+{% inlineImg https://i.imgur.com/ns26rTX.gif 800px %}
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
-{% inlineImg https://i.imgur.com/Ax0pHiq.gif 400px %}
+{% inlineImg https://i.imgur.com/Ax0pHiq.gif 800px %}
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
-{% inlineImg https://i.imgur.com/BpXEJsF.gif 400px %}
+{% inlineImg https://i.imgur.com/BpXEJsF.gif 800px %}
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
-{% inlineImg https://i.imgur.com/iStxBcS.gif 400px %}
+{% inlineImg https://i.imgur.com/iStxBcS.gif 800px %}
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-{% inlineImg https://i.imgur.com/BuZABiV.gif 400px %}
+{% inlineImg https://i.imgur.com/BuZABiV.gif 800px %}
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-{% inlineImg https://i.imgur.com/W9VsHFz.gif 400px %}
+{% inlineImg https://i.imgur.com/W9VsHFz.gif 800px %}
 <!-- endtab -->
 <!-- tab 白(Bai)-->
-{% inlineImg https://i.imgur.com/I422J3V.gif 400px %}
+{% inlineImg https://i.imgur.com/I422J3V.gif 800px %}
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
-{% inlineImg https://i.imgur.com/Vang6Pf.gif 400px %}
+{% inlineImg https://i.imgur.com/Vang6Pf.gif 800px %}
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
-{% inlineImg https://i.imgur.com/6gfVDX1.gif 400px %}
+{% inlineImg https://i.imgur.com/6gfVDX1.gif 800px %}
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
-{% inlineImg https://i.imgur.com/5LNeUYr.gif 400px %}
+{% inlineImg https://i.imgur.com/5LNeUYr.gif 800px %}
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
-{% inlineImg https://i.imgur.com/GCbKuTn.gif 400px %}
+{% inlineImg https://i.imgur.com/GCbKuTn.gif 800px %}
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-{% inlineImg https://i.imgur.com/NleASL0.gif 400px %}
+{% inlineImg https://i.imgur.com/NleASL0.gif 800px %}
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
-{% inlineImg https://i.imgur.com/Ss2OJaA.gif 400px %}
+{% inlineImg https://i.imgur.com/Ss2OJaA.gif 800px %}
 <!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
-{% inlineImg https://i.imgur.com/EL0KuKD.gif 400px %}
+{% inlineImg https://i.imgur.com/EL0KuKD.gif 800px %}
 <!-- endtab -->
 <!-- tab 特莉絲(Triss)-->
-{% inlineImg https://i.imgur.com/Lw8OLjx.gif 400px %}
+{% inlineImg https://i.imgur.com/Lw8OLjx.gif 800px %}
 <!-- endtab -->
 <!-- tab 摩亞(Mois)-->
-{% inlineImg https://i.imgur.com/bexJ87z.gif 400px %}
+{% inlineImg https://i.imgur.com/bexJ87z.gif 800px %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
