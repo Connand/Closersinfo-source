@@ -11,7 +11,7 @@ description: "Break Challenge Season 3"
 
 > ## 前置要求
 
-- 角色等級 92 等並完成 18 村（殉道者的山丘）的主線任務 **<font color=red>與深海突破挑戰前置</font>** 。
+- 角色等級 92 等並完成 17 村（世界和平之門）的主線任務 **<font color=red>與深海突破挑戰前置</font>** 。
 
 -  **<font color=red>伊莉雅、特莉絲角色須通關 [突破挑戰] 劇情的 <策展人的決心> 任務後才可進入</font>** 。
 
