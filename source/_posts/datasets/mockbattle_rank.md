@@ -28,9 +28,9 @@ BOSS：血量無限(100條為一次結算)，每次結算完，重置血量、�
 
 |分數|獎勵1|
 |:-:|:-:|
-|100,000|{% inlineImg /img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %} x 5|
-|200,000|{% inlineImg https://i.imgur.com/iBYdZJy.png 40px %} x 40|
-|300,000|{% inlineImg https://i.imgur.com/xcvprPp.png 40px 48px %} x 15|
+|100,000|{% inlineImg ../img/material/HQ_150100_RESOURCE_ENCHANT.PNG 40px %} x 5|
+|200,000|{% inlineImg https://i.imgur.com/xcvprPp.png 40px %} x 5|
+|300,000|{% inlineImg ../img/material/mock_coin.png 40px 48px %} x 15|
 
 > # 名次與等級表
 
