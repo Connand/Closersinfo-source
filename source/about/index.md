@@ -8,7 +8,7 @@ layout: "about"
 此網站由台版封印者玩家 梧夜 建立
 旨在統合封印者相關的資料
 目前收集了時裝、裝備等相關資訊
-其所有內容均屬NEXON與NADDIC GAMES所有
+其所有內容均屬NADDIC GAMES所有
 ---
 技術細節：
 靜態網頁產生器：[Hexo](https://hexo.io/zh-tw/)
