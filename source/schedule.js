@@ -4,15 +4,11 @@ let day = date.getDay(); // getDay returns 0 to 6; 0 = sun, 1 = mon and so on.
 let hour= date.getHours(); // gethhours returns the hour (0-23)
   
 let boss_names = [
-"先代之龍赫克頓蓋爾 (魔龍形)<img class=\"inline-img\" src=\"https://i.imgur.com/FWfg4L0.png\" style=\"height:32px\">", 
-"赤色死神 (使徒型)<img class=\"inline-img\" src=\"https://i.imgur.com/t8j9844.png\" style=\"height:32px\">", 
-"黃金莫拉克 (前腦型)<img class=\"inline-img\" src=\"https://i.imgur.com/acS6rsI.png\" style=\"height:32px\">",
-"馬列克 (野生型)<img class=\"inline-img\" src=\"https://i.imgur.com/8ONbMJo.png\" style=\"height:32px\">", 
-"島的主人 (食蟲型)<img class=\"inline-img\" src=\"https://i.imgur.com/HoxQxvb.png\" style=\"height:32px\">",
-"巴司基 (海底型)<img class=\"inline-img\" src=\"https://i.imgur.com/I6BPtrp.png\" style=\"height:32px\">"
+"暗黑吉娜．葛蕾絲 (人類型)<img class=\"inline-img\" src=\"https://i.imgur.com/KOAPxLX.png\" style=\"height:32px\">",
+"墮落的聖火菲尼克斯 (業火型)<img class=\"inline-img\" src=\"https://i.imgur.com/3FV9pDB.png\" style=\"height:32px\">"
 ];
 //let mockStart = new Date("Sep 25, 2021 04:00:00");
-let mockStart = new Date("Apr 22, 2023 04:00:00");
+let mockStart = new Date("May 16, 2026 04:00:00");
 let _second = 1000;
 let _minute = _second * 60;
 let _hour = _minute * 60;
@@ -20,12 +16,12 @@ let _day = _hour * 24;
 
 let now = new Date();
 let elaped = now - mockStart;
-let number_of_week = Math.ceil(elaped / (7 * 24 * 60 * 60 * 1000)); // 算第幾季：1周 = 7日*24小時*60分鐘*60秒*1000毫秒
-let mock_boss_number = Math.floor(elaped / (7 * 24 * 60 * 60 * 1000) % 6); // 算第幾周 => boss
-let mockEnd = new Date(mockStart.getTime() + number_of_week * (7 * 24 * 60 * 60 * 1000)); // 算結束日
-document.getElementById('mockBattleInfo').innerHTML = "<font size=4><b>第 " + number_of_week + " 周</b><a href=\"https://cls.mangot5.com/game/cls/news/detail?contentNo=46589\" rel=\"external nofollow noreferrer\" target=\"_blank\">模擬戰</a>（<a href=\"/datasets/mockbattle_rank/\" rel=\"external nofollow noreferrer\" target=\"_blank\">分數表</a>）</font><br>";
+let number_of_week = Math.ceil(elaped / (14 * 24 * 60 * 60 * 1000)); // 算第幾季：1周 = 7日*24小時*60分鐘*60秒*1000毫秒
+let mock_boss_number = Math.floor(elaped / (14 * 24 * 60 * 60 * 1000)) % 2; // 算第幾周 => boss
+let mockEnd = new Date(mockStart.getTime() + number_of_week * (14 * 24 * 60 * 60 * 1000)); // 算結束日
+document.getElementById('mockBattleInfo').innerHTML = "<font size=4><b>第 " + number_of_week + " 周</b></font><br>";
 document.getElementById('mockBattleInfo').innerHTML += "<b>本周BOSS</b>：<br>- " + boss_names[mock_boss_number];
-document.getElementById('mockBattleInfo').innerHTML += "<br><b>下周BOSS</b>：<br>- " + boss_names[(mock_boss_number + 1) % 6];
+document.getElementById('mockBattleInfo').innerHTML += "<br><b>下周BOSS</b>：<br>- " + boss_names[(mock_boss_number + 1) % 2];
 
 document.getElementById('mockBattleEnd').innerHTML = '<b>' + mockEnd.getFullYear() + '/';
 document.getElementById('mockBattleEnd').innerHTML += '<b>' + (mockEnd.getMonth() + 1) + '/';
@@ -99,13 +95,15 @@ let birthdays = {
   "09/23":{name:"露娜．埃癸斯",code:"AEGIS"},
   "03/26":{name:"索瑪．阿斯特拉",code:"ASTRA"},
   "09/09":{name:"白．溫徹斯特",code:"MYSTIC"},
-  "08/25":{name:"賽特．賽赫麥特",code:"BEAST"}, 
+  "08/25":{name:"賽特．賽赫麥特",code:"BEAST"},
+  "03/01":{name:"摩亞",code:"GateKeeper"}, 
   
   "07/02":{name:"金徹斯",code:"NONAME"},
   "11/02":{name:"未來",code:"REAPER"},
   "04/12":{name:"<font color=#64668d>銀河</font>",code:"KNIVES"},
   "02/28":{name:"露西．普拉蒂尼",code:"ALTEREGO"},
-  "03/02":{name:"愛里",code:"DEVILISH"}, 
+  "03/02":{name:"愛里",code:"DEVILISH"
+   }, 
 }
 
 if (typeof birthdays[getDateString(now)] != 'undefined') {

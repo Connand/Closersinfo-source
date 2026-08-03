@@ -13,10 +13,23 @@
       link: https://docs.google.com/spreadsheets/d/1T3SC69WbNo_UUKiNUMYrwuF4SULZ6vklZfhy69vJalw/edit?usp=sharing
       avatar: https://i.imgur.com/dQ3dyFz.png
       descr: 整理各角色的技能判定
+    - name: 攻略通道傳送門
+      link: https://reurl.cc/qadWrR
+      avatar: https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/467546652_450012934794048_1977088577454364037_n.jpg?stp=dst-jpg_tt6&cstp=mx566x566&ctp=s566x566&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=DLaiCgBRFhwQ7kNvwEdoyh7&_nc_oc=Adr-MP66dpiFr-bM2nI5peW-XGLl1tE13Dyz7q6j3y0jmcd7cm7NAlauWtBEA6ySz21GsWf1jCBAlbyL_hdenlDr&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=zfkORXChrUU5_dZzwfoopw&_nc_ss=7b2a8&oh=00_AQHeb38JU_5U006e6BMw6LHPQE_F3_AN3qV_6Dl6taWpRw&oe=6A766A36
+      descr: 情報網站主所有，查詢其他攻略
     - name: 封印者巴哈姆特
       link: https://forum.gamer.com.tw/A.php?bsn=23655
       avatar: https://www.oneup.com.tw/img/logo.gif
       descr: 查看一些玩家分享的趣事
+    - name: 讀取框生成器
+      link: https://lagnea.github.io/closers-loading-image-creator/
+      avatar: /img/Blacklambslogo.png
+      descr: 韓國人製作的，目前已移除此讀取介面
+
+
+- class_name: 各服官網
+  class_desc: 各伺服器的官網們
+  link_list:
     - name: 台版封印者官網
       link: https://clo.mangot5.com/clo/index
       avatar: /img/Blacklambslogo.png
@@ -41,10 +54,8 @@
       link: https://www.codeclosers.to/
       avatar: https://www.codeclosers.to/images/logo.png
       descr: 就是個...私...私...服
-    - name: 讀取框生成器
-      link: https://lagnea.github.io/closers-loading-image-creator/
-      avatar: /img/Blacklambslogo.png
-      descr: 韓國人製作的，可搭配Google翻譯使用
+
+
 
 - class_name: 舊版官網
   class_desc: 一些已經轉移的舊官網
@@ -62,18 +73,18 @@
       avatar: /img/Blacklambslogo.png
       descr: 我們懷念他again
 
-- class_name: 網站
-  class_desc: 預設建立的，懶得改(x)
+- class_name: 官方其他平台
+  class_desc: 對 就是其他平台
   link_list:
-    - name: Youtube
-      link: https://www.youtube.com/
+    - name: 韓服Youtube
+      link: https://www.youtube.com/@Closers_kr/videos
       avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 影片網站
-    - name: Twitter
-      link: https://twitter.com/
-      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
-      descr: 社交分享平台
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 本站使用此工具建立
+      descr: 韓服的官方頻道
+    - name: 台服Youtube
+      link: https://www.youtube.com/@HappyTuk/featured
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 台服的官方頻道，雖然一堆東西都鎖不公開
+    - name: 台服 Facebook
+      link: https://www.facebook.com/CLOSERSTAIWAN
+      avatar: https://th.bing.com/th/id/OIP.Jij51XopLTVwgBHv6xgRvgHaHa?w=184&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+      descr: 對 就是台服的FB
