@@ -10,7 +10,6 @@ description: "覺醒PNA與相關內容及PNA重製內容介紹(Awaken PNA)"
 > # 簡介
 
 韓版於 2023/06/15 對PNA系統進行大幅度改動並新增內容，簡略說明如下：
-當日維修時間：**凌晨3點至下午6點(台灣時間，共15小時)，實際延長2小時**
 {% hideToggle 改版詳細 %}
 - PNA帳號化
 - PNA攻擊/防禦/輔助/增幅、全部格子開放
@@ -33,7 +32,7 @@ description: "覺醒PNA與相關內容及PNA重製內容介紹(Awaken PNA)"
 
 ---
 
-> # 新副本與經驗表
+<!-- > # 新副本與經驗表
 
 ## 新副本（格莫瑞街機遊戲室，街機室）入場需求
 
@@ -77,10 +76,9 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |高級篇VH|12,800|每日帳號 3 次|
 |娛樂室|9,800|每周角色 2 場 (與VH共用)|
 |娛樂室VH|13,000|每周角色 2 場|
-{% endhideToggle %}
+{% endhideToggle %}-->
 
 
----
 
 > # 突變等級表
 
@@ -151,12 +149,11 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 - 突變對應的種族增傷如下
 	- 19等前：每等級提升 13%，19 等時為 247%
 	- **<font color=red>20等  ：提升 23%，20等時為 270%</font>**
-	- 20等後：每等級提升 1%。75等時 325%。100等時 350%
+	- 20等後：每等級提升 1%。75等時 325%。100等時 360%
 	- **因此建議新手先將所有突變類型練到 20 等，再根據需要選擇其中一種再練上去。**
 
 觀察圖片右邊，每一格均有重鑄等級標示，代表發現體的能力可以進行重鑄
-重鑄消耗 **<font color=red>{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材料</font>** ，每一格 **<font color=red>每次重鑄消耗 50 變異材料，可重鑄 10 次</font>**
-當到達次數上限時， **<font color=red>需要使用{% inlineImg https://i.imgur.com/ofbuOah.png 40px %}將可重鑄次數回復為最大值</font>**
+可消耗次數進行重鑄，次數消耗完時， **<font color=red>需要使用{% inlineImg https://i.imgur.com/ofbuOah.png 40px %}將可重鑄次數回復為最大值</font>**
 
 ![](https://i.imgur.com/JFn7JZL.png)
 
@@ -168,7 +165,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |:-:|:-:|:-:|:-:|:-:
 |**Lv. 60**<br>背擊時暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 120**<br>空中時暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 180**<br>浮空時暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 200**<br>攻擊速度<br>{% inlineImg img/tuning/tuningSS.png 24px %} 2%{% inlineImg img/tuning/tuningS.png 24px %} 1%|**Lv. 220**<br>總物理攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%
 |**Lv. 220**<br>總魔法攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%|**Lv. 230**<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 240**<br>攻擊速度<br>{% inlineImg img/tuning/tuningSS.png 24px %} 2%{% inlineImg img/tuning/tuningS.png 24px %} 1%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 260**<br>物理暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 260**<br>魔法暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%
-|**Lv. 280**<br>背擊時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 280**<br>空中時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 280**<br>浮空時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 300**<br>總物理攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%<br>物理暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 300**<br>總魔法攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%<br>魔法暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%
+|**Lv. 280**<br>背擊時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 3%{% inlineImg img/tuning/tuningS.png 24px %} 1.5%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 280**<br>空中時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 3%{% inlineImg img/tuning/tuningS.png 24px %} 1.5%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 280**<br>浮空時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 3%{% inlineImg img/tuning/tuningS.png 24px %} 1.5%<br>超能爆發時傷害增加<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1.6%{% inlineImg img/tuning/tuningS.png 24px %} 0.8%|**Lv. 300**<br>總物理攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%<br>物理暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%|**Lv. 300**<br>總魔法攻擊力<br>{% inlineImg img/tuning/tuningSS.png 24px %} 1%{% inlineImg img/tuning/tuningS.png 24px %} 0.4%<br>魔法暴擊傷害<br>{% inlineImg img/tuning/tuningSS.png 24px %} 10%{% inlineImg img/tuning/tuningS.png 24px %} 5%
 
 - 以下表格建議能力均與上面表格相同（每 15 格一循環），僅標示所需等級
 
@@ -197,7 +194,6 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 與前面PNA一樣可以強化，但是需要使用更新後才能打到的"覺醒材料"來升級
 可使用{% inlineImg https://i.imgur.com/ofbuOah.png 40px %}PNA套裝等來輔助強化
 
-可從[官網資料](https://cs.nexon.com/helpBoard/popuphelpview/27112)確認每一等的能力值
 
 {% hideToggle 覺醒因數強化材料表 %}
 
@@ -287,7 +283,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 ### 閃避
 |名稱|能力|冷卻時間
 |:-|:-|:-:
-|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EVADE_G.PNG 40px %} **<font color=green>壓制</font>**|**[完美迴避]** 時 最大HP+3600、物理/魔法暴傷 +30%（最多5層）<br>**冷卻時間降低 <font color=red><平衡後></font>**|6秒<br>**1秒**
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EVADE_G.PNG 40px %} **<font color=green>壓制</font>**|**[完美迴避]** 時 最大HP+3600、物理/魔法暴傷 +30%（最多5層）<br>**物理/魔法暴傷 +360% 持續7秒 <font color=red><平衡後></font>**|6秒<br>**-**
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EVADE_B.PNG 40px %} **<font color=blue>氣魄</font>**|**[完美迴避]** 時 10秒內物理/魔法攻擊力 +3000<br>****[完美迴避]** 時 20秒內物理/魔法攻擊力 +4000 <font color=red><平衡後></font>**|10秒<br>**1秒**
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EVADE_P.PNG 40px %} **<font color=purple>不撓</font>**|**[完美迴避]** 時 無敵時間 +3秒<br>**冷卻時間降低 <font color=red><平衡後></font>**|10秒<br>**1秒**
 
@@ -302,7 +298,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |名稱|能力|冷卻時間
 |:-|:-|:-:
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_G.PNG 40px %} **<font color=green>急墜</font>**|**[跳躍]** 時 15秒內空中暴擊傷害 +130%<br>****[跳躍]** 時 25秒內空中暴擊傷害 +130% <font color=red><平衡後></font>**|15秒
-|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_B.PNG 40px %} **<font color=blue>鬥志</font>**|**[跳躍]** 時 15秒內傷害量 +30%<br>****[跳躍]** 時 25秒內傷害量 +60% <font color=red><平衡後></font>**|15秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_B.PNG 40px %} **<font color=blue>鬥志</font>**|**[跳躍]** 時 15秒內傷害量 +30%<br>****[跳躍]** 時 25秒內空中傷害量 +45% <font color=red><平衡後></font>**|15秒
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_P.PNG 40px %} **<font color=purple>氣魄</font>**|**[跳躍]** 時 15秒內物理/魔法攻擊力 +1500<br>****[跳躍]** 時 25秒內物理/魔法攻擊力 +3000 <font color=red><平衡後></font>**|15秒
 
 ### 特殊技能
@@ -316,7 +312,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |名稱|能力|冷卻時間
 |:-|:-|:-:
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_LANDING_G.PNG 40px %} **<font color=green>追擊</font>**|**[落地]** 時 25秒內浮空暴擊傷害 +130%|15秒
-|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_LANDING_B.PNG 40px %} **<font color=blue>鬥志</font>**|**[落地]** 時 25秒內傷害量 +60%|15秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_LANDING_B.PNG 40px %} **<font color=blue>鬥志</font>**|**[落地]** 時 25秒內傷害量 +60%<br>**[落地]** 時 25秒內浮空傷害量 +60%|15秒
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_LANDING_P.PNG 40px %} **<font color=purple>決心</font>**|**[落地]** 時 25秒內總(物理/魔法)攻擊力與防禦力 +15%|15秒
 
 ### 火焰
@@ -333,7 +329,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 
 |名稱|能力|冷卻時間
 |:-|:-|:-:
-|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_FROZEN_G.PNG 40px %} **<font color=green>擴散</font>**|自身被攻擊時使敵人受到 150億 固定傷害|15秒
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_FROZEN_G.PNG 40px %} **<font color=red><s><font color=green>擴散</font></s></font>** **<font color=green>爆擊</font>**|自身被攻擊時使敵人受到 150億 固定傷害<br>**物理/魔法暴擊傷害量增加150% <font color=red><平衡後></font>**|15秒<br>**-**|
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_FROZEN_B.PNG 40px %} **<font color=blue>神速</font>**|攻擊時減少 二轉/解決師大招 冷卻時間 30 秒|15秒
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_FROZEN_P.PNG 40px %} **<font color=purple>決心</font>**|攻擊時15秒內 總(物理/魔法)攻擊力與防禦力 +15%|15秒
 
@@ -351,7 +347,7 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EXTREME_B.PNG 40px %} **<font color=blue>???</font>**|**因為檢查時發現BUG，故目前尚未實裝**|-
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EXTREME_P.PNG 40px %} **<font color=purple>阻斷封印：屠殺</font>**|無法使用 **[強制阻斷]** ，對所有類型增加傷害 40%|-
 
-### 充能 <font color=red>NEW!</font>
+### 充能 </font>
 - 使用時獲得效果： **攻擊時獲得 [充能]。[充能] 達到 100 層時獲得 [超載]**
 
 |名稱|能力|冷卻時間
@@ -369,26 +365,22 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 
 |類型|說明
 |:-|:-
-|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_FROZEN_G.PNG 40px %}**<font color=green>冷氣A：擴散</font>**|**<font color=red>快速累積活動素材/場數神器（不需升級）</font>**<br>利用黑羊或紅狼小隊的角色，並且從UNION臨時總部進入副本 **UNION大廈天臺 偵查（簡單）** 難度後，即可直接通關。<br>在物品撿取完畢後即可直接按 F2 進行下一場。<br>[參考影片](https://www.bilibili.com/video/BV1NVVNe2EF3/?share_source=copy_web&vd_source=2426657ea8060a3b8d41a50bede67b85)|
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_P.PNG 32px %}**<font color=purple>強制阻斷C：逆襲</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_B.PNG 32px %}**<font color=blue>跳躍B：鬥志</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_P.PNG 32px %}**<font color=purple>跳躍C：氣魄</font>**|由於副本環境變化，怪物的暴抗並沒有什麼變化，讓暴傷造成的傷害收益減少，變成以增傷或基傷成為首選。<br>由於 {% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_P.PNG 32px %}**<font color=purple>強制阻斷C：逆襲</font>** 與 {% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_BURN_P.PNG 32px %}**<font color=purple>火焰C：反擊</font>** 的效果也可以增加固定傷害的數值（如[魔龍王的權杖](/datasets/hecatoncheires/#%E6%AD%A6%E5%99%A8%E7%89%B9%E6%AE%8A%E8%83%BD%E5%8A%9B-x2F-%E5%BC%B7%E5%8C%96%E8%A7%A3%E6%94%BE%E7%B3%BB%E7%B5%B1)），因此也有兩者一同使用的組合<br>[征服項目 Ver. 2](/datasets/conquest_program_v2/) 幾乎都使用此組合進行挑戰|
-|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_B.PNG 32px %}**<font color=blue>跳躍B：鬥志</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_G.PNG 32px %}**<font color=green>強制阻斷A：壓制</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_P.PNG 32px %}**<font color=purple>強制阻斷C：逆襲</font>**|**<font color=red><平衡後推薦></font>由於第 3 顆的持續時間大幅提升且效果提升，因此可以納入考量範圍**<br>**對於相對高戰力的玩家較推薦**<br>由於高戰力造成之後暴傷與基傷的增益量減少，但是增傷仍是相當固定的數值，因此增傷系列能夠提供較穩定的輸出提升。<br>但是第 3 顆由於範圍限制，所以建議確實靠近目標再觸發。以及增傷遞減的關係，若多人配戴此因素會使其效益變低。|
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_G.PNG 32px %}**<font color=green>跳躍A：急墜</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_B.PNG 32px %}**<font color=blue>跳躍B：鬥志</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_P.PNG 32px %}**<font color=purple>跳躍C：氣魄</font>**|**<font color=red><平衡後推薦></font>由於持續時間提高讓BUFF能夠不間斷，因此可以納入考量範圍**<br>能夠持續不間斷的組合，對於長時間戰鬥表現非常突出|
 |{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_PHASEFORCE_G.PNG 32px %}**<font color=green>超能爆發A：壓制</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_PHASEFORCE_B.PNG 32px %}**<font color=blue>超能爆發B：氣魄</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_PHASEFORCE_P.PNG 32px %}**<font color=purple>超能爆發C：決心</font>**|終極短時間爆發型，復活流的極致<br>1. 對於高速重複刷的副本（例如魔龍王刷票、一般農本）極有用處<br>2. 對於高層數[征服項目](/datasets/ControlCenter/#%E5%BE%81%E6%9C%8D%E9%A0%85%E7%9B%AE) (約 25 層以上) 或[突破挑戰](/datasets/break_challenge/)有較難的生存壓力時有奇效！<br>對於日常農本（不到 1 分鐘的副本）較有效率 {% hideInline <img src="https://i.imgur.com/RqkuTkp.png">,?,#FF7242,#fff %}
+|{% inlineImg /img/belphegor3/HQ_ICON_PNA_AWAKE_CHARGE_G.PNG 32px %}**<font color=green>充能A：致命</font>**<br>{% inlineImg /img/belphegor3/HQ_ICON_PNA_AWAKE_CHARGE_B.PNG 32px %}**<font color=blue>充能B：損傷</font>**<br>{% inlineImg /img/belphegor3/HQ_ICON_PNA_AWAKE_CHARGE_P.PNG 32px %}**<font color=purple>充能C：處決</font>**|長副本專用，三超爆的長時間版<br>1. 對於需長時間的高難副本（例如突破挑戰機械王等）極有用處<br>使用時需要特別搭配{% inlineImg /img/belphegor3/HQ_242_NEW_CHIP.PNG 32px %}{% inlineImg /img/belphegor3/HQ_243_NEW_CHIP.PNG 32px %}才能保證持續不斷|
 
-{% hideToggle 以暴傷為主的參考 %}
+# 以暴傷為主的參考
 
-- 此區域為較舊版本的參考組合，針對特定情況（暴抗較高的環境）才比較有效益
+- 此區域針對特定情況（暴抗較高的環境）才比較有效益
 
 |類型|說明
 |:-|:-
-|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_B.PNG 32px %}**<font color=blue>跳躍B：鬥志</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_G.PNG 32px %}**<font color=green>強制阻斷A：壓制</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_G.PNG 32px %}**<font color=green>跳躍A：急墜</font>**|只要記得每15秒進行 **[跳躍]** 的動作以及每30秒施放 **[強制阻斷]** ，即可獲得非常好的BUFF覆蓋率<br>(跳躍接近100%，強斷約18/30=60%)<br>第 1 顆也可以利用 {% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_P.PNG 32px %}**<font color=purple>跳躍C：氣魄</font>** 來替換<br>**提示**：跳躍系列的實際觸發方式只要在空中利用方向鍵移動即可 ([參考影片](https://www.bilibili.com/video/BV1Gs4y1F7E3/?spm_id_from=333.337.search-card.all.click&vd_source=1bd1868c2bc23b927f9a8e805b4ddadb))|
-|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_B.PNG 32px %}**<font color=blue>強制阻斷B：速戰速決</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_G.PNG 32px %}**<font color=green>強制阻斷A：壓制</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_G.PNG 32px %}**<font color=green>跳躍A：急墜</font>**|運用強制阻斷系列取得共**270%暴傷**以及**2大CD重置**以達成爆發性的輸出<br>第 3 顆也可以替換為 **<font color=green>超能爆發A：壓制</font>** 以保持綠色兩件的組合效果|
-|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_PHASEFORCE_G.PNG 32px %}**<font color=green>超能爆發A：壓制</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_G.PNG 32px %}**<font color=green>強制阻斷A：壓制</font>**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_G.PNG 32px %}**<font color=green>跳躍A：急墜</font>**|最高可在同一時間獲得物理/魔法暴傷 520%、條件暴傷 90%、空暴 130%<br>**總共920%暴傷的組合**，但由於超能爆發的冷卻時間很長，屬於短時間爆發型<br>(**可以利用死亡後復活重置冷卻時間**)|
-{% endhideToggle %}
+|{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_FROZEN_G.PNG 32px %}**<font color=green>寒氣A：爆擊</font>**<br></font>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_JUMP_G.PNG 32px %} **<font color=green>跳躍A：急墜</font>** <br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_G.PNG 32px %}**<font color=green>強制阻斷A：壓制</font>**<br>**<font color=red>or</font>**<br></font>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EVADE_G.PNG 32px %} **<font color=green>閃避A：壓制</font>**|此組合屬於高爆傷組合<br>{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_CANCEL_G.PNG 32px %}{% inlineImg /img/PNA/HQ_ICON_PNA_AWAKE_EVADE_G.PNG 32px %}因閃避需完美閃避才可觸發，可二選一搭配<br>可在高爆抗副本(例如:無限衝突等)下使用|
+
 
 </div>
 
-[官網資料](https://cs.nexon.com/helpBoard/popuphelpview/27112)
 
 ---
 
@@ -396,15 +388,17 @@ VH會掉落3500個{% inlineImg https://i.imgur.com/9wEUbq4.png 40px %}變異材�
 {% note blue 'fas fa-question-circle' modern %}
 如何增加練突變PNA效率？
 {% endnote %}
-因為PNA經驗僅可透過熊本獲得，而且每一等都擴充到75等，所需經驗量是非常可觀的。
-因此在如何提高練等效率的重要性就凸顯出來了，以下表列是增加獲得PNA經驗的方法。
+PNA經驗可透過主線關卡雙王、Counter Wave(19小)、突破挑戰刷寶關等獲得，為提高練等效率，詳細可參考
+{% inlineImg https://i.imgur.com/rKu9TDL.png 200px %}關卡預覽中右上角的{% inlineImg https://i.imgur.com/lPasggx.png 50px %}得知該本是否可獲得經驗
+以下表列是增加獲得PNA經驗的方法。
 
 |道具/增益|取得方法|效果|
 |:-:|:-:|:-:|
 |異能雙重護符(學業護符+財運護符)|商城<br>活動|**學業護符**<br>獲得經驗值+20%<br>**<font color=#ff0000>獲得PNA經驗+20%</font>**<br>**財運護符**<br>獲得金幣+20%|
 |UNION特製PNA雙倍經驗藥水|UNION會員點數商店<br>轉換器<br>活動|**<font color=#ff0000>獲得PNA經驗+150%</font>**|
 |戰鬥之極(增益)|平原之門\[英雄的火爐\]<br>**持續5小時**|物理/魔法爆擊傷害+10%<br>獲得金幣/道具/經驗+5%<br>**<font color=#ff0000>獲得PNA經驗+5%</font>**|
-|博士的完美PNA教室(帳號稱號)|成就->作戰區域->高級作戰區域<br>->**通關格莫瑞科學設施成就6階段：<br>通關100場(普通/溫和都算入)**|獲得經驗值+30%<br>**<font color=#ff0000>獲得PNA經驗+30%</font>**|
+|博士的完美PNA教室(帳號稱號)|成就->作戰區域->高級作戰區域<br>->**通關格莫瑞科學設施成就6階段：<br>通關100場(普通/溫和都算入)**|獲得經驗值+35%<br>**<font color=#ff0000>獲得PNA經驗+35%</font>**|
+|奪回前線之人(角色稱號)|製作機-> **仁川港：鉻鐵號類別內製作** |獲得經驗值+30%<br>**<font color=#ff0000>獲得PNA經驗+30%</font>**|
 |[團隊增益](/datasets/spec/teambuff/)|配置最後一條|**滿180時**：<br>獲得金幣+15%<br>獲得道具+30%<br>獲得經驗值+15%<br>**<font color=#ff0000>獲得PNA經驗+15%</font>**|
 |[寵物](/datasets/spec/pets/)|**<迷你楊秀妍><br><迷你成年格莫瑞>**|**覺醒時被動**：<br>增加最大生命值2000<br>增加最大魔法值2000<br>物理/魔法防禦穿透率20%<br>**<font color=#d60>追加經驗值20%</font>**<br>**<font color=red>追加PNA經驗值20%/30%</font>**|
 
