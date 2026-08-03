@@ -213,11 +213,10 @@ description: "晶片系統內容說明"
 
 # 建議晶片配置
 
-- > **<font color=#F00 size=4>混合角色以提升條件爆傷為主，可最大限度同時提升物理與魔法的傷害<br><font color=black>黑色</font>替換：緹娜使用<font color=#888>白色</font>，納塔可使用<font color=purple>紫色</font>代替</font>**
-- 若無 **<font class="rainbow-text">T1鉑金晶片</font>** 可用 **<font class="rainbow-text">早期鉑金晶片</font>** 替代
+- > **<font color=#F00 size=4>混合角色以提升條件爆傷為主，可最大限度同時提升物理與魔法的傷害<br><font color=black>黑色(空中)</font>可替換<font color=#888>白色(浮空)</font>，<font color=purple>紫色(背擊)</font>可依照角色主要判定做更換</font>**
 - 武器： **<font color=#C00>最優先</font>** ，盡量用最高T值(T3 T4)
 - 模組：次優先
-- 護盾：最低考量，顏色晶片可使用介於T2~T3之間，比T3便宜許多的 **伯爾戴布系列**
+- 護盾：顏色晶片可使用**其他晶片**，目前固定配置為1個鉑金+1個固有晶片，**槽位需要 <font color=red>1紅</font>+<font color=black>1黑</font>+<font color=green>1綠</font>+<font color=#aa0>3黃</font>**
 - 接收器：除非要上 **<font class="rainbow-text">T4鉑金</font>** 不然建議使用 **提亞瑪特(女王)系列**
 - **額外參考：[傷害公式與暴抗表](/datasets/damage_calculation/#%E5%9F%BA%E5%82%B7-vs-%E6%9A%B4%E5%82%B7)。主要探討武器的 <font color=red>紅色</font> 與 <font color=blue>藍色</font> 位置的選擇(可使用 <font color=black>黑色</font> 或 <font color=#888>白色</font> 或 <font color=purple>紫色</font> )**
 
@@ -227,46 +226,50 @@ description: "晶片系統內容說明"
 |模組|{% inlineImg /img/chip/HQ_25_CHIP.PNG 35px %}<font color=#aa0>黃色</font><br>{% inlineImg /img/chip/HQ_1001_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>|{% inlineImg /img/chip/HQ_35_CHIP.PNG 35px %}<font color=green>綠色</font><br>{% inlineImg /img/chip/HQ_1002_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>|{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_3009_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>
 |護盾|{% inlineImg /img/chip/HQ_25_CHIP.PNG 35px %}<font color=#aa0>黃色</font><br>{% inlineImg /img/chip/HQ_1001_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>|{% inlineImg /img/chip/HQ_35_CHIP.PNG 35px %}<font color=green>綠色</font><br>{% inlineImg /img/chip/HQ_1002_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>|{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_3009_CHIP.PNG 35px %}<font class="rainbow-text">鉑金</font>
 |接收器<br><font color=red>也可使用<br>{% inlineImg /img/chip/chip_spd.png 35px %}攻速晶片x3</font>|{% inlineImg /img/chip/HQ_25_CHIP.PNG 35px %}<font color=#aa0>黃色</font><br>{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_45_CHIP.PNG 35px %}<font color=purple>紫色</font>|{% inlineImg /img/chip/HQ_35_CHIP.PNG 35px %}<font color=green>綠色</font><br>{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_45_CHIP.PNG 35px %}<font color=purple>紫色</font>|{% inlineImg /img/chip/HQ_55_CHIP.PNG 35px %}<font color=black>黑色</font><br>{% inlineImg /img/chip/HQ_45_CHIP.PNG 35px %}<font color=purple>紫色</font><br>{% inlineImg /img/chip/HQ_605_NEW_CHIP.PNG 35px %}<font color=#888>白色</font>
+|磁片|{% inlineImg https://i.imgur.com/kd7G7RI.png 35px %}或{% inlineImg https://i.imgur.com/wzV1V0h.png 35px %}<br><font color=red>下位替代<br></font>{% inlineImg https://i.imgur.com/Y9em2ZF.png 35px %}或{% inlineImg https://i.imgur.com/rPtjoaF.png 35px %}|{% inlineImg https://i.imgur.com/kd7G7RI.png 35px %}或{% inlineImg https://i.imgur.com/wzV1V0h.png 35px %}<br><font color=red>下位替代<br></font>{% inlineImg https://i.imgur.com/Y9em2ZF.png 35px %}或{% inlineImg https://i.imgur.com/rPtjoaF.png 35px %}|{% inlineImg https://i.imgur.com/kd7G7RI.png 35px %或}{% inlineImg https://i.imgur.com/wzV1V0h.png 35px %}<br><font color=red>下位替代<br></font>{% inlineImg https://i.imgur.com/Y9em2ZF.png 35px %}或{% inlineImg https://i.imgur.com/rPtjoaF.png 35px %}
 
 ---
 
 # 晶片製作材料
 
-- **注意** ：此區~~因為我怠惰~~尚未更新，部分內容與遊戲內設定不同。
+- **注意** ：謝謝你的注意
 
-{% hideToggle 部分材料取得方式 %}
-{% inlineImg https://i.imgur.com/y0zaCqB.png 40px %}未知的物體：蒼蠅王的御體跟IF關卡。一場大關8個、一場小關6~10個
 
-其餘大部分材料均為古龍系列副本才有
 
 |材料|來源與數量
 |:-|:-:
-|{% inlineImg https://i.imgur.com/WVZkgZT.png 40px %}叛徒的腳鐐|[極刑] 龍的刑場<br>通關可得28個
-|{% inlineImg https://i.imgur.com/DVB4PAE.png 40px %}背叛者的枷鎖|龍的刑場<br>普通通關可得6個，VH通關可得12個
-|{% inlineImg https://i.imgur.com/mZ8i4uG.png 40px %}背叛的記憶|龍的刑場<br>普通通關可得60個，VH通關可得120個
+|{% inlineImg /img/chip/chip_origin.png 40px %}x10原始晶片| Counter Wave<br>{% inlineImg /img/gear/chromite/L1.png 40px%}|
+|{% inlineImg /img/chip/chip_overclock.png 40px %}x10超頻晶片| Counter Wave<br>{% inlineImg /img/gear/chromite/L4.png 40px%}|
 
-|副本|{% inlineImg https://i.imgur.com/UUm30FC.png 40px %}太初瑪瑙|T1顏色晶片選擇箱|T2顏色晶片選擇箱
-|:-|:-:|:-:|:-:
-|單人最深處(350)|7|5|1
-|單人監獄城(400)|7|4|1
-|凶夢沙塵暴(800)|2|2|-
-|凶夢監獄城(900)|9|7|1
-|凶夢最深處(1000)|10|9|1
-|海市蜃樓的重演H(3000)|20|17|1
-|海市蜃樓的重演VH(4500)|30|30|1
 
-{% endhideToggle %}
+
+
+
 
 {% tabs 可製作晶片, -1 %}
 <!-- tab 材料晶片-->
 
-|晶片|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
+|{% inlineImg /img/chip/chip_origin.png 48px %}原始晶片|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
 |:-:|:-:|:-:
-|原始晶片<br>{% inlineImg /img/chip/chip_origin.png 48px %}<br>方法1：每周10次|{% inlineImg https://i.imgur.com/3o5shKv.png 40px %}x13|10萬
-|方法2：每周10次|{% inlineImg https://i.imgur.com/DVB4PAE.png 40px %}x3|0
-|方法3：每周10次|{% inlineImg https://i.imgur.com/UUm30FC.png 40px %}x4|0
-|===|===|===
-|超頻晶片<br>{% inlineImg /img/chip/chip_overclock.png 48px %}<br>超頻經驗值100|{% inlineImg https://i.imgur.com/WVZkgZT.png 40px %}x48|100萬
+|方法1：|{% inlineImg https://i.imgur.com/3o5shKv.png 40px %}x13|100,000
+|方法2：|{% inlineImg https://i.imgur.com/DVB4PAE.png 40px %}x5|0
+|方法3：|{% inlineImg https://i.imgur.com/UUm30FC.png 40px %}x4|0
+|方法4：|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}x10+{% inlineImg https://i.imgur.com/J48zfOa.png 48px %}x10|0
+|方法5：|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}x20+{% inlineImg https://i.imgur.com/MHAPTFi.png 48px %}x20|0
+|方法6：|{% inlineImg https://i.imgur.com/gEJsTjf.png 48px %}x48|300,000
+|方法7：|{% inlineImg https://i.imgur.com/SrNU7Pb.png 48px %}x1|1,000,000
+|方法8：|{% inlineImg /img/gear/chromite/HQ_201520_QUEST.PNG 40px %}X1+{% inlineImg /img/gear/chromite/HQ_201521_QUEST.PNG 40px %}x1|2,500,000
+|方法9：|{% inlineImg https://i.imgur.com/W6oH39M.png 48px %}x1|2,500,000
+
+|{% inlineImg /img/chip/chip_overclock.png 48px %}超頻晶片|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
+|:-:|:-:|:-:
+|方法1：|{% inlineImg https://i.imgur.com/WVZkgZT.png 40px %}x48|1,000,000
+|方法2：|{% inlineImg https://i.imgur.com/SrNU7Pb.png 48px %}x1|2,000,000
+|方法3：|{% inlineImg https://i.imgur.com/MHAPTFi.png 48px %}x50|1,500,000
+|方法4：|{% inlineImg /img/chip/chip_origin.png 48px %}x4|1,000,000
+|方法5：|{% inlineImg /img/gear/chromite/HQ_201523_RESOURCE.PNG 40px %}x1|2,000,000
+|方法6：| {% inlineImg /img/belphegor3/HQ_201531_QUEST.PNG 48px %} x1|2,000,000
+|方法7：|{% inlineImg https://i.imgur.com/W6oH39M.png 48px %}x1|2,000,000
 
 <!-- endtab -->
 
@@ -275,28 +278,25 @@ description: "晶片系統內容說明"
 - **<font size=5>{% inlineImg /img/chip/T1_color.png 50px %} T1顏色晶片</font>**
 |製作方法|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
 |:-:|:-:|:-:
-|方法1|{% inlineImg  https://i.imgur.com/XSUcWuc.png 40px %}x1 + {% inlineImg https://i.imgur.com/q1LE5zL.png 40px %}x1|0
-|方法2|{% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x2 + {% inlineImg https://i.imgur.com/mZ8i4uG.png 40px %}x2|0
-|方法3：一次10片|原始晶片{% inlineImg /img/chip/chip_origin.png 40px %}x1|0
+|方法1|{% inlineImg /img/chip/chip_origin.png 48px %}x1 |0
 
 - **<font size=5>{% inlineImg /img/chip/T2_color.png 50px %} T2顏色晶片</font>**
 |製作方法|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
 |:-:|:-:|:-:
-|方法1|{% inlineImg /img/chip/T1_color.png 40px %}x10 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x10 + {% inlineImg https://i.imgur.com/UUm30FC.png 40px %}x1|0
+|方法1|{% inlineImg /img/chip/T1_color.png 40px %}x5 |0
 |方法2|原始晶片{% inlineImg /img/chip/chip_origin.png 40px %}x1|0
 
 - **<font size=5>{% inlineImg /img/chip/T3_color.png 50px %} T3顏色晶片</font>**
 |製作方法|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
 |:-:|:-:|:-:
-|單片|{% inlineImg /img/chip/T2_color.png 40px %}x30 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x50 + {% inlineImg https://i.imgur.com/UUm30FC.png 40px %}x25|1000萬
-|<font color=red>總量</font>|{% inlineImg  https://i.imgur.com/XSUcWuc.png 40px %}x650 + {% inlineImg https://i.imgur.com/UUm30FC.png 40px %}x55 + {% inlineImg https://i.imgur.com/q1LE5zL.png 40px %}x300|1000萬
+|單片|{% inlineImg /img/chip/T2_color.png 40px %}x30 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x10 |1,500,000
 
 
 - **<font size=5>{% inlineImg /img/chip/T4_color.png 50px %} T4顏色晶片</font>**
 |製作方法|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
 |:-:|:-:|:-:
-|單片|{% inlineImg /img/chip/T3_color.png 40px %}x15 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x100 + {% inlineImg https://i.imgur.com/UUm30FC.png 40px %}x50|1500萬
-|<font color=red>總量</font>|{% inlineImg  https://i.imgur.com/XSUcWuc.png 40px %}x9850 + {% inlineImg https://i.imgur.com/UUm30FC.png 40px %}x875 + {% inlineImg https://i.imgur.com/q1LE5zL.png 40px %}x4500|1.65億
+|單片|{% inlineImg /img/chip/T3_color.png 40px %}x15 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x100 |15,000,000
+
 
 
 <!-- endtab -->
@@ -304,27 +304,25 @@ description: "晶片系統內容說明"
 <!-- tab <b><font class="rainbow-text">鉑金晶片</font></b>-->
 |晶片|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}|
 |:-:|:-:|:-:|
-|T1鉑金{% inlineImg /img/chip/T1_platinum.png 40px %}<br>方法1：**每周限制5片**|{% inlineImg https://i.imgur.com/UUm30FC.png 40px %}x25|0|
-|方法2|原始晶片{% inlineImg /img/chip/chip_origin.png 40px %}x20|0|
-|T2鉑金{% inlineImg /img/chip/T2_platinum.png 40px %}|T1鉑金{% inlineImg /img/chip/T1_platinum.png 40px %}x5|20,000,000|
+|T1鉑金{% inlineImg /img/chip/T1_platinum.png 40px %}|原始晶片{% inlineImg /img/chip/chip_origin.png 40px %}x6|0|
+|T2鉑金{% inlineImg /img/chip/T2_platinum.png 40px %}<br>方法1|T1鉑金{% inlineImg /img/chip/T1_platinum.png 40px %}x5|10,000,000|
+|方法2|{% inlineImg https://i.imgur.com/vksLaau.png 40px %}x24|2,500,000|
 |T3鉑金{% inlineImg /img/chip/T3_platinum.png 40px %}|T2鉑金{% inlineImg /img/chip/T2_platinum.png 40px %}x5|30,000,000|
 |T4鉑金{% inlineImg /img/chip/T4_platinum.png 40px %}|T3鉑金{% inlineImg /img/chip/T3_platinum.png 40px %}x5|40,000,000|
-|<font color=red>T3總量</font>|原始晶片{% inlineImg /img/chip/chip_origin.png 40px %}x500|130,000,000|
-|<font color=red>T4總量</font>|原始晶片{% inlineImg /img/chip/chip_origin.png 40px %}x2500|690,000,000|
-|===|===|===
-|早期鉑金{% inlineImg /img/chip/ex_platinum.png 40px %}<br>方法1|{% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x20 + {% inlineImg https://i.imgur.com/q1LE5zL.png 40px %}x25|0|
-|方法2|{% inlineImg https://i.imgur.com/UUm30FC.png 40px %}x10|0|
-|方法3|{% inlineImg https://i.imgur.com/DVB4PAE.png 40px %}x5|0|
-|方法4|原始晶片{% inlineImg /img/chip/chip_origin.png 40px %}x2|0|
+
+
+|早期鉑金{% inlineImg /img/chip/ex_platinum.png 40px %}|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}|
+|:-:|:-:|:-:|
+|方法1|原始晶片{% inlineImg /img/chip/chip_origin.png 40px %}x2|0|
+
 <!-- endtab -->
 
 <!-- tab 其他晶片-->
 
 |晶片|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 32px %}
 |:-:|:-:|:-:
-|伯爾戴布顏色晶片<br>{% inlineImg /img/chip/chip_beelzebub.png 48px %}|{% inlineImg /img/chip/T1_color.png 40px %}x20 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x100 + {% inlineImg https://i.imgur.com/y0zaCqB.png 40px %}x2000 + {% inlineImg https://i.imgur.com/G6KamQh.png 40px %}x10|1000萬
-|提亞瑪特顏色晶片<br>{% inlineImg /img/chip/chip_tiamat.png 48px %}|{% inlineImg /img/chip/T2_color.png 40px %}x10 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x300 + {% inlineImg https://i.imgur.com/UUm30FC.png 40px %}x75|2000萬
-|提亞瑪特攻擊速度晶片<br>{% inlineImg /img/chip/chip_spd.png 48px %}|{% inlineImg /img/chip/chip_origin.png 40px %}x5 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x300 + {% inlineImg https://i.imgur.com/UUm30FC.png 40px %}x75|2000萬
+|提亞瑪特顏色晶片<br>{% inlineImg /img/chip/chip_tiamat.png 48px %}|{% inlineImg /img/chip/chip_origin.png 40px %}x5 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x300 |20,000,000
+|提亞瑪特攻擊速度晶片<br>{% inlineImg /img/chip/chip_spd.png 48px %}|{% inlineImg /img/chip/chip_origin.png 40px %}x5 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x300 |20,000,000
 
 - 備註：請參考 [19 村(鉻鐵號)](/datasets/IncheonPort_Chromite/#%E6%96%B0%E5%A2%9E%E8%A3%9D%E5%82%99%E8%88%87%E7%8D%B2%E5%BE%97%E6%96%B9%E5%BC%8F)
 
@@ -333,6 +331,13 @@ description: "晶片系統內容說明"
 |{% inlineImg /img/gear/chromite/HQ_41_NEW_CHIP.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_541_NEW_CHIP.PNG 48px %}|100,000,000|4000 個|4000 個|50 個|
 |{% inlineImg /img/gear/chromite/HQ_1401_CHIP.PNG 48px %}|200,000,000|8000 個|8000 個|100 個|
 
+|晶片| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg /img/belphegor3/HQ_201531_QUEST.PNG 48px %} |
+|:-:|:-:|:-:|:-:|:-:|
+|{% inlineImg https://i.imgur.com/xVyl2BF.png 48px %}{% inlineImg https://i.imgur.com/Q5Dvv6h.png 48px %}{% inlineImg https://i.imgur.com/WbQHjY3.png 48px %}|100,000,000|4000 個|4000 個|50 個|
+
+|晶片| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} | {% inlineImg /img/gear/paradise2/HQ_201542_RESOURCE.PNG 48px %} |
+|:-:|:-:|:-:|:-:|:-:|
+|{% inlineImg https://i.imgur.com/hpy8ddI.png 48px %}|100,000,000|4000 個|4000 個|100 個|
 
 <!-- endtab -->
 {% endtabs %}
@@ -344,24 +349,23 @@ description: "晶片系統內容說明"
 {% tabs 晶片基礎能力 %}
 <!-- tab 武器-->
 
-> {% inlineImg /img/chip/HQ_5_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_15_CHIP.PNG 50px %} **<font color=red>紅色</font><font color=blue>藍色</font>** {% inlineImg /img/chip/HQ_6_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_16_CHIP.PNG 50px %}
-- **固定能力：**
+> {% inlineImg /img/chip/HQ_5_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_15_CHIP.PNG 50px %} **<font color=red>紅色</font><font color=blue>藍色</font>**- **固定能力：**
 暴擊率 20%
 防禦穿透率 20%
 
-|-|T1|T2|蒼蠅王|T3|T4
-|:-:|:-:|:-:|:-:|:-:|:-:
-|攻擊力|250|280|300<br>食蟲增傷 3%|320|370
+|-|T1|T2|T3|T4
+|:-:|:-:|:-:|:-:|:-:
+|攻擊力|250|280|320|370
 <p>　</p>
 
-> {% inlineImg /img/chip/HQ_25_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_35_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_45_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_55_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_605_NEW_CHIP.PNG 50px %} **<font color=#aa0>黃色</font><font color=green>綠色</font><font color=purple>紫色</font><font color=black>黑色</font><font color=#888>白色</font>** {% inlineImg /img/chip/HQ_26_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_36_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_46_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_56_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_611_NEW_CHIP.PNG 50px %}
+> {% inlineImg /img/chip/HQ_25_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_35_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_45_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_55_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_605_NEW_CHIP.PNG 50px %} **<font color=#aa0>黃色</font><font color=green>綠色</font><font color=purple>紫色</font><font color=black>黑色</font><font color=#888>白色</font>** 
 - **固定能力：**
 暴擊率 20%
 防禦穿透率 20%
 
-|-|T1|T2|蒼蠅王|T3|T4
-|:-:|:-:|:-:|:-:|:-:|:-:
-|暴擊傷害|12%|17%|19.5%<br>食蟲增傷 3%|23%|30%
+|-|T1|T2|T3|T4
+|:-:|:-:|:-:|:-:|:-:
+|暴擊傷害|12%|17%|23%|30%
 <p>　</p>
 
 > {% inlineImg /img/chip/HQ_1001_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_1002_CHIP.PNG 50px %}**<font class="rainbow-text">鉑金晶片</font> (物理魔法)**
@@ -386,22 +390,22 @@ description: "晶片系統內容說明"
 
 <!-- tab 模組-->
 
-> {% inlineImg /img/chip/HQ_5_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_15_CHIP.PNG 50px %} **<font color=red>紅色</font><font color=blue>藍色</font>** {% inlineImg /img/chip/HQ_6_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_16_CHIP.PNG 50px %}
+> {% inlineImg /img/chip/HQ_5_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_15_CHIP.PNG 50px %} **<font color=red>紅色</font><font color=blue>藍色</font>** 
 - **固定能力：**
 攻擊速度 3%
 
-|-|T1|T2|蒼蠅王|T3|T4
-|:-:|:-:|:-:|:-:|:-:|:-:
-|攻擊力|10|20|25<br>暴擊率 3%|30|40
+|-|T1|T2|T3|T4
+|:-:|:-:|:-:|:-:|:-:
+|攻擊力|10|20|30|40
 <p>　</p>
 
-> {% inlineImg /img/chip/HQ_25_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_35_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_45_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_55_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_605_NEW_CHIP.PNG 50px %} **<font color=#aa0>黃色</font><font color=green>綠色</font><font color=purple>紫色</font><font color=black>黑色</font><font color=#888>白色</font>** {% inlineImg /img/chip/HQ_26_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_36_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_46_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_56_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_611_NEW_CHIP.PNG 50px %}
+> {% inlineImg /img/chip/HQ_25_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_35_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_45_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_55_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_605_NEW_CHIP.PNG 50px %} **<font color=#aa0>黃色</font><font color=green>綠色</font><font color=purple>紫色</font><font color=black>黑色</font><font color=#888>白色</font>** 
 - **固定能力：**
 攻擊速度 3%
 
-|-|T1|T2|蒼蠅王|T3|T4
-|:-:|:-:|:-:|:-:|:-:|:-:
-|暴擊傷害|2%|3.5%|4%<br>防禦穿透率3.5%|5%|6.5%
+|-|T1|T2|T3|T4
+|:-:|:-:|:-:|:-:|:-:
+|暴擊傷害|2%|3.5%|5%|6.5%
 <p>　</p>
 
 > {% inlineImg /img/chip/HQ_1001_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_1002_CHIP.PNG 50px %}**<font class="rainbow-text">鉑金晶片</font> (物理魔法)**
@@ -428,17 +432,16 @@ description: "晶片系統內容說明"
 
 > {% inlineImg /img/chip/HQ_5_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_15_CHIP.PNG 50px %} **<font color=red>紅色</font><font color=blue>藍色</font>** {% inlineImg /img/chip/HQ_6_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_16_CHIP.PNG 50px %}
 
-|-|T1|T2|蒼蠅王|T3|T4|太初的提亞瑪特{% inlineImg /img/chip/HQ_21_NEW_CHIP.PNG 50px %}
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-|攻擊力|2|4|5<br>防禦力 300|6|8|<font color=red>100</font><br>魔龍增傷 3%
+|-|T1|T2|T3|T4|太初的提亞瑪特{% inlineImg /img/chip/HQ_21_NEW_CHIP.PNG 50px %}
+|:-:|:-:|:-:|:-:|:-:|:-:
+|攻擊力|2|4|6|8|<font color=red>100</font><br>魔龍增傷 3%
 <p>　</p>
 
 > {% inlineImg /img/chip/HQ_25_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_35_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_45_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_55_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_605_NEW_CHIP.PNG 50px %} **<font color=#aa0>黃色</font><font color=green>綠色</font><font color=purple>紫色</font><font color=black>黑色</font><font color=#888>白色</font>** {% inlineImg /img/chip/HQ_26_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_36_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_46_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_56_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_611_NEW_CHIP.PNG 50px %}
 
-|-|T1|T2|蒼蠅王|T3|T4|太初的提亞瑪特{% inlineImg /img/chip/HQ_321_NEW_CHIP.PNG 50px %}
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+|-|T1|T2|T3|T4|太初的提亞瑪特{% inlineImg /img/chip/HQ_321_NEW_CHIP.PNG 50px %}
+|:-:|:-:|:-:|:-:|:-:|:-:
 |暴擊傷害|1%|2%|2.5%|3%|4%|<font color=red>10%</font><br>魔龍增傷 3%
-|額外效果|-|-|**<div style="text-align:left"><font color=#aa0>黃色</font><font color=green>綠色</font> 技能消耗減少 3%<br><font color=purple>紫色</font> 追加金幣 4%<br><font color=black>黑色</font> 追加獲得道具 5%<br><font color=#888>白色</font> 追加經驗值 7%</div>**|-
 <p>　</p>
 
 > {% inlineImg /img/chip/HQ_1001_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_1002_CHIP.PNG 50px %}**<font class="rainbow-text">鉑金晶片</font> (物理魔法)**
@@ -467,16 +470,16 @@ description: "晶片系統內容說明"
 
 > {% inlineImg /img/chip/HQ_5_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_15_CHIP.PNG 50px %} **<font color=red>紅色</font><font color=blue>藍色</font>** {% inlineImg /img/chip/HQ_6_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_16_CHIP.PNG 50px %}
 
-|-|T1|T2|蒼蠅王|T3|T4|提亞瑪特{% inlineImg /img/chip/HQ_21_NEW_CHIP.PNG 50px %}
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-|攻擊力|5|10|13|15|20|<font color=red>100</font><br>魔龍增傷 3%
+|-|T1|T2|T3|T4|提亞瑪特{% inlineImg /img/chip/HQ_21_NEW_CHIP.PNG 50px %}
+|:-:|:-:|:-:|:-:|:-:|:-:
+|攻擊力|5|10|15|20|<font color=red>100</font><br>魔龍增傷 3%
 <p>　</p>
 
 > {% inlineImg /img/chip/HQ_25_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_35_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_45_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_55_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_605_NEW_CHIP.PNG 50px %} **<font color=#aa0>黃色</font><font color=green>綠色</font><font color=purple>紫色</font><font color=black>黑色</font><font color=#888>白色</font>** {% inlineImg /img/chip/HQ_26_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_36_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_46_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_56_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_611_NEW_CHIP.PNG 50px %}
 
-|-|T1|T2|蒼蠅王|T3|T4|提亞瑪特{% inlineImg /img/chip/HQ_321_NEW_CHIP.PNG 50px %}
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-|暴擊傷害|1%|2%|2.5%|3%|4%|<font color=red>10%</font><br>魔龍增傷 3%
+|-|T1|T2|T3|T4|提亞瑪特{% inlineImg /img/chip/HQ_321_NEW_CHIP.PNG 50px %}
+|:-:|:-:|:-:|:-:|:-:|:-:
+|暴擊傷害|1%|2%|3%|4%|<font color=red>10%</font><br>魔龍增傷 3%
 <p>　</p>
 
 > {% inlineImg /img/chip/HQ_1001_CHIP.PNG 50px %}{% inlineImg /img/chip/HQ_1002_CHIP.PNG 50px %}**<font class="rainbow-text">鉑金晶片</font> (物理魔法)**
@@ -509,6 +512,7 @@ description: "晶片系統內容說明"
 |物理/魔法暴擊傷害|55%|-|80%|-|
 |空中/背擊/浮空暴擊傷害|-|20%|-|30%|
 <!-- endtab -->
+
 <!-- tab 鉻鐵號-->
 
 基礎能力
@@ -527,6 +531,42 @@ description: "晶片系統內容說明"
 |黑色<br>{% inlineImg /img/gear/chromite/HQ_541_NEW_CHIP.PNG 48px %}|15| **[唯一]** 終極技能結束後，20 秒內物理/魔法攻擊力 +500、移動速度 +20%。
 |<font class="rainbow-text">鉑金</font><br>{% inlineImg /img/gear/chromite/HQ_1401_CHIP.PNG 48px %}|20| **[唯一]** 進入副本時，總物理/魔法攻擊力 +5%。
 <!-- endtab -->
+
+<!-- tab 突破挑戰(機械王)-->
+
+基礎能力
+
+|晶片|效果|
+|:-:|:-|
+|<font color=#aa0>黃色</font><br>{% inlineImg /img/belphegor3/HQ_241_NEW_CHIP.PNG 48px %}{% inlineImg /img/belphegor3/HQ_242_NEW_CHIP.PNG 48px %}{% inlineImg /img/belphegor3/HQ_243_NEW_CHIP.PNG 48px %}|物理/魔法暴擊傷害 +10%
+
+超頻額外能力
+- 備註：請參考 [覺醒PNA](/datasets/spec/awakenPNA/#%E5%85%85%E8%83%BD)關於[充電]、[過充]相關說明
+
+|晶片|額外能力所需超頻等級|效果|
+|:-:|:-:|:-|
+|<font color=#aa0>黃色</font><br>{% inlineImg /img/belphegor3/HQ_241_NEW_CHIP.PNG 48px %}|15|[固有] 使用終極技能後，獲得 [過充]
+|<font color=#aa0>黃色</font><br>{% inlineImg /img/belphegor3/HQ_242_NEW_CHIP.PNG 48px %}|15|	[固有] [及時迴避] 成功時，獲得 [充電] 30堆疊
+|<font color=#aa0>黃色</font><br>{% inlineImg /img/belphegor3/HQ_243_NEW_CHIP.PNG 48px %}|15|[固有] 消滅敵人後，獲得 [充電] 3堆疊，進入副本後獲得 [過充]
+
+<!-- endtab -->
+
+<!-- tab 無知樂園-->
+
+基礎能力
+
+|晶片|效果|
+|:-:|:-|
+|<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/hpy8ddI.png 48px %}|物理/魔法暴擊傷害 +10%
+
+超頻額外能力
+
+|晶片|額外能力所需超頻等級|效果|
+|:-:|:-:|:-|
+|<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/hpy8ddI.png 48px %}|15|[固有] [及時閃避] 成功時，7秒後有30%機率再次發動 [及時閃避] 成功時效果
+
+<!-- endtab -->
+
 {% endtabs %}
 
 
