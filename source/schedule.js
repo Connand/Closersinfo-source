@@ -5,7 +5,7 @@ let hour= date.getHours(); // gethhours returns the hour (0-23)
   
 let boss_names = [
 "暗黑吉娜．葛蕾絲 (人類型)<img class=\"inline-img\" src=\"https://i.imgur.com/KOAPxLX.png\" style=\"height:32px\">",
-"墮落的聖火菲尼克斯 (業火型)<img class=\"inline-img\" src=\"https://i.imgur.com/3FV9pDB.png\" style=\"height:32px\">"
+"墮落的聖火菲尼克斯 (業火型)<img class=\"inline-img\" src=\"https://i.imgur.com/3FV9pDB.png\" style=\"height:32px\">",
 ];
 //let mockStart = new Date("Sep 25, 2021 04:00:00");
 let mockStart = new Date("May 16, 2026 04:00:00");
@@ -16,17 +16,21 @@ let _day = _hour * 24;
 
 let now = new Date();
 let elaped = now - mockStart;
-let number_of_week = Math.ceil(elaped / (14 * 24 * 60 * 60 * 1000)); // 算第幾季：1周 = 7日*24小時*60分鐘*60秒*1000毫秒
-let mock_boss_number = Math.floor(elaped / (14 * 24 * 60 * 60 * 1000)) % 2; // 算第幾周 => boss
-let mockEnd = new Date(mockStart.getTime() + number_of_week * (14 * 24 * 60 * 60 * 1000)); // 算結束日
+let number_of_week = Math.ceil(elaped / (7 * 24 * 60 * 60 * 1000)); // 算第幾季：1周 = 7日*24小時*60分鐘*60秒*1000毫秒
+let mock_boss_number = Math.floor(elaped / (7 * 24 * 60 * 60 * 1000)) % 2; // 算第幾周 => boss
+let mockEnd = new Date(mockStart.getTime() + number_of_week * (7 * 24 * 60 * 60 * 1000)); // 算結束日
 document.getElementById('mockBattleInfo').innerHTML = "<font size=4><b>第 " + number_of_week + " 周</b></font><br>";
 document.getElementById('mockBattleInfo').innerHTML += "<b>本周BOSS</b>：<br>- " + boss_names[mock_boss_number];
 document.getElementById('mockBattleInfo').innerHTML += "<br><b>下周BOSS</b>：<br>- " + boss_names[(mock_boss_number + 1) % 2];
 
+let battleEnd = document.getElementById('mockBattleEnd');
+
+if (battleEnd) {
 document.getElementById('mockBattleEnd').innerHTML = '<b>' + mockEnd.getFullYear() + '/';
 document.getElementById('mockBattleEnd').innerHTML += '<b>' + (mockEnd.getMonth() + 1) + '/';
 document.getElementById('mockBattleEnd').innerHTML += '<b>' + mockEnd.getDate() + ' ';
 document.getElementById('mockBattleEnd').innerHTML += '<b>' + mockEnd.getHours() + ':00';
+}
 
 function showRemaining() {
     let now = new Date();
@@ -45,6 +49,7 @@ function showRemaining() {
     document.getElementById('mockBattle').innerHTML += '<b>' + ('0' + minutes).slice(-2) + '分';
     document.getElementById('mockBattle').innerHTML += '<b>' + ('0' + seconds).slice(-2) + '秒';
 }
+
 showRemaining();
 setInterval(showRemaining, 1000);
 
