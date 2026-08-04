@@ -42,11 +42,6 @@ description: "愚人節立繪"
 
 
 
-23/03/23更新愛里
-[載點](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_AprilFools_230323_7B4568BB79FEB0AC.zip)
-
-
-[立繪下載](https://closers.vod.nexoncdn.co.kr/site/fansitekit/Closers_FansiteKit_lieDay_210323_pdabaa.zip)
 
 
 ---
@@ -123,6 +118,9 @@ description: "愚人節立繪"
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/0fERK4Fh.jpg)](https://i.imgur.com/0fERK4F.jpg)
 <!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/8yueoG2.png)](https://i.imgur.com/8yueoG2.png)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -190,6 +188,9 @@ description: "愚人節立繪"
 <!-- endtab -->	
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/LN6vKkUh.jpg)](https://i.imgur.com/LN6vKkU.jpg)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/utoZsgk.png)](https://i.imgur.com/utoZsgk.png)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

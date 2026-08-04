@@ -2,7 +2,7 @@
 title: 平衡資料概要
 date: 2023-02-23 11:25:52
 tags: 平衡
-category: [遊戲資料,其他]
+category: []
 description: "平衡資訊整合"
 ---
 
