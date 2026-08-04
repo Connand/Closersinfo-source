@@ -2,7 +2,7 @@
 title: 史詩裝備掉落紀錄(回歸更新)
 date: 2021-09-07 14:45:59
 tags: 資料紀錄
-category: [遊戲資料,其他]
+category: [遊戲資料,封存]
 cover: https://i.imgur.com/nFooolnh.png
 description: "紀錄那些超級歐洲人"
 ---
