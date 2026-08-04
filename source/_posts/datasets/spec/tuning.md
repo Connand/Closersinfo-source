@@ -44,10 +44,23 @@ description: "重鑄系統內容說明"
 
 |道具|功能|主要管道
 |:-|:-:|:-:
-|{% inlineImg https://i.imgur.com/sGKimWM.png 40px %} 璀璨重鑄零件 (Lv.95~100)|基本重鑄材料，一格消耗一個<br><font color=#f00>整體重鑄時不消耗</font>|活動/商城
-|{% inlineImg https://i.imgur.com/nzsG6XL.png 40px %} 特級D零件：裝備|可進行指定重鑄，隨機抽取 B~EX 等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningEX.png 24px %}機率為0.85%、{% inlineImg img/tuning/tuningSS.png 24px %}機率為1.70%</font>|商城/活動
-|{% inlineImg img/tuning/HQ_153087_RESOURCE_ENCHANT.PNG 40px %} EX~SS確定D零件：裝備|可進行指定重鑄，隨機抽取 B~EX 等級，~~(據說)~~<br><font color=#f00>{% inlineImg img/tuning/tuningEX.png 24px %}機率為0.9%、{% inlineImg img/tuning/tuningSS.png 24px %}機率為0.1%</font>|商城/活動
-|{% inlineImg https://i.imgur.com/vZ5yUHH.png 40px %} EX確定D零件：裝備|可進行指定重鑄，必定{% inlineImg img/tuning/tuningEX.png 24px %}|商城/活動
+|{% inlineImg https://i.imgur.com/sGKimWM.png 40px %} 璀璨重鑄零件 (Lv.95~100)|基本重鑄材料，一格消耗一個<br><font color=#f00>整體重鑄時不消耗</font>|活動/商城/[COUNTER WAVE L3獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
+|{% inlineImg https://i.imgur.com/nzsG6XL.png 40px %} 特級D零件：裝備|可進行指定重鑄，隨機抽取 B~EX 等級<br>（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningEX.png 24px %}機率為0.85%、{% inlineImg img/tuning/tuningSS.png 24px %}機率為1.70%</font>|商城/活動/[COUNTER WAVE L5獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
+|{% inlineImg img/tuning/HQ_153087_RESOURCE_ENCHANT.PNG 40px %} EX/SS特級D零件：裝備|可進行指定重鑄，隨機抽取 SS~EX 等級<br><font color=#f00>{% inlineImg img/tuning/tuningEX.png 24px %}機率為10%、{% inlineImg img/tuning/tuningSS.png 24px %}機率為90%</font>|商城/活動/[機械突破](https://closersinfo.xyz/datasets/break_challenge_S3/#%E5%88%86%E6%95%B8%E7%8D%8E%E5%8B%B5%E8%A1%A8)
+|{% inlineImg https://i.imgur.com/vZ5yUHH.png 40px %} EX確定D零件：裝備|可進行指定重鑄，必定{% inlineImg img/tuning/tuningEX.png 24px %}|商城/活動/[機械突破](https://closersinfo.xyz/datasets/break_challenge_S3/#%E5%88%86%E6%95%B8%E7%8D%8E%E5%8B%B5%E8%A1%A8)/[COUNTER WAVE L6獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
+
+
+- **不低於當前等級**：需重鑄相同屬性。
+
+## 時裝
+
+## 95等以上時裝使用
+
+|道具|功能|主要管道
+|:-|:-:|:-:
+|{% inlineImg img/tuning/HQ_500608_RESOURCE_ENCHANT.PNG 40px %} 燦爛之服裝零件|基本重鑄材料，一格消耗一個<br><font color=#f00>整體重鑄時不消耗</font>|活動/商城/[COUNTER WAVE L4獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
+|{% inlineImg img/tuning/HQ_153078_RESOURCE_ENCHANT.PNG 40px %} 特級D零件：時裝|可進行指定重鑄，隨機抽取 B~EX 等級<br>（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningEX.png 24px %}機率為0.85%、{% inlineImg img/tuning/tuningSS.png 24px %}機率為1.70%</font>|商城/活動/[COUNTER WAVE L5獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
+|{% inlineImg https://i.imgur.com/G3iFahX.png 40px %} EX確定D零件：時裝|可進行指定重鑄，必定{% inlineImg img/tuning/tuningEX.png 24px %}|莫爾塔精品店
 
 - **不低於當前等級**：需重鑄相同屬性。
 
@@ -56,14 +69,17 @@ description: "重鑄系統內容說明"
 |道具|功能|主要管道
 |:-|:-:|:-:
 |{% inlineImg https://i.imgur.com/Pyr0Fuo.png 40px %} 激頻重鑄零件|基本重鑄材料，一格消耗一個<br><font color=#f00>整體重鑄時不消耗且無法得出{% inlineImg img/tuning/tuningSS.png 24px %}{% inlineImg img/tuning/tuningEX.png 24px %}</font>|副本掉落
-|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %} 一般D零件：裝備|可進行指定重鑄，隨機抽取C~S等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningS.png 24px %}機率為2%</font>|製作/活動
-|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %} 高級D零件：裝備|可進行指定重鑄，隨機抽取C~SS等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningSS.png 24px %}機率為1%</font>|製作/活動
+|{% inlineImg https://i.imgur.com/uKEHaYr.png 40px %} 一般D零件：裝備|可進行指定重鑄，隨機抽取C~S等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningS.png 24px %}機率為2%</font>|製作/活動/[COUNTER WAVE L2獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
+|{% inlineImg https://i.imgur.com/up3pmwN.png 40px %} 高級D零件：裝備|可進行指定重鑄，隨機抽取C~SS等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningSS.png 24px %}機率為1%</font>|製作/活動/[COUNTER WAVE L3獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
 |{% inlineImg https://i.imgur.com/iqfarPB.png 40px %} SS/S D零件：裝備|可進行指定重鑄，隨機抽取S~SS等級<br><font color=#f00>{% inlineImg img/tuning/tuningSS.png 24px %}機率為10%</font>|禮包/活動
-|{% inlineImg https://i.imgur.com/LE2TT8Q.png 40px %} S 確定D零件：裝備|可進行指定重鑄，必定{% inlineImg img/tuning/tuningS.png 24px %}<br><font color=#f00>也可進行技能重鑄，但是會隨機抽取技能</font>|禮包/活動
-|{% inlineImg https://i.imgur.com/WxaqM1W.png 40px %} SS確定D零件：裝備|可進行指定重鑄，必定{% inlineImg img/tuning/tuningSS.png 24px %}<br><font color=#f00>也可進行終極技Lv+1 重鑄 (僅可用在武器)</font>|禮包/活動
-|{% inlineImg https://i.imgur.com/OX07kV4.png 40px %} 技能D零件：裝備|可進行指定**技能**重鑄|禮包/活動
+|{% inlineImg https://i.imgur.com/LE2TT8Q.png 40px %} S 確定D零件：裝備|可進行指定重鑄，必定{% inlineImg img/tuning/tuningS.png 24px %}<br><font color=#f00>也可進行技能重鑄，但是會隨機抽取技能</font>|禮包/活動/[COUNTER WAVE L5獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
+|{% inlineImg https://i.imgur.com/WxaqM1W.png 40px %} SS確定D零件：裝備|可進行指定重鑄，必定{% inlineImg img/tuning/tuningSS.png 24px %}<br><font color=#f00>也可進行終極技Lv+1 重鑄 (僅可用在武器)</font>|禮包/活動/[COUNTER WAVE L6獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
+|{% inlineImg https://i.imgur.com/OX07kV4.png 40px %} 技能D零件：裝備|可進行指定**技能**重鑄|禮包/活動/[COUNTER WAVE L5獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
+|{% inlineImg img/tuning/HQ_153076_RESOURCE_TUNING.PNG 40px %} 觸發器重鑄萃取器|觸發器專用，破壞原裝備，由新裝備繼承<font color=red>原裝備完整屬性</font>|[機械突破](https://closersinfo.xyz/datasets/break_challenge_S3/#%E5%88%86%E6%95%B8%E7%8D%8E%E5%8B%B5%E8%A1%A8)
+|{% inlineImg img/tuning/HQ_153089_RESOURCE_ENCHANT.PNG 40px %} 屬性變更D零件：裝備|可保留等級<font color=red>轉換同等級屬性</font>|目前無取得管道
 |{% inlineImg https://i.imgur.com/TmHFFrJ.png 40px %} α重鑄等化器（Lv.81～92）|可將重鑄次數重設為最大值|商城/活動
 |{% inlineImg https://i.imgur.com/i8HdJRy.png 40px %} Ω重鑄等化器（Lv.93～100）|可將重鑄次數重設為最大值|商城/活動
+|{% inlineImg img/tuning/HQ_500611_CASH_ITEM.PNG 40px %} 限制型Omega重鑄等化器(Lv93~100)|可將重鑄次數<font color=red>增加三次</font>|目前無取得管道
 
 - **不低於當前等級**：需重鑄相同屬性。
 
@@ -72,21 +88,17 @@ description: "重鑄系統內容說明"
 |道具|功能|主要管道
 |:-|:-:|:-:
 |{% inlineImg https://i.imgur.com/iGx9G70.png 40px %} 晶瑩之服裝重鑄零件|基本重鑄材料，一格消耗一個<br><font color=#f00>無法得出{% inlineImg img/tuning/tuningSS.png 24px %}</font>|製作/活動
-|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %} 一般D零件：時裝|可進行指定重鑄，隨機抽取C~S等級（**不低於當前等級**）<br><font color=#f00>也可進行技能重鑄，但是會隨機抽取技能。{% inlineImg img/tuning/tuningS.png 24px %}機率為3%</font>|製作/活動
-|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %} 高級D零件：時裝|可進行指定重鑄，隨機抽取C~SS等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningSS.png 24px %}機率為1%</font>|製作/活動
+|{% inlineImg https://i.imgur.com/zSb8Jle.png 40px %} 一般D零件：時裝|可進行指定重鑄，隨機抽取C~S等級（**不低於當前等級**）<br><font color=#f00>也可進行技能重鑄，但是會隨機抽取技能。{% inlineImg img/tuning/tuningS.png 24px %}機率為3%</font>|製作/活動/[COUNTER WAVE L2獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
+|{% inlineImg https://i.imgur.com/lC2WTk8.png 40px %} 高級D零件：時裝|可進行指定重鑄，隨機抽取C~SS等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningSS.png 24px %}機率為1%</font>|製作/活動/[COUNTER WAVE L4獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
 |{% inlineImg https://i.imgur.com/ljMDp7Y.png 40px %} S/A D零件：時裝|可進行指定重鑄，隨機抽取A~S等級<br><font color=#f00>{% inlineImg img/tuning/tuningS.png 24px %}機率為25%</font>|禮包/活動
 |{% inlineImg https://i.imgur.com/IvsyXBS.png 40px %} SS/S D零件：時裝|可進行指定重鑄，隨機抽取S~SS等級<br><font color=#f00>{% inlineImg img/tuning/tuningSS.png 24px %}機率為10%</font>|禮包/活動
-|{% inlineImg https://i.imgur.com/I62TyC9.png 40px %} S 確定D零件：時裝|可進行指定重鑄，必定{% inlineImg img/tuning/tuningS.png 24px %}|禮包/活動
-|{% inlineImg https://i.imgur.com/YWwwVtP.png 40px %} SS確定D零件：時裝|可進行指定重鑄，必定{% inlineImg img/tuning/tuningSS.png 24px %}|禮包/活動
-|{% inlineImg https://i.imgur.com/8iksYKz.png 40px %} 技能D零件：時裝|可進行指定**技能**重鑄|禮包/活動
+|{% inlineImg https://i.imgur.com/I62TyC9.png 40px %} S 確定D零件：時裝|可進行指定重鑄，必定{% inlineImg img/tuning/tuningS.png 24px %}|禮包/活動/[COUNTER WAVE L5獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
+|{% inlineImg https://i.imgur.com/YWwwVtP.png 40px %} SS確定D零件：時裝|可進行指定重鑄，必定{% inlineImg img/tuning/tuningSS.png 24px %}|禮包/活動/[COUNTER WAVE L6獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
+|{% inlineImg https://i.imgur.com/8iksYKz.png 40px %} 技能D零件：時裝|可進行指定**技能**重鑄|禮包/活動/[COUNTER WAVE L5獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
+|{% inlineImg img/tuning/HQ_153088_RESOURCE_ENCHANT.PNG 40px %} 屬性變更D零件：裝備|可保留等級<font color=red>轉換同等級屬性</font>|目前無取得管道
 |{% inlineImg https://i.imgur.com/iVGZwbH.png 40px %} 晶瑩之服裝重鑄等化器|可將重鑄次數重設為最大值|製作/活動
 
-{% hideToggle 目前僅存在遊戲資料內，開放時間未知 %}
-|道具|功能|主要管道
-|:-|:-:|:-:
-|{% inlineImg https://i.imgur.com/kELhpR7.png 40px %} 特級D零件：時裝|可進行指定重鑄，隨機抽取 C~EX 等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningEX.png 24px %}機率為???%、{% inlineImg img/tuning/tuningSS.png 24px %}機率為???%</font>|商城/活動
-|{% inlineImg https://i.imgur.com/G3iFahX.png 40px %} EX確定D零件：時裝|可進行指定重鑄，必定{% inlineImg img/tuning/tuningEX.png 24px %}|商城/活動
-{% endhideToggle %}
+
 
 - **不低於當前等級**：需重鑄相同屬性。
 
@@ -95,97 +107,115 @@ description: "重鑄系統內容說明"
 # 主流重鑄能力
 
 依據重鑄目標的優先度進行排序。
+- {% inlineImg img/tuning/tuningEX.png 32px %}代表最高等級
 - {% inlineImg img/tuning/tuningSS.png 32px %}代表最優先
-- {% inlineImg img/tuning/tuningS.png 32px %}{% inlineImg img/tuning/tuningA.png 32px %}代表盡量高
-- {% inlineImg img/tuning/tuningB.png 32px %}代表有就好
+- {% inlineImg img/tuning/tuningS.png 32px %}代表次優先
+- {% inlineImg img/tuning/tuningA.png 32px %}代表盡量高
+- {% inlineImg img/tuning/tuningB.png 32px %}代表不一定需要<br>
 **<font color=#f00>僅供參考，建議參考對應角色排行榜前3與跟其他玩家討論</font>**
 
 {% tabs 主流重鑄 %}
 <!-- tab 武器核心-->
 {% inlineImg img/tuning/tuningSS.png 32px %}終極技能Lv+1
+{% inlineImg img/tuning/tuningSS.png 32px %}空中/背擊/浮空增加傷害
+{% inlineImg img/tuning/tuningSS.png 32px %}超能爆發時增加傷害
 {% inlineImg img/tuning/tuningS.png 32px %}空中/背擊/浮空暴擊傷害
-{% inlineImg img/tuning/tuningS.png 32px %}物理/魔法暴擊傷害
-{% inlineImg img/tuning/tuningA.png 32px %}追加物理/魔法攻擊力
-{% inlineImg img/tuning/tuningA.png 32px %}攻擊速度
+{% inlineImg img/tuning/tuningS.png 32px %}總物理/魔法攻擊力
+{% inlineImg img/tuning/tuningA.png 32px %}物理/魔法暴擊傷害 **<font color=red>(無終極技能時替代)</font>**
 <!-- endtab -->
 
 <!-- tab 模組-->
+{% inlineImg img/tuning/tuningSS.png 32px %}空中/背擊/浮空增加傷害
+{% inlineImg img/tuning/tuningS.png 32px %}超能爆發時增加傷害
 {% inlineImg img/tuning/tuningS.png 32px %}空中/背擊/浮空暴擊傷害
-{% inlineImg img/tuning/tuningS.png 32px %}物理/魔法暴擊傷害
-{% inlineImg img/tuning/tuningA.png 32px %}角色技能Lv+1
-{% inlineImg img/tuning/tuningB.png 32px %}攻擊速度
+{% inlineImg img/tuning/tuningS.png 32px %}角色技能Lv+1 **<font color=blue>  [技能建議](https://docs.google.com/spreadsheets/d/1M1Qvw8TALxd2zZjTEd6Rq8p_UpCDswCcV-wf7tpDCrE/edit?gid=987062491#gid=987062491)</font>**
+{% inlineImg img/tuning/tuningA.png 32px %}物理/魔法爆擊傷害 **<font color=red>(無技能時替換)</font>**
 <!-- endtab -->
 
 <!-- tab 護盾-->
-{% inlineImg img/tuning/tuningS.png 32px %}總物理/魔法攻擊力
+{% inlineImg img/tuning/tuningSS.png 32px %}總物理/魔法攻擊力
 {% inlineImg img/tuning/tuningS.png 32px %}物理/魔法暴擊傷害
-{% inlineImg img/tuning/tuningS.png 32px %}空中/背擊/浮空暴擊傷害 (**<font color=#080>95等以上裝備</font>**)
+{% inlineImg img/tuning/tuningS.png 32px %}空中/背擊/浮空暴擊傷害
 {% inlineImg img/tuning/tuningA.png 32px %}最大生命值
-{% inlineImg img/tuning/tuningB.png 32px %}空中/背擊/浮空增加傷害
 <!-- endtab -->
 
-<!-- tab 龍之刑場接收器-->
+<!-- tab 樂園接收器-->
+{% inlineImg img/tuning/tuningSS.png 32px %}空中/背擊/浮空暴擊傷害
+{% inlineImg img/tuning/tuningSS.png 32px %}空中/背擊/浮空增加傷害
 {% inlineImg img/tuning/tuningS.png 32px %}物理/魔法攻擊力
-{% inlineImg img/tuning/tuningS.png 32px %}空中/背擊/浮空暴擊傷害
-{% inlineImg img/tuning/tuningA.png 32px %}物理/魔法暴擊傷害
-{% inlineImg img/tuning/tuningB.png 32px %}空中/背擊/浮空增加傷害
+{% inlineImg img/tuning/tuningS.png 32px %}物理/魔法暴擊傷害
 <!-- endtab -->
 
 <!-- tab 觸發器-->
 {% inlineImg img/tuning/tuningSS.png 32px %}總物理/魔法攻擊力
+{% inlineImg img/tuning/tuningS.png 32px %}超能爆發時增加傷害
+{% inlineImg img/tuning/tuningS.png 32px %}空中/背擊/浮空暴擊傷害
 {% inlineImg img/tuning/tuningS.png 32px %}物理/魔法暴擊傷害
-{% inlineImg img/tuning/tuningA.png 32px %}空中/背擊/浮空暴擊傷害
-{% inlineImg img/tuning/tuningB.png 32px %}攻擊速度
 <!-- endtab -->
 
 <!-- tab 武器 / 手套-->
 {% inlineImg img/tuning/tuningSS.png 32px %}總物理/魔法攻擊力
 {% inlineImg img/tuning/tuningSS.png 32px %}物理/魔法暴擊傷害
-{% inlineImg img/tuning/tuningA.png 32px %}空中/背擊/浮空暴擊傷害 (**<font color=#080>輝煌時裝限定</font>**)
+{% inlineImg img/tuning/tuningSS.png 32px %}空中/背擊/浮空暴擊傷害 **<font color=#080>(輝煌時裝限定)</font>**
 <!-- endtab -->
 
 <!-- tab 髮型 / 帽子-->
+{% inlineImg img/tuning/tuningSS.png 32px %}空中/背擊/浮空暴擊傷害 **(<font color=#080>輝煌時裝限定)</font>**
+{% inlineImg img/tuning/tuningSS.png 32px %}超能爆發時增加傷害
 {% inlineImg img/tuning/tuningA.png 32px %}攻擊速度
-{% inlineImg img/tuning/tuningA.png 32px %}空中/背擊/浮空暴擊傷害 (**<font color=#080>輝煌時裝限定</font>**)
-{% inlineImg img/tuning/tuningB.png 32px %}超能爆發時增加傷害
 <!-- endtab -->
 
 <!-- tab 上衣 / 下衣 / 背部-->
-{% inlineImg img/tuning/tuningA.png 32px %}物理/魔法攻擊力 (**<font color=#080>輝煌時裝限定</font>**)
-{% inlineImg img/tuning/tuningB.png 32px %}追加物理/魔法防禦率/力
-{% inlineImg img/tuning/tuningB.png 32px %}增加最大生命值
+{% inlineImg img/tuning/tuningSS.png 32px %}物理/魔法攻擊力 **<font color=#080>(輝煌時裝限定)</font>**
+{% inlineImg img/tuning/tuningA.png 32px %}增加最大生命值
+{% inlineImg img/tuning/tuningB.png 32px %}追加物理/魔法防禦率力
 <!-- endtab -->
 
 <!-- tab 鞋子 / 手臂 / 腰部-->
-{% inlineImg img/tuning/tuningS.png 32px %}空中暴擊傷害
-{% inlineImg img/tuning/tuningS.png 32px %}背擊暴擊傷害
-{% inlineImg img/tuning/tuningS.png 32px %}浮空暴擊傷害
+{% inlineImg img/tuning/tuningEX.png 32px %}空中/背擊/浮空增加傷害 **<font color=#080>(95等以上時裝限定)</font>**
+{% inlineImg img/tuning/tuningEX.png 32px %}空中/背擊/浮空增加傷害 **<font color=#080>(95等以上時裝限定</font>**
+{% inlineImg img/tuning/tuningSS.png 32px %}空中增加傷害
+{% inlineImg img/tuning/tuningSS.png 32px %}背擊增加傷害
+{% inlineImg img/tuning/tuningSS.png 32px %}浮空增加傷害
 <!-- endtab -->
 
-<!-- tab 臉上 / 臉中 / 臉下 / 腿部-->
-{% inlineImg img/tuning/tuningA.png 32px %}物理/魔法攻擊力 (**<font color=#080>輝煌時裝限定</font>**)
+<!-- tab 臉上 / 臉中  / 腿部-->
+{% inlineImg img/tuning/tuningEX.png 32px %}物理/魔法攻擊力 **<font color=#080>(95等以上時裝限定)</font>**
+{% inlineImg img/tuning/tuningSS.png 32px %}物理/魔法攻擊力 **<font color=#080>(輝煌時裝限定)</font>**
 {% inlineImg img/tuning/tuningB.png 32px %}降低魔法或生命消耗
 {% inlineImg img/tuning/tuningB.png 32px %}技能冷卻時間
 <!-- endtab -->
 
 <!-- tab 瞳孔-->
-{% inlineImg img/tuning/tuningS.png 32px %}超越之力Lv+1
-{% inlineImg img/tuning/tuningA.png 32px %}精神修練Lv+1
-{% inlineImg img/tuning/tuningA.png 32px %}基本攻擊提升Lv+1
-{% inlineImg img/tuning/tuningB.png 32px %}氣力鍛鍊Lv+1
+# 除部分角色外
+{% inlineImg img/tuning/tuningS.png 32px %}[超越之力Lv+1]
+{% inlineImg img/tuning/tuningS.png 32px %}[超越之力Lv+1]
+{% inlineImg img/tuning/tuningS.png 32px %}[超越之力Lv+1]
+
+# 部分角色:薇歐莉特、賽特、鼠隊全員
+{% inlineImg img/tuning/tuningS.png 32px %}[基本攻擊提升Lv+1]
+{% inlineImg img/tuning/tuningS.png 32px %}[基本攻擊提升Lv+1]
+{% inlineImg img/tuning/tuningS.png 32px %}[基本攻擊提升Lv+1]
 <!-- endtab -->
 
 <!-- tab 特效-->
+# 單傷角色
 {% inlineImg img/tuning/tuningSS.png 32px %}總物理/魔法攻擊力
-{% inlineImg img/tuning/tuningSS.png 32px %}物理/魔法暴擊傷害
-{% inlineImg img/tuning/tuningA.png 32px %}空中/背擊/浮空暴擊傷害
+{% inlineImg img/tuning/tuningSS.png 32px %}空中/背擊/浮空增加傷害
+{% inlineImg img/tuning/tuningSS.png 32px %}空中/背擊/浮空增加傷害
+
+# 混傷角色
+{% inlineImg img/tuning/tuningSS.png 32px %}空中/背擊/浮空增加傷害
+{% inlineImg img/tuning/tuningSS.png 32px %}空中/背擊/浮空增加傷害
+{% inlineImg img/tuning/tuningSS.png 32px %}空中/背擊/浮空增加傷害
 <!-- endtab -->
 
-<!-- tab 深海王組合時裝-->
-{% inlineImg img/tuning/tuningS.png 32px %}總物理/魔法攻擊力
-{% inlineImg img/tuning/tuningA.png 32px %}空中/背擊/浮空暴擊傷害
-{% inlineImg img/tuning/tuningB.png 32px %}正式/執行者必殺Lv+1
-{% inlineImg img/tuning/tuningB.png 32px %}角色技能Lv+1
+<!-- tab 莫爾塔/人類神D組合時裝-->
+{% inlineImg img/tuning/tuningEX.png 32px %}總物理/魔法攻擊力
+{% inlineImg img/tuning/tuningEX.png 32px %}空中/背擊/浮空增加傷害
+{% inlineImg img/tuning/tuningS.png 32px %}物理/魔法攻擊力 **<font color=red>(可替換角色技能)</font>**
+{% inlineImg img/tuning/tuningS.png 32px %}攻擊速度 **<font color=red>(可替換角色技能)</font>**
+{% inlineImg img/tuning/tuningA.png 32px %}角色技能Lv+1
 <!-- endtab -->
 {% endtabs %}
 
@@ -225,8 +255,8 @@ description: "重鑄系統內容說明"
 |背擊時穿透防禦率|16%|20%|27%|34%|44%
 |空中時穿透防禦率|16%|20%|27%|34%|44%
 |浮空時穿透防禦率|16%|20%|27%|34%|44%
-|終極技能|-|-|-|Lv+1|-
-|角色技能|-|-|Lv+1|-|-
+|終極技能|-|-|-|0.01896%|-
+|角色技能|-|-|0.41710%(x13)|-|-
 </div>
 <!-- endtab -->
 
@@ -255,7 +285,7 @@ description: "重鑄系統內容說明"
  超能爆發持續時間  | 8秒| 10秒| 12秒| 14秒| 17秒
  超能爆發時增加傷害 | 3%| 4%| 5%| 6%| 7.5%
  降低魔法或生命消耗 | 1.5%| 2%| 3%| 4%| 5% 
- 角色技能 (刪除EX的前置技能)  | - | - | Lv+1 | - |
+ 角色技能 (刪除EX的前置技能)  | - | - | 0.52257%(x10)| - |
 </div>
 <!-- endtab -->
 
@@ -581,7 +611,6 @@ description: "重鑄系統內容說明"
 
 ---
 
-[參考資料](https://closersinfo.jp/spec/tuning)
 
 <style>
   .tuning_data table {
