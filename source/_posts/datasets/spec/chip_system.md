@@ -236,16 +236,16 @@ description: "晶片系統內容說明"
 
 
 
-|可獲得道具|來源與數量
-|:-|:-:
-|{% inlineImg /img/chip/chip_origin.png 40px %}x10原始晶片| Counter Wave<br>{% inlineImg /img/gear/chromite/L1.png 40px%}|
-|{% inlineImg /img/chip/chip_overclock.png 40px %}x10超頻晶片| Counter Wave<br>{% inlineImg /img/gear/chromite/L4.png 40px%}|
-|{% inlineImg /img/chip/chip_origin.png 40px %}x1原始晶片| 每周任務|
-|{% inlineImg /img/chip/chip_origin.png 40px %}x20原始晶片<font color=red>(可兌換兩次)</font>| 榮譽商店<br>消耗{% inlineImg /img/material/HQ_ICON_ORDER_POINT.PNG 40px%}X1,000<br><font color=red>每周重製</font>|
-|{% inlineImg /img/chip/chip_overclock.png 40px %}x5超頻晶片<font color=red>(可兌換兩次)</font>|榮譽商店<br>消耗{% inlineImg /img/material/HQ_ICON_ORDER_POINT.PNG 40px%}X1,000<br><font color=red>每周重製</font>|
-|{% inlineImg /img/chip/T2_color.png 40px %}x1顏色晶片自選箱| 製作機>無限衝突>消耗品<br>消耗{% inlineImg /img/material/mock_coin.png 40px%}X10+{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}X100,000<br><font color=red>每月重製</font>|
-|{% inlineImg /img/chip/chip_origin.png 40px %}x2原始晶片|分解三星時裝|
-|{% inlineImg /img/chip/chip_overclock.png 40px %}x3超頻晶片| 社團室>社團副本>第六階段|
+|來源與數量|可獲得道具
+|:-:|:-:
+| 每周任務|{% inlineImg /img/chip/chip_origin.png 40px %}x1原始晶片| 
+| 分解三星時裝|{% inlineImg /img/chip/chip_origin.png 40px %}x2原始晶片|
+| Counter Wave<br>{% inlineImg /img/gear/chromite/L1.png 40px%}|{% inlineImg /img/chip/chip_origin.png 40px %}x10原始晶片| 
+| 榮譽商店<br>消耗{% inlineImg /img/material/HQ_ICON_ORDER_POINT.PNG 40px%}X1,000<br><font color=red>每周重製</font>|{% inlineImg /img/chip/chip_origin.png 40px %}x20原始晶片<font color=red>(可兌換兩次)</font>| 
+| 社團室>社團副本>第六階段|{% inlineImg /img/chip/chip_overclock.png 40px %}x3超頻晶片| 
+| 榮譽商店<br>消耗{% inlineImg /img/material/HQ_ICON_ORDER_POINT.PNG 40px%}X1,000<br><font color=red>每周重製</font>|{% inlineImg /img/chip/chip_overclock.png 40px %}x5超頻晶片<font color=red>(可兌換兩次)</font>|
+| Counter Wave<br>{% inlineImg /img/gear/chromite/L4.png 40px%}|{% inlineImg /img/chip/chip_overclock.png 40px %}x10超頻晶片|
+| 製作機>無限衝突>消耗品<br>消耗{% inlineImg /img/material/mock_coin.png 40px%}X10+{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}X100,000<br><font color=red>每月重製</font>|{% inlineImg /img/chip/T2_color.png 40px %}x1顏色晶片自選箱| 
 
 
 

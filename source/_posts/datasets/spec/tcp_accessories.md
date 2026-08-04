@@ -13,16 +13,15 @@ description: "能力飾品資料整理"
 - 僅供參考，不保證完全正確。
 - **魔龍王三件套**與**殉道者三件套**數值上相同，前者多了 30% 魔龍增傷，後者有覺醒回復速度 100%，可依自身情況進行選擇（**腰部**進行替換）。
 
-|強度|臉上|手臂|臉下|腰部|腿部|連身
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|T0|{% inlineImg https://i.imgur.com/EFmDjDa.png 48px %}|{% inlineImg https://i.imgur.com/i7ZRsWZ.png 48px %}|{% inlineImg https://i.imgur.com/8eWz1HI.png 48px %}|{% inlineImg https://i.imgur.com/slEdo0F.png 48px %}|{% inlineImg https://i.imgur.com/DLyLQcv.png 48px %}|{% inlineImg https://i.imgur.com/fpuLmaj.png 48px %}{% inlineImg https://i.imgur.com/uXVHunT.png 48px %}|
-|T1|{% inlineImg https://i.imgur.com/JlogtYH.png 48px %}|{% inlineImg https://i.imgur.com/llHDcNL.png 48px %}||{% inlineImg https://i.imgur.com/I7EIGWh.png 48px %}||{% inlineImg https://i.imgur.com/eq0ZfOa.png 48px %}{% inlineImg https://i.imgur.com/4khmgZK.png 48px %}|
-|T2 - A|{% inlineImg https://i.imgur.com/L5J2PUl.png 48px %}|{% inlineImg https://i.imgur.com/qJ55LVW.png 48px %}|{% inlineImg https://i.imgur.com/8eWz1HI.png 48px %}|{% inlineImg https://i.imgur.com/kkYqVKR.png 48px %}|{% inlineImg https://i.imgur.com/DLyLQcv.png 48px %}|{% inlineImg https://i.imgur.com/fSK8eom.png 48px %}{% inlineImg https://i.imgur.com/hPyWrDa.png 48px %}|
-|T2 - B|{% inlineImg https://i.imgur.com/rrpQ2gb.png 48px %}|{% inlineImg https://i.imgur.com/agZl0zT.png 48px %}|
-|T3|{% inlineImg https://i.imgur.com/Gcq581T.png 48px %}|{% inlineImg https://i.imgur.com/Ey363sm.png 48px %}|{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}|{% inlineImg https://i.imgur.com/8fFjIDf.png 48px %}|{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}||
-|T4|{% inlineImg https://i.imgur.com/TIYIPxX.png 48px %}|{% inlineImg https://i.imgur.com/T36l1xp.png 48px %}|{% inlineImg https://i.imgur.com/XiMgiNw.png 48px %}|{% inlineImg https://i.imgur.com/0VaY1sl.png 48px %}|{% inlineImg https://i.imgur.com/luPj9ua.png 48px %}||
-|T5|{% inlineImg https://i.imgur.com/JucHaXK.png 48px %}|{% inlineImg https://i.imgur.com/0hq1cbk.png 48px %}|{% inlineImg https://i.imgur.com/32MiorG.png 48px %}|{% inlineImg https://i.imgur.com/bF7eDfD.png 48px %}|{% inlineImg https://i.imgur.com/pRibBVh.png 48px %}||
-|T6|||{% inlineImg https://i.imgur.com/eUoR3Ni.png 48px %}|{% inlineImg https://i.imgur.com/7NxcuSR.png 48px %}|{% inlineImg https://i.imgur.com/Lrj8V1L.png 48px %}||
+|強度|帽子<br>**<font color=red>替換輝煌</font>** |臉上|手臂|臉下|腰部|腿部|連身
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|T0|{% inlineImg https://i.imgur.com/RFEhdSq.png 48px %}|{% inlineImg https://i.imgur.com/firz0BV.png 48px %}|{% inlineImg https://i.imgur.com/IfblYK2.png 48px %}|{% inlineImg https://i.imgur.com/M8dxlqy.png 48px %}|{% inlineImg https://i.imgur.com/I5CgXSJ.png 48px %}|{% inlineImg https://i.imgur.com/TJ8zX1H.png 48px %}|{% inlineImg https://i.imgur.com/MPXYv16.png 48px %}{% inlineImg https://i.imgur.com/Nc6ARyw.png 48px %}|
+|T1-A|-|{% inlineImg https://i.imgur.com/5GiHZbg.png 48px %}|{% inlineImg https://i.imgur.com/i7ZRsWZ.png 48px %}|{% inlineImg https://i.imgur.com/M8dxlqy.png 48px %}|{% inlineImg https://i.imgur.com/I5CgXSJ.png 48px %}|{% inlineImg https://i.imgur.com/uaVGhJ4.png 48px %}|{% inlineImg https://i.imgur.com/fpuLmaj.png 48px %}{% inlineImg https://i.imgur.com/uXVHunT.png 48px %}|
+|T1-B|-|{% inlineImg https://i.imgur.com/EFmDjDa.png 48px %}|{% inlineImg https://i.imgur.com/i7ZRsWZ.png 48px %}|{% inlineImg https://i.imgur.com/M8dxlqy.png 48px %}|{% inlineImg https://i.imgur.com/I5CgXSJ.png 48px %}|{% inlineImg https://i.imgur.com/uaVGhJ4.png 48px %}|-|
+|T2-A|-|{% inlineImg https://i.imgur.com/EFmDjDa.png 48px %}|{% inlineImg https://i.imgur.com/i7ZRsWZ.png 48px %}|{% inlineImg https://i.imgur.com/8eWz1HI.png 48px %}|{% inlineImg https://i.imgur.com/kkYqVKR.png 48px %}|{% inlineImg https://i.imgur.com/uaVGhJ4.png 48px %}|{% inlineImg https://i.imgur.com/eq0ZfOa.png 48px %}{% inlineImg https://i.imgur.com/4khmgZK.png 48px %}|
+|T2-B|-|{% inlineImg https://i.imgur.com/EFmDjDa.png 48px %}|{% inlineImg https://i.imgur.com/i7ZRsWZ.png 48px %}|{% inlineImg https://i.imgur.com/8eWz1HI.png 48px %}|{% inlineImg https://i.imgur.com/slEdo0F.png 48px %}|{% inlineImg https://i.imgur.com/DLyLQcv.png 48px %}|-|
+|T3|-|{% inlineImg https://i.imgur.com/EFmDjDa.png 48px %}|{% inlineImg https://i.imgur.com/i7ZRsWZ.png 48px %}|{% inlineImg https://i.imgur.com/Gqd1khg.png 48px %}|{% inlineImg https://i.imgur.com/8fFjIDf.png 48px %}|{% inlineImg https://i.imgur.com/W8cYj1Q.png 48px %}|-|
+
 
 
 
@@ -30,10 +29,12 @@ description: "能力飾品資料整理"
 
 # 組合時裝
 
-由製作取得，建議可直接做 **深海王連身** (大淨化連身為直升角色送的部分)
+由製作取得，建議可直接製作 **D伯爵連身** **<font color=red>(新直升任務可直接獲得)</font>** (舊直升可拿到16村連身)
 
 |組合時裝|道具圖|能力值|
 |:-:|:-|:-|
+|夢幻君主的試煉—D伯爵<br>**<font color=red>僅可競標獲得</font>**|**<font color=red>輝煌</font>**<br>{% inlineImg https://i.imgur.com/MPXYv16.png 48px %}{% inlineImg https://i.imgur.com/Nc6ARyw.png 48px %}|物理/魔法爆傷 +60%<br><正式/執行者必殺(2大)> Lv+1<br>攻擊速度 +6.0%<br>超能爆發時增加傷害 +60%<br> |
+|夢幻君主的試煉—D伯爵<br>[製作](https://closersinfo.xyz/datasets/count_d_trials/#%E8%A3%BD%E4%BD%9C%E6%9D%90%E6%96%99)|**<font color=gold>稀有</font>**<br>{% inlineImg https://i.imgur.com/MPXYv16.png 48px %}{% inlineImg https://i.imgur.com/Nc6ARyw.png 48px %}|物理/魔法爆傷 +45%<br><正式/執行者必殺(2大)> Lv+1<br>攻擊速度 +4.5%<br>超能爆發時增加傷害 +45%<br> |
 | 16村<br>[製作](/datasets/ControlCenter/#套裝效果) | {% inlineImg https://i.imgur.com/fpuLmaj.png 48px %}{% inlineImg https://i.imgur.com/uXVHunT.png 48px %} | 物理/魔法爆傷 +30%<br><正式/執行者必殺(2大)> Lv+1<br>攻擊速度 +3%<br>超能爆發時增加傷害 +20%<br> |
 | 深海王 | {% inlineImg https://i.imgur.com/eq0ZfOa.png 48px %}{% inlineImg https://i.imgur.com/4khmgZK.png 48px %} | 物理/魔法爆傷 +15%<br><正式/執行者必殺(2大)> Lv+1<br>攻擊速度 +3% |
 | 大淨化 | {% inlineImg https://i.imgur.com/fSK8eom.png 48px %}{% inlineImg https://i.imgur.com/hPyWrDa.png 48px %} | 物理/魔法爆傷 +10%<br>造成的增傷+5% |
@@ -53,6 +54,7 @@ description: "能力飾品資料整理"
 
 |軍團長|道具圖|能力值|
 |:-:|:-|:-|
+| D伯爵 |{% inlineImg https://i.imgur.com/5GiHZbg.png 32px %}{% inlineImg https://i.imgur.com/M8dxlqy.png 32px %}{% inlineImg https://i.imgur.com/I5CgXSJ.png 32px %}|物理/魔法攻擊力+700<br>物理/魔法爆傷+70%<br>前腦增傷+35%
 | 魔龍王 | {% inlineImg https://i.imgur.com/kkYqVKR.png 32px %}{% inlineImg https://i.imgur.com/8eWz1HI.png 32px %}{% inlineImg https://i.imgur.com/YYfSGGG.png 32px %}{% inlineImg https://i.imgur.com/DLyLQcv.png 32px %} | 物理/魔法攻擊力+600<br>物理/魔法爆傷+60%<br>魔龍增傷+30%
 | 火焰王上位 | {% inlineImg https://i.imgur.com/JlogtYH.png 32px %}{% inlineImg https://i.imgur.com/I7EIGWh.png 32px %}{% inlineImg https://i.imgur.com/llHDcNL.png 32px %} | 物理/魔法攻擊力+500<br>物理/魔法爆傷+21%<br>空中/背擊/浮空暴擊傷害+31%<br>追加物品掉落+25%<br>打擊時回復超能力 15% (冷卻時間 10 秒) |
 | 火焰王 | {% inlineImg https://i.imgur.com/Gqd1khg.png 32px %}{% inlineImg https://i.imgur.com/W8cYj1Q.png 32px %}{% inlineImg https://i.imgur.com/8fFjIDf.png 32px %}{% inlineImg https://i.imgur.com/5r607Gn.png 32px %} | 物理/魔法攻擊力+400<br>物理/魔法爆傷+45%<br>業火增傷+10% |
@@ -69,6 +71,7 @@ description: "能力飾品資料整理"
 
 |軍團長|道具圖|取得方式|
 |:-:|:-:|:-:|
+| D伯爵 |{% inlineImg https://i.imgur.com/5GiHZbg.png 32px %}{% inlineImg https://i.imgur.com/M8dxlqy.png 32px %}{% inlineImg https://i.imgur.com/I5CgXSJ.png 32px %}|[夢幻君主的試煉—D伯爵](https://closersinfo.xyz/datasets/count_d_trials/#%E8%83%BD%E5%8A%9B%E9%A3%BE%E5%93%81-x2F-%E7%AB%8B%E7%B9%AA%E8%87%82%E7%AB%A0)
 | 魔龍王 | {% inlineImg https://i.imgur.com/kkYqVKR.png 32px %}{% inlineImg https://i.imgur.com/8eWz1HI.png 32px %}{% inlineImg https://i.imgur.com/YYfSGGG.png 32px %}{% inlineImg https://i.imgur.com/DLyLQcv.png 32px %} | [魔龍王](/datasets/hecatoncheires/#%E9%A3%BE%E5%93%81)
 | 火焰王上位 | {% inlineImg https://i.imgur.com/JlogtYH.png 32px %}{% inlineImg https://i.imgur.com/I7EIGWh.png 32px %}{% inlineImg https://i.imgur.com/llHDcNL.png 32px %} | [火焰的終局](/datasets/prometheus/#%E7%81%AB%E7%84%B0%E7%9A%84%E7%B5%82%E5%B1%80%E7%8D%8E%E5%8B%B5-%E5%A4%A7%E5%9C%98%E5%9C%93) |
 | 火焰王 | {% inlineImg https://i.imgur.com/Gqd1khg.png 32px %}{% inlineImg https://i.imgur.com/W8cYj1Q.png 32px %}{% inlineImg https://i.imgur.com/8fFjIDf.png 32px %}{% inlineImg https://i.imgur.com/5r607Gn.png 32px %} | [火焰的喜劇](/datasets/prometheus/#%E7%81%AB%E7%84%B0%E7%9A%84%E5%96%9C%E5%8A%87%E7%8D%8E%E5%8B%B5) |
@@ -86,7 +89,6 @@ description: "能力飾品資料整理"
 
 主要為配合軍團長飾品剩下的部位(**<font color=#f00>臉上 手臂</font>**)
 也因此此兩部位飾品的價格都比較高
-也有**11村3件套(可由榮譽獲得)搭配此區任2件套**的相對容易的組合方法
 
 {% tabs 主線飾品 %}
 <!-- tab 能力-->
@@ -94,6 +96,7 @@ description: "能力飾品資料整理"
 
 |區域|道具圖|能力值|
 |:-:|:-:|:-|
+| 仁川港 |{% inlineImg https://i.imgur.com/RFEhdSq.png 48px %}{% inlineImg https://i.imgur.com/firz0BV.png 48px %}{% inlineImg https://i.imgur.com/IfblYK2.png 48px %}{% inlineImg https://i.imgur.com/TJ8zX1H.png 48px %}<br>帽子 <font color=#f00>臉上 手臂</font>  腿部|2件：物理及魔法攻擊力350、三爆傷35%<br>3件：物理及魔法攻擊力350、主爆傷35%、掉落道具35%、超能凝聚速度100% |
 | 殉道者 | {% inlineImg https://i.imgur.com/EFmDjDa.png 32px %}{% inlineImg https://i.imgur.com/i7ZRsWZ.png 32px %}{% inlineImg https://i.imgur.com/slEdo0F.png 32px %}{% inlineImg https://i.imgur.com/uaVGhJ4.png 32px %}<br><font color=#f00>臉上 手臂</font> 腰部 腿部 | 2件：物理及魔法攻擊力300、三爆傷30%<br>3件：物理及魔法攻擊力300、主爆傷30%、掉落道具30%、超能凝聚速度100% |
 | 控制室 | {% inlineImg https://i.imgur.com/L5J2PUl.png 32px %}{% inlineImg https://i.imgur.com/qJ55LVW.png 32px %}{% inlineImg https://i.imgur.com/ahDSqkd.png 32px %}<br><font color=#f00>臉上 手臂</font> 腰部 | 2件：物理及魔法攻擊力200、三爆傷18%<br>3件：物理及魔法攻擊力100、主爆傷18%、掉落道具22.5%、使用 [特殊技] 時+30覺醒能量(CD60秒)<br>註： [特殊技] 指預設欄位為 V 的技能 |
 | 要塞 | {% inlineImg https://i.imgur.com/Ku2qK8w.png 32px %}{% inlineImg https://i.imgur.com/zSzsS1B.png 32px %}{% inlineImg https://i.imgur.com/sqRxqvR.png 32px %}{% inlineImg https://i.imgur.com/agZl0zT.png 32px %}{% inlineImg https://i.imgur.com/rrpQ2gb.png 32px %}<br>背部 腰部 背部<br><font color=#f00>手臂 臉上</font> | 2件：物理及魔法攻擊力180、三爆傷15%、攻擊速度5%<br>3件：物理及魔法攻擊力70、雙爆傷15%、掉落道具20% |
@@ -111,6 +114,7 @@ description: "能力飾品資料整理"
 
 |區域|道具圖|取得方式|
 |:-:|:-:|:-|
+| 仁川港|{% inlineImg https://i.imgur.com/RFEhdSq.png 48px %}{% inlineImg https://i.imgur.com/firz0BV.png 48px %}{% inlineImg https://i.imgur.com/IfblYK2.png 48px %}{% inlineImg https://i.imgur.com/TJ8zX1H.png 48px %}<br>帽子 <font color=#f00>臉上 手臂</font>  腿部|[製作](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#%E8%A3%BD%E4%BD%9C%E6%9D%90%E6%96%99)
 | 殉道者 | {% inlineImg https://i.imgur.com/EFmDjDa.png 32px %}{% inlineImg https://i.imgur.com/i7ZRsWZ.png 32px %}{% inlineImg https://i.imgur.com/slEdo0F.png 32px %}{% inlineImg https://i.imgur.com/uaVGhJ4.png 32px %}<br><font color=#f00>臉上 手臂</font> 腰部 腿部 | [製作](/datasets/MartyrsHill/#飾品) |
 | 控制室 | {% inlineImg https://i.imgur.com/L5J2PUl.png 32px %}{% inlineImg https://i.imgur.com/qJ55LVW.png 32px %}{% inlineImg https://i.imgur.com/ahDSqkd.png 32px %}<br><font color=#f00>臉上 手臂</font> 腰部 | [製作](/datasets/ControlCenter/#套裝效果) |
 | 要塞 | {% inlineImg https://i.imgur.com/Ku2qK8w.png 32px %}{% inlineImg https://i.imgur.com/zSzsS1B.png 32px %}{% inlineImg https://i.imgur.com/sqRxqvR.png 32px %}{% inlineImg https://i.imgur.com/agZl0zT.png 32px %}{% inlineImg https://i.imgur.com/rrpQ2gb.png 32px %}<br>背部 腰部 背部<br><font color=#f00>手臂 臉上</font> | 要塞所有相關副本、[製作](/datasets/nightfortress/#能力飾品) |
