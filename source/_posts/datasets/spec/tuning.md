@@ -33,12 +33,11 @@ description: "重鑄系統內容說明"
 4. 部分重鑄數值增加，刪除無用選項。
 **備註**：模組的空中、背擊、浮空暴擊傷害已經調整為統一數值。
 
-[參考公告](https://www.closers.com.tw/news/JztG7m801)
 
 {% endhideToggle %}
 
 # 重鑄材料
-有關重鑄機率的詳細資料，請參考[這邊](/datasets/tuning_probability/)或者[公告01](http://cls.mangot5.com/game/cls/news/detail?contentNo=52209) [公告02](http://cls.mangot5.com/game/cls/news/detail?contentNo=52202)
+有關重鑄機率的詳細資料，請參考[這邊](/datasets/tuning_probability/)或者[官方公告01](https://clo.mangot5.com/game/clo/probability/detail/?contentNo=63818) [官方公告02](https://clo.mangot5.com/game/clo/probability/detail/?contentNo=63819)
 ## 裝備
 
 ## 95等以上裝備可使用
@@ -47,6 +46,7 @@ description: "重鑄系統內容說明"
 |:-|:-:|:-:
 |{% inlineImg https://i.imgur.com/sGKimWM.png 40px %} 璀璨重鑄零件 (Lv.95~100)|基本重鑄材料，一格消耗一個<br><font color=#f00>整體重鑄時不消耗</font>|活動/商城
 |{% inlineImg https://i.imgur.com/nzsG6XL.png 40px %} 特級D零件：裝備|可進行指定重鑄，隨機抽取 B~EX 等級（**不低於當前等級**）<br><font color=#f00>{% inlineImg img/tuning/tuningEX.png 24px %}機率為0.85%、{% inlineImg img/tuning/tuningSS.png 24px %}機率為1.70%</font>|商城/活動
+|{% inlineImg img/tuning/HQ_153087_RESOURCE_ENCHANT.PNG 40px %} EX~SS確定D零件：裝備|可進行指定重鑄，隨機抽取 B~EX 等級，~~(據說)~~<br><font color=#f00>{% inlineImg img/tuning/tuningEX.png 24px %}機率為0.9%、{% inlineImg img/tuning/tuningSS.png 24px %}機率為0.1%</font>|商城/活動
 |{% inlineImg https://i.imgur.com/vZ5yUHH.png 40px %} EX確定D零件：裝備|可進行指定重鑄，必定{% inlineImg img/tuning/tuningEX.png 24px %}|商城/活動
 
 - **不低於當前等級**：需重鑄相同屬性。
