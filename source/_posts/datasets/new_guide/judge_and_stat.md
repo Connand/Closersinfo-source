@@ -3,8 +3,8 @@ title: 攻擊判定與能力上限
 date: 2023-05-30 11:25:52
 tags: 
     - 資料紀錄
-    - 新手指南
-category: [遊戲資料,新手指南]
+    - 其他
+category: [遊戲資料,其他]
 cover: /img/new_guide/chase.png
 description: "說明攻擊判定與其重要性，以及簡單提供部分能力的數值上限"
 ---

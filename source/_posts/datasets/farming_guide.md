@@ -1,16 +1,16 @@
 ---
-title: 日常農本與製作指南(2025/08版本)
-date: 2023-04-06 11:25:52
+title: 日常農本與製作指南
+date: 
 tags: 
   - 農夫
   - 資料紀錄
-category: [遊戲資料,其他]
+  - 新手指南
+category: [遊戲資料,新手指南]
 cover: /img/new_ret_tip/icon_14.png
 description: "轉移特輯分支：封肝者日常"
 sticky: 1
 ---
 
-![](/img/new_ret_tip/not_easy.jpg)
 
 # 重置時間
 
@@ -19,37 +19,72 @@ sticky: 1
 重置包含副本入場次數、疲勞度、製作限制等等內容
 
 ---
+<font size=5 color=red>**<font color=red>說明</font> ：能力有限，統一導向封印者情報網之傳送門 [傳送通道](https://docs.google.com/spreadsheets/d/1qisR1l9cVy3HDFmwwtzUp0bCUD90Gne5Xz_AlQ3JB8U/edit?gid=236087989#gid=236087989)** </font>
 
+# 各式資料連結
+
+{% note info simple %}
+如果對於新手或回歸玩家有問題的話，也歡迎進來[Discord群組](https://discord.gg/ACBYdf5TNd)詢問
+{% endnote %}
+
+<div class="container">
+
+<div class="childDiv">
+
+**<font size=5>主線裝備</font>**
+- [蜃景樂園：迷惑音階接收器](https://closersinfo.xyz/datasets/gewurahV2/)
+- [19村—仁川港：鉻鐵號](https://closersinfo.xyz/datasets/IncheonPort_Chromite/)
+- [夢幻君主的試煉—D伯爵(Count D)](https://closersinfo.xyz/datasets/count_d_trials/)
+- [突破挑戰（第三季）](https://closersinfo.xyz/datasets/break_challenge_S3/)
+</div>
+<div class="childDiv">
+
+**<font size=5>能力提升</font>**
+- [團隊增益](/datasets/spec/teambuff/)
+- [稀有與輝煌時裝](/datasets/spec/synthesis/)
+- [異形PNA](https://closersinfo.xyz/datasets/spec/abePNA/)
+- [覺醒PNA](https://closersinfo.xyz/datasets/spec/awakenPNA/)
+- [重鑄](/datasets/spec/tuning/)
+- [寵物](/datasets/spec/pets/)
+- [稱號](/datasets/spec/title/)
+- [能力飾品](/datasets/spec/tcp_accessories/)
+- [晶片](/datasets/spec/chip_system/)
+- [技能核心](/datasets/spec/skill_cube/)
+- [融合威嚴](/datasets/spec/Fusion_effect/)
+</div>
+<div class="childDiv">
+
+**<font size=5>其他</font>**
+- [優化讀取與畫面流暢的方法](/datasets/settingWithRTSS/)
+- [相關連結](/link/)
+- [日配資料](/datasets/JP_vocal/)
+- [台版紀念立繪](/datasets/TWanni_illusts/)
+- [愚人節立繪](/datasets/AprilFools/)
+- [主題歌曲](/datasets/ClosersSongs/)
+<!--
 # 每周副本
 
 
-**<font color=red>說明</font>** ：由於 [收集副本](https://www.naddic.co.kr/ko/game/cls/gmNote/detail?contentNo=575) 的更新，因此 **古龍相關副本** 與 **格莫瑞相關副本** 的材料均已被刪除（僅保留機率掉落的飾品等）
+
+
 
 |副本名稱|入場限制|建議戰力|主要素材
 |:-|:-|:-|:-
 |--- **<font color=#0aa size=4>組隊系列</font>**|||
 |[**<font color=red>D伯爵觀賞團</font>**](/datasets/count_d_trials/)|每周獎勵 1 次|**<font color=red>120,000,000</font>**|大光大彩、模組、立繪、飾品、~~史詩模組~~
-|[魔龍王](/datasets/hecatoncheires/)|龍 2 每周獎勵 2 次|**80,000,000**|魔龍裝備、飾品、~~史詩裝備~~
-|火焰的喜劇：黑暗之城|每周 1 次|45,000,000|大彩大光、~~史詩接收器~~
-|調查隊：野獸王|每周 4 場|25,000,000|
-|調查隊：機械王|每周 4 場|18,000,000|
-|--- **<font color=#0aa size=4>單人系列</font>**|||
-|[**<font color=red>無知樂園</font>**](/datasets/gewurah/)|每周獎勵 1 次|**<font color=red>120,000,000</font>**|接收器、稱號、飾品、~~史詩接收器~~
-|[突破挑戰S2](/datasets/break_challenge_S2/)小關|每周 3 場|85,000,000|入場券、觸發器
-|[突破挑戰](/datasets/break_challenge/)小關|每周 3 場|45,000,000|入場券、觸發器
-|[軍團程式](/datasets/spec/skill_cube/)<br>**可以重複打同一關**|每周 2 次(帳號)|10,000,000 標稱|融合威嚴素材
-|複製者殲滅戰<br>**周四相對推薦來打**|每日 2 次|-|-
+
 
 {% hideToggle 遊戲幣刷取參考 %}
 
 |副本名稱|入場限制|建議戰力|每場掉落
 |:-|:-|:-|:-
 |封印摩天大樓|每周 2 次|80,000,000|鑽石x1
-|[極刑]龍的刑場|每周 1 次|40,000,000|水晶箱子x7
+
 
 {% endhideToggle %}
 
 ---
+
 
 # 每日副本
 
@@ -58,19 +93,9 @@ sticky: 1
 
 |副本名稱|入場限制|建議戰力|目標
 |:-|:-|:-|:-
-|[**<font color=red>D伯爵悲喜劇</font>**](/datasets/count_d_trials/)|每日獎勵 2 次|**<font color=red>120,000,000</font>**|武器材料、大光大彩
-|[**<font color=red>18村收集副本</font>**](/datasets/MartyrsHill/#%E6%94%B6%E9%9B%86%E5%89%AF%E6%9C%AC)|每日帳號 6 次|-|依需求選擇<br>**一般建議次元材料與PNA**
-|[18村](/datasets/MartyrsHill/)|每日共 3 次|最高100,000,000|版本裝備、部分素材
-|[魔龍王](/datasets/hecatoncheires/)|龍 1 每日 2 次|60,000,000|版本裝備、部分素材
-|[17村](/datasets/PacificGate/)|組隊每日 2 次、單人每日最多 6 次|-|部分素材
-|**<font color=blue>回憶任務</font><br>吉娜、諾亞、訓練官、露娜**|每日帳號共 4 次|-|回憶任務時裝、吉娜寵物
-|社團副本|每日 3 次 (隨增益提升)|-|時裝纖維、增幅次元精髓
-|**<font color=red>\*以下優先度不高</font>**
-|**[15村](/datasets/nightfortress/)**|1 次|16,000,000<br>22,000,000 (困難)|部分一次性製作的稀有素材
-|火焰的悲劇|每日 3 次|35,000,000|PNA經驗
+
 |[16村](/datasets/ControlCenter/)|組隊每日 1 次|2700萬|睡眠誘導券
 
-**<font color=red>\*以下優先度不高</font>** ：由於下面所列的副本可以獲得的共同材料已經被刪減過，只留下相關裝備必要的材料跟低機率的飾品，因此不建議打。
 
 {% hideToggle 遊戲幣刷取參考 %}
 
@@ -88,9 +113,7 @@ sticky: 1
 |-|-|-
 |:-|:-|:-
 |17村 1場|14村 1場|13村 2場
-|軍團程式 1場|熊本(中熊以上) 1場|迷宮之夜 1場
-|藍海大關 2場|火花的悲劇 2場|回憶任務 1場|
-|15村 1場
+
 
 ---
 
@@ -103,12 +126,6 @@ sticky: 1
 |道具|材料|製作限制|來源 
 |:-|:-|:-|:-
 |--- **<font color=#0aa size=4>UNION會員點數商店(UMP)</font>**|||
-|{% inlineImg /img/material/fuel18.PNG 35px %} 強化燃料 +18|UMP點數 90,000|**<font color=red>帳號</font> <font color=red>帳號</font>** 1 次|UMP商店
-|--- **<font color=#0aa size=4>古龍系列</font>**|||
-|{% inlineImg img/material/trigger_fuel500.png 35px %} 觸發器專屬燃燒器 - 加速器|{% inlineImg img/material/Money.PNG 35px %} 100,000 + {% inlineImg img/material/dragon_execution_mat01.png 35px %} 3|**<font color=blue>每周</font> <font color=red>帳號</font>** 70 次|製作機
-|{% inlineImg img/material/ticket01.png 35px %} 軍團長的渴望|{% inlineImg img/material/Money.PNG 35px %} 100,000 + {% inlineImg img/material/dragon_execution_mat01.png 35px %} 3|**<font color=blue>每周</font> <font color=red>帳號</font>** 7 次|製作機
-|{% inlineImg img/material/HQ_150100_RESOURCE_ENCHANT.PNG 35px %} 一般強化器燃料|{% inlineImg img/material/Money.PNG 35px %} 100,000 + {% inlineImg img/material/dragon_execution_mat01.png 35px %} 3|**<font color=blue>每周</font> <font color=red>帳號</font>** 7 次|製作機
-|{% inlineImg img/material/T1_plat_random.png 35px %} T1 鉑金晶片隨機箱子|{% inlineImg img/material/Money.PNG 35px %} 0 + {% inlineImg img/material/dragon_execution_mat02.png 35px %} 15|**<font color=blue>每周</font> <font color=red>帳號</font>** 1 次|製作機
 |--- **<font color=#0aa size=4>其他</font>**|||
 |{% inlineImg img/chip/T1_platinum.png 35px %} T1 鉑金晶片 (每種次數獨立計算)|{% inlineImg https://i.imgur.com/UUm30FC.png 35px %} 25|**<font color=blue>每周</font> <font color=red>帳號</font>** 5 次|晶片背包
 |{% inlineImg img/material/HQ_150100_RESOURCE_ENCHANT.PNG 35px %} 一般強化器燃料|{% inlineImg img/material/reanimate.png 35px %} reanimate 10|**<font color=blue>每周</font> <font color=red>帳號</font>** 20 次|消耗品
@@ -129,68 +146,11 @@ sticky: 1
 |{% inlineImg img/material/HQ_150101_RESOURCE_ENCHANT.PNG 35px %} 幸運強化器燃料|{% inlineImg img/material/mock_coin.png 35px %} 訓練的證明 10|**<font color=red>每月</font> <font color=red>帳號</font>** 8 次|模擬戰製作
 |--- **<font color=#0aa size=4>貢獻度系列</font>**|太多了，建議遊戲內實際確認||
 |{% inlineImg img/material/broadcast.png 35px %} 伺服器喇叭 X10|{% inlineImg img/material/HQ_ICON_ORDER_POINT.PNG 35px %} 180|**<font color=blue>每周</font> <font color=red>帳號</font>** 7 次|貢獻度
-|{% inlineImg img/material/HQ_150100_RESOURCE_ENCHANT.PNG 35px %} 一般強化器燃料 X10|{% inlineImg img/material/HQ_ICON_ORDER_POINT.PNG 35px %} 1,000|**<font color=blue>每周</font> <font color=red>帳號</font>** 2 次|貢獻度
-|{% inlineImg img/material/chip_box.png 35px %} 原始晶片1個箱子|{% inlineImg img/material/HQ_ICON_ORDER_POINT.PNG 35px %} 1,000|**<font color=blue>每周</font> <font color=red>帳號</font>** 2 次|貢獻度
-|{% inlineImg /img/chip/HQ_503009_CASH_ITEM.PNG 35px %} 晶片保護裝置|{% inlineImg img/material/HQ_ICON_ORDER_POINT.PNG 35px %} 1,000|**<font color=blue>每周</font> <font color=red>帳號</font>** 1 次|貢獻度
-|{% inlineImg https://i.imgur.com/up3pmwN.png 35px %} 高級D零件：裝備|{% inlineImg img/material/HQ_ICON_ORDER_POINT.PNG 35px %} 1,800|**<font color=blue>每周</font> <font color=red>帳號</font>** 2 次|貢獻度
-|{% inlineImg https://i.imgur.com/lC2WTk8.png 35px %} 高級D零件：時裝|{% inlineImg img/material/HQ_ICON_ORDER_POINT.PNG 35px %} 3,800|**<font color=blue>每周</font> <font color=red>帳號</font>** 2 次|貢獻度
-|{% inlineImg /img/material/chip_slot_change.png 35px %} 強化槽類型變更工具|{% inlineImg img/material/HQ_ICON_ORDER_POINT.PNG 35px %} 2,000|**<font color=blue>每周</font> <font color=red>帳號</font>** 1 次|貢獻度
-|{% inlineImg /img/material/elixir.png 35px %} 超越秘藥|{% inlineImg img/material/HQ_ICON_ORDER_POINT.PNG 35px %} 2,700|**<font color=blue>每周</font> <font color=red>帳號</font>** 1 次|貢獻度
-|{% inlineImg /img/material/HQ_154011_SUPPLEMENT_ENCHANT.PNG 35px %} 強化器防護劑|{% inlineImg img/material/HQ_ICON_ORDER_POINT.PNG 35px %} 5,800|**<font color=blue>每周</font> <font color=red>帳號</font>** 1 次|貢獻度
-|{% inlineImg /img/chip/HQ_503007_CASH_ITEM.PNG 35px %} 真實鉑金驅動器|{% inlineImg img/material/HQ_ICON_ORDER_POINT.PNG 35px %} 20,200|**<font color=blue>每周</font> <font color=red>帳號</font>** 1 次|貢獻度
-|{% inlineImg /img/material/fuel14.PNG 35px %} 強化燃料 +14|{% inlineImg img/material/HQ_ICON_ORDER_POINT.PNG 35px %} 23,200|**<font color=red>每月</font> <font color=red>帳號</font>** 1 次|貢獻度
 
 
----
+--- -->
 
-# 各式資料連結
 
-{% note info simple %}
-其他未提及的部分可以參考巴哈版上~~泉佬~~**泉姐**所寫的
-[封印者必看！新手老手皆適用無敵大百科](https://forum.gamer.com.tw/C.php?bsn=23655&snA=9218&tnum=5&bPage=2)
-如果對於新手或回歸玩家還有問題的話，也歡迎進來[Discord群組](https://discord.gg/ACBYdf5TNd)詢問
-{% endnote %}
-
-<div class="container">
-
-<div class="childDiv">
-
-**<font size=5>主線裝備</font>**
-- [新首爾作戰指揮室裝備](/datasets/ControlCenter/)
-- [軍團長：貝西摩斯裝備](/datasets/behemoth/)
-- [龍之刑場](/datasets/dragon/)
-- [白夜要塞裝備](/datasets/nightfortress/)
-- [軍團長：貝爾菲格裝備](/datasets/belphegor/)
-- [賽騰城裝備](/datasets/CentumCity/)
-- [軍團長：阿斯莫德觸發器](/datasets/asmoV2_trigger/)
-- [軍團長：阿斯莫德裝備(巴哈文章)](https://forum.gamer.com.tw/C.php?bsn=23655&snA=8897&tnum=1)
-</div>
-<div class="childDiv">
-
-**<font size=5>能力提升</font>**
-- [團隊增益](/datasets/spec/teambuff/)
-- [稀有與輝煌時裝](/datasets/spec/synthesis/)
-- [突變PNA](/datasets/mutantPNA/)
-- [增幅PNA](/datasets/spec/ampPNA/)
-- [基礎與特殊PNA](/datasets/spec/basicPNA/)
-- [重鑄](/datasets/spec/tuning/)
-- [寵物](/datasets/spec/pets/)
-- [稱號](/datasets/spec/title/)
-- [能力飾品](/datasets/spec/tcp_accessories/)
-- [晶片](/datasets/spec/chip_system/)
-- [技能核心](/datasets/spec/skill_cube/)
-- [融合威嚴](/datasets/spec/Fusion_effect/)
-- [史詩裝備](/datasets/spec/epicgears/)
-</div>
-<div class="childDiv">
-
-**<font size=5>其他</font>**
-- [優化讀取與畫面流暢的方法](/datasets/settingWithRTSS/)
-- [相關連結](/link/)
-- [日配資料](/datasets/JP_vocal/)
-- [台版紀念立繪](/datasets/TWanni_illusts/)
-- [愚人節立繪](/datasets/AprilFools/)
-- [主題歌曲](/datasets/ClosersSongs/)
 </div>
 
 </div>

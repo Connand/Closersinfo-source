@@ -9,14 +9,13 @@ description: "台版官網寫不完整，於是就自己來補一個了"
 
 ![](https://imgur.com/h86yNjW.png)
 
-~~因為現在的官網沒有角色介紹所以搞了一篇出來~~
 - 從右下角開啟深色模式閱讀效果較佳！
 
 {% inlineImg /img/new_guide/recom_dark.png 200px %}
 
 資料來源：
-+ 圖片：[韓版官網-角色介紹](https://closers.nexon.com/Characters/Introduction)
-+ 文字：舊台版官網、[CN版官網](https://cls.tiancity.com/event/simpleguide/?Itemid=2)
++ 圖片：[韓版官網-角色介紹](https://www.naddic.co.kr/ko/game/cls/character)
++ 文字：[台版官網](https://clo.mangot5.com/clo/index/)、[CN版官網](https://cls.tiancity.com/event/simpleguide/?Itemid=2)
 
 其他參考資料：
 - [角色聲優](/datasets/JP_vocal/)
@@ -363,7 +362,7 @@ description: "台版官網寫不完整，於是就自己來補一個了"
 
 
 <!-- endtab -->
-<!-- tab 特莉絲(Triss) -->
+<!-- tab 特莉絲(Triss){% inlineImg https://i.imgur.com/1s7xfEP.png 32px %}  -->
 
 **<font size=5 color=purple>特莉絲 (VAGABOND)</font>**  **<font size=4 color=purple style="float: right; padding-right: 50px">_Triss / 트리스_</font>**
 
@@ -549,6 +548,35 @@ description: "台版官網寫不完整，於是就自己來補一個了"
 {% endtabs %}
 
 <!-- endtab -->
+
+<!-- tab 摩亞(Mois) {% inlineImg https://i.imgur.com/hP7oZq8.png 32px %} -->
+
+**<font size=5 color=#6631F7>摩亞(GATEKEEPER  )</font>**  **<font size=4 color=#40E0D0 style="float: right; padding-right: 50px">_Mois / 모아_</font>**
+
+正式開放日期：2026/07/02(韓版) 2026/07/30(台版)
+
+> 君主，也就是曾君臨於這個宇宙的神般存在之一。然而現在失去了擁有的所有力量，只剩下人類化身，實際上變得與一般人類無異。因失意而窩在人類集體潛意識空間的「諾亞博物館」裡，過著像網廢人一樣的生活，然而……看不下去的博物館主人諾亞，將她送往了人間。送往等待著她命運的——獵犬堡（獵場看守者之城）。
+
+
+|角色資料|轉職立繪
+|:-|:-:
+|**年齡**：18歲 <br> **身高**：153cm <br> **體重**：40kg <br> **生日**：3月1日 <br> **喜歡的事物**：諾亞的料理、睡覺、最新版顯卡 <br> **興趣**：打遊戲、看YouTube、論壇潛水 |{% tabs 標籤區名稱 %}
+<!-- tab 訓練生/實習特工 -->
+![](https://i.imgur.com/KlflObc.png)
+<!-- endtab -->
+<!-- tab 正式特工 -->
+![](https://i.imgur.com/uW8d0CT.png)
+<!-- endtab -->
+<!-- tab 菁英特工 -->
+![](https://i.imgur.com/Z9IVmfY.png)
+<!-- endtab -->
+<!-- tab 決戰特工 -->
+![](https://i.imgur.com/f3zvRSW.png)
+<!-- endtab -->
+{% endtabs %}
+
+<!-- endtab -->
+
 {% endtabs %}
 
 <!-- endtab -->
