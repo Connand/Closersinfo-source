@@ -76,7 +76,7 @@ description: "重鑄系統內容說明"
 |{% inlineImg https://i.imgur.com/WxaqM1W.png 40px %} SS確定D零件：裝備|可進行指定重鑄，必定{% inlineImg img/tuning/tuningSS.png 24px %}<br><font color=#f00>也可進行終極技Lv+1 重鑄 (僅可用在武器)</font>|禮包/活動/[COUNTER WAVE L6獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
 |{% inlineImg https://i.imgur.com/OX07kV4.png 40px %} 技能D零件：裝備|可進行指定**技能**重鑄|禮包/活動/[COUNTER WAVE L5獎勵](https://closersinfo.xyz/datasets/IncheonPort_Chromite/#Counter-Wave)
 |{% inlineImg https://i.imgur.com/laoaiJu.png 40px %} 觸發器重鑄萃取器|觸發器專用，破壞原裝備，由新裝備繼承<font color=red>原裝備完整屬性</font>|[機械突破](https://closersinfo.xyz/datasets/break_challenge_S3/#%E5%88%86%E6%95%B8%E7%8D%8E%E5%8B%B5%E8%A1%A8)
-|{% inlineImg img/tuning/HQ_153089_RESOURCE_ENCHANT.PNG 40px %} 屬性變更D零件：裝備|可保留等級<font color=red>轉換同等級屬性</font>|目前無取得管道
+|{% inlineImg https://i.imgur.com/nluHplv.png 40px %} 屬性變更D零件：裝備|可保留等級<font color=red>轉換同等級屬性</font>|目前無取得管道
 |{% inlineImg https://i.imgur.com/TmHFFrJ.png 40px %} α重鑄等化器（Lv.81～92）|可將重鑄次數重設為最大值|商城/活動
 |{% inlineImg https://i.imgur.com/i8HdJRy.png 40px %} Ω重鑄等化器（Lv.93～100）|可將重鑄次數重設為最大值|商城/活動
 |{% inlineImg https://i.imgur.com/86NzkL4.png 40px %} 限制型Omega重鑄等化器(Lv93~100)|可將重鑄次數<font color=red>增加三次</font>|目前無取得管道
