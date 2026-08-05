@@ -1,6 +1,6 @@
 ---
 title: 征服項目 Ver. 2
-date: 2024-04-20 15:01:00
+date: 2026-01-01 01:00:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
 cover: /img/conquest2/DLG_TITLE_CONQUEST_VER2.PNG

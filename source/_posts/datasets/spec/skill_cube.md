@@ -1,6 +1,6 @@
 ---
 title: 技能核心與軍團程式
-date: 2022-03-06 12:45:59
+date: 2022-01-01 12:45:59
 tags: 資料紀錄
 category: [遊戲資料, 能力提升]
 cover: https://i.imgur.com/WMIttiF.png

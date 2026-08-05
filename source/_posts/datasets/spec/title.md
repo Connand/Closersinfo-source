@@ -1,9 +1,9 @@
 ---
 title: 稱號系統
-date: 2023-02-16 17:25:00
+date: 2022-01-01 17:25:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
-cover: /img/titles/DLG_ACHIEVEMENT_TITLE_TIAMAT_3.PNG
+cover:  https://i.imgur.com/fZM674Q.png
 description: "重點稱號能力資料整合"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 轉換器與福袋機率表
-date: 2024-04-04 21:38:29
+date: 
 tags: 資料紀錄
 category: [遊戲資料,機率資料]
 cover: /img/material/syringe_bag.png

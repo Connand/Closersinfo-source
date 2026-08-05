@@ -1,6 +1,6 @@
 ---
 title: 寵物系統
-date: 2023-02-16 17:25:00
+date: 2022-01-01 17:25:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
 cover: https://i.imgur.com/p9nKeLQ.png

@@ -1,6 +1,6 @@
 ---
 title: 日文配音相關資料整理
-date: 2023-03-21 16:40:00
+date: 2021-01-01 16:40:00
 tags: 資料紀錄
 category: [遊戲資料,其他]
 cover: https://i.imgur.com/DtviVMDh.png

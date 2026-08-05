@@ -1,6 +1,6 @@
 ---
-title: 神秘商店資料收集(2022)
-date: 2022-02-07 12:45:59
+title: 神秘商店資料收集
+date: 2021-02-07 12:45:59
 tags: 資料紀錄
 category: [遊戲資料, 其他]
 cover: https://images.mangot5.com/Images/cms/happycode/20220120/1642642072125.jpg

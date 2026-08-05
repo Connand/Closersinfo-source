@@ -1,6 +1,6 @@
 ---
 title: 晶片系統
-date: 2022-11-22 11:25:00
+date: 2022-01-01 11:25:00
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
 cover: /img/gear/chromite/HQ_1401_CHIP.PNG

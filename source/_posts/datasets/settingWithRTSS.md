@@ -1,6 +1,6 @@
 ---
 title: RTSS應用：顧及讀取速度並增加畫面流暢度 (補DX11更新說明)
-date: 2022-06-28 12:45:59
+date: 2021-06-28 12:45:59
 tags: 資料紀錄
 category: [遊戲資料, 其他]
 cover: https://i.imgur.com/MMIi9Th.jpg

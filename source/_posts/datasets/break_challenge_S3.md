@@ -1,6 +1,6 @@
 ---
 title: 突破挑戰（第三季）
-date: 2026-04-01 14:30:00
+date: 2026-01-01 03:03:03
 tags: 資料紀錄
 category: [遊戲資料,能力提升]
 cover: ../img/belphegor3/DLG_FARMING_GUIDE_BREAK_CHALLENGEITEM_3.PNG
