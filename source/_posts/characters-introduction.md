@@ -1,10 +1,11 @@
 ---
 
 title: 角色介紹
-date: 2024-04-27 00:25:52
+date: 
 tags: 
 cover: https://imgur.com/h86yNjWh.jpg
-description: "台版官網寫不完整，於是就自己來補一個了"
+description: "簡單的角色介紹這樣"
+sticky: 3
 ---
 
 ![](https://imgur.com/h86yNjW.png)
