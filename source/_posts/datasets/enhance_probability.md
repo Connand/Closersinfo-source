@@ -7,12 +7,11 @@ cover: /img/enhance/Enchant16.png
 description: ""
 ---
 
-來源為韓版官方公布的機率表：https://closers.nexon.com/News/Guide/List?n4ArticleCategorySN=4#today
+來源為韓版官方公布的[機率表](https://www.naddic.co.kr/ko/game/cls/probability/detail?contentNo=229)
 
 ### 公告中提到：
 - **<font color=#ef674d>所有機率均已通過遊戲記錄分析驗證，可正常運行。</font>**
 - **<font color=#ef674d>因為四捨五入到小數第二位會造成些許差異，總機率應為100%，但根據此表計算總機率不一定是100%。</font>**
-- **<font color=#ef674d>％ 標示到小數點第二位，比例到小數點第一位。(不清楚意思)</font>**
 
 <style>
 
@@ -65,8 +64,7 @@ description: ""
 </style>
 
 
-# <center>使用<font color=#ef674d>一般強化器燃料</font>時的機率表</center>
-<center>{% inlineImg /img/enhance/Enchant16.png 400px %}</center>
+# <center>機率表</center>
 
 {% note warning simple %}
 **<font color=red>注意：</font>**

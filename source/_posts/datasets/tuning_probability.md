@@ -7,7 +7,7 @@ cover: https://i.imgur.com/kELhpR7.png
 description: ""
 ---
 
-來源為韓版官方公布的機率表：https://www.naddic.co.kr/ko/game/cls/probability/detail?contentNo=152
+來源為韓版官方公布的[機率表](https://www.naddic.co.kr/ko/game/cls/probability/detail?contentNo=152)
 
 **公告中提到：**
 - **<font color=#ef674d>所有機率均已通過遊戲記錄分析驗證，可正常運行。</font>**
@@ -69,18 +69,6 @@ description: ""
 | C | 2.70% | 21.60% |
 
 ---
-
-# {% inlineImg https://i.imgur.com/nzsG6XL.png 64px %}特級D零件：裝備 (裝備EX~B)
-
-**只能對 95 等以上裝備使用**
-
-| 等級 | 機率 |
-| :-: | :-: |
-| EX | 0.85% |
-| SS | 1.70% |
-| S | 10.83% |
-| A | 32.48% |
-| B | 54.14% |
 
 # {% inlineImg https://i.imgur.com/uKEHaYr.png 64px %}一般D零件：裝備 (裝備S~C)
 
@@ -152,19 +140,38 @@ description: ""
 | A | 33.33% |
 | B | 55.56% |
 
-* 在重鑄選項中，以下能力組僅出現 S/A/B 等級
-
- - 能力組別在下方細節機率表中可以得知
- - 能力組
-   : 核心_能力組 4/9/10, 模組_能力組 1/3/4/5/6/7/8/9/12
-   : 護盾_能力組 3/5/7, 龍刑接收器以外的接收器_能力組 1/3/6/7
-
 # {% inlineImg https://i.imgur.com/iqfarPB.png 64px %}SS/S D零件：裝備 (裝備SS~S)
 
 | 等級 | 機率 |
 | :-: | :-: |
 | SS | 10.00% |
 | S | 90.00% |
+
+# {% inlineImg https://i.imgur.com/nzsG6XL.png 64px %}特級D零件：裝備 (裝備EX~B)
+
+**只能對 95 等以上裝備使用**
+
+| 等級 | 機率 |
+| :-: | :-: |
+| EX | 0.85% |
+| SS | 1.70% |
+| S | 10.83% |
+| A | 32.48% |
+| B | 54.14% |
+
+
+# {% inlineImg /img/tuning/HQ_153087_RESOURCE_ENCHANT.PNG 64px %}EX/SS D零件：裝備 (裝備EX~SS)
+
+**只能對 95 等以上裝備使用**
+
+| 等級 | 機率 |
+| :-: | :-: |
+| EX | 10.00% |
+| SS | 90.00% |
+
+
+---
+# 時裝
 
 # {% inlineImg https://i.imgur.com/zSb8Jle.png 64px %}一般D零件：時裝 (時裝S~C)
 
@@ -193,6 +200,19 @@ description: ""
 | B | 50.00% |
 | C | 37.00% |
 
+# {% inlineImg /img/tuning/HQ_153078_RESOURCE_ENCHANT.PNG 64px %}特級D零件：時裝 (時裝EX~B)
+
+**只能對 95 等以上時裝使用**
+
+| 等級 | 機率 |
+| :-: | :-: |
+| EX | 0.85% |
+| SS | 1.7% |
+| S | 10.83% |
+| A | 32.48% |
+| B | 54.14% |
+
+
 # {% inlineImg https://i.imgur.com/ljMDp7Y.png 64px %}S/A D零件：時裝 (時裝S~A)
 
 | 等級 | 機率 |
@@ -214,10 +234,8 @@ description: ""
 # NPC重鑄
 
 重鑄時，在100%範圍內不會出現其他槽位中已有的能力組
-原文：* 튜닝 시, 총 100% 확률 내에서 다른 슬롯에 출현한 그룹과 중복되지 않은 옵션이 출현함
 
 [必殺/技能] 如果不是對應角色的技能，則不會獲得，並根據機率表再次選取
-原文：* [결전기/스킬 옵션] 튜닝을 시도한 캐릭터 전용 스킬이 아닐 경우 해당 옵션은 부여되지 않으며, 확률에 따라 다시 옵션을 선택함
 
 **由於網頁上不好呈現，請下載Excel檔確認(尚未完成)：**[檔案下載](/data/重鑄機率.xlsx)
 
