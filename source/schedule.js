@@ -5,6 +5,8 @@ let hour= date.getHours(); // gethhours returns the hour (0-23)
   
 let boss_names = [
 "暗黑吉娜．葛蕾絲 (人類型)<img class=\"inline-img\" src=\"https://i.imgur.com/KOAPxLX.png\" style=\"height:32px\">",
+"暗黑吉娜．葛蕾絲 (人類型)<img class=\"inline-img\" src=\"https://i.imgur.com/KOAPxLX.png\" style=\"height:32px\">",
+"墮落的聖火菲尼克斯 (業火型)<img class=\"inline-img\" src=\"https://i.imgur.com/3FV9pDB.png\" style=\"height:32px\">",
 "墮落的聖火菲尼克斯 (業火型)<img class=\"inline-img\" src=\"https://i.imgur.com/3FV9pDB.png\" style=\"height:32px\">",
 ];
 //let mockStart = new Date("Sep 25, 2021 04:00:00");
