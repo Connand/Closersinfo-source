@@ -7,8 +7,10 @@ tags:
     - 緹娜
     - 沃爾夫姜
     - 露娜
+    - 銀河
     - 伊莉雅
     - 特莉絲
+    - 摩亞
 category: [時裝, 有立繪, 限定角色]
 cover: https://i.imgur.com/JFPbOOrh.png
 description: "Dimensional Mode"
@@ -51,11 +53,17 @@ description: "Dimensional Mode"
 <!-- tab 露娜(Luna)-->
 [![](https://i.imgur.com/mHuVIyjh.jpg)](https://i.imgur.com/mHuVIyj.jpg)
 <!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/pZPVfdm.jpeg)](https://i.imgur.com/pZPVfdm.jpeg)
+<!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/2G2vinRh.jpg)](https://i.imgur.com/2G2vinR.jpg)
 <!-- endtab -->
 <!-- tab 特莉絲(Triss)-->
 [![](https://i.imgur.com/cNgzW7Qh.jpg)](https://i.imgur.com/cNgzW7Q.jpg)
+<!-- endtab -->
+<!-- tab 摩亞(Mois)-->
+[![](https://i.imgur.com/VWTolmm.jpeg)](https://i.imgur.com/VWTolmm.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -74,11 +82,17 @@ description: "Dimensional Mode"
 <!-- tab 露娜(Luna)-->
 [![](https://i.imgur.com/rbzQx2lh.jpg)](https://i.imgur.com/rbzQx2l.jpg)
 <!-- endtab -->
+<!-- tab 銀河(Eunha)-->
+[![](https://i.imgur.com/A3l3NlG.jpeg)](https://i.imgur.com/A3l3NlG.jpeg)
+<!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/NttmIigh.jpg)](https://i.imgur.com/NttmIig.jpg)
 <!-- endtab -->
 <!-- tab 特莉絲(Triss)-->
 [![](https://i.imgur.com/Goasmm8h.jpg)](https://i.imgur.com/Goasmm8.jpg)
+<!-- endtab -->
+<!-- tab 摩亞(Mois)-->
+[![](https://i.imgur.com/2ptX6KM.jpeg)](https://i.imgur.com/2ptX6KM.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
