@@ -343,6 +343,11 @@ description: "晶片系統內容說明"
 |:-:|:-:|:-:|:-:|:-:|
 |{% inlineImg https://i.imgur.com/hpy8ddI.png 48px %}|100,000,000|4000 個|4000 個|100 個|
 
+|晶片| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} |- |
+|:-:|:-:|:-:|:-:|:-:|
+|{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|-|- 個|- 個|- 個|
+|{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|-|- 個|- 個|- 個|
+
 <!-- endtab -->
 {% endtabs %}
 
@@ -568,6 +573,24 @@ description: "晶片系統內容說明"
 |晶片|額外能力所需超頻等級|效果|
 |:-:|:-:|:-|
 |<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/hpy8ddI.png 48px %}|15|[固有] [及時閃避] 成功時，7秒後有30%機率再次發動 [及時閃避] 成功時效果
+
+<!-- endtab -->
+
+<!-- tab 巴爾突襲-->
+
+基礎能力
+
+|晶片|效果|
+|:-:|:-|
+|<font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|-
+|<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|-
+
+超頻額外能力
+
+|晶片|額外能力所需超頻等級|效果|
+|:-:|:-:|:-|
+|<font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|-|-
+|<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png  48px %}|-|-
 
 <!-- endtab -->
 
