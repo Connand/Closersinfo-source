@@ -39,7 +39,7 @@ description: "異形PNA系統介紹(Aberrant PNA)"
 |**貝爾菲格博士的大腦**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_BELPHEGOR.PNG 48px %}| 消耗 **[超載]** 對目標以 **3.1(<font color=red>4</font>)** 億的基礎值造成傷害。<br>註：非真實傷害，且受 **增傷/減傷/暴擊(含暴擊傷害抵抗)/條件** 影響。 **攻擊時獲得 [充能]。[充能] 達到 100 層時獲得 [超載]** 。 |
 |**霍德的和諧之風**<br>{% inlineImg /img/gear/paradise2/HQ_ICON_PNA_BOSS_HOD.PNG 48px %}| 使用 **[緊急閃避]** 後，60秒內超能爆發時傷害量增加 **5%(<font color=red>50%</font>)** 、攻擊速度增加 **1%(<font color=red>10%</font>)** 。 **[及時閃避]** 成功時， 7秒內效果增加2倍 |
 |**巴爾的隱藏視網膜**<br>{% inlineImg https://i.imgur.com/yzNHhDx.png 48px %}|獲得負面效果 **[黑暗]** ，終結技結束後對大範圍目標造成 **11(<font color=red>20</font>)** 億的等比例基礎值傷害。<br>註：非真實傷害，且受 **增傷/減傷/暴擊(含暴擊傷害抵抗)/條件** 影響。 **[黑暗]：受到傷害增加 20%（不疊加）**。 |
-|**貝爾基斯舞者的祝福**<br>{% inlineImg https://i.imgur.com/BPhisnT.png 48px %}|攻擊目標時，獲得 **[舞者的祝福]** (最多60層)，累積最大層數時，物理/魔法攻擊力增加 **500(<font color=red>5000</font>)** ，持續15秒<br>累計 **兩次** 最大層數時，物理/魔法攻擊力額外增加 **2%(<font color=red>20%</font>)** ，持續30秒|
+|**貝爾基斯舞者的祝福**<br>{% inlineImg https://i.imgur.com/BPhisnT.png 48px %}|攻擊目標時，獲得 **[舞者的祝福]** (最多60層)，累積最大層數時，物理/魔法攻擊力增加 **500(<font color=red>5000</font>)** ，持續15秒<br>累計 **兩次** 最大層數時，物理/魔法攻擊力額外增加 **2%(<font color=red>20%</font>)** ，持續30秒<br>在此效果持續期間，[舞者的祝福]無法疊加。|
 
 
 
@@ -61,6 +61,8 @@ description: "異形PNA系統介紹(Aberrant PNA)"
 |**吉娜·葛蕾絲的黑色狂風**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_ABYSS_JINAGRACE.PNG 48px %}| 仁川港：鉻鐵號必殺程式 |
 |**貝爾菲格博士的大腦**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_BELPHEGOR.PNG 48px %}| 突破挑戰：怠惰博士的密室 |
 |**霍德的和諧之風**<br>{% inlineImg /img/gear/paradise2/HQ_ICON_PNA_BOSS_HOD.PNG 48px %}| 樂園的蜃景 |
+|**巴爾的隱藏視網膜**<br>{% inlineImg https://i.imgur.com/yzNHhDx.png 48px %}|飢餓主人的宴會廳<br>飢餓君王的宴會廳
+|**貝爾基斯舞者的祝福**<br>{% inlineImg https://i.imgur.com/BPhisnT.png 48px %}|貧窮舞者的庇護所<br>墮落妃子的安息處
 {% endhideToggle %}
 
 ---
