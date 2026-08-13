@@ -36,10 +36,10 @@ description: "異形PNA系統介紹(Aberrant PNA)"
 |**莫爾塔小姐的生命切割**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_LADY_D.PNG 48px %}<br>**<font color=red>推薦(團隊)</font>**| 攻擊目標時，使目標 10 秒內目標暴擊傷害抵抗減少 **164%(<font color=red>200%</font>)** 。 |
 |**菲尼克斯的墮落之焰**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_PHENEX.PNG 48px %}<br>**<font color=red>推薦</font>**| 獲得負面效果 **[燒傷]** 。對隨機目標以 2 億的基礎值造成傷害。冷卻時間 **19.5(<font color=red>15</font>)** 秒。<br>註：非真實傷害，且受 **增傷/減傷/暴擊(含暴擊傷害抵抗)/條件** 影響。 **[燒傷]：每秒 HP 減少 2%（不疊加）**。 |
 |**吉娜·葛蕾絲的黑色狂風**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_ABYSS_JINAGRACE.PNG 48px %}<br>**<font color=red>推薦(征服項目)</font>**| 使用終極技能結束後，對大範圍敵人造成最大生命值 **4.1%(<font color=red>5%</font>)** 的傷害。<br>註：真實傷害。可受 **易傷(使敵人受到傷害增加)** 影響。 |
-|**貝爾菲格博士的大腦**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_BELPHEGOR.PNG 48px %}| 消耗 **[超載]** 對目標以 4 億的基礎值造成傷害。<br>註：非真實傷害，且受 **增傷/減傷/暴擊(含暴擊傷害抵抗)/條件** 影響。 **攻擊時獲得 [充能]。[充能] 達到 100 層時獲得 [超載]** 。 |
+|**貝爾菲格博士的大腦**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_BELPHEGOR.PNG 48px %}| 消耗 **[超載]** 對目標以 **3.1(<font color=red>4</font>)** 億的基礎值造成傷害。<br>註：非真實傷害，且受 **增傷/減傷/暴擊(含暴擊傷害抵抗)/條件** 影響。 **攻擊時獲得 [充能]。[充能] 達到 100 層時獲得 [超載]** 。 |
 |**霍德的和諧之風**<br>{% inlineImg /img/gear/paradise2/HQ_ICON_PNA_BOSS_HOD.PNG 48px %}| 使用 **[緊急閃避]** 後，60秒內超能爆發時傷害量增加 **5%(<font color=red>50%</font>)** 、攻擊速度增加 **1%(<font color=red>10%</font>)** 。 **[及時閃避]** 成功時， 7秒內效果增加2倍 |
-|**巴爾的隱藏視網膜**<br>{% inlineImg https://i.imgur.com/yzNHhDx.png 48px %}| - |
-|**貝爾基斯舞者的祝福**<br>{% inlineImg https://i.imgur.com/BPhisnT.png 48px %}| - |
+|**巴爾的隱藏視網膜**<br>{% inlineImg https://i.imgur.com/yzNHhDx.png 48px %}|獲得負面效果 **[黑暗]** ，終結技結束後對大範圍目標造成 **11(<font color=red>20</font>)** 億的等比例基礎值傷害。<br>註：非真實傷害，且受 **增傷/減傷/暴擊(含暴擊傷害抵抗)/條件** 影響。 **[黑暗]：受到傷害增加 20%（不疊加）**。 |
+|**貝爾基斯舞者的祝福**<br>{% inlineImg https://i.imgur.com/BPhisnT.png 48px %}|攻擊目標時，獲得 **[舞者的祝福]** (最多60層)，累積最大層數時，物理/魔法攻擊力增加 **500(<font color=red>5000</font>)** ，持續15秒<br>累計 **兩次** 最大層數時，物理/魔法攻擊力額外增加 **2%(<font color=red>20%</font>)** ，持續30秒|
 
 
 
