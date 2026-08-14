@@ -48,7 +48,7 @@ description: "巴爾團隊副本裝備資訊"
 
 |血量|暴擊傷害抵抗|減傷
 |:-:|:-:|:-:
-|億|%|%
+|10兆|3500%|30%
 
 {% endhideToggle %}
 
@@ -58,11 +58,11 @@ description: "巴爾團隊副本裝備資訊"
 |:-:|:-:|:-:|:-:|:-:|:-:
 |300,000,000|1~4人|食蟲型|無限制|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %} X14<br>{% inlineImg https://i.imgur.com/CP0QyTc.png 48px %}X1<br>每周一次|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %}{% inlineImg https://i.imgur.com/Vgy4btB.png 48px %}{% inlineImg https://i.imgur.com/1G7NK00.png 48px %}{% inlineImg https://i.imgur.com/9icaUMb.png 48px %}{% inlineImg https://i.imgur.com/4kmLC2r.png 48px %}<br><font color=red>**裝備皆為超滿狀態**</font>{% inlineImg  https://i.imgur.com/7o01uD5.png 48px %}{% inlineImg https://i.imgur.com/9AclTaA.png 48px %}{% inlineImg https://i.imgur.com/dSggZGR.png   48px %}
 
-{% hideToggle 副本血量 %}
+{% hideToggle 副本血量 %}   
 
 |血量|暴擊傷害抵抗|減傷
 |:-:|:-:|:-:
-|億|%|%
+|10兆|3500%|40%
 
 {% endhideToggle %}
 
@@ -78,7 +78,7 @@ description: "巴爾團隊副本裝備資訊"
 BOSS資訊：
 |血量|暴擊傷害抵抗|減傷
 |:-:|:-:|:-:
-|億|%|%
+|40兆+40兆|3800%|30%
 
 {% endhideToggle %}
 
@@ -92,10 +92,10 @@ BOSS資訊：
 {% hideToggle 副本血量與系統 %}
 
 BOSS資訊：
-|血量|暴擊傷害抵抗|減傷
-|:-:|:-:|:-:
-|億|%|%
-
+|BNOSS|血量|暴擊傷害抵抗|減傷
+|:-:|:-:|:-:|:-:
+|巴爾|40兆+40兆|3800%|40%
+|所羅門|2兆|3800%?|40%?
 
 {% endhideToggle %}
 
