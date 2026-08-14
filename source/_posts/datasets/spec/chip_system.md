@@ -343,10 +343,12 @@ description: "晶片系統內容說明"
 |:-:|:-:|:-:|:-:|:-:|
 |{% inlineImg https://i.imgur.com/hpy8ddI.png 48px %}|100,000,000|4000 個|4000 個|100 個|
 
-|晶片| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} | {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} |- |
+|晶片| {% inlineImg https://i.imgur.com/bRFx7v6.png 48px %} | {% inlineImg https://i.imgur.com/XSUcWuc.png 48px %} |  {% inlineImg https://i.imgur.com/uUaELFR.png 48px %} |{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %}|
 |:-:|:-:|:-:|:-:|:-:|
-|{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|-|- 個|- 個|- 個|
-|{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|-|- 個|- 個|- 個|
+|<font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|100,000,000|4000|4000|50
+|<font color=red>完美</font><font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|700,000,000|-|-|350
+|<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|200,000,000|8000|8000|100
+|<font color=red>完美</font><font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|1,400,000,000|-|-|700
 
 <!-- endtab -->
 {% endtabs %}
@@ -576,21 +578,25 @@ description: "晶片系統內容說明"
 
 <!-- endtab -->
 
-<!-- tab 巴爾突襲-->
+<!-- tab 巴爾團隊副本-->
 
 基礎能力
 
 |晶片|效果|
 |:-:|:-|
-|<font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|-
-|<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|-
+|<font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|物理/魔法爆擊傷害10%
+|<font color=red>完美</font><font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|物理/魔法爆擊傷害21%
+|<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|物理/魔法爆擊傷害100%
+|<font color=red>完美</font><font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|物理/魔法爆擊傷害120%
 
 超頻額外能力
 
 |晶片|額外能力所需超頻等級|效果|
 |:-:|:-:|:-|
-|<font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|-|-
-|<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png  48px %}|-|-
+|<font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|15|<font color=red>[唯一]</font>處於負面效果[黑暗]時物理/魔法攻擊+500
+|<font color=red>完美</font><font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|0|<font color=red>[唯一]</font>處於負面效果[黑暗]時物理/魔法攻擊+500
+|<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|0|-
+|<font color=red>完美</font><font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|0|-
 
 <!-- endtab -->
 

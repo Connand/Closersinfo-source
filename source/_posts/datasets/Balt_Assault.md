@@ -155,6 +155,18 @@ BOSS資訊：
 |**L7轉換**|-|2|-|
 |**<font color=red>史詩轉換</font>**|-|-|20|
 
+## 模組轉換
+
+- 於升級介面中使用
+- 消耗特定材料可以進行轉換
+- **<font color=red>史詩轉換</font>** 只能用於綁定模組，可交易模組無法使用
+
+|階數|{% inlineImg https://i.imgur.com/bRFx7v6.png 48px %}|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %}|{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %}|
+|:-:|:-:|:-:|:-:|
+|**L7轉換**|-|1|-|
+|**<font color=red>史詩轉換</font>**|-|-|10|
+
+
 ---
 
 > # 相關內容能力值
