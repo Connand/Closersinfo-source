@@ -70,7 +70,7 @@ description: "巴爾團隊副本裝備資訊"
 
 |推薦戰鬥力|建議人數|種族|復活次數|固定掉落道具|額外可掉落道具
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|400,000,000|建議4人|食蟲型|無限制| <font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %} x3<br>(使用buff可+1)|<font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %}<font color=red>**可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %}<font color=red>**一般**</font>{% inlineImg https://i.imgur.com/MU4sjfn.png 48px %}<font color=red>**完美**</font>{% inlineImg https://i.imgur.com/MU4sjfn.png 48px %}<br>{% inlineImg https://i.imgur.com/Kf5pxTs.png 48px %}{% inlineImg https://i.imgur.com/f1OVtSg.png 48px %}{% inlineImg https://i.imgur.com/jqaNdWq.png 48px %}{% inlineImg https://i.imgur.com/N2VLqxQ.png 48px %}<br>{% inlineImg  https://i.imgur.com/6HE2MXg.png 48px %}{% inlineImg https://i.imgur.com/S92zwzP.png 48px %}{% inlineImg https://i.imgur.com/IvJWrCk.png 48px %}{% inlineImg https://i.imgur.com/86tdNWv.png  48px %}
+|400,000,000|建議4人|食蟲型|無限制| <font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %} x2~4<br>(使用buff可+1)|<font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %}<font color=red>**可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %}<font color=red>**一般**</font>{% inlineImg https://i.imgur.com/MU4sjfn.png 48px %}<font color=red>**完美**</font>{% inlineImg https://i.imgur.com/MU4sjfn.png 48px %}<br>{% inlineImg https://i.imgur.com/Kf5pxTs.png 48px %}{% inlineImg https://i.imgur.com/f1OVtSg.png 48px %}{% inlineImg https://i.imgur.com/jqaNdWq.png 48px %}{% inlineImg https://i.imgur.com/N2VLqxQ.png 48px %}<br>{% inlineImg  https://i.imgur.com/6HE2MXg.png 48px %}{% inlineImg https://i.imgur.com/S92zwzP.png 48px %}{% inlineImg https://i.imgur.com/IvJWrCk.png 48px %}{% inlineImg https://i.imgur.com/86tdNWv.png  48px %}
 
 
 {% hideToggle 副本血量與系統 %}
@@ -86,7 +86,7 @@ BOSS資訊：
 
 |推薦戰鬥力|建議人數|種族|復活次數|固定掉落道具|額外可掉落道具
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|400,000,000|建議4人|食蟲型|無限制| <font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %} x3<br>(使用buff可+1)| <font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %}<font color=red>**可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %}<font color=red>**一般**</font>{% inlineImg https://i.imgur.com/1G7NK00.png 48px %}<font color=red>**完美**</font>{% inlineImg https://i.imgur.com/1G7NK00.png 48px %}<br>{% inlineImg https://i.imgur.com/Vgy4btB.png 48px %}{% inlineImg https://i.imgur.com/9icaUMb.png 48px %}{% inlineImg https://i.imgur.com/4kmLC2r.png 48px %}<br>{% inlineImg  https://i.imgur.com/6HE2MXg.png 48px %}{% inlineImg https://i.imgur.com/IvJWrCk.png 48px %}{% inlineImg https://i.imgur.com/hwaFcnP.png  48px %}
+|400,000,000|建議4人|食蟲型|無限制| <font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %} x2~4<br>(使用buff可+1)| <font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %}<font color=red>**可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %}<font color=red>**一般**</font>{% inlineImg https://i.imgur.com/1G7NK00.png 48px %}<font color=red>**完美**</font>{% inlineImg https://i.imgur.com/1G7NK00.png 48px %}<br>{% inlineImg https://i.imgur.com/Vgy4btB.png 48px %}{% inlineImg https://i.imgur.com/9icaUMb.png 48px %}{% inlineImg https://i.imgur.com/4kmLC2r.png 48px %}<br>{% inlineImg  https://i.imgur.com/6HE2MXg.png 48px %}{% inlineImg https://i.imgur.com/IvJWrCk.png 48px %}{% inlineImg https://i.imgur.com/hwaFcnP.png  48px %}
 
 
 {% hideToggle 副本血量與系統 %}
