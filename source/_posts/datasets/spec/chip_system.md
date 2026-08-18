@@ -528,11 +528,11 @@ description: "晶片系統內容說明"
 
 基礎能力
 
-|晶片|效果|
-|:-:|:-|
-|<font color=red>紅色</font><br>{% inlineImg /img/gear/chromite/HQ_41_NEW_CHIP.PNG 48px %}|物理/魔法暴擊傷害 +10%
-|黑色<br>{% inlineImg /img/gear/chromite/HQ_541_NEW_CHIP.PNG 48px %}|物理/魔法暴擊傷害 +10%
-|<font class="rainbow-text">鉑金</font><br>{% inlineImg /img/gear/chromite/HQ_1401_CHIP.PNG 48px %}|物理/魔法攻擊力 +150<br>空中/背擊/浮空暴擊傷害 +35%
+|晶片|可裝備部位|效果|
+|:-:|:-:|:-:|
+|<font color=red>紅色</font><br>{% inlineImg /img/gear/chromite/HQ_41_NEW_CHIP.PNG 48px %}|護盾、接收器、模組|物理/魔法暴擊傷害 +10%
+|黑色<br>{% inlineImg /img/gear/chromite/HQ_541_NEW_CHIP.PNG 48px %}|護盾、接收器、模組|物理/魔法暴擊傷害 +10%
+|<font class="rainbow-text">鉑金</font><br>{% inlineImg /img/gear/chromite/HQ_1401_CHIP.PNG 48px %}|模組|物理/魔法攻擊力 +150<br>空中/背擊/浮空暴擊傷害 +35%
 
 超頻額外能力
 
@@ -547,9 +547,9 @@ description: "晶片系統內容說明"
 
 基礎能力
 
-|晶片|效果|
-|:-:|:-|
-|<font color=#aa0>黃色</font><br>{% inlineImg /img/belphegor3/HQ_241_NEW_CHIP.PNG 48px %}{% inlineImg /img/belphegor3/HQ_242_NEW_CHIP.PNG 48px %}{% inlineImg /img/belphegor3/HQ_243_NEW_CHIP.PNG 48px %}|物理/魔法暴擊傷害 +10%
+|晶片|可裝備部位|效果|
+|:-:|:-:|:-:|
+|<font color=#aa0>黃色</font><br>{% inlineImg /img/belphegor3/HQ_241_NEW_CHIP.PNG 48px %}{% inlineImg /img/belphegor3/HQ_242_NEW_CHIP.PNG 48px %}{% inlineImg /img/belphegor3/HQ_243_NEW_CHIP.PNG 48px %}|護盾、接收器、模組|物理/魔法暴擊傷害 +10%
 
 超頻額外能力
 - 備註：請參考 [覺醒PNA](/datasets/spec/awakenPNA/#%E5%85%85%E8%83%BD)關於[充電]、[過充]相關說明
@@ -566,9 +566,9 @@ description: "晶片系統內容說明"
 
 基礎能力
 
-|晶片|效果|
-|:-:|:-|
-|<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/hpy8ddI.png 48px %}|物理/魔法暴擊傷害 +10%
+|晶片|可裝備部位|效果|
+|:-:|:-:|:-:|
+|<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/hpy8ddI.png 48px %}|護盾、接收器、模組|物理/魔法暴擊傷害 +10%
 
 超頻額外能力
 
@@ -582,12 +582,12 @@ description: "晶片系統內容說明"
 
 基礎能力
 
-|晶片|效果|
-|:-:|:-|
-|<font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|物理/魔法爆擊傷害10%
-|<font color=red>完美</font><font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|物理/魔法爆擊傷害21%
-|<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|物理/魔法爆擊傷害100%
-|<font color=red>完美</font><font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|物理/魔法爆擊傷害120%
+|晶片|可裝備部位|效果|
+|:-:|:-:|:-:|
+|<font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|護盾、接收器、模組|物理/魔法爆擊傷害10%
+|<font color=red>完美</font><font color=purple>紫色</font><br>{% inlineImg https://i.imgur.com/MmZ5aXH.png 48px %}|護盾、接收器、模組|物理/魔法爆擊傷害21%
+|<font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|圓盤|物理/魔法爆擊傷害100%
+|<font color=red>完美</font><font color=green>綠色</font><br>{% inlineImg https://i.imgur.com/gb7JoZa.png 48px %}|圓盤|物理/魔法爆擊傷害120%
 
 超頻額外能力
 

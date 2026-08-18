@@ -58,6 +58,14 @@ description: "巴爾團隊副本裝備資訊"
 |:-:|:-:|:-:|:-:|:-:|:-:
 |300,000,000|1~4人|食蟲型|無限制|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %} X14<br>{% inlineImg https://i.imgur.com/CP0QyTc.png 48px %}X1<br>每周一次|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %}{% inlineImg https://i.imgur.com/Vgy4btB.png 48px %}{% inlineImg https://i.imgur.com/1G7NK00.png 48px %}{% inlineImg https://i.imgur.com/9icaUMb.png 48px %}{% inlineImg https://i.imgur.com/4kmLC2r.png 48px %}<br><font color=red>**裝備皆為超滿狀態**</font>{% inlineImg  https://i.imgur.com/7o01uD5.png 48px %}{% inlineImg https://i.imgur.com/9AclTaA.png 48px %}{% inlineImg https://i.imgur.com/dSggZGR.png   48px %}
 
+ <font color=red>**副本特殊機制**</font>
+|圖示|效果|持續時間|冷卻時間|
+|:-:|:-:|:-:|:-:
+|{% inlineImg https://i.imgur.com/OXg8Sl8.png   48px %}胃酸|每秒受到持續傷害(最多疊加30次)|9999秒|-
+|{% inlineImg https://i.imgur.com/G8jnjgq.png   48px %}盲目|受到傷害增加5%(最多疊加20次)|9999秒|-
+|{% inlineImg https://i.imgur.com/axO9gvL.png   48px %}虛乏|-|-|-
+|{% inlineImg https://i.imgur.com/9uAe4qO.png   48px %}慧眼|立即解除[胃酸]、[盲目]、[虛乏]負面效果，並恢復HP|-|60秒
+
 {% hideToggle 副本血量 %}   
 
 |血量|暴擊傷害抵抗|減傷
@@ -88,6 +96,13 @@ BOSS資訊：
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |400,000,000|建議4人|食蟲型|無限制| <font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %} x2~4<br>(使用buff可+1)| <font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %}<font color=red>**可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %}<font color=red>**一般**</font>{% inlineImg https://i.imgur.com/1G7NK00.png 48px %}<font color=red>**完美**</font>{% inlineImg https://i.imgur.com/1G7NK00.png 48px %}<br>{% inlineImg https://i.imgur.com/Vgy4btB.png 48px %}{% inlineImg https://i.imgur.com/9icaUMb.png 48px %}{% inlineImg https://i.imgur.com/4kmLC2r.png 48px %}<br>{% inlineImg  https://i.imgur.com/6HE2MXg.png 48px %}{% inlineImg https://i.imgur.com/IvJWrCk.png 48px %}{% inlineImg https://i.imgur.com/hwaFcnP.png  48px %}
 
+ <font color=red>**副本特殊機制**</font>
+|圖示|效果|持續時間|冷卻時間|
+|:-:|:-:|:-:|:-:
+|{% inlineImg https://i.imgur.com/OXg8Sl8.png   48px %}胃酸|每秒受到持續傷害(最多疊加30次)|9999秒|-
+|{% inlineImg https://i.imgur.com/G8jnjgq.png   48px %}盲目|受到傷害增加5%(最多疊加20次)|9999秒|-
+|{% inlineImg https://i.imgur.com/axO9gvL.png   48px %}虛乏|-|-|-
+|{% inlineImg https://i.imgur.com/9uAe4qO.png   48px %}慧眼|立即解除[胃酸]、[盲目]、[虛乏]負面效果，並恢復HP|-|60秒
 
 {% hideToggle 副本血量與系統 %}
 
@@ -238,11 +253,11 @@ PLV: 240(傳說)/285(史詩)
 <tr>
     <td rowspan = "2" align="center"><strong>藏書</strong><br></td>
     <td align="left">{% inlineImg https://i.imgur.com/7o01uD5.png 40px %}<strong>盲目的侵蝕</strong></td>
-    <td align="left">打擊時，10 秒內目標的暴擊傷害抗性減少 200%</td>
+    <td align="left"><font color=purple>DEBUFF：黑暗受到傷害增加 20%(不疊加)</font><br>打擊時，10 秒內目標的暴擊傷害抗性減少 200%</td>
 </tr>
 <tr>
     <td align="left">{% inlineImg https://i.imgur.com/6HE2MXg.png 40px %}<strong><font color=red>巴爾的暴食</font></strong></td>
-    <td align="left">使用必殺技時，對周圍敵人造成與 1 億能力值成正比的傷害</td>
+    <td align="left"><font color=purple>DEBUFF：黑暗受到傷害增加 20%(不疊加)</font><br>使用必殺技時，對周圍敵人造成與 1 億能力值成正比的傷害</td>
 </tr>
 
 <tbody>
@@ -353,12 +368,12 @@ PLV: 240(傳說)/285(史詩)
 
 ## 晶片
 
-|晶片|開啟等級|能力|掉落地點
-|:-:|:-:|:-:|:-:|
-|{% inlineImg https://i.imgur.com/DV3SFn3.png 48px %}|0|效果一：物理爆擊傷害100%<br>效果二：魔法爆擊傷害100%|貧窮舞者的庇護所
-|{% inlineImg https://i.imgur.com/xU9hWTj.png 48px %}|15<br>(以15等為例)|效果一：物理爆擊傷害16.5%<br>效果二：魔法爆擊傷害16.5%<br>特殊效果：<font color=red>**[唯一]**</font> 處於負面效果[黑暗]時物理/魔法攻擊+500|飢餓主人的宴會廳
-|<font color=red>**完美**</font>{% inlineImg https://i.imgur.com/DV3SFn3.png 48px %}|0|效果一：物理爆擊傷害120%<br>效果二：魔法爆擊傷害120%|貧窮舞者的庇護所<br>墮落妃子的安息處
-|<font color=red>**完美**</font>{% inlineImg https://i.imgur.com/xU9hWTj.png 48px %}|0|效果一：物理爆擊傷害21%<br>效果二：魔法爆擊傷害21%<br>特殊效果：<font color=red>**[唯一]**</font> 處於負面效果[黑暗]時物理/魔法攻擊+500|飢餓主人的宴會廳<br>飢餓君王的宴會廳
+|晶片|裝備部位|額外能力所需超頻等級|能力|掉落地點
+|:-:|:-:|:-:|:-:|:-:|
+|{% inlineImg https://i.imgur.com/DV3SFn3.png 48px %}|圓盤|0|效果一：物理爆擊傷害100%<br>效果二：魔法爆擊傷害100%|貧窮舞者的庇護所
+|{% inlineImg https://i.imgur.com/xU9hWTj.png 48px %}|模組、接收器、護盾|15<br>(以15等為例)|效果一：物理爆擊傷害16.5%<br>效果二：魔法爆擊傷害16.5%<br>特殊效果：<font color=red>**[唯一]**</font> 處於負面效果[黑暗]時物理/魔法攻擊+500|飢餓主人的宴會廳
+|<font color=red>**完美**</font>{% inlineImg https://i.imgur.com/DV3SFn3.png 48px %}|圓盤|0|效果一：物理爆擊傷害120%<br>效果二：魔法爆擊傷害120%|貧窮舞者的庇護所<br>墮落妃子的安息處
+|<font color=red>**完美**</font>{% inlineImg https://i.imgur.com/xU9hWTj.png 48px %}|模組、接收器、護盾|0|效果一：物理爆擊傷害21%<br>效果二：魔法爆擊傷害21%<br>特殊效果：<font color=red>**[唯一]**</font> 處於負面效果[黑暗]時物理/魔法攻擊+500|飢餓主人的宴會廳<br>飢餓君王的宴會廳
 
 
 ## PNA

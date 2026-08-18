@@ -61,8 +61,8 @@ description: "異形PNA系統介紹(Aberrant PNA)"
 |**吉娜·葛蕾絲的黑色狂風**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_ABYSS_JINAGRACE.PNG 48px %}| 仁川港：鉻鐵號必殺程式 |
 |**貝爾菲格博士的大腦**<br>{% inlineImg /img/PNA/HQ_ICON_PNA_BOSS_BELPHEGOR.PNG 48px %}| 突破挑戰：怠惰博士的密室 |
 |**霍德的和諧之風**<br>{% inlineImg /img/gear/paradise2/HQ_ICON_PNA_BOSS_HOD.PNG 48px %}| 樂園的蜃景 |
-|**巴爾的隱藏視網膜**<br>{% inlineImg https://i.imgur.com/yzNHhDx.png 48px %}|飢餓主人的宴會廳<br>飢餓君王的宴會廳
-|**貝爾基斯舞者的祝福**<br>{% inlineImg https://i.imgur.com/BPhisnT.png 48px %}|貧窮舞者的庇護所<br>墮落妃子的安息處
+|**巴爾的隱藏視網膜**<br>{% inlineImg https://i.imgur.com/yzNHhDx.png 48px %}|巴爾團隊副本
+|**貝爾基斯舞者的祝福**<br>{% inlineImg https://i.imgur.com/BPhisnT.png 48px %}|巴爾團隊副本
 {% endhideToggle %}
 
 ---
