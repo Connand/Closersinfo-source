@@ -1,6 +1,6 @@
 ---
 title: 強化與晶片機率表
-date: 
+date: 2020-03-03
 tags: 資料紀錄
 category: [遊戲資料,機率資料]
 cover: /img/enhance/Enchant16.png
