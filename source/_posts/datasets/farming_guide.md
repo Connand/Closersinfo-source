@@ -1,6 +1,6 @@
 ---
 title: 日常農本與製作指南
-date: 
+date: 2020-01-01
 tags: 
   - 農夫
   - 資料紀錄
@@ -8,7 +8,7 @@ tags:
 category: [遊戲資料,新手指南]
 cover: /img/new_ret_tip/icon_14.png
 description: "轉移特輯分支：封肝者日常"
-sticky: 1
+sticky: 
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: 異形PNA
-date: 2025-08-02 14:53:56
+date: 2026-01-01 14:53:56
 tags: 資料紀錄
 category: [遊戲資料,PNA]
 cover: /img/PNA/irrPNA_slot.png

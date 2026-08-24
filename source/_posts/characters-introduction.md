@@ -1,11 +1,11 @@
 ---
 
 title: 角色介紹
-date: 
+date: 2020-01-01
 tags: 
 cover: https://imgur.com/h86yNjWh.jpg
 description: "簡單的角色介紹這樣"
-sticky: 3
+sticky: 
 ---
 
 ![](https://imgur.com/h86yNjW.png)

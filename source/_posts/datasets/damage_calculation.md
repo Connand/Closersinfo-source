@@ -1,6 +1,6 @@
 ---
 title: 傷害公式與暴抗表
-date: 
+date: 2020-01-01
 tags: 資料紀錄
 category: [遊戲資料,其他]
 cover: /img/HQ_JUDGE_TRUE_DAMAGE.png

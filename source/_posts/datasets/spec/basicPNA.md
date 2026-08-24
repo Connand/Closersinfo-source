@@ -1,127 +1,57 @@
 ---
 title: 基礎與特殊PNA
-date: 2019-04-01 11:54:31
+date: 2026-03-03 11:54:31
 tags: 資料紀錄
 category: [遊戲資料,PNA]
 cover: /img/PNA/HQ_PNA_SPECIAL_ATT.PNG
 description: "最基本的PNA說明"
 ---
 
-> **<div style="text-align:center"><font size=3 color=red>此文大部分內容已經因[PNA整合]()而失效<br>以下內容僅供參考</font></div>**
-
-{% inlineImg /img/PNA/icon_01.png 64px %}{% inlineImg /img/PNA/icon_02.png 64px %}{% inlineImg /img/PNA/icon_03.png 64px %}
-
-# 開啟方式
-
-- 基礎PNA：進入 **<平原之門>** 時即可解鎖
-- 特殊PNA： **<格莫瑞中央研究室 [高級課程]>** 前置任務完成 (約75等)
+> <font color=red>**因PNA相關改版，可由上方的空中、浮空、背擊一鍵裝備<br>可依照角色需求判定做選擇**<br></font>
 
 ---
 
-# 基礎PNA建議組合
+# 攻擊因數
 
-**<font color=red>紅色標記</font>** 基本上固定不變，其餘可以調整
-
-|分類|攻擊|防禦|輔助
-|:-:|:-:|:-:|:-:
-|{% inlineImg /img/PNA/icon_01.png 50px %}排列因數|**<font color=red>總攻擊力</font>**|最大生命值|移動速度(%) / 最大魔法值
-|{% inlineImg /img/PNA/icon_02.png 50px %}結合因數|防禦穿透率|總防禦力|超能爆發時增加傷害
-|{% inlineImg /img/PNA/icon_03.png 50px %}變異因數|**<font color=red>條件爆擊傷害</font>**|最大生命值|超能爆發時增加傷害
-
----
-
-# 特殊PNA建議組合
-
-特殊PNA的擺法基本上是固定的組合，只有**緹娜**會用浮空來替代空中的PNA
-
-- **徐維莉**由於被動互補的特性，可以使用具有雙暴傷 {% inlineImg /img/PNA/HQ_PNA_SPECIAL_SUP.PNG 50px %}捕獲弱點 取代 空中戰士 會增加較多的暴傷
-- 需要攻速時，可以使用 {% inlineImg /img/PNA/HQ_PNA_SPECIAL_ARM.PNG 50px %}強化攻速 取代 空中戰士
-
-|第一格|第二格|第三格
-|:-:|:-:|:-:
-|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_ATT.PNG 50px %}武器親和力|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC.PNG 50px %}跑動射擊|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC_2.PNG 50px %}空中戰士(其餘)<br>{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC_1.PNG 50px %}極速浮空 (**緹娜**)
-
----
-
-# 強化
-
-**基礎PNA**的強化使用 **<font color=#880>強化材料</font>** ，必定成功
-**特殊PNA**的強化使用 **<font color=#0aa>進化材料</font>** ，成功率隨等級不同
-
-強化特殊PNA時，可以使用{% inlineImg /img/PNA/HQ_154036_SUPPLEMENT_PNA_1.PNG 50px %}來降低材料量、強化費用0以及增加成功率
-
-<div class="container">
-
-<div class="childDiv">
-
-## 基礎PNA強化材料
-**註：此表為初始數值，遊戲內數值已經調降過**
-
-|因數等級|所需PNA等級|<font color=#880>強化材料</font>|金幣
-|:-:|:-:|:-:|:-:
-|{% inlineImg /img/PNA/icon_01.png 30px %}Lv. 1|1|90|464,000
-|{% inlineImg /img/PNA/icon_01.png 30px %}Lv. 2|5|130|720,000
-|{% inlineImg /img/PNA/icon_01.png 30px %}Lv. 3|10|170|1,104,000
-|{% inlineImg /img/PNA/icon_01.png 30px %}Lv. 4|20|300|1,704,000
-|{% inlineImg /img/PNA/icon_01.png 30px %}Lv. 5|40|770|2,400,000
-|{% inlineImg /img/PNA/icon_02.png 30px %}Lv. 1|1|110|580,000
-|{% inlineImg /img/PNA/icon_02.png 30px %}Lv. 2|5|160|900,000
-|{% inlineImg /img/PNA/icon_02.png 30px %}Lv. 3|10|210|1,380,000
-|{% inlineImg /img/PNA/icon_02.png 30px %}Lv. 4|20|380|2,130,000
-|{% inlineImg /img/PNA/icon_02.png 30px %}Lv. 5|40|960|3,000,000
-|{% inlineImg /img/PNA/icon_03.png 30px %}Lv. 1|1|180|928,000
-|{% inlineImg /img/PNA/icon_03.png 30px %}Lv. 2|5|260|1,440,000
-|{% inlineImg /img/PNA/icon_03.png 30px %}Lv. 3|10|340|2,208,000
-|{% inlineImg /img/PNA/icon_03.png 30px %}Lv. 4|20|590|3,308,000
-|{% inlineImg /img/PNA/icon_03.png 30px %}Lv. 5|40|1540|4,800,000
-</div>
-<div class="childDiv">
-
-## 特殊PNA強化材料
-<br>
-
-|因數等級|所需PNA等級|<font color=#0aa>進化材料</font>|金幣|成功率
+|分類|物/魔攻擊力|總物/魔攻擊力|物/魔爆擊傷害|攻擊速度
 |:-:|:-:|:-:|:-:|:-:
-|1|41|100|100,000|90%
-|2|42|110|112,000|85%
-|3|43|120|125,000|80%
-|4|44|130|140,000|75%
-|5|45|140|157,000|70%
-|6|46|150|176,000|75%
-|7|47|170|197,000|80%
-|8|48|190|221,000|95%
-|9|49|210|248,000|80%
-|10|50|460|556,000|50%
-|11|51|250|314,000|70%
-|12|52|280|355,000|65%
-|13|53|310|401,000|70%
-|14|54|340|453,000|75%
-|15|55|370|512,000|80%
-|16|56|410|579,000|75%
-|17|57|450|654,000|70%
-|18|58|500|739,000|65%
-|19|59|550|835,000|60%
-|20|60|1220|1,888,000|30%
-|21|61|700|1,104,000|70%
-|22|62|800|1,292,000|75%
-|23|63|900|1,512,000|70%
-|24|64|1000|1,769,000|65%
-|25|65|1100|2,070,000|60%
-|26|66|1200|2,422,000|55%
-|27|67|1300|2,833,000|50%
-|28|68|1400|3,314,000|45%
-|29|69|1500|3,877,000|40%
-|30|70|?|?|?
-|31|70|?|?|?
-|32|70|?|?|?
-|33|70|?|?|?
-|34|70|?|?|?
-</div>
-
-
-</div>
+|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_SUP.PNG 50px %}捕獲弱點|300|22%|50%|-
+|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_ATT.PNG 50px %}武器親和力|300|22%|25%|15%
+|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_ARM.PNG 50px %}強化速攻|300|22%|-|25%
 
 ---
+
+# 相應因數
+
+|分類|傷害量|爆擊率|爆擊傷害|穿透率
+|:-:|:-:|:-:|:-:|:-:
+|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC_2.PNG 50px %}空中戰士|<font color=blue>**空中**<br></font>20%|<font color=blue>**空中**<br></font>100%|<font color=blue>**空中**<br></font>55%|<font color=blue>**空中**<br></font>100%
+|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC_1.PNG 50px %}極速浮空|<font color=orange>**浮空**<br></font>20%|<font color=orange>**浮空**<br></font>100%|<font color=orange>**浮空**<br></font>55%|<font color=orange>**浮空**<br></font>100%
+|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_TEC.PNG 50px %}跑動射擊|<font color=purple>**背擊**<br></font>20%|<font color=purple>**背擊**<br></font>100%|<font color=purple>**背擊**<br></font>55%|<font color=purple>**背擊**<br></font>100%
+
+---
+
+# 防禦因數
+
+|分類|增加最大生命值|最大生命值|物/魔防禦力|總物/魔防禦力|移動速度|移動速度(%)
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_DEF_1.PNG 50px %}HP增幅|7000|65%|-|20%|500|45%
+|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_DEF.PNG 50px %}痛苦適應力|-|65%|2500|20%|500|45%
+
+
+---
+
+# 輔助因數
+
+|分類|增加最大魔法值|最大魔法值|技能冷卻時間|超能爆發持續時間|降低技能資源消耗|追加金幣|追加獲得道具
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_MAG_1.PNG 50px %}MP增幅|1500|60%|40%|-|40%|-|-|
+|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_MAG.PNG 50px %}力量持續|-|-|40%|25秒|40%|-|-
+|{% inlineImg /img/PNA/HQ_PNA_SPECIAL_MAG_2.PNG 50px %}收集術|-|-|40%|-|40%|50%|50%
+
+---
+
+
 
 <style>
     .container {

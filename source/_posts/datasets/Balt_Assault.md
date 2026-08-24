@@ -1,6 +1,6 @@
 ---
 title: 巴爾團隊副本裝備資訊
-date: 2026-08-04 16:09:00
+date: 2026-09-10 16:09:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
 cover: https://i.imgur.com/I2hD0vF.png
@@ -63,7 +63,7 @@ description: "巴爾團隊副本裝備資訊"
 |:-:|:-:|:-:|:-:
 |{% inlineImg https://i.imgur.com/OXg8Sl8.png   48px %}胃酸|每秒受到持續傷害(最多疊加30次)|9999秒|-
 |{% inlineImg https://i.imgur.com/G8jnjgq.png   48px %}盲目|受到傷害增加5%(最多疊加20次)|9999秒|-
-|{% inlineImg https://i.imgur.com/axO9gvL.png   48px %}虛乏|-|-|-
+|{% inlineImg https://i.imgur.com/axO9gvL.png   48px %}虛乏|總HP-30%(最多疊加10)|<font color=red>**無持續時間<br>(復活不解除，僅可靠慧眼解除)**</font>|-
 |{% inlineImg https://i.imgur.com/9uAe4qO.png   48px %}慧眼|立即解除[胃酸]、[盲目]、[虛乏]負面效果，並恢復HP|-|60秒
 
 {% hideToggle 副本血量 %}   
@@ -101,7 +101,7 @@ BOSS資訊：
 |:-:|:-:|:-:|:-:
 |{% inlineImg https://i.imgur.com/OXg8Sl8.png   48px %}胃酸|每秒受到持續傷害(最多疊加30次)|9999秒|-
 |{% inlineImg https://i.imgur.com/G8jnjgq.png   48px %}盲目|受到傷害增加5%(最多疊加20次)|9999秒|-
-|{% inlineImg https://i.imgur.com/axO9gvL.png   48px %}虛乏|-|-|-
+|{% inlineImg https://i.imgur.com/axO9gvL.png   48px %}虛乏|總HP-30%(最多疊加10)|<font color=red>**無持續時間<br>(復活不解除，僅可靠慧眼解除)**</font>|-
 |{% inlineImg https://i.imgur.com/9uAe4qO.png   48px %}慧眼|立即解除[胃酸]、[盲目]、[虛乏]負面效果，並恢復HP|-|60秒
 
 {% hideToggle 副本血量與系統 %}

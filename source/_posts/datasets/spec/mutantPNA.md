@@ -1,6 +1,6 @@
 ---
-title: 變異PNA(過時)
-date: 2021-09-07 11:54:31
+title: 變異PNA(已移除)
+date: 2020-09-07 11:54:31
 tags: 資料紀錄
 category: [遊戲資料,PNA]
 cover: https://i.imgur.com/wHiKj7qh.png

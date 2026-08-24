@@ -1,6 +1,6 @@
 ---
 title: 裝備等級與品級
-date: 
+date: 2020-01-01
 tags: 資料紀錄
 category: [遊戲資料,其他]
 cover: /img/material/gearquality_refresh.png

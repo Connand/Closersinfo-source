@@ -1,5 +1,5 @@
 ---
-title: 增幅PNA
+title: 增幅PNA(已移除)
 date: 2020-09-07 11:54:31
 tags: 資料紀錄
 category: [遊戲資料,PNA]
