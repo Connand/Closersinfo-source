@@ -23,7 +23,7 @@ description: "A+ Varsity"
 
 **注意**：立繪僅分一般和特殊，模組分型
 
-部位：髮型、上衣、下衣、手套、鞋子、{% label (普通立繪) green %}、{% label 特效(特殊立繪) green %}
+部位：髮型、上衣、下衣、手套、鞋子、{% label 背部(書包)(普通立繪) green %}、{% label 特效(特殊立繪) green %}
 
 [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://landing.naddic.co.kr/Images/cms/happycode/20260825/1787644005248.zip)
