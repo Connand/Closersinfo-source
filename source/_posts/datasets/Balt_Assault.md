@@ -198,8 +198,8 @@ PLV: 270(傳說) / 285(史詩)
 
 |詞條|傳說|<font color=red>史詩</font>
 |:-|:-:|:-:
-|**基礎攻擊力(基礎數值)**<br>藏書<br>鐮刀<br>牙齒|<br>7750<br>5750<br>6750|<br>8500<br>6500<br>7500
-|**<font color=red>基礎攻擊力(100%)</font><br>藏書<br>鐮刀<br>牙齒**|<br>11250<br>8346<br>9800|<br>12338<br>9435<br>10886
+|**基礎攻擊力(基礎數值)**<br>藏書<br>鐮刀<br>牙齒|<br>7750<font color=red>平衡後</font>9500<br>5750<font color=red>平衡後</font>7500<br>6750<font color=red>平衡後</font>7500|<br>8500<br>6500<br>7500<font color=red>平衡後</font>9250
+|**<font color=red>基礎攻擊力(100%)</font><br>藏書<br>鐮刀<br>牙齒**|<br>11250<font color=red>平衡後</font>13789<br>8346<font color=red>平衡後</font>10886<br>9800<font color=red>平衡後</font>10886|<br>12338<br>9435<br>10886<font color=red>平衡後</font>13426
 |**攻擊速度**<br>藏書<br>鐮刀<br>牙齒|<br>0.80<br>1.2<br>1.0|<br>0.80<br>1.2<br>1.0
 |**物理/魔法爆擊傷害**<br>藏書<br>鐮刀<br>牙齒|<br>280%<br>260%<br>270%|<br>310%<br>290%<br>300%
 |**空中/背擊/浮空暴擊傷害**<br>藏書<br>鐮刀<br>牙齒|<br>140%<br>130%<br>135%|<br>155%<br>145%<br>150%
@@ -275,7 +275,7 @@ PLV: 240(傳說)/285(史詩)
 <tr>
     <td rowspan = "2" align="center"><strong>牙齒</strong><br></td>
     <td align="left">{% inlineImg https://i.imgur.com/9AclTaA.png 40px %}<strong>君主的暴食</strong></td>
-    <td align="left">每 10 秒物理/魔法攻擊力增加 300、暴擊傷害增加 30%。（最多可疊加 8 層）</td>
+    <td align="left">每 10 秒物理/魔法攻擊力增加 300、暴擊傷害增加 30%。（最多可疊加 8 層）<br>每 7 秒物理/魔法攻擊力增加 300、暴擊傷害增加 30%。(最多可疊加 8 層)  <font color=red>平衡後</font></td>
 </tr>
 <tr>
     <td align="left">{% inlineImg https://i.imgur.com/IvJWrCk.png 40px %}<strong><font color=red>巴爾的餐桌</font></strong></td>
