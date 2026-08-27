@@ -293,31 +293,46 @@ description: "晶片系統內容說明"
 - **<font size=5>{% inlineImg /img/chip/T3_color.png 50px %} T3顏色晶片</font>**
 |製作方法|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
 |:-:|:-:|:-:
-|單片|{% inlineImg /img/chip/T2_color.png 40px %}x30 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x10 |1,500,000
-
+|方法1|{% inlineImg /img/chip/T2_color.png 40px %} x10 +{% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x50 |1,500,000
+|方法2|{% inlineImg /img/chip/chip_origin.png 40px %} x5 +{% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x50 |1,500,000
 
 - **<font size=5>{% inlineImg /img/chip/T4_color.png 50px %} T4顏色晶片</font>**
 |製作方法|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
 |:-:|:-:|:-:
-|單片|{% inlineImg /img/chip/T3_color.png 40px %}x15 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x100 |15,000,000
+|方法1|{% inlineImg /img/chip/T3_color.png 40px %}x15 + {% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x100 |15,000,000
+|方法2|{% inlineImg /img/chip/chip_origin.png 40px %} x75 +{% inlineImg https://i.imgur.com/XSUcWuc.png 40px %}x850 |37,500,000
 
 
 
 <!-- endtab -->
 
 <!-- tab <b><font class="rainbow-text">鉑金晶片</font></b>-->
-|晶片|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}|
-|:-:|:-:|:-:|
-|T1鉑金{% inlineImg /img/chip/T1_platinum.png 40px %}|原始晶片{% inlineImg /img/chip/chip_origin.png 40px %}x6|0|
-|T2鉑金{% inlineImg /img/chip/T2_platinum.png 40px %}<br>方法1|T1鉑金{% inlineImg /img/chip/T1_platinum.png 40px %}x5|10,000,000|
+
+- **<font size=5>{% inlineImg /img/chip/T1_platinum.png 50px %} T1鉑金</font>**
+|製作方法|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
+|:-:|:-:|:-:
+|方法1|{% inlineImg /img/chip/chip_origin.png 40px %}x6 |0
+
+- **<font size=5>{% inlineImg /img/chip/T2_platinum.png 50px %} T2鉑金</font>**
+|製作方法|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
+|:-:|:-:|:-:
+|方法1|T1鉑金{% inlineImg /img/chip/T1_platinum.png 40px %}x5|10,000,000|
 |方法2|{% inlineImg https://i.imgur.com/vksLaau.png 40px %}x24|2,500,000|
-|T3鉑金{% inlineImg /img/chip/T3_platinum.png 40px %}|T2鉑金{% inlineImg /img/chip/T2_platinum.png 40px %}x5|30,000,000|
-|T4鉑金{% inlineImg /img/chip/T4_platinum.png 40px %}|T3鉑金{% inlineImg /img/chip/T3_platinum.png 40px %}x5|40,000,000|
+|方法3|{% inlineImg /img/chip/chip_origin.png 48px %}x30 |10,000,000
+
+- **<font size=5>{% inlineImg /img/chip/T3_platinum.png 50px %} T3鉑金</font>**
+|製作方法|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
+|:-:|:-:|:-:
+|方法1|T2鉑金{% inlineImg /img/chip/T2_platinum.png 40px %}x5|30,000,000|
+|方法2|{% inlineImg /img/chip/chip_origin.png 40px %}x150 |80,000,000
+
+- **<font size=5>{% inlineImg /img/chip/T4_platinum.png 50px %} T4鉑金</font>**
+|製作方法|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
+|:-:|:-:|:-:
+|方法1|T3鉑金{% inlineImg /img/chip/T3_platinum.png 40px %}x5|40,000,000
+|方法2|{% inlineImg /img/chip/chip_origin.png 40px %}x750 |440,000,000
 
 
-|早期鉑金{% inlineImg /img/chip/ex_platinum.png 40px %}|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}|
-|:-:|:-:|:-:|
-|方法1|原始晶片{% inlineImg /img/chip/chip_origin.png 40px %}x2|0|
 
 <!-- endtab -->
 

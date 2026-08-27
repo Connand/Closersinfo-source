@@ -12,22 +12,31 @@ tags:
     - 伊莉雅
     - 摩亞
 category: [時裝, 有立繪, 限定角色]
-cover: https://i.imgur.com/8HgQCB8.jpeg
+cover: https://i.imgur.com/jgQUulf.png
 description: "A+ Varsity"
 ---
 
-[]()
+![](https://i.imgur.com/jgQUulf.png)
 
 ---
 ## A+ Varsity
 
-**注意**：立繪僅分一般和特殊，模組分型
+**注意**：立繪僅分一般和特殊，模組分ABC型
 
 部位：髮型、上衣、下衣、手套、鞋子、{% label 背部(書包)(普通立繪) green %}、{% label 特效(特殊立繪) green %}
 
 [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://landing.naddic.co.kr/Images/cms/happycode/20260825/1787644005248.zip)
 ---
+
+{% hideToggle 部分模組展示 %}
+{% tabs 普通立繪 %}
+<!-- tab A型-->
+![](https://i.imgur.com/CZhVLTS.png)
+![](https://i.imgur.com/Q5eREuY.png)
+<!-- endtab -->
+{% endtabs %}
+{% endhideToggle %}
 
 {% tabs 類型 %}
 <!-- tab 普通角色立繪-->
@@ -84,36 +93,6 @@ description: "A+ Varsity"
 <!-- endtab -->
 <!-- tab 摩亞(Mois)-->
 [![](https://i.imgur.com/8CqdsMd.jpeg)](https://i.imgur.com/8CqdsMd.jpeg)
-<!-- endtab -->
-{% endtabs %}
-<!-- endtab -->
-
-<!-- tab 模組-->
-**<font size=5>左中右分別為ABC型</font>**
-{% tabs 模組圖 %}
-<!-- tab 李世河(Seha)-->
-[![]()]()
-<!-- endtab -->
-<!-- tab 徐維莉(Yuri)-->
-[![]()]()
-<!-- endtab -->
-<!-- tab 薇歐莉特(Violet)-->
-[![]()]()
-<!-- endtab -->
-<!-- tab 露娜(Luna)-->
-[![]()]()
-<!-- endtab -->
-<!-- tab 金徹斯(Chulsoo)-->
-[![]()]()
-<!-- endtab -->
-<!-- tab 銀河(Eunha)-->
-[![]()]()
-<!-- endtab -->
-<!-- tab 伊莉雅(Ria)-->
-[![]()]()
-<!-- endtab -->
-<!-- tab 摩亞(Mois)-->
-[![]()]()
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
