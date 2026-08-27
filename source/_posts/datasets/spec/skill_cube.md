@@ -7,38 +7,38 @@ cover: https://i.imgur.com/WMIttiF.png
 description: "2022年技能核心改版介紹"
 ---
 
-[官網特效圖](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4692777217178996618)
-[參考更新公告(韓版)](https://closers.nexon.com/News/GMNote/View?n4ArticleSN=506)
+![官網特效圖](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4692777217178996618)
 
 ---
 
 # 技能核心使用介面
 
-{% hideToggle 使用介面 %}
+
 **<font color=#ff0000 size=5>技能核心將會變成帳號制，有專屬背包可以存放</font>**
-**<p align="right"><font size=5>(打勾處)顯示自己類型<br>(<font color=#f5c71a>黃色按鈕</font>)核心合成<br>高級 菁英<br>傳說 <font color=#ff0000>覺醒</font></font></p>**
-**<p align="center"><font size=5>可以放置2種核心：原版的(傷害增加等等) + 覺醒技能</font></p>**
+**<p align="right"><font size=5>(打勾處)顯示自己類型<br>(<font color=#f5c71a>黃色按鈕</font>)核心合成<br>高級<br>菁英<br>傳說<br><font color=#ff0000>覺醒</font></font></p>**
+**<p align="center"><font size=5>可以放置2種核心：傷害類型增加(左邊) + 覺醒技能(右邊)</font></p>**
 
 ![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=5485478582014705885)
-{% endhideToggle %}
 
 ---
 
 # 核心合成
 
-{% hideToggle 使用介面 %}
+
 **使用3個相同等級(例如傳說或覺醒等)的技能核心可以進行合成，10%機率可以合成到高一階的核心**
 
 ![](https://file.nexon.com/NxFile/Download/FileDownloader.aspx?oidFile=4764902053224907063)
-{% endhideToggle %}
 
-## 目前取得技能核心的管道
+---
+
+# 取得技能核心的管道
+
 
 此系統開放後，取得技能核心箱子的管道將會受約束(尤其是製作機與販賣機)
-1. PVP商店
-1. 貢獻度(榮譽)商店
-1. 平原之門製作機->特殊作戰區域
-1. 平原之門副本(紅藍本)
+1. 軍團計畫
+2. 軍團計畫商店
+3. PVP商店
+4. 製作機->平原之門
 
 ---
 
@@ -47,26 +47,26 @@ description: "2022年技能核心改版介紹"
 此系統更新除了將原本大淨化作戰(雷本)的覺醒技能改為不受裝備制約。
 並每個角色都新增了一招 **<font color=#ff0000>新覺醒技能</font>** ，變更技能為獎章技能(俗稱鎖技)
 
-## 取得來源
+- 取得來源
+
 新舊覺醒技能核心取得方式如下 **<font color=#ff0000>請注意新舊覺醒道具圖外框四角的差別</font>**
-- 舊覺醒技能核心(雷本覺醒) {% inlineImg https://i.imgur.com/1GGW1T1.png 50px %}
-	1. **<font color=#ff0000>（已無法製作）</font>**~~平原之門深層製作機：可製作各一個自身角色的覺醒技能。 **<font color=#ff0000>製作限制：每個角色1次</font>**~~
+
+ - 舊覺醒技能核心(雷本覺醒) {% inlineImg https://i.imgur.com/1GGW1T1.png 50px %}
+	1. 製作機：可製作自身角色的覺醒技能。 
 	{% inlineImg https://i.imgur.com/gSpLPD7.png 170px %}
-	{% inlineImg https://i.imgur.com/LYV6G59.png 170px %}
 	2. 使用覺醒技能核心合成(90%機率)
 	3. 使用傳說或菁英核心合成(10%機率)
-	4. {% inlineImg https://i.imgur.com/2dUhUMX.png 40px %}未鑑定覺醒技能核心(不可交易，90%機率 **<font color=#ff0000>軍團程式獎勵（請參考下方）</font>** )
-- 新覺醒技能核心 {% inlineImg https://i.imgur.com/LrllCYr.png 50px %}
+	4. {% inlineImg https://i.imgur.com/2dUhUMX.png 40px %}未鑑定覺醒技能核心(不可交易，90%機率 <font color=#ff0000>軍團程式獎勵（請參考下方）</font> )<br>
+
+ - 新覺醒技能核心 {% inlineImg https://i.imgur.com/LrllCYr.png 50px %}
 	1. 使用覺醒技能核心合成(10%機率)
-	2. {% inlineImg https://i.imgur.com/2dUhUMX.png 40px %}未鑑定覺醒技能核心(可交易，10%機率 **<font color=#ff0000>軍團程式獎勵（請參考下方）</font>** )
+	2. {% inlineImg https://i.imgur.com/2dUhUMX.png 40px %}未鑑定覺醒技能核心(可交易，10%機率 <font color=#ff0000>軍團程式獎勵（請參考下方）</font> )
 
 
 ---
 
 # 軍團程式
 
-軍團程式(或軍團計畫，Legion Program)，旨在考驗種族增傷的輸出能力檢測(主要為[突變PNA](https://connand.github.io/datasets/mutantPNA/))
-目前開放的副本分為五種：2023/04/20新增特異型、2023/05/03新增業火型
 
 |食蟲型|海底型|前腦型|野生型|特異型|業火型
 |:-:|:-:|:-:|:-:|:-:|:-:
@@ -74,13 +74,9 @@ description: "2022年技能核心改版介紹"
 
 ## 入場與玩法
 
-### 舊版
 
-入場建議戰力為1000萬。共分 10 個 WAVE，每個 WAVE 通常需要擊殺 30 隻怪物即可通關此 WAVE。
+### 玩法
 
-### 新版
-
-- [韓版 2025/01/23 改版內容](https://www.naddic.co.kr/ko/game/cls/event/announce/detail?contentNo=336)
 入場建議戰力為1000萬。但改為無限出怪。
 擊殺怪物可獲得積分，每 1000 分可獲的獎勵，最多 30000 分。
 **並且會有一個副本技能，能量條滿時使用(Ctrl + Q)會恢復 100% MP，並且重置終極技以外所有技能的冷卻。**
@@ -88,7 +84,7 @@ description: "2022年技能核心改版介紹"
 ## 樓層獎勵
 
 {% tabs 樓層獎勵 %}
-<!-- tab 2025改版-->
+<!-- tab 獎勵-->
 - **<font color=#f00>每周帳號入場 2 次 (6 種副本共用入場次數，可重複入場)</font>**
 - 若滿分可得：{% inlineImg https://i.imgur.com/cKzXEUr.png 40px %}x1040 {% inlineImg /img/material/PNA_bottle_5k.png 40px %}x77 {% inlineImg https://i.imgur.com/7k7AciP.png 40px %}x24 {% inlineImg https://i.imgur.com/2dUhUMX.png 40px %}x6
 - {% inlineImg /img/material/PNA_bottle_5k.png 40px %}：使用後可獲得 PNA 經驗 5,000。
@@ -157,89 +153,32 @@ description: "2022年技能核心改版介紹"
 {% endtabs %}
 
 <!-- endtab -->
-<!-- tab 減負版-->
-為降低農本負擔，因此：
-- **<font color=#f00>從原本 6 場降為 2 場 (6 種副本共用入場次數，可重複入場)</font>**
-- 總獎勵與原本相同
 
-<div class="wave_reward">
-
-|WAVE數|獎勵
-|:-:|:-:
-|1|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x15 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
-|2|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x15 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
-|3|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x18 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
-|4|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x27 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
-|5|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x48 {% inlineImg https://i.imgur.com/2dUhUMX.png 36px %}x3
-|6|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x33 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
-|7|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x33 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
-|8|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x33 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
-|9|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x33 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x3
-|10|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x60 {% inlineImg https://i.imgur.com/2dUhUMX.png 36px %}x3
-|**總和**|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}x315 {% inlineImg https://i.imgur.com/7k7AciP.png 48px %}x24 {% inlineImg https://i.imgur.com/2dUhUMX.png 48px %}x6
-</div>
-<!-- endtab -->
-<!-- tab 新版-->
-之後軍團計畫更新以後會降低其耗時與複雜度，總結來說：
-- **<font color=#f00>從原本 7 場降為 4 場 (4種類型各1場)</font>**
-- 每關各WAVE通關條件 **<font color=#f00>從 50 隻降低為 30 隻，只要一波怪物的數量</font>**
-- 無區分追加獎勵
-
-<div class="wave_reward">
-
-|WAVE數|獎勵
-|:-:|:-:
-|1|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x5 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x1
-|2|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x5 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x1
-|3|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x6 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x1
-|4|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x9 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x1
-|5|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x16 {% inlineImg https://i.imgur.com/2dUhUMX.png 36px %}x1
-|6|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x11 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x1
-|7|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x11 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x1
-|8|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x11 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x1
-|9|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x11 {% inlineImg https://i.imgur.com/7k7AciP.png 36px %}x1
-|10|{% inlineImg https://i.imgur.com/cKzXEUr.png 36px %}x20 {% inlineImg https://i.imgur.com/2dUhUMX.png 36px %}x1
-|**總和**|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}x105 {% inlineImg https://i.imgur.com/7k7AciP.png 48px %}x8 {% inlineImg https://i.imgur.com/2dUhUMX.png 48px %}x2
-</div>
-<!-- endtab -->
-<!-- tab 舊版-->
-|無追加獎勵|有追加獎勵|
-|:-:|:-:|
-|![](https://i.imgur.com/Ot9RMCc.png)|![](https://i.imgur.com/6HNLzbf.png)|
-|總共{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x48|總共{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x60|
-<!-- endtab -->
 {% endtabs %}
 
 ---
 
 # 軍團程式可換獎勵
-|道具|所需材料|限制|
+|道具|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子|限制|
 |:-|:-:|:-:|
-|{% inlineImg https://i.imgur.com/6PHDZf6.png 48px %}威嚴精髓 x1|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x500|每個帳號一個月 3 次|
-|{% inlineImg https://i.imgur.com/3MjLN14.png 48px %}時裝合成纖維 x1|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x250|每個帳號一個月 6 次|
-|{% inlineImg https://i.imgur.com/eCOAypO.png 48px %}寵物核心 x50|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x250|每個帳號一個月 6 次|
-|{% inlineImg https://i.imgur.com/ofbuOah.png 48px %}完美PNA進化套裝 x1 **(改版後增加)**|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x100|每個帳號一周 3 次|
-|{% inlineImg /img/material/PNA_bottle_5k.png 48px %}高級PNA成長活性劑 x1 **(改版後增加)**|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x50|每個帳號一周 10 次|
-|{% inlineImg https://i.imgur.com/9wEUbq4.png 48px %}突變PNA膠囊 x20|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x140|每個**角色**一周 3 次|
-|{% inlineImg https://i.imgur.com/7k7AciP.png 48px %}未鑒定菁英屬性核心(1種) x8|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x30|每個**角色**一周 3 次|
-|{% inlineImg https://i.imgur.com/YVCXiKT.png 48px %}未鑒定傳說屬性核心(1種) x1|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x40|每個**角色**一周 3 次|
-|{% inlineImg https://i.imgur.com/2dUhUMX.png 48px %}未鑒定覺醒技能核心(1種) x1|{% inlineImg https://i.imgur.com/cKzXEUr.png 48px %}四維超正立方體因子x200|每個帳號一周 2 次|
+|{% inlineImg https://i.imgur.com/6PHDZf6.png 48px %}威嚴精髓 x1|500|每個帳號一個月 3 次|
+|{% inlineImg https://i.imgur.com/3MjLN14.png 48px %}時裝合成纖維 x1|250|每個帳號一個月 6 次|
+|{% inlineImg https://i.imgur.com/eCOAypO.png 48px %}寵物核心 x50|x250|每個帳號一個月 6 次|
+|{% inlineImg https://i.imgur.com/ofbuOah.png 48px %}完美PNA進化套裝 x1 |100|每個帳號一周 3 次|
+|{% inlineImg /img/material/PNA_bottle_5k.png 48px %}高級PNA成長活性劑 x1 |50|每個帳號一周 10 次|
+|{% inlineImg https://i.imgur.com/9wEUbq4.png 48px %}突變PNA膠囊 x20|140|每個**角色**一周 3 次|
+|{% inlineImg https://i.imgur.com/7k7AciP.png 48px %}未鑒定菁英屬性核心(1種) x8|30|每個**角色**一周 3 次|
+|{% inlineImg https://i.imgur.com/YVCXiKT.png 48px %}未鑒定傳說屬性核心(1種) x1|40|每個**角色**一周 3 次|
+|{% inlineImg https://i.imgur.com/2dUhUMX.png 48px %}未鑒定覺醒技能核心(1種) x1|200|每個帳號一周 2 次|
+|{% inlineImg https://i.imgur.com/WMIttiF.png 40px %} 空中/背後/追蹤傷害|
+|{% inlineImg https://i.imgur.com/2KkaCHM.png 40px %} 空中傷害|
+|{% inlineImg https://i.imgur.com/knV9D9k.png 40px %} 背後傷害|
+|{% inlineImg https://i.imgur.com/S3sN4u0.png 40px %} 追蹤傷害|
 
 ---
 
 # 新覺醒技能資料
 
-{% hideToggle <font color=red>NEW! </font>二大覺醒技能特效參考 (黑羊、紅狼，含公告連結) %}
-- [公告](https://closers.nexon.com/News/Notice/View?n4PageNo=2&n4ArticleSN=140827)
-
-{%youtube tPfhpuITm6I %}
-{% endhideToggle %}
-
-{% hideToggle <font color=red>NEW! </font>二大覺醒技能特效參考 (夜梟、嚙鼠，含公告連結) %}
-- [公告](https://closers.nexon.com/News/Notice/View?n4ArticleSN=140944)
-
-{%youtube bgFz-OnYE2o %}
-{% endhideToggle %}
 
 {% hideToggle 技能特效參考 %}
 {%youtube N8BPDRTKyg8 %}

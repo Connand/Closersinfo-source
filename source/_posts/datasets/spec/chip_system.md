@@ -262,8 +262,9 @@ description: "晶片系統內容說明"
 |方法5：|{% inlineImg https://i.imgur.com/XSUcWuc.png 48px %}x20+{% inlineImg https://i.imgur.com/MHAPTFi.png 48px %}x20|0
 |方法6：|{% inlineImg https://i.imgur.com/gEJsTjf.png 48px %}x48|300,000
 |方法7：|{% inlineImg https://i.imgur.com/SrNU7Pb.png 48px %}x1|1,000,000
-|方法8：|{% inlineImg /img/gear/chromite/HQ_201520_QUEST.PNG 40px %}X1+{% inlineImg /img/gear/chromite/HQ_201521_QUEST.PNG 40px %}x1|2,500,000
-|方法9：|{% inlineImg https://i.imgur.com/W6oH39M.png 48px %}x1|2,500,000
+|方法8：|{% inlineImg /img/gear/chromite/HQ_201520_QUEST.PNG 40px %}X1+{% inlineImg /img/gear/chromite/HQ_201521_QUEST.PNG 40px %}x1|250,000
+|方法9：|{% inlineImg https://i.imgur.com/W6oH39M.png 48px %}x1|250,000
+|方法10：|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %}x1|250,000
 
 |{% inlineImg /img/chip/chip_overclock.png 48px %}超頻晶片|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
 |:-:|:-:|:-:
@@ -274,15 +275,17 @@ description: "晶片系統內容說明"
 |方法5：|{% inlineImg /img/gear/chromite/HQ_201523_RESOURCE.PNG 40px %}x1|2,000,000
 |方法6：| {% inlineImg /img/belphegor3/HQ_201531_QUEST.PNG 48px %} x1|2,000,000
 |方法7：|{% inlineImg https://i.imgur.com/W6oH39M.png 48px %}x1|2,000,000
+|方法8：|{% inlineImg /img/gear/paradise2/HQ_201542_RESOURCE.PNG 48px %}x1|2,000,000
+|方法9：|{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %}x1|2,000,000
 
 <!-- endtab -->
 
 <!-- tab 單色晶片-->
 
 - **<font size=5>{% inlineImg /img/chip/T1_color.png 50px %} T1顏色晶片</font>**
-|製作方法|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
+|製作方法|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}|
 |:-:|:-:|:-:
-|方法1|{% inlineImg /img/chip/chip_origin.png 48px %}x1 |0
+|方法1<br>單次製作數量為10片|{% inlineImg /img/chip/chip_origin.png 48px %}x1 |0
 
 - **<font size=5>{% inlineImg /img/chip/T2_color.png 50px %} T2顏色晶片</font>**
 |製作方法|材料|{% inlineImg https://i.imgur.com/bRFx7v6.png 44px %}
