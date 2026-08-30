@@ -26,7 +26,7 @@ description: "反擊的號角響起，一起奪回失去的城市、家人與朋
 + {% inlineImg /img/gear/chromite/HQ_201520_QUEST.PNG 48px %}{% inlineImg /img/gear/chromite/HQ_201521_QUEST.PNG 48px %} 墮落/漆黑的漏洞塊
 	> 透過 **必殺程式（墮落的聖火菲尼克斯 / 漆黑的吉娜葛蕾絲）** 獲得，每次額外獎勵固定獲得 4 個，用於模組的製作與超越
 	> 交易限制：<font color=#ff0000> **不可共倉、不可交易** </font>
-+ {% inlineImg /img/gear/chromite/HQ_201523_RESOURCE.PNG 48px %} 殉教者的山丘歐帕茲箱子（1種） / 冰封的蛋殼
++ {% inlineImg /img/gear/chromite/HQ_201523_RESOURCE.PNG 48px %} 燒焦的信仰信物
 	> 透過 **必殺程式（墮落的聖火菲尼克斯 / 漆黑的吉娜葛蕾絲）** 獲得，每次通關可得 1 個
 	> 用於模組的史詩升級
 	> 交易限制：<font color=#ff0000> **不可交易** </font>
