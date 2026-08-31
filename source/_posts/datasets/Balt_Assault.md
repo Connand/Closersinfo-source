@@ -1,10 +1,10 @@
 ---
-title: 巴爾團隊副本裝備資訊
+title: 巴力團隊副本裝備資訊
 date: 2026-09-10 16:09:00
 tags: 資料紀錄
 category: [遊戲資料, 裝備]
 cover: https://i.imgur.com/I2hD0vF.png
-description: "巴爾團隊副本裝備資訊"
+description: "巴力團隊副本裝備資訊"
 ---
 
 
@@ -14,8 +14,8 @@ description: "巴爾團隊副本裝備資訊"
 
 |裝備|舊裝備|目標|
 |:-:|:-:|:-:|
-|武器|D伯爵武器<br>魔龍王史詩武器|巴爾武器<br>巴爾史詩武器|
-|模組|D伯爵模組|巴爾模組<br>巴爾史詩模組|
+|武器|D伯爵武器<br>魔龍王史詩武器|巴力武器<br>巴力史詩武器|
+|模組|D伯爵模組|巴力模組<br>巴力史詩模組|
 ---
 
 > # 新BUFF
@@ -24,7 +24,7 @@ description: "巴爾團隊副本裝備資訊"
 
 |BUFF|能力
 |:-:|:-:
-|收藏護符（巴爾/貝爾基斯）<br>{% inlineImg https://i.imgur.com/sDTIUy4.png 48px %}|通關副本時額外獲得<font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %} x1
+|收藏護符（巴力/貝爾基斯）<br>{% inlineImg https://i.imgur.com/sDTIUy4.png 48px %}|通關副本時額外獲得<font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %} x1
 
 |製作道具|製作次數|{% inlineImg https://i.imgur.com/bRFx7v6.png 64px %}|
 |:-:|:-:|:-:
@@ -109,7 +109,7 @@ BOSS資訊：
 BOSS資訊：
 |BNOSS|血量|暴擊傷害抵抗|減傷
 |:-:|:-:|:-:|:-:
-|巴爾|40兆+40兆|3800%|40%
+|巴力|40兆+40兆|3800%|40%
 |所羅門|2兆|3800%?|40%?
 
 {% endhideToggle %}
@@ -206,7 +206,7 @@ PLV: 270(傳說) / 285(史詩)
 |--- <font color=#8B8000>以下黃字數值</font>|---|---
 |物理/魔法防禦力穿透率|40%|80%
 |空中/背擊/浮空暴擊率|40%|80%
-|**<font color=red>特殊能力 (下面說明)</font><br>藏書<br>鐮刀<br>牙齒**|<br>**[盲目的侵蝕]<br>[狡猾的烙印]<br>[君主的暴食]**|包含傳說武器的效果並追加<br>**<font color=red>[巴爾的暴食]<br>[貪婪者]<br>[巴爾的餐桌]</font>**
+|**<font color=red>特殊能力 (下面說明)</font><br>藏書<br>鐮刀<br>牙齒**|<br>**[盲目的侵蝕]<br>[狡猾的烙印]<br>[君主的暴食]**|包含傳說武器的效果並追加<br>**<font color=red>[巴力的暴食]<br>[貪婪者]<br>[巴力的餐桌]</font>**
 
 {% endhideToggle %}
 
@@ -256,7 +256,7 @@ PLV: 240(傳說)/285(史詩)
     <td align="left"><font color=purple>DEBUFF：黑暗受到傷害增加 20%(不疊加)</font><br>打擊時，10 秒內目標的暴擊傷害抗性減少 200%</td>
 </tr>
 <tr>
-    <td align="left">{% inlineImg https://i.imgur.com/6HE2MXg.png 40px %}<strong><font color=red>巴爾的暴食</font></strong></td>
+    <td align="left">{% inlineImg https://i.imgur.com/6HE2MXg.png 40px %}<strong><font color=red>巴力的暴食</font></strong></td>
     <td align="left"><font color=purple>DEBUFF：黑暗受到傷害增加 20%(不疊加)</font><br>使用必殺技時，對周圍敵人造成與 1 億能力值成正比的傷害</td>
 </tr>
 
@@ -278,7 +278,7 @@ PLV: 240(傳說)/285(史詩)
     <td align="left">每 10 秒物理/魔法攻擊力增加 300、暴擊傷害增加 30%。（最多可疊加 8 層）<br> <font color=red>平衡後</font>每 7 秒物理/魔法攻擊力增加 300、暴擊傷害增加 30%。(最多可疊加 8 層) </td>
 </tr>
 <tr>
-    <td align="left">{% inlineImg https://i.imgur.com/IvJWrCk.png 40px %}<strong><font color=red>巴爾的餐桌</font></strong></td>
+    <td align="left">{% inlineImg https://i.imgur.com/IvJWrCk.png 40px %}<strong><font color=red>巴力的餐桌</font></strong></td>
     <td align="left">進入副本時，[君主的暴食] 達到最大疊層</td>
 </tr>
 
@@ -314,13 +314,13 @@ PLV: 240(傳說)/285(史詩)
     <td align="left"><strong>共同</strong>：總物理 / 魔法攻擊力 +5%</td>
 </tr>
 <tr>
-    <td align="left"><strong><font color=red>巴爾的暴食</font></strong> 觸發 [巴爾的暴食] 時，造成 50% 的額外傷害</td>
+    <td align="left"><strong><font color=red>巴力的暴食</font></strong> 觸發 [巴力的暴食] 時，造成 50% 的額外傷害</td>
 </tr>
 <tr>
     <td align="left"><strong><font color=red>貪婪者</font></strong> 觸發 [貪婪者] 時，造成 50% 的額外傷害</td>
 </tr>
 <tr>
-    <td align="left"><strong><font color=red>巴爾的餐桌</font></strong> [君主的暴食] 最大疊層增加 2（共 12 疊層）</td>
+    <td align="left"><strong><font color=red>巴力的餐桌</font></strong> [君主的暴食] 最大疊層增加 2（共 12 疊層）</td>
 </tr>
 
 
@@ -380,7 +380,7 @@ PLV: 240(傳說)/285(史詩)
 
 |PNA|能力
 |:-:|:-:|
-|**巴爾的隱藏視網膜**<br>{% inlineImg https://i.imgur.com/yzNHhDx.png 48px %}|獲得負面效果 **[黑暗]** ，終結技結束後對大範圍目標造成 **11(<font color=red>20</font>)** 億的等比例基礎值傷害。<br>註：非真實傷害，且受 **增傷/減傷/暴擊(含暴擊傷害抵抗)/條件** 影響。 **[黑暗]：受到傷害增加 20%（不疊加）**。 |
+|**巴力的隱藏視網膜**<br>{% inlineImg https://i.imgur.com/yzNHhDx.png 48px %}|獲得負面效果 **[黑暗]** ，終結技結束後對大範圍目標造成 **11(<font color=red>20</font>)** 億的等比例基礎值傷害。<br>註：非真實傷害，且受 **增傷/減傷/暴擊(含暴擊傷害抵抗)/條件** 影響。 **[黑暗]：受到傷害增加 20%（不疊加）**。 |
 |**貝爾基斯舞者的祝福**<br>{% inlineImg https://i.imgur.com/BPhisnT.png 48px %}|攻擊目標時，獲得 **[舞者的祝福]** (最多60層)，累積最大層數時，物理/魔法攻擊力增加 **500(<font color=red>5000</font>)** ，持續15秒<br>累計 **兩次** 最大層數時，物理/魔法攻擊力額外增加 **2%(<font color=red>20%</font>)** ，持續30秒|
 
 ## 稱號
@@ -392,10 +392,10 @@ PLV: 240(傳說)/285(史詩)
 # 立繪展示
 
 {% tabs 立繪展示, -1 %}
-<!-- tab 巴爾基斯-->
+<!-- tab 貝爾姬絲-->
 ![](https://i.imgur.com/ZqPVgSr.png)
 <!-- endtab -->
-<!-- tab 巴爾-->
+<!-- tab 巴力-->
 ![](https://i.imgur.com/Gb46pNf.png)
 <!-- endtab -->
 

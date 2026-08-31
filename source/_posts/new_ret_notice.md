@@ -67,11 +67,56 @@ sticky: 2
 
 ---
  
-# 額外資訊
-**<h4><font color=red>封印者情報網-有持續更新各種新手向、或各種資訊，因此搭建了一個傳送門供快速查詢[情報網試算表](https://reurl.cc/QNbLmO)</h></font>**
+# 版本畢業裝備
+**<font color=red>可點擊圖片快速傳送至相關文章</font>**
 
+**<p align="CENTER"><font color=red>模組</font></P>**
+<div class="gear-layout">
+<p align="right">
+<a href="https://closersinfo.xyz/datasets/IncheonPort_Chromite/" target="_blank">{% inlineImg /img/gear/chromite/HQ_AREA_15_MODULE_EP_BOOSTER.PNG 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg https://i.imgur.com/dSggZGR.png 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg https://i.imgur.com/hwaFcnP.png 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/count_d_trials/" target="_blank">{% inlineImg /img/gear/count_D/HQ_OPERA_LEGEND_MODULE_BOOSTER_1.PNG 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/count_d_trials/" target="_blank">{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_BOOSTER_1.PNG 50px %}</a>
+</P>
+</div>
 
+**<p align="left"><font color=red>武器</font></p><p align="right"><font color=red>圓盤、接收器</font></P>**
 
+<p align="left">
+<a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg https://i.imgur.com/9AclTaA.png 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg https://i.imgur.com/IvJWrCk.png 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/count_d_trials/" target="_blank">{% inlineImg /img/gear/count_D/HQ_OPERA_LEGEND_CORE_CLAW.PNG 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/hecatoncheires/" target="_blank">{% inlineImg https://i.imgur.com/DGcv4qu.png 50px %}</a>
+{% inlineImg https://i.imgur.com/TVWDI9B.png 350px %}
+<a href="https://closersinfo.xyz/datasets/hecatoncheires/" target="_blank">{% inlineImg https://i.imgur.com/hQMxgzF.png 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/gewurahV2/" target="_blank">{% inlineImg /img/gear/paradise2/HQ_HOD_RECEIVER_AIRAMP.PNG 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/gewurahV2/" target="_blank">{% inlineImg /img/gear/paradise2/HQ_HOD_EP_RECEIVER_AIRAMP.PNG 50px %}</a>
+</p>
+
+**<p align="center"><font color=red>護盾</font></P>**
+
+<div class="gear-layout">
+ <p align="right">
+<a href="https://closersinfo.xyz/datasets/IncheonPort_Chromite/" target="_blank">{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_AMULET_1.PNG 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/IncheonPort_Chromite/" target="_blank">{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_RING_1.PNG 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/IncheonPort_Chromite/" target="_blank">{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_MASCOT_1.PNG 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/IncheonPort_Chromite/" target="_blank">{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_AMULET_2.PNG 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/IncheonPort_Chromite/" target="_blank">{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_RING_2.PNG 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/IncheonPort_Chromite/" target="_blank">{% inlineImg /img/gear/chromite/HQ_AREA_15_SHIELD_MASCOT_2.PNG 50px %}</a>
+</P>
+</div>
+
+**<p align="center"><font color=red>觸發器</font></P>**
+
+<div class="gear-layout">
+ <p align="right">
+<a href="https://closersinfo.xyz/datasets/break_challenge_S3/" target="_blank">{% inlineImg ../img/belphegor3/HQ_BC_LEGEND_TRIGGER_V3.PNG 40px %}</a>
+<a href="https://closersinfo.xyz/datasets/break_challenge_S2/" target="_blank">{% inlineImg https://i.imgur.com/jG9rcAU.png 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/break_challenge_S3/" target="_blank">{% inlineImg ../img/belphegor3/HQ_BC_EPIC_TRIGGER_V3.PNG 50px %}</a>
+
+</P>
+</div>
 ---
 
 # 常用與隱藏小技巧
@@ -110,15 +155,6 @@ sticky: 2
 |黑羊小隊|紅狼小隊|夜梟小隊|嚙鼠小隊
 |:-|:-|:-|:-
 |李世河：PSP<br>李雪菲：粉毛<br>徐維莉：大姊<br>J：勾<br>米斯特汀：小米<br>伊莉雅：偶像|納塔：NT<br>蕾比雅：LVA<br>哈比：HB<br>緹娜：TN<br>薇歐莉特：大小姐、VIO<br>特莉絲：龍妹|沃爾夫姜：VR<br>露娜：LN<br>索瑪：SM、SOMA<br>白<br>賽特：ST<br>摩亞：MOA|未來<br>金徹斯：徹斯、YSY(陸版)<br>銀河<br>露西：LC<br>愛里
-
----
-
-## 延伸指南
-
-
-{% note primary simple %}
-延伸參考：[日常農本與製作指南](/datasets/farming_guide/)
-{% endnote %}
 
 
 ---
@@ -257,4 +293,22 @@ sticky: 2
         font-size: 0.9em;
         /* border: 1px solid greenyellow;*/
     }
+    .gear-layout {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.gear-side {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.gear-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 </style>
