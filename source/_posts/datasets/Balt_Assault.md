@@ -20,11 +20,11 @@ description: "巴力團隊副本裝備資訊"
 
 > # 新BUFF
 
-## BUFF相關能力只會在<font color=red> **墮落妃子的安息處** </font>與 <font color=red>**飢餓君王的宴會廳**</font> 副本內有效
+## BUFF相關能力只會在<font color=red> **墮落王妃的棲身處** </font>與 <font color=red>**飢餓君王的宴會廳**</font> 副本內有效
 
 |BUFF|能力
 |:-:|:-:
-|收藏護符（巴力/貝爾基斯）<br>{% inlineImg https://i.imgur.com/sDTIUy4.png 48px %}|通關副本時額外獲得<font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %} x1
+|收藏家的護身符（巴力/貝爾姬絲）<br>{% inlineImg https://i.imgur.com/sDTIUy4.png 48px %}|通關副本時額外獲得<font color=red>**不可交易**</font>{% inlineImg https://i.imgur.com/Kg50QrG.png 48px %} x1
 
 |製作道具|製作次數|{% inlineImg https://i.imgur.com/bRFx7v6.png 64px %}|
 |:-:|:-:|:-:
@@ -37,12 +37,13 @@ description: "巴力團隊副本裝備資訊"
 > # 副本資訊
 
 - BOSS類型：食蟲型 {% inlineImg https://i.imgur.com/HoxQxvb.png 48px %}
+- <font color=red>**韓服因實裝可現金通路購買{% inlineImg https://i.imgur.com/ZehE58h.png 48px %}{% inlineImg https://i.imgur.com/CP0QyTc.png 48px %}，因此數量為x1<br>台服因相關法規問題改為{% inlineImg https://i.imgur.com/ZehE58h.png 48px %}{% inlineImg https://i.imgur.com/CP0QyTc.png 48px %}x2**</font>
 
-## 貧窮舞者的庇護所
+## 可憐舞姬的棲身處
 
 |推薦戰鬥力|建議人數|種族|復活次數|每周獎勵|額外可掉落道具
 |:-:|:-:|:-:|:-:|:-:|:-:
-|300,000,000|1~4人|食蟲型|無限制|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %} X14<br>{% inlineImg https://i.imgur.com/ZehE58h.png 48px %}X1<br>每周一次|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %}{% inlineImg https://i.imgur.com/Kf5pxTs.png 48px %}{% inlineImg https://i.imgur.com/MU4sjfn.png 48px %}{% inlineImg https://i.imgur.com/f1OVtSg.png 48px %}{% inlineImg https://i.imgur.com/jqaNdWq.png 48px %}{% inlineImg https://i.imgur.com/N2VLqxQ.png 48px %}<br><font color=red>**裝備皆為超滿狀態**</font>{% inlineImg  https://i.imgur.com/7o01uD5.png 48px %}{% inlineImg https://i.imgur.com/1aoBSOW.png 48px %}{% inlineImg https://i.imgur.com/9AclTaA.png 48px %}{% inlineImg https://i.imgur.com/lhfc8o7.png  48px %}
+|300,000,000|1~4人|食蟲型|無限制|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %} X14<br>{% inlineImg https://i.imgur.com/ZehE58h.png 48px %}X2<br>每周一次<br><font color=red>**韓服為{% inlineImg https://i.imgur.com/ZehE58h.png 48px %}X1**</font>|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %}{% inlineImg https://i.imgur.com/Kf5pxTs.png 48px %}{% inlineImg https://i.imgur.com/MU4sjfn.png 48px %}{% inlineImg https://i.imgur.com/f1OVtSg.png 48px %}{% inlineImg https://i.imgur.com/jqaNdWq.png 48px %}{% inlineImg https://i.imgur.com/N2VLqxQ.png 48px %}<br><font color=red>**裝備皆為超滿狀態**</font>{% inlineImg  https://i.imgur.com/7o01uD5.png 48px %}{% inlineImg https://i.imgur.com/1aoBSOW.png 48px %}{% inlineImg https://i.imgur.com/9AclTaA.png 48px %}{% inlineImg https://i.imgur.com/lhfc8o7.png  48px %}
 
 {% hideToggle 副本血量 %}
 
@@ -56,7 +57,7 @@ description: "巴力團隊副本裝備資訊"
 
 |推薦戰鬥力|建議人數|種族|復活次數|每周獎勵|額外可掉落道具
 |:-:|:-:|:-:|:-:|:-:|:-:
-|300,000,000|1~4人|食蟲型|無限制|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %} X14<br>{% inlineImg https://i.imgur.com/CP0QyTc.png 48px %}X1<br>每周一次|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %}{% inlineImg https://i.imgur.com/Vgy4btB.png 48px %}{% inlineImg https://i.imgur.com/1G7NK00.png 48px %}{% inlineImg https://i.imgur.com/9icaUMb.png 48px %}{% inlineImg https://i.imgur.com/4kmLC2r.png 48px %}<br><font color=red>**裝備皆為超滿狀態**</font>{% inlineImg  https://i.imgur.com/7o01uD5.png 48px %}{% inlineImg https://i.imgur.com/9AclTaA.png 48px %}{% inlineImg https://i.imgur.com/dSggZGR.png   48px %}
+|300,000,000|1~4人|食蟲型|無限制|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %} X14<br>{% inlineImg https://i.imgur.com/CP0QyTc.png 48px %}X2<br>每周一次<br><font color=red>**韓服為{% inlineImg https://i.imgur.com/CP0QyTc.png 48px %}X1**</font>|{% inlineImg https://i.imgur.com/FSSeJgA.png 48px %}{% inlineImg https://i.imgur.com/Vgy4btB.png 48px %}{% inlineImg https://i.imgur.com/1G7NK00.png 48px %}{% inlineImg https://i.imgur.com/9icaUMb.png 48px %}{% inlineImg https://i.imgur.com/4kmLC2r.png 48px %}<br><font color=red>**裝備皆為超滿狀態**</font>{% inlineImg  https://i.imgur.com/7o01uD5.png 48px %}{% inlineImg https://i.imgur.com/9AclTaA.png 48px %}{% inlineImg https://i.imgur.com/dSggZGR.png   48px %}
 
  <font color=red>**副本特殊機制**</font>
 |圖示|效果|持續時間|冷卻時間|
@@ -74,7 +75,7 @@ description: "巴力團隊副本裝備資訊"
 
 {% endhideToggle %}
 
-## 墮落妃子的安息處
+## 墮落王妃的棲身處
 
 |推薦戰鬥力|建議人數|種族|復活次數|固定掉落道具|額外可掉落道具
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -107,7 +108,7 @@ BOSS資訊：
 {% hideToggle 副本血量與系統 %}
 
 BOSS資訊：
-|BNOSS|血量|暴擊傷害抵抗|減傷
+|BOSS|血量|暴擊傷害抵抗|減傷
 |:-:|:-:|:-:|:-:
 |巴力|40兆+40兆|3800%|40%
 |所羅門|2兆|3800%?|40%?
@@ -198,15 +199,15 @@ PLV: 270(傳說) / 285(史詩)
 
 |詞條|傳說|<font color=red>史詩</font>
 |:-|:-:|:-:
-|**基礎攻擊力(基礎數值)**<br>藏書<br>鐮刀<br>牙齒|<br>7750<font color=red>平衡後</font>9500<br>5750<font color=red>平衡後</font>7500<br>6750<font color=red>平衡後</font>8500|<br>8500<font color=red>平衡後</font>10250<br>6500<font color=red>平衡後</font>8250<br>7500<font color=red>平衡後</font>9250
-|**<font color=red>基礎攻擊力(100%)</font><br>藏書<br>鐮刀<br>牙齒**|<br>11250<font color=red>平衡後</font>13789<br>8346<font color=red>平衡後</font>10886<br>9800<font color=red>平衡後</font>12338|<br>12338<font color=red>平衡後</font>14878<br>9435<font color=red>平衡後</font>11975<br>10886<font color=red>平衡後</font>13426
-|**攻擊速度**<br>藏書<br>鐮刀<br>牙齒|<br>0.80<br>1.2<br>1.0|<br>0.80<br>1.2<br>1.0
-|**物理/魔法爆擊傷害**<br>藏書<br>鐮刀<br>牙齒|<br>280%<br>260%<br>270%|<br>310%<br>290%<br>300%
-|**空中/背擊/浮空暴擊傷害**<br>藏書<br>鐮刀<br>牙齒|<br>140%<br>130%<br>135%|<br>155%<br>145%<br>150%
+|**基礎攻擊力(基礎數值)**<br>藏書<br>鐮刀<br>尖牙|<br>7750<font color=red>平衡後</font>9500<br>5750<font color=red>平衡後</font>7500<br>6750<font color=red>平衡後</font>8500|<br>8500<font color=red>平衡後</font>10250<br>6500<font color=red>平衡後</font>8250<br>7500<font color=red>平衡後</font>9250
+|**<font color=red>基礎攻擊力(100%)</font><br>藏書<br>鐮刀<br>尖牙**|<br>11250<font color=red>平衡後</font>13789<br>8346<font color=red>平衡後</font>10886<br>9800<font color=red>平衡後</font>12338|<br>12338<font color=red>平衡後</font>14878<br>9435<font color=red>平衡後</font>11975<br>10886<font color=red>平衡後</font>13426
+|**攻擊速度**<br>藏書<br>鐮刀<br>尖牙|<br>0.80<br>1.2<br>1.0|<br>0.80<br>1.2<br>1.0
+|**物理/魔法爆擊傷害**<br>藏書<br>鐮刀<br>尖牙|<br>280%<br>260%<br>270%|<br>310%<br>290%<br>300%
+|**空中/背擊/浮空暴擊傷害**<br>藏書<br>鐮刀<br>尖牙|<br>140%<br>130%<br>135%|<br>155%<br>145%<br>150%
 |--- <font color=#8B8000>以下黃字數值</font>|---|---
 |物理/魔法防禦力穿透率|40%|80%
 |空中/背擊/浮空暴擊率|40%|80%
-|**<font color=red>特殊能力 (下面說明)</font><br>藏書<br>鐮刀<br>牙齒**|<br>**[盲目的侵蝕]<br>[狡猾的烙印]<br>[君主的暴食]**|包含傳說武器的效果並追加<br>**<font color=red>[巴力的暴食]<br>[貪婪者]<br>[巴力的餐桌]</font>**
+|**<font color=red>特殊能力 (下面說明)</font><br>藏書<br>鐮刀<br>尖牙**|<br>**[盲目的侵蝕]<br>[交換的烙印]<br>[君主的捕食]**|包含傳說武器的效果並追加<br>**<font color=red>[巴力的捕食]<br>[貪婪之人]<br>[巴力的餐桌]</font>**
 
 {% endhideToggle %}
 
@@ -256,30 +257,30 @@ PLV: 240(傳說)/285(史詩)
     <td align="left"><font color=purple>DEBUFF：黑暗受到傷害增加 20%(不疊加)</font><br>打擊時，10 秒內目標的暴擊傷害抗性減少 200%</td>
 </tr>
 <tr>
-    <td align="left">{% inlineImg https://i.imgur.com/6HE2MXg.png 40px %}<strong><font color=red>巴力的暴食</font></strong></td>
+    <td align="left">{% inlineImg https://i.imgur.com/6HE2MXg.png 40px %}<strong><font color=red>巴力的捕食</font></strong></td>
     <td align="left"><font color=purple>DEBUFF：黑暗受到傷害增加 20%(不疊加)</font><br>使用必殺技時，對周圍敵人造成與 1 億能力值成正比的傷害</td>
 </tr>
 
 <tbody>
 <tr>
     <td rowspan = "2" align="center"><strong>鐮刀</strong><br></td>
-    <td align="left">{% inlineImg https://i.imgur.com/1aoBSOW.png 40px %}<strong>狡猾的烙印</strong></td>
+    <td align="left">{% inlineImg https://i.imgur.com/1aoBSOW.png 40px %}<strong>交換的烙印</strong></td>
     <td align="left">打擊時，目標受到的傷害量增加 1%（最多可疊加 60 層）</td>
 </tr>
 <tr>
-    <td align="left">{% inlineImg https://i.imgur.com/S92zwzP.png 40px %}<strong><font color=red>貪婪者</font></strong></td>
-    <td align="left">打擊處於 [狡猾的烙印] 最大疊層的敵人時，造成相當於最大生命值 0.6% 的固定傷害。冷卻時間 30 秒</td>
+    <td align="left">{% inlineImg https://i.imgur.com/S92zwzP.png 40px %}<strong><font color=red>貪婪之人</font></strong></td>
+    <td align="left">打擊處於 [交換的烙印] 最大疊層的敵人時，造成相當於最大生命值 0.6% 的固定傷害。冷卻時間 30 秒</td>
 </tr>
 
 <tbody>
 <tr>
-    <td rowspan = "2" align="center"><strong>牙齒</strong><br></td>
-    <td align="left">{% inlineImg https://i.imgur.com/9AclTaA.png 40px %}<strong>君主的暴食</strong></td>
+    <td rowspan = "2" align="center"><strong>尖牙</strong><br></td>
+    <td align="left">{% inlineImg https://i.imgur.com/9AclTaA.png 40px %}<strong>君主的捕食</strong></td>
     <td align="left">每 10 秒物理/魔法攻擊力增加 300、暴擊傷害增加 30%。（最多可疊加 8 層）<br> <font color=red>平衡後</font>每 7 秒物理/魔法攻擊力增加 300、暴擊傷害增加 30%。(最多可疊加 8 層) </td>
 </tr>
 <tr>
     <td align="left">{% inlineImg https://i.imgur.com/IvJWrCk.png 40px %}<strong><font color=red>巴力的餐桌</font></strong></td>
-    <td align="left">進入副本時，[君主的暴食] 達到最大疊層</td>
+    <td align="left">進入副本時，[君主的捕食] 達到最大疊層</td>
 </tr>
 
 
@@ -302,10 +303,10 @@ PLV: 240(傳說)/285(史詩)
     <td colspan = "2" align="left"><strong>盲目的侵蝕</strong> [盲目的侵蝕] 效果增加 50%</td>
 </tr>
 <tr>
-    <td colspan = "2" align="left"><strong>狡猾的烙印</strong> [狡猾的烙印] 效果增加 50%</td>
+    <td colspan = "2" align="left"><strong>交換的烙印</strong> [交換的烙印] 效果增加 50%</td>
 </tr>
 <tr>
-    <td colspan = "2" align="left"><strong>君主的暴食</strong> [君主的暴食] 最大疊層增加 2（共 10 疊層）</td>
+    <td colspan = "2" align="left"><strong>君主的捕食</strong> [君主的捕食] 最大疊層增加 2（共 10 疊層）</td>
 </tr>
 
 <tr>
@@ -314,13 +315,13 @@ PLV: 240(傳說)/285(史詩)
     <td align="left"><strong>共同</strong>：總物理 / 魔法攻擊力 +5%</td>
 </tr>
 <tr>
-    <td align="left"><strong><font color=red>巴力的暴食</font></strong> 觸發 [巴力的暴食] 時，造成 50% 的額外傷害</td>
+    <td align="left"><strong><font color=red>巴力的捕食</font></strong> 觸發 [巴力的捕食] 時，造成 50% 的額外傷害</td>
 </tr>
 <tr>
-    <td align="left"><strong><font color=red>貪婪者</font></strong> 觸發 [貪婪者] 時，造成 50% 的額外傷害</td>
+    <td align="left"><strong><font color=red>貪婪之人</font></strong> 觸發 [貪婪之人] 時，造成 50% 的額外傷害</td>
 </tr>
 <tr>
-    <td align="left"><strong><font color=red>巴力的餐桌</font></strong> [君主的暴食] 最大疊層增加 2（共 12 疊層）</td>
+    <td align="left"><strong><font color=red>巴力的餐桌</font></strong> [君主的捕食] 最大疊層增加 2（共 12 疊層）</td>
 </tr>
 
 
@@ -370,24 +371,24 @@ PLV: 240(傳說)/285(史詩)
 
 |晶片|裝備部位|額外能力所需超頻等級|能力|掉落地點
 |:-:|:-:|:-:|:-:|:-:|
-|{% inlineImg https://i.imgur.com/DV3SFn3.png 48px %}|圓盤|0|效果一：物理爆擊傷害100%<br>效果二：魔法爆擊傷害100%|貧窮舞者的庇護所
-|{% inlineImg https://i.imgur.com/xU9hWTj.png 48px %}|模組、接收器、護盾|15<br>(以15等為例)|效果一：物理爆擊傷害16.5%<br>效果二：魔法爆擊傷害16.5%<br>特殊效果：<font color=red>**[唯一]**</font> 處於負面效果[黑暗]時物理/魔法攻擊+500|飢餓主人的宴會廳
-|<font color=red>**完美**</font>{% inlineImg https://i.imgur.com/DV3SFn3.png 48px %}|圓盤|0|效果一：物理爆擊傷害120%<br>效果二：魔法爆擊傷害120%|貧窮舞者的庇護所<br>墮落妃子的安息處
-|<font color=red>**完美**</font>{% inlineImg https://i.imgur.com/xU9hWTj.png 48px %}|模組、接收器、護盾|0|效果一：物理爆擊傷害21%<br>效果二：魔法爆擊傷害21%<br>特殊效果：<font color=red>**[唯一]**</font> 處於負面效果[黑暗]時物理/魔法攻擊+500|飢餓主人的宴會廳<br>飢餓君王的宴會廳
+|{% inlineImg https://i.imgur.com/DV3SFn3.png 48px %}|圓盤|0|效果一：物理爆擊傷害100%<br>效果二：魔法爆擊傷害100%|可憐舞姬的棲身處<br>墮落王妃的棲身處
+|{% inlineImg https://i.imgur.com/xU9hWTj.png 48px %}|模組、接收器、護盾|15<br>(以15等為例)|效果一：物理爆擊傷害16.5%<br>效果二：魔法爆擊傷害16.5%<br>特殊效果：<font color=red>**[固有]**</font> 處於負面效果[黑暗]時物理/魔法攻擊+500|飢餓主人的宴會廳<br>飢餓君王的宴會廳
+|<font color=red>**完美**</font>{% inlineImg https://i.imgur.com/DV3SFn3.png 48px %}|圓盤|0|效果一：物理爆擊傷害120%<br>效果二：魔法爆擊傷害120%|墮落王妃的棲身處
+|<font color=red>**完美**</font>{% inlineImg https://i.imgur.com/xU9hWTj.png 48px %}|模組、接收器、護盾|0|效果一：物理爆擊傷害21%<br>效果二：魔法爆擊傷害21%<br>特殊效果：<font color=red>**[固有]**</font> 處於負面效果[黑暗]時物理/魔法攻擊+500|飢餓君王的宴會廳
 
 
 ## PNA
 
 |PNA|能力
 |:-:|:-:|
-|**巴力的隱藏視網膜**<br>{% inlineImg https://i.imgur.com/yzNHhDx.png 48px %}|獲得負面效果 **[黑暗]** ，終結技結束後對大範圍目標造成 **11(<font color=red>20</font>)** 億的等比例基礎值傷害。<br>註：非真實傷害，且受 **增傷/減傷/暴擊(含暴擊傷害抵抗)/條件** 影響。 **[黑暗]：受到傷害增加 20%（不疊加）**。 |
-|**貝爾基斯舞者的祝福**<br>{% inlineImg https://i.imgur.com/BPhisnT.png 48px %}|攻擊目標時，獲得 **[舞者的祝福]** (最多60層)，累積最大層數時，物理/魔法攻擊力增加 **500(<font color=red>5000</font>)** ，持續15秒<br>累計 **兩次** 最大層數時，物理/魔法攻擊力額外增加 **2%(<font color=red>20%</font>)** ，持續30秒|
+|**巴力被遮蔽的網膜**<br>{% inlineImg https://i.imgur.com/yzNHhDx.png 48px %}|獲得負面效果 **[黑暗]** ，終結技結束後對大範圍目標造成 **11(<font color=red>20</font>)** 億的等比例基礎值傷害。<br>註：非真實傷害，且受 **增傷/減傷/暴擊(含暴擊傷害抵抗)/條件** 影響。 **[黑暗]：受到傷害增加 20%（不疊加）**。 |
+|**貝爾姬絲舞姬的庇護**<br>{% inlineImg https://i.imgur.com/BPhisnT.png 48px %}|攻擊目標時，獲得 **[舞者的祝福]** (最多60層)，累積最大層數時，物理/魔法攻擊力增加 **500(<font color=red>5000</font>)** ，持續15秒<br>累計 **兩次** 最大層數時，物理/魔法攻擊力額外增加 **2%(<font color=red>20%</font>)** ，持續30秒|
 
 ## 稱號
 
 |稱號|能力
 |:-:|:-:|
-|第一個獲得失明史詩的人<br>{% inlineImg https://i.imgur.com/t2eIi5H.png 48px %}|-
+|首次獲得盲目的史詩之人<br>{% inlineImg https://i.imgur.com/t2eIi5H.png 48px %}|-
 ---
 # 立繪展示
 
