@@ -24,6 +24,8 @@ tags:
     - 愛里
     - 露西
     - 伊莉雅
+    - 特莉絲
+    - 摩亞
 category: [時裝, 有立繪, 全角色]
 cover: https://imgur.com/JtshD6O.jpg
 description: ""
@@ -113,7 +115,14 @@ description: ""
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/ps4dyDrh.png)](https://i.imgur.com/ps4dyDr.png)
 <!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/Oty0C0i.png)](https://i.imgur.com/Oty0C0i.png)
+<!-- endtab -->
+<!-- tab 摩亞(Mois)-->
+[![](https://i.imgur.com/WZKuyUU.jpeg)](https://i.imgur.com/WZKuyUU.jpeg)
+<!-- endtab -->
 {% endtabs %}
+
 <!-- endtab -->
 
 <!-- tab 特殊角色立繪-->
@@ -180,6 +189,12 @@ description: ""
 <!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/EEd8E4zh.png)](https://i.imgur.com/EEd8E4z.png)
+<!-- endtab -->
+<!-- tab 特莉絲(Triss)-->
+[![](https://i.imgur.com/hIsqKtV.jpeg)](https://i.imgur.com/hIsqKtV.jpeg)
+<!-- endtab -->
+<!-- tab 摩亞(Mois)-->
+[![](https://i.imgur.com/olbF7KP.jpeg)](https://i.imgur.com/olbF7KP.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
