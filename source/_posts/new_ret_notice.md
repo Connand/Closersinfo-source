@@ -74,10 +74,12 @@ sticky: 2
 <div class="gear-layout">
 <p align="right">
 <a href="https://closersinfo.xyz/datasets/IncheonPort_Chromite/" target="_blank">{% inlineImg /img/gear/chromite/HQ_AREA_15_MODULE_EP_BOOSTER.PNG 50px %}</a>
-<a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg https://i.imgur.com/dSggZGR.png 50px %}</a>
-<a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg https://i.imgur.com/hwaFcnP.png 50px %}</a>
-<a href="https://closersinfo.xyz/datasets/count_d_trials/" target="_blank">{% inlineImg /img/gear/count_D/HQ_OPERA_LEGEND_MODULE_BOOSTER_1.PNG 50px %}</a>
 <a href="https://closersinfo.xyz/datasets/count_d_trials/" target="_blank">{% inlineImg /img/gear/count_D/HQ_OPERA_EPIC_MODULE_BOOSTER_1.PNG 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg https://i.imgur.com/dSggZGR.png 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg https://i.imgur.com/lhfc8o7.png 50px %}</a>   
+<a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg https://i.imgur.com/hwaFcnP.png 50px %}</a>   
+<a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg https://i.imgur.com/86tdNWv.png 50px %}
+</a>  
 </P>
 </div>
 
@@ -85,13 +87,15 @@ sticky: 2
 
 <p align="left">
 <a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg https://i.imgur.com/9AclTaA.png 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg https://i.imgur.com/1aoBSOW.png 50px %}</a>
+<a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg  https://i.imgur.com/7o01uD5.png 50px %}</a>
 <a href="https://closersinfo.xyz/datasets/Balt_Assault/" target="_blank">{% inlineImg https://i.imgur.com/IvJWrCk.png 50px %}</a>
-<a href="https://closersinfo.xyz/datasets/count_d_trials/" target="_blank">{% inlineImg /img/gear/count_D/HQ_OPERA_LEGEND_CORE_CLAW.PNG 50px %}</a>
-<a href="https://closersinfo.xyz/datasets/hecatoncheires/" target="_blank">{% inlineImg https://i.imgur.com/DGcv4qu.png 50px %}</a>
 {% inlineImg https://i.imgur.com/TVWDI9B.png 350px %}
 <a href="https://closersinfo.xyz/datasets/hecatoncheires/" target="_blank">{% inlineImg https://i.imgur.com/hQMxgzF.png 50px %}</a>
 <a href="https://closersinfo.xyz/datasets/gewurahV2/" target="_blank">{% inlineImg /img/gear/paradise2/HQ_HOD_RECEIVER_AIRAMP.PNG 50px %}</a>
 <a href="https://closersinfo.xyz/datasets/gewurahV2/" target="_blank">{% inlineImg /img/gear/paradise2/HQ_HOD_EP_RECEIVER_AIRAMP.PNG 50px %}</a>
+
+
 </p>
 
 **<p align="center"><font color=red>護盾</font></P>**
