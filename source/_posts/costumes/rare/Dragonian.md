@@ -54,83 +54,83 @@ description: "第四套高階時裝"
 {% tabs 一般角色立繪 %}
 <!-- tab 李世河(Seha)-->
 [![](https://i.imgur.com/7GGfYIFh.jpg)](https://i.imgur.com/7GGfYIF.jpg)
-{%youtube rYaOKoRAbTk %}
+
 <!-- endtab -->
 <!-- tab 李雪菲(Seulbi)-->
 [![](https://i.imgur.com/n016QSFh.jpg)](https://i.imgur.com/n016QSF.jpg)
-{%youtube 72IWI_bFmAI %}
+
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
 [![](https://i.imgur.com/PxWeYumh.jpg)](https://i.imgur.com/PxWeYum.jpg)
-{%youtube -TlUtSJS2dI %}
+
 <!-- endtab -->
 <!-- tab J-->
 [![](https://i.imgur.com/CbmYmmDh.jpg)](https://i.imgur.com/CbmYmmD.jpg)
-{%youtube D5noq5wQF9A %}
+
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
 [![](https://i.imgur.com/It2Jwkoh.jpg)](https://i.imgur.com/It2Jwko.jpg)
-{%youtube tLQJUcd-NAg %}
+
 <!-- endtab -->
 <!-- tab 納塔(Nata)-->
 [![](https://i.imgur.com/doGG3oth.jpg)](https://i.imgur.com/doGG3ot.jpg)
-{%youtube S7jpULeAEwU %}
+
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
 [![](https://i.imgur.com/dNPoBuoh.jpg)](https://i.imgur.com/dNPoBuo.jpg)
-{%youtube 0nA_dc-AyHk %}
+
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
 [![](https://i.imgur.com/gzaRBqqh.jpg)](https://i.imgur.com/gzaRBqq.jpg)
-{%youtube vqBVMX3-mx4 %}
+
 <!-- endtab -->
 <!-- tab 緹娜(Tina)-->
 [![](https://i.imgur.com/5GEZIKDh.jpg)](https://i.imgur.com/5GEZIKD.jpg)
-{%youtube bWwY2jWbIRo %}
+
 <!-- endtab -->
 <!-- tab 薇歐莉特(Violet)-->
 [![](https://i.imgur.com/sbNEOsFh.jpg)](https://i.imgur.com/sbNEOsF.jpg)
-{%youtube c7dqWoKbj98 %}
+
 <!-- endtab -->
 <!-- tab 沃爾夫姜(Wolfgang)-->
 [![](https://i.imgur.com/MbaW7cth.jpg)](https://i.imgur.com/MbaW7ct.jpg)
-{%youtube DRrwMMMkW00 %}
+
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
 [![](https://i.imgur.com/liMkzEWh.jpg)](https://i.imgur.com/liMkzEW.jpg)
-{%youtube zIttE0XT1a0 %}
+
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
 [![](https://i.imgur.com/mKX6e5Hh.jpg)](https://i.imgur.com/mKX6e5H.jpg)
-{%youtube qlr2ljNIrg0 %}
+
 <!-- endtab -->
 <!-- tab 白(Bai)-->
 [![](https://i.imgur.com/efwaS2Gh.jpg)](https://i.imgur.com/efwaS2G.jpg)
-{%youtube N92543iwktg %}
+
 <!-- endtab -->
 <!-- tab 賽特(Seth)-->
 [![](https://i.imgur.com/s6UdIU0h.jpg)](https://i.imgur.com/s6UdIU0.jpg)
-{%youtube bZz43RsJZQg %}
+
 <!-- endtab -->
 <!-- tab 未來(Mirae)-->
 [![](https://i.imgur.com/vrjuMJ5h.jpg)](https://i.imgur.com/vrjuMJ5.jpg)
-{%youtube tURsHJvPoSk %}
+
 <!-- endtab -->
 <!-- tab 徹斯(Chulsoo)-->
 [![](https://i.imgur.com/SvVnu6rh.jpg)](https://i.imgur.com/SvVnu6r.jpg)
-{%youtube 8CyOuUyC_Pc %}
+
 <!-- endtab -->
 <!-- tab 銀河(Eunha)-->
 [![](https://imgur.com/ieuHA0Bh.jpg)](https://imgur.com/ieuHA0B.jpg)
-{%youtube bxk1-idZ_OI %}
+
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
 [![](https://imgur.com/kElvKfTh.jpg)](https://imgur.com/kElvKfT.jpg)
-{%youtube 03jDP6xPquw %}
+
 <!-- endtab -->
 <!-- tab 愛里(Aeri)-->
 [![](https://imgur.com/HHkQcPqh.jpg)](https://imgur.com/HHkQcPq.jpg)
-{%youtube ftmjH2oN8lU %}
+
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

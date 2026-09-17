@@ -75,9 +75,8 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- tab 伊莉雅(Ria)-->
 [![](https://imgur.com/XEqnOIah.png)](https://imgur.com/XEqnOIa.png)
 <!-- endtab -->
-<!-- tab 動作(李世河~米斯特汀)-->
-{%youtube 7Sha1S2xXMM %}
-{%youtube 8ba6JO-VHCg %}
+<!-- tab 宣傳影片-->
+{%youtube nyMW9j6KqR4?si=RMNx8oD8oOwBjiqU %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -105,9 +104,8 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- tab 特莉絲(Triss)-->
 [![](https://i.imgur.com/CaC8lpnh.jpg)](https://i.imgur.com/CaC8lpn.jpg)
 <!-- endtab -->
-<!-- tab 動作(納塔~薇歐莉特)-->
-{%youtube r5xZP1OonsM %}
-{%youtube cRYOqxCrT2Y %}
+<!-- tab 宣傳影片-->
+{%youtube ZRo-r45XmYc?si=pH0xNgKoBgF2t-b- %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -132,9 +130,8 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- tab 摩亞(Mois)-->
 [![](https://i.imgur.com/EceaXH2.jpeg)](https://i.imgur.com/EceaXH2.jpeg)
 <!-- endtab -->
-<!-- tab 動作(沃爾夫姜~賽特)-->
-{%youtube xzB0tWqwvAI %}
-{%youtube T4ivtlTVwwM %}
+<!-- tab 宣傳影片-->
+{%youtube hiu4uDA6qLk?si=PbqYmVpcNL2vOJ9M %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -156,9 +153,8 @@ description: "第二套輝煌時裝(Unique costume)"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/ZguYoneh.png)](https://i.imgur.com/ZguYone.png)
 <!-- endtab -->		
-<!-- tab 動作(未來~露西)-->
-{%youtube Je61jNZS49s %}
-{%youtube U4y7lDZINl8 %}
+<!-- tab 宣傳影片-->
+{%youtube vf2duVRrUio?si=t6ciNW7o7Sb_nglv %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

@@ -82,21 +82,10 @@ description: "第三套輝煌時裝(Unique costume)"
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/rDf6spdh.png)](https://i.imgur.com/rDf6spd.png)
 <!-- endtab -->
-<!-- tab 表情動作-->
-{%youtube 3XZk51eRzhs %}
+<!-- tab 宣傳影片-->
+{%youtube 14cXc9gYtj8?si=sHHwOVcZ7uYZI-L2 %}
 <!-- endtab -->
-<!-- tab 城鎮動作-->
-{%youtube 6oLxn1asc-I %}
-<!-- endtab -->
-<!-- tab 立繪效果-->
-{%youtube XpK0bOXqYSs %}
-<!-- endtab -->
-<!-- tab 結算動作-->
-{%youtube kp7zV__70YY %}
-<!-- endtab -->
-<!-- tab 過場動作-->
-{%youtube eKRWWIpRIbE %}
-<!-- endtab -->
+
 {% endtabs %}
 <!-- endtab -->
 
@@ -117,20 +106,8 @@ description: "第三套輝煌時裝(Unique costume)"
 <!-- tab 薇歐莉特(Violet)-->
 [![](https://i.imgur.com/2yy8b4qh.png)](https://i.imgur.com/2yy8b4q.png)
 <!-- endtab -->
-<!-- tab 表情動作-->
-{%youtube buJihznBsY8 %}
-<!-- endtab -->
-<!-- tab 城鎮動作-->
-{%youtube jecyfM156ss %}
-<!-- endtab -->
-<!-- tab 立繪效果-->
-{%youtube SeHpWVshOPg %}
-<!-- endtab -->
-<!-- tab 結算動作-->
-{%youtube P3bitlFkDjw %}
-<!-- endtab -->
-<!-- tab 過場動作-->
-{%youtube TzHAgjvF7T8 %}
+<!-- tab 宣傳影片-->
+{%youtube 7Pksbt31NcQ?si=b_8JZHjESaqnvte3 %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -152,20 +129,8 @@ description: "第三套輝煌時裝(Unique costume)"
 <!-- tab 賽特(Seth)-->
 [![](https://i.imgur.com/UONcqvPh.jpg)](https://i.imgur.com/UONcqvP.jpg)
 <!-- endtab -->
-<!-- tab 表情動作-->
-{%youtube qbR_XITcJL0 %}
-<!-- endtab -->
-<!-- tab 城鎮動作-->
-{%youtube 55fBqVFs8Ok %}
-<!-- endtab -->
-<!-- tab 立繪效果-->
-{%youtube WPNQJVqoFAo %}
-<!-- endtab -->
-<!-- tab 結算動作-->
-{%youtube r875mtyjxDU %}
-<!-- endtab -->
-<!-- tab 過場動作-->
-{%youtube xM3HoD28asM %}
+<!-- tab 宣傳影片-->
+{%youtube Op0cBzWhiLo?si=kWH4M-Halg_Oy5mG %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -187,20 +152,8 @@ description: "第三套輝煌時裝(Unique costume)"
 <!-- tab 愛里(Aeri)-->
 [![](https://i.imgur.com/HqGkacoh.png)](https://i.imgur.com/HqGkaco.png)
 <!-- endtab -->
-<!-- tab 表情動作-->
-{%youtube eZtAHXPBT4w %}
-<!-- endtab -->
-<!-- tab 城鎮動作-->
-{%youtube ZOujbFHdEZM %}
-<!-- endtab -->
-<!-- tab 立繪效果-->
-{%youtube adMXlQ6jUW4 %}
-<!-- endtab -->
-<!-- tab 結算動作-->
-{%youtube xT7GGRO35vs %}
-<!-- endtab -->
-<!-- tab 過場動作-->
-{%youtube 3f8icXFIyms %}
+<!-- tab 宣傳影片-->
+{%youtube ZU7nshM8Itg?si=S3iu73h79Pz4mziZ %}
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->

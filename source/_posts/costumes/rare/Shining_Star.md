@@ -85,19 +85,19 @@ description: "閃耀之星(Shining Star)"
 各小隊有各自的主題和主唱，但歌曲為Closers動畫的OP和ED的改編：
 黑羊小隊：「學校樂團」，主唱李世河 
 
-{%youtube jHaLPteGaaM %}
+{%youtube ALCo7-v8EvU?si=HjHkl99HtjUeA-SD %}
 
 紅狼小隊：「爵士樂團」，主唱蕾比雅 
 
-{%youtube 4Inv77el7p8 %}
+{%youtube XAIJkzXbgwY?si=CNu1j9StjnGpmLyz %}
 
 夜梟小隊：「貨車樂團」，主唱露娜 
 
-{%youtube CSIvgDYr13E %}
+{%youtube 1ZEwsMV_UCw?si=tOa_QnMJOhMKq7F7 %}
 
 嚙鼠小隊(Rattus)：「地下樂團」，女主唱未來(Mirae) 男主唱徹斯(Chulsoo)
 
-{%youtube oG3g9BS_yYE %}
+{%youtube YyN7ypphDf8?si=_0yStN5yZTsyJW6P %}
 
 
 ---
@@ -134,19 +134,19 @@ description: "閃耀之星(Shining Star)"
 	爵士就是自由，為了成為自由的聲音而創造的。
 [![](https://imgur.com/JVj8HT1h.jpg)](https://imgur.com/JVj8HT1.jpg)
 <!-- endtab -->
-<!-- tab 蕾比雅(Levia)-->
+<!-- tab 主唱:蕾比雅(Levia)-->
 	竟然能在人們面前唱歌…這該不會，是夢吧？
 [![](https://imgur.com/F1OLnZ3h.jpg)](https://imgur.com/F1OLnZ3.jpg)
 <!-- endtab -->
-<!-- tab 哈比(Harpy)-->
+<!-- tab 薩克斯風:哈比(Harpy)-->
 	接下來…可以為你演奏嗎？
 [![](https://imgur.com/uHFvjbuh.jpg)](https://imgur.com/uHFvjbu.jpg)
 <!-- endtab -->
-<!-- tab 緹娜(Tina)-->
+<!-- tab 鼓手:緹娜(Tina)-->
 	差不多就好，為甚麼是不好的話？
 [![](https://imgur.com/uadHAzRh.jpg)](https://imgur.com/uadHAzR.jpg)
 <!-- endtab -->
-<!-- tab 薇歐莉特(Violet)-->
+<!-- tab 吉他:薇歐莉特(Violet)-->
 	無論是作為演奏者，還是製作人都很完美。
 [![](https://imgur.com/eH9XnM2h.jpg)](https://imgur.com/eH9XnM2.jpg)
 <!-- endtab -->
@@ -155,7 +155,7 @@ description: "閃耀之星(Shining Star)"
 
 <!-- tab 夜梟小隊 - 貨車樂團-->
 {% tabs 夜梟小隊 - 貨車樂團 %}
-<!-- tab 沃爾夫姜(Wolfgang)-->
+<!-- tab 貝斯手:沃爾夫姜(Wolfgang)-->
 	要最不起眼的樂器，結果給了我這個。
 [![](https://imgur.com/FsDAGM0h.jpg)](https://imgur.com/FsDAGM0.jpg)
 <!-- endtab -->
@@ -180,16 +180,16 @@ description: "閃耀之星(Shining Star)"
 
 <!-- tab 嚙鼠小隊 - 地下樂團-->
 {% tabs 嚙鼠小隊 - 地下樂團 %}
-<!-- tab 男主唱：徹斯(Chulsoo)-->
+<!-- tab 男主唱、吉他：徹斯(Chulsoo)-->
 
 [![](https://imgur.com/a6ZnzE8h.jpg)](https://imgur.com/a6ZnzE8.jpg)
 作者偷偷OS:有...有項圈......
 <!-- endtab -->
-<!-- tab 女主唱：未來(Mirae)-->
+<!-- tab 女主唱、吉他：未來(Mirae)-->
 	唱歌…那孩子也曾喜歡過吧
 [![](https://imgur.com/tz9P3fMh.jpg)](https://imgur.com/tz9P3fM.jpg)
 <!-- endtab -->
-<!-- tab 大提琴：銀河(Eunha)-->
+<!-- tab 低音大提琴：銀河(Eunha)-->
 [![](https://imgur.com/EZM777jh.jpg)](https://imgur.com/EZM777j.jpg)
 <!-- endtab -->
 <!-- tab 鍵盤手：露西(Lucy)-->
