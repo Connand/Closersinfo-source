@@ -12,11 +12,11 @@ tags:
     - 露西
     - 摩亞
 category: [時裝, 有立繪, 限定角色]
-cover: https://i.imgur.com/PPZJwJD.jpeg
+cover: https://i.imgur.com/ZptFpkq.jpeg
 description: "Rolling Puppy Diner"
 ---
 
-[]()
+![(https://i.imgur.com/ZptFpkq.jpeg)](https://i.imgur.com/ZptFpkq.jpeg)
 
 ---
 ## Rolling Puppy Diner
