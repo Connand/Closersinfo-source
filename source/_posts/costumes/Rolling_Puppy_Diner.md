@@ -1,6 +1,6 @@
 ---
 title: 滑輪小狗餐廳(暫譯)
-date: 2026-08-27 12:09:15
+date: 2026-09-22 12:09:15
 tags:
     - 立繪時裝
     - 李雪菲
@@ -32,8 +32,13 @@ description: "Rolling Puppy Diner"
 {% hideToggle 部分模組展示 %}
 {% tabs 普通立繪 %}
 <!-- tab A型-->
-[]()
-[]()
+[![](https://i.imgur.com/O0wEx5Y.png)](https://i.imgur.com/O0wEx5Y.png)
+<!-- endtab -->
+<!-- tab B型-->
+[![](https://i.imgur.com/t3XuhOl.png)](https://i.imgur.com/t3XuhOl.png)
+<!-- endtab -->
+<!-- tab C型-->
+[![](https://i.imgur.com/ZTGo1jg.png)](https://i.imgur.com/ZTGo1jg.png)
 <!-- endtab -->
 {% endtabs %}
 {% endhideToggle %}
