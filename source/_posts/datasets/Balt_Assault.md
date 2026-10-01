@@ -199,8 +199,8 @@ PLV: 270(傳說) / 285(史詩)
 
 |詞條|傳說|<font color=red>史詩</font>
 |:-|:-:|:-:
-|**基礎攻擊力(基礎數值)**<br>藏書<br>鐮刀<br>尖牙|<br>7750<font color=red>平衡後</font>9500<br>5750<font color=red>平衡後</font>7500<br>6750<font color=red>平衡後</font>8500|<br>8500<font color=red>平衡後</font>10250<br>6500<font color=red>平衡後</font>8250<br>7500<font color=red>平衡後</font>9250
-|**<font color=red>基礎攻擊力(100%)</font><br>藏書<br>鐮刀<br>尖牙**|<br>11250<font color=red>平衡後</font>13789<br>8346<font color=red>平衡後</font>10886<br>9800<font color=red>平衡後</font>12338|<br>12338<font color=red>平衡後</font>14878<br>9435<font color=red>平衡後</font>11975<br>10886<font color=red>平衡後</font>13426
+|**基礎攻擊力(基礎數值)**<br>藏書<br>鐮刀<br>尖牙|<br>9500<br>7500<br>8500|<br>10250<br>8250<br>9250
+|**<font color=red>基礎攻擊力(100%)</font><br>藏書<br>鐮刀<br>尖牙**|<br>13789<br>10886<br>12338|<br>14878<br>11975<br>13426
 |**攻擊速度**<br>藏書<br>鐮刀<br>尖牙|<br>0.80<br>1.2<br>1.0|<br>0.80<br>1.2<br>1.0
 |**物理/魔法爆擊傷害**<br>藏書<br>鐮刀<br>尖牙|<br>280%<br>260%<br>270%|<br>310%<br>290%<br>300%
 |**空中/背擊/浮空暴擊傷害**<br>藏書<br>鐮刀<br>尖牙|<br>140%<br>130%<br>135%|<br>155%<br>145%<br>150%
@@ -221,7 +221,7 @@ PLV: 240(傳說)/285(史詩)
 |:-|:-:|:-:
 |基礎攻擊力(基礎數值)|2800|3100
 |**<font color=red>基礎攻擊力(100%)</font>**|4064|4500
-|**物理/魔法爆擊傷害**|420%<font color=red>平衡後</font>448%|465%<font color=red>平衡後</font>496%
+|**物理/魔法爆擊傷害**|448%|496%
 |--- <font color=red>以下兩件套裝效果</font>|---|---
 |攻擊力|4200|4650
 |暴擊率|50%|50%
@@ -276,7 +276,7 @@ PLV: 240(傳說)/285(史詩)
 <tr>
     <td rowspan = "2" align="center"><strong>尖牙</strong><br></td>
     <td align="left">{% inlineImg https://i.imgur.com/9AclTaA.png 40px %}<strong>君主的捕食</strong></td>
-    <td align="left">每 10 秒物理/魔法攻擊力增加 300、暴擊傷害增加 30%。（最多可疊加 8 層）<br> <font color=red>平衡後</font>每 7 秒物理/魔法攻擊力增加 300、暴擊傷害增加 30%。(最多可疊加 8 層) </td>
+    <td align="left">每 7 秒物理/魔法攻擊力增加 300、暴擊傷害增加 30%。(最多可疊加 8 層) </td>
 </tr>
 <tr>
     <td align="left">{% inlineImg https://i.imgur.com/IvJWrCk.png 40px %}<strong><font color=red>巴力的餐桌</font></strong></td>
