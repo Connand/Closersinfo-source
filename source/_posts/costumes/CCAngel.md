@@ -4,12 +4,14 @@ date: 2023-02-22 12:09:15
 tags:
     - 立繪時裝
     - 李雪菲
+    - 緹娜
     - 白
     - 賽特
     - 未來
     - 露西
     - 愛里
     - 伊莉雅
+    - 摩亞
 category: [時裝, 有立繪, 限定角色]
 cover: https://i.imgur.com/Qr3HzV3h.jpg
 description: "Cotton Candy Angel"
@@ -35,6 +37,9 @@ description: "Cotton Candy Angel"
 <!-- tab 李雪菲(Seulbi)-->
 [![](https://i.imgur.com/OW8Ss0oh.png)](https://i.imgur.com/OW8Ss0o.png)
 <!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+[![](https://i.imgur.com/SX9VtLU.jpeg)](https://i.imgur.com/SX9VtLU.jpeg)
+<!-- endtab -->
 <!-- tab 白(Bai)-->
 [![](https://i.imgur.com/HpWlsCKh.png)](https://i.imgur.com/HpWlsCK.png)
 <!-- endtab -->
@@ -53,6 +58,9 @@ description: "Cotton Candy Angel"
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/mfUs773h.jpg)](https://i.imgur.com/mfUs773.jpg)
 <!-- endtab -->
+<!-- tab 摩亞(Mois)-->
+[![](https://i.imgur.com/HaxhRfv.jpeg)](https://i.imgur.com/HaxhRfv.jpeg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -60,6 +68,9 @@ description: "Cotton Candy Angel"
 {% tabs 特殊立繪 %}
 <!-- tab 李雪菲(Seulbi)-->
 [![](https://i.imgur.com/LjRPCqwh.png)](https://i.imgur.com/LjRPCqw.png)
+<!-- endtab -->
+<!-- tab 緹娜(Tina)-->
+[![](https://i.imgur.com/z8lFNk7.jpeg)](https://i.imgur.com/z8lFNk7.jpeg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
 [![](https://i.imgur.com/Jjy8QOlh.png)](https://i.imgur.com/Jjy8QOl.png)
@@ -78,6 +89,9 @@ description: "Cotton Candy Angel"
 <!-- endtab -->
 <!-- tab 伊莉雅(Ria)-->
 [![](https://i.imgur.com/2ysiG8jh.jpg)](https://i.imgur.com/2ysiG8j.jpg)
+<!-- endtab -->
+<!-- tab 摩亞(Mois)-->
+[![](https://i.imgur.com/9H9sdLf.jpeg)](https://i.imgur.com/9H9sdLf.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
