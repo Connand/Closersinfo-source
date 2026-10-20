@@ -1,5 +1,5 @@
 ---
-title: 惡魔的肖像
+title: 惡魔的肖像(暫譯)
 date: 2026-10-22 12:09:15
 tags:
     - 立繪時裝
@@ -23,7 +23,7 @@ description: "Portrait _of _Monga"
 
 **注意**：立繪僅分一般和特殊，模組分ABC型
 
-部位：髮型、上衣、下衣、手套、鞋子、{% label 背部(書包)(普通立繪) green %}、{% label 特效(特殊立繪) green %}
+部位：髮型、上衣、下衣、手套、鞋子、{% label 腰部(尾巴)(普通立繪) green %}、{% label 特效(特殊立繪) green %}
 
 [官方立繪庫](https://www.naddic.co.kr/ko/game/cls/fansitekit)
 [立繪下載](https://landing.naddic.co.kr/Images/cms/happycode/20261020/1792481462239.zip)
