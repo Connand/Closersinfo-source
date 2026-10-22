@@ -32,8 +32,13 @@ description: "Portrait _of _Monga"
 {% hideToggle 部分模組展示 %}
 {% tabs 普通立繪 %}
 <!-- tab A型-->
-[]()
-[]()
+![https://i.imgur.com/UdFMsAo.png](https://i.imgur.com/UdFMsAo.png)
+<!-- endtab -->
+<!-- tab B型-->
+![https://i.imgur.com/GK3gtu6.png](https://i.imgur.com/GK3gtu6.png)
+<!-- endtab -->
+<!-- tab C型-->
+![https://i.imgur.com/TNUJA9e.png](https://i.imgur.com/TNUJA9e.png)
 <!-- endtab -->
 {% endtabs %}
 {% endhideToggle %}
