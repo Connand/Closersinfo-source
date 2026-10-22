@@ -12,11 +12,11 @@ tags:
     - 特莉絲
     - 摩亞
 category: [時裝, 有立繪, 限定角色]
-cover: https://i.imgur.com/mpnqrjb.jpeg
+cover: https://i.imgur.com/xz9gXkU.jpeg
 description: "Portrait _of _Monga"
 ---
 
-[]()
+![https://i.imgur.com/xz9gXkU.jpeg](https://i.imgur.com/xz9gXkU.jpeg)
 
 ---
 ## Portrait _of _Monga
