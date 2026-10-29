@@ -19,6 +19,8 @@ tags:
     - 索瑪
     - 白
     - 賽特
+    - 愛里
+    - 伊莉雅
     - 特莉絲
     - 泳裝
 category: [時裝, 有立繪, 全角色]
@@ -97,8 +99,14 @@ description: "2019泳裝系列"
 <!-- tab 賽特(Seth)-->
 [![](https://i.imgur.com/YjJeGHxh.jpg)](https://i.imgur.com/YjJeGHx.jpg)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/N2ZznIq.png)](https://i.imgur.com/N2ZznIq.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/ekkYbKj.png)](https://i.imgur.com/ekkYbKj.png)
+<!-- endtab -->
 <!-- tab 特莉絲(Triss)-->
-[![](https://i.imgur.com/7NO7XUU.jpeg)](https://i.imgur.com/7NO7XUU.jpeg)
+[![](https://i.imgur.com/yYANZAq.jpeg)](https://i.imgur.com/yYANZAq.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
@@ -165,8 +173,14 @@ description: "2019泳裝系列"
 [![](https://i.imgur.com/AidybLyh.jpg)](https://i.imgur.com/AidybLy.jpg)
 [![](https://i.imgur.com/a3DU2thh.png)](https://i.imgur.com/a3DU2th.png)
 <!-- endtab -->
+<!-- tab 愛里(Aeri)-->
+[![](https://i.imgur.com/2l8hP74.png)](https://i.imgur.com/2l8hP74.png)
+<!-- endtab -->
+<!-- tab 伊莉雅(Ria)-->
+[![](https://i.imgur.com/6RRGDht.png)](https://i.imgur.com/6RRGDht.png)
+<!-- endtab -->
 <!-- tab 特莉絲(Triss)-->
-[![](https://i.imgur.com/yYANZAq.jpeg)](https://i.imgur.com/yYANZAq.jpeg)
+[![](https://i.imgur.com/7NO7XUU.jpeg)](https://i.imgur.com/7NO7XUU.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
