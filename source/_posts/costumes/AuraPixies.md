@@ -25,6 +25,7 @@ tags:
     - 露西
     - 伊莉雅
     - 特莉絲
+    - 摩亞
 category: [時裝, 有立繪, 全角色]
 cover: /img/costume_banners/AuraPixies.png
 description: "Aura Pixies"
@@ -135,6 +136,9 @@ description: "Aura Pixies"
 <!-- tab 特莉絲(Triss)-->
 [![](https://i.imgur.com/zwSBqJ8h.jpg)](https://i.imgur.com/zwSBqJ8.jpg)
 <!-- endtab -->
+<!-- tab 摩亞(Mois)-->
+[![](https://i.imgur.com/uFUfga1.jpeg)](https://i.imgur.com/uFUfga1.jpeg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -205,6 +209,9 @@ description: "Aura Pixies"
 <!-- endtab -->
 <!-- tab 特莉絲(Triss)-->
 [![](https://i.imgur.com/8Xt0aOYh.jpg)](https://i.imgur.com/8Xt0aOY.jpg)
+<!-- endtab -->
+<!-- tab 摩亞(Mois)-->
+[![](https://i.imgur.com/0gbRvWx.jpeg)](https://i.imgur.com/0gbRvWx.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
