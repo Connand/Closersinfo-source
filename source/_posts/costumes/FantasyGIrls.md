@@ -4,6 +4,7 @@ date: 2025-10-23 14:09:15
 tags:
     - 立繪時裝
     - 李雪菲
+    - 蕾比雅
     - 白
     - 賽特
     - 未來
@@ -11,6 +12,7 @@ tags:
     - 露西
     - 伊莉雅
     - 特莉絲
+    - 摩亞
 category: [時裝, 有立繪, 限定角色]
 cover: /img/FantasyGirl.png
 description: "Fantasy Girls Library"
@@ -42,6 +44,9 @@ description: "Fantasy Girls Library"
 <!-- tab 李雪菲(Seulbi)-->
 [![](https://i.imgur.com/0Pr0AbGh.jpg)](https://i.imgur.com/0Pr0AbG.jpg)
 <!-- endtab -->
+<!-- tab 蕾比雅(Levia)-->
+[![](https://i.imgur.com/Z7rBuiZ.jpeg)](https://i.imgur.com/Z7rBuiZ.jpeg)
+<!-- endtab -->
 <!-- tab 白(Bai)-->
 [![](https://i.imgur.com/EfqSKmJh.jpg)](https://i.imgur.com/EfqSKmJ.jpg)
 <!-- endtab -->
@@ -63,6 +68,9 @@ description: "Fantasy Girls Library"
 <!-- tab 特莉絲(Triss)-->
 [![](https://i.imgur.com/wUspneOh.jpg)](https://i.imgur.com/wUspneO.jpg)
 <!-- endtab -->
+<!-- tab 摩亞(Mois)-->
+[![](https://i.imgur.com/DunMRwh.jpeg)](https://i.imgur.com/DunMRwh.jpeg)
+<!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
 
@@ -70,6 +78,9 @@ description: "Fantasy Girls Library"
 {% tabs 特殊立繪 %}
 <!-- tab 李雪菲(Seulbi)-->
 [![](https://i.imgur.com/DDEoTZ0h.jpg)](https://i.imgur.com/DDEoTZ0.jpg)
+<!-- endtab -->
+<!-- tab 蕾比雅(Levia)-->
+[![](https://i.imgur.com/NzWxfG8.jpeg)](https://i.imgur.com/NzWxfG8.jpeg)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
 [![](https://i.imgur.com/EZY2bJph.jpg)](https://i.imgur.com/EZY2bJp.jpg)
@@ -91,6 +102,9 @@ description: "Fantasy Girls Library"
 <!-- endtab -->
 <!-- tab 特莉絲(Triss)-->
 [![](https://i.imgur.com/jhnA3EUh.jpg)](https://i.imgur.com/jhnA3EU.jpg)
+<!-- endtab -->
+<!-- tab 摩亞(Mois)-->
+[![](https://i.imgur.com/MPEvGGd.jpeg)](https://i.imgur.com/MPEvGGd.jpeg)
 <!-- endtab -->
 {% endtabs %}
 <!-- endtab -->
