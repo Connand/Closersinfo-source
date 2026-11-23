@@ -46,6 +46,7 @@ description: "第一套超凡時裝(Ethereal Costume)"
 六件套可啟動:城鎮動作、副本動作、一般立繪
 十件套可啟動:特殊立繪(L2D)、語音、技能特效(強制阻斷)
 **特殊立繪(L2D)可套用於左下角人物頭像中、可由設定中做開關**
+![](https://i.imgur.com/gxJLnoT.gif)
 十件套部位：髮型、上衣、下衣、手套、鞋子、{% label 帽子 green %}、{% label 臉中 green %}、{% label 背部 green %}、{% label 瞳孔 green %}
 
 > ## 特殊功能
@@ -71,6 +72,7 @@ description: "第一套超凡時裝(Ethereal Costume)"
 
 ## 獲取方法
 獲取地點由新增的轉換器中取得，價格高於一般轉換器，累計最高數量為400抽
+![](https://i.imgur.com/DXY33m5.png)
 可獲得 **[隊伍零件兌換券]** <font color=red>僅可使用該隊伍的角色</font>
 左六為個別角色單獨使用 **<font color=red>右四為全體角色共用</font>**
 
@@ -85,10 +87,10 @@ description: "第一套超凡時裝(Ethereal Costume)"
 [![]()]()
 <!-- endtab -->
 <!-- tab 徐維莉(Yuri)-->
-[![]()]()
+[![](https://i.imgur.com/b9JjLh7.gif)](https://i.imgur.com/b9JjLh7.gif)
 <!-- endtab -->
 <!-- tab J-->
-[![]()]()
+[![](https://i.imgur.com/3ebxeAF.png)](https://i.imgur.com/3ebxeAF.png)
 <!-- endtab -->
 <!-- tab 米斯特汀(Tein)-->
 [![]()]()
@@ -108,7 +110,7 @@ description: "第一套超凡時裝(Ethereal Costume)"
 [![]()]()
 <!-- endtab -->
 <!-- tab 蕾比雅(Levia)-->
-[![]()]()
+[![](https://i.imgur.com/rDMeiWy.png)](https://i.imgur.com/rDMeiWy.png)
 <!-- endtab -->
 <!-- tab 哈比(Harpy)-->
 [![]()]()
@@ -134,10 +136,10 @@ description: "第一套超凡時裝(Ethereal Costume)"
 [![]()]()
 <!-- endtab -->
 <!-- tab 露娜(Luna)-->
-[![]()]()
+![(https://i.imgur.com/G999YrZ.png)](https://i.imgur.com/G999YrZ.png)
 <!-- endtab -->
 <!-- tab 索瑪(Soma)-->
-[![]()]()
+[![](https://i.imgur.com/6svLMfI.gif)](https://i.imgur.com/6svLMfI.gif)
 <!-- endtab -->
 <!-- tab 白(Bai)-->
 [![]()]()
@@ -166,7 +168,7 @@ description: "第一套超凡時裝(Ethereal Costume)"
 [![]()]()
 <!-- endtab -->
 <!-- tab 露西(Lucy)-->
-[![]()]()
+[![](https://i.imgur.com/cr7BxyV.png)](https://i.imgur.com/cr7BxyV.png)
 <!-- endtab -->	
 <!-- tab 愛里(Aeri)-->
 [![]()]()
