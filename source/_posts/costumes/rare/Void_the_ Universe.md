@@ -3,7 +3,7 @@ title: 虛無宇宙(暫譯)(Void the Universe)
 date: 2026-12-03 15:09:00
 tags: 
     - 立繪時裝
-    - 虛幻時裝
+    - 超凡時裝
     - 李世河
     - 李雪菲
     - 徐維莉
@@ -27,7 +27,7 @@ tags:
     - 伊莉雅
     - 特莉絲
     - 摩亞
-category: [時裝, 超凡時裝]
+category: [時裝,超凡時裝]
 cover: 
 description: "第一套超凡時裝(Ethereal Costume)"
 ---
