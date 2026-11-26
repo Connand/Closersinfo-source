@@ -38,7 +38,7 @@ description: "第一套超凡時裝(Ethereal Costume)"
 ## 虛無宇宙(暫譯)(Void the Universe)
 
 韓文：보이드 더 유니버스
-虛無宇宙(暫譯)(Void the Universe)是基於閃耀之星、所羅門武裝、三位一體之輪、黃泉使者之上的虛幻時裝，其素質及能力等都高於輝煌時裝(Unique costume)，因此賦予新上位名稱超凡時裝(Ethereal Costume)。於[開發者日記中](https://www.naddic.co.kr/ko/game/cls/notice/detail?contentNo=1404)揭露其資訊
+虛無宇宙(暫譯)(Void the Universe)是基於閃耀之星、所羅門武裝、三位一體之輪、黃泉使者之上的能力時裝，其素質及能力等都高於輝煌時裝(Unique costume)，因此賦予新上位名稱超凡時裝(Ethereal Costume)。於[開發者日記中](https://www.naddic.co.kr/ko/game/cls/notice/detail?contentNo=1404)揭露其資訊
 
 [台版介紹網頁]()
 [立繪下載]()
